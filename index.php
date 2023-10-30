@@ -264,7 +264,7 @@ include("conn.php")
                 <div class="col-md-6 d-md-flex align-items-md-stretch">
                   <div class="count-box">
                     <i class="bi bi-clock"></i>
-                    <span data-purecounter-start="0" data-purecounter-end="65" data-purecounter-duration="1" class="purecounter"></span>
+                    <span data-purecounter-start="0" data-purecounter-end="90" data-purecounter-duration="1" class="purecounter"></span>
                     <p><strong>Working Days</strong> Productivity, collaboration, growth - making the most of working days!</p>
                   </div>
                 </div>
