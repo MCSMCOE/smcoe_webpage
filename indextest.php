@@ -300,6 +300,56 @@ if (!$dbcon) {
     </section><!-- End Counts Section -->
     <!-- ======= Latest News & Events Section ======= -->
     
+
+<!-- Latest News & Events Section -->
+<section class="blog" data-scroll-index="4">
+  <div class="container">
+      <!-- header of section -->
+      <div class="section-title" data-aos="fade-up">
+          <h2>Latest News & Updates</h2>
+      </div>
+
+      <!-- Bootstrap Carousel -->
+      <div id="blogCarousel" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+          <div class="carousel-item active">
+                  <div class="row">
+          <?php
+						$qry_category="SELECT we.event_desc e_title,YEAR(we.event_date) YEAR,event_date e_date,event_desc e_desc,we.event_link e_url,'' e_type,MONTH(event_date) mevent_date,DAY(event_date) dayevent_date,MONTHNAME(event_date),SUBSTR(MONTHNAME(event_date),1,3) smonth FROM documentation.website_event we WHERE we.status>0 AND we.`event_type`='Event' AND NOW() BETWEEN we.doa AND we.doe ORDER BY we.order_no";
+						mysqli_set_charset($dbcon,"utf8");
+						$qry_category = mysqli_query($dbcon, $qry_category);					
+						while ($data = mysqli_fetch_assoc($qry_category))
+                        {
+                                                                                                
+                        ?>
+              <div class="carousel-item">
+                  <div class="row">
+                      <div class="col-md-4">
+                          <div class="item">
+                              <div class="img">
+                                  <img src="https://i.ibb.co/YXV3zmh/blog3.jpg" alt="">
+                              </div>
+                              <div class="info">
+                                  <div class="date">
+                                      <span><?php printf("%s", $data["dayevent_date"]);?> <br><?php  printf("%s", $data["smonth"]);?></span>
+                                  </div>
+                                  <a href="#"><h5><?php printf("%s", $data["e_title"]);?></h5></a>
+                                  <p><?php printf("%s", $data["e_title"]);?></p>
+                                  <a href="" class="more"><i class="fas bi-arrow-right"></i></a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+              <?php
+              }
+              ?>
+
+          </div>
+      </div>
+  </div>
+</section>
+
 <!-- Latest News & Events Section -->
 <section class="blog" data-scroll-index="4">
   <div class="container">
@@ -341,149 +391,18 @@ if (!$dbcon) {
                       <?php 
                             }
                             ?>
-                      <!-- Slide 2 -->
-                      
-
+                    </div>
+                <button type="button" class="slick-next pull-right slick-arrow" style="display: block;"><i class="fa fa-long-arrow-right" aria-hidden="true"></i></button></div>
+            </div>
+        </div>
+        <!-- <div class="row theme-bottom">
+            <div class="col-md-8"><p>SIH 2020 Software Grand Finale: 18th & 19th July, 2020</p></div>
+            <div class="col-md-4"><a href="#">Download Process Flow</a></div>
+        </div> -->
+    </div>
                       <!-- Slide 3 -->
-                      <div class="col-md-4">
-                          <div class="item">
-                              <div class="img">
-                                  <img src="https://i.ibb.co/YXV3zmh/blog3.jpg" alt="">
-                              </div>
-                              <div class="info">
-                                  <div class="date">
-                                      <span>30 <br> Dec</span>
-                                  </div>
-                                  <a href="#"><h5>Lorem Ipsum is simply dummy</h5></a>
-                                  <p>Lorem ipsum dolor sit amet conse ctetur, adipi sicing elit. Nisi sapiente hic fugiat delectus dicta delectus dicta.</p>
-                                  <a href="#0" class="more"><i class="fas bi-arrow-right"></i></a>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-              </div>
-
-              <!-- Item 2 -->
-              <div class="carousel-item">
-                  <div class="row">
-                      <!-- Slide 4 -->
-                      <div class="col-md-4">
-                          <div class="item">
-                              <div class="img">
-                                  <img src="https://i.ibb.co/YXV3zmh/blog3.jpg" alt="">
-                              </div>
-                              <div class="info">
-                                  <div class="date">
-                                      <span>02 <br> Jan</span>
-                                  </div>
-                                  <a href="#"><h5>Lorem Ipsum is simply dummy</h5></a>
-                                  <p>Lorem ipsum dolor sit amet conse ctetur, adipi sicing elit. Nisi sapiente hic fugiat delectus dicta delectus dicta.</p>
-                                  <a href="#0" class="more"><i class="fas bi-arrow-right"></i></a>
-                              </div>
-                          </div>
-                      </div>
-
-
-                      <!--Slide 5 -->
-
-
-                      <div class="col-md-4">
-                        <div class="item">
-                            <div class="img">
-                                <img src="https://i.ibb.co/YXV3zmh/blog3.jpg" alt="">
-                            </div>
-                            <div class="info">
-                                <div class="date">
-                                    <span>02 <br> Jan</span>
-                                </div>
-                                <a href="#"><h5>Lorem Ipsum is simply dummy</h5></a>
-                                <p>Lorem ipsum dolor sit amet conse ctetur, adipi sicing elit. Nisi sapiente hic fugiat delectus dicta delectus dicta.</p>
-                                <a href="#0" class="more"><i class="fas bi-arrow-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-
-                    <!--Slide 6-->
-
-
-
-                    <div class="col-md-4">
-                      <div class="item">
-                          <div class="img">
-                              <img src="https://i.ibb.co/YXV3zmh/blog3.jpg" alt="">
-                          </div>
-                          <div class="info">
-                              <div class="date">
-                                  <span>02 <br> Jan</span>
-                              </div>
-                              <a href="#"><h5>Lorem Ipsum is simply dummy</h5></a>
-                              <p>Lorem ipsum dolor sit amet conse ctetur, adipi sicing elit. Nisi sapiente hic fugiat delectus dicta delectus dicta.</p>
-                              <a href="#0" class="more"><i class="fas bi-arrow-right"></i></a>
-                          </div>
-                      </div>
-                  </div>
-
-
-                  </div>
-              </div>
-
-               <!-- Item 3 -->
-               <div class="carousel-item">
-                <div class="row">
-                    <!-- Slide 7 -->
-                    <div class="col-md-4">
-                        <div class="item">
-                            <div class="img">
-                                <img src="https://i.ibb.co/YXV3zmh/blog3.jpg" alt="">
-                            </div>
-                            <div class="info">
-                                <div class="date">
-                                    <span>25 <br> Dec</span>
-                                </div>
-                                <a href="#"><h5>Lorem Ipsum is simply dummy</h5></a>
-                                <p>Lorem ipsum dolor sit amet conse ctetur, adipi sicing elit. Nisi sapiente hic fugiat delectus dicta delectus dicta.</p>
-                                <a href="#0" class="more"><i class="fas bi-arrow-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    
-
-                    <div class="col-md-4">
-                      <div class="item">
-                          <div class="img">
-                              <img src="https://i.ibb.co/YXV3zmh/blog3.jpg" alt="">
-                          </div>
-                          <div class="info">
-                              <div class="date">
-                                  <span>25 <br> Dec</span>
-                              </div>
-                              <a href="#"><h5>Lorem Ipsum is simply dummy</h5></a>
-                              <p>Lorem ipsum dolor sit amet conse ctetur, adipi sicing elit. Nisi sapiente hic fugiat delectus dicta delectus dicta.</p>
-                              <a href="#0" class="more"><i class="fas bi-arrow-right"></i></a>
-                          </div>
-                      </div>
-                  </div>
-
-                    <!-- Slide 8 -->
-                    <div class="col-md-4">
-                        <div class="item">
-                            <div class="img">
-                                <img src="https://i.ibb.co/YXV3zmh/blog3.jpg" alt="">
-                            </div>
-                            <div class="info">
-                                <div class="date">
-                                    <span>29 <br> Dec</span>
-                                </div>
-                                <a href="#"><h5>Lorem Ipsum is simply dummy</h5></a>
-                                <p>Lorem ipsum dolor sit amet conse ctetur, adipi sicing elit. Nisi sapiente hic fugiat delectus dicta delectus dicta.</p>
-                                <a href="#0" class="more"><i class="fas bi-arrow-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-            
-                </div>
+                      
+              
             </div>
           </div>
 

@@ -357,7 +357,7 @@ include("conn.php")
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member" data-aos="fade-up" data-aos-delay="100">
                 <div class="member-img">
-                  <img src="https://webdocs.pages.dev/assets/img/CIVIL/teaching/MADHUMATHI.png" class="img-fluid" alt="">
+                  <img src="https://webdocs.pages.dev/assets/img/faculty/1054.png" class="img-fluid" alt="">
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -376,7 +376,7 @@ include("conn.php")
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member" data-aos="fade-up" data-aos-delay="100">
                 <div class="member-img">
-                  <img src="https://webdocs.pages.dev/assets/img/CIVIL/teaching/MADHUMATHI.png" class="img-fluid" alt="">
+                  <img src="https://webdocs.pages.dev/assets/img/faculty/1131.png" class="img-fluid" alt="">
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -387,7 +387,7 @@ include("conn.php")
                 <div class="member-info">
                   <h4 class="title"><a href="faculty.php?staff_id=1131">Dr.R.K.Madhumathi</a></h4>
                   <h4>Secretary</h4>
-                  <span>Joint Director - Research & Assistant Professor /CIVIL</span>
+                  <span>Joint Director - Research & Associate Professor /CIVIL</span>
                 </div>
               </div>
             </div>
@@ -427,7 +427,7 @@ include("conn.php")
                 </div>
                 <div class="member-info">
                   <h4 class="title"><a href="faculty.php?staff_id=1002">Dr.F.R.Shiny Malar</a></h4>
-                  <span>Head & Professor / CSE</span>
+                  <span>Professor & Head / CSE</span>
                 </div>
               </div>
             </div>
@@ -445,7 +445,7 @@ include("conn.php")
                   </div>
                   <div class="member-info">
                     <h4 class="title"><a href="faculty.php?staff_id=1035">Mr.N.Michael Franklin</a></h4>
-                    <span>Head & Assistant Professor / ECE</span>
+                    <span>Assistant Professor & Head / ECE</span>
                   </div>
                 </div>
               </div>
@@ -463,7 +463,7 @@ include("conn.php")
                   </div>
                   <div class="member-info">
                     <h4 class="title"><a href="faculty.php?staff_id=1267">Dr.A.Gayathri</a></h4>
-                    <span>Head & Assistant Professor / EEE</span>
+                    <span>Assistant Professor & Head / EEE</span>
                   </div>
                 </div>
               </div>
@@ -641,7 +641,7 @@ include("conn.php")
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member" data-aos="fade-up" data-aos-delay="100">
                 <div class="member-img">
-                  <img src="assets/img/CIVIL/SATHEESH.png" class="img-fluid" alt="">
+                  <img src="https://webdocs.pages.dev/assets/img/faculty/1054.png" class="img-fluid" alt="">
                   <div class="social">
                     <a href="tel:+916382490019"><i  class="ri-phone-line"></i></a>
                     <a href="mailto:iqac@stellamaryscoe.edu.in"><i class="ri-mail-send-line"></i></a>

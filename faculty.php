@@ -260,8 +260,8 @@ include("conn.php")
                 <li><i class="bi bi-chevron-right"></i> <strong>Vidwan:</strong> <span><?php 
                     printf("%s", $data["age"]);
                     ?></span></li>
-                <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span><?php 
-                    printf("%s", $data["mobile_no"]);
+                <li><i class="bi bi-chevron-right"></i> <strong>Date of Joining:</strong> <span><?php 
+                    printf("%s", $data["doj"]);
                     ?></span></li>
                 <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span><?php 
                     printf("%s", $data["institute_email_id"]);
@@ -271,13 +271,11 @@ include("conn.php")
             <div class="col-lg-7">
               <ul><ul><li></li>
                 <ul><li></li>
-                <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span><?php 
-                    printf("%s", $data["age"]);
+                
+                <li><i class="bi bi-chevron-right"></i> <strong>Research Intersest:</strong> <span><?php 
+                    printf("%s", $data[""]);
                     ?></span></li>
-                <li><i class="bi bi-chevron-right"></i> <strong>Date of Joining:</strong> <span><?php 
-                    printf("%s", $data["doj"]);
-                    ?></span></li>
-                <li><i class="bi bi-chevron-right"></i> <strong>specialisation:</strong> <span><?php 
+                <li><i class="bi bi-chevron-right"></i> <strong>Specialisation:</strong> <span><?php 
                     printf("%s", $data["text_val"]);
                     ?></span></li>
                 <li><i class="bi bi-chevron-right"></i> <strong>Experience:</strong> <span><?php 

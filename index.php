@@ -136,9 +136,9 @@ include("conn.php")
                 <li><a href="research_seedmoney.php">Stella Mary's Seed Money</a></li>
                 <li><a href="research_mou.php">MoU</a></li>
               </ul>
-          <li><a class="nav-link scrollto" href="Sports.php">Sports</a></li>
-          <li class="dropdown"><a href="#"><span>Students' Zone</span> <i class="bi bi-chevron-right"></i></a>
-            <ul>
+          <li class="dropdown"><a href="#"><span>Students' Zone</span> <i class="bi bi-chevron-right"></i></a>  
+          <ul>
+          <li><a href="Sports.php">Sports</a></li>
               <li class="dropdown"><a href="#more-services" href="#"><span>Clubs & Cells</span> <i class="bi bi-chevron-right"></i></a>
               <ul>
                 <li><a href="culturalclub.php">Cultural Club</a></li>
@@ -335,21 +335,7 @@ include("conn.php")
                       
                       
                       <!-- Slide 2 -->
-                      <div class="col-md-4">
-                          <div class="item">
-                              <div class="img">
-                                  <img src="https://i.ibb.co/YXV3zmh/blog3.jpg" alt="">
-                              </div>
-                              <div class="info">
-                                  <div class="date">
-                                      <span>29 <br> Dec</span>
-                                  </div>
-                                  <a href="#"><h5>Lorem Ipsum is simply dummy</h5></a>
-                                  <p>Lorem ipsum dolor sit amet conse ctetur, adipi sicing elit. Nisi sapiente hic fugiat delectus dicta delectus dicta.</p>
-                                  <a href="#0" class="more"><i class="fas bi-arrow-right"></i></a>
-                              </div>
-                          </div>
-                      </div>
+                      
 
                       <!-- Slide 3 -->
                       <div class="col-md-4">

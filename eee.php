@@ -398,10 +398,10 @@ include("conn.php")
                 <div class="member-img">
                   <img src="assets/img/CIVIL/SATHEESH.png" class="img-fluid" alt="">
                   <div class="social">
-                    <a href=""><i class="bi bi-twitter"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-file-earmark-bar-graph"></i></a>
+                      <a href=""><i class="bi bi-facebook"></i></a>
+                      <a href=""><i class="bi bi-twitter"></i></a>
+                      <a href=""><i class="bi bi-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
