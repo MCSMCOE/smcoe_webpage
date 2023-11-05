@@ -283,7 +283,7 @@ include("conn.php")
               <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                 <div class="member" data-aos="fade-up" data-aos-delay="100">
                   <div class="member-img">
-                    <img src="https://webdocs.pages.dev/assets/img/CSE/teaching/PARTHEBAN.png" class="img-fluid" alt="">
+                    <img src="https://webdocs.pages.dev/assets/img/faculty/1026.png" class="img-fluid" alt="">
                     <div class="social">
                       <a href=""><i class="bi bi-twitter"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
@@ -292,7 +292,7 @@ include("conn.php")
                     </div>
                   </div>
                   <div class="member-info">
-                    <h4 class="title"><a href="faculty.html">Dr.Pon.Partheeban</a></h4>
+                    <h4 class="title"><a href="faculty.php?staff_id=1026">Dr.Pon.Partheeban</a></h4>
                     <span>Assistant Professor, Computer Science and Engineering</span>
                   </div>
                 </div>
@@ -301,7 +301,7 @@ include("conn.php")
               <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                   <div class="member" data-aos="fade-up" data-aos-delay="100">
                     <div class="member-img">
-                      <img src="https://webdocs.pages.dev/assets/img/CSE/teaching/PARTHEBAN.png" class="img-fluid" alt="">
+                      <img src="https://webdocs.pages.dev/assets/img/faculty/1126.png" class="img-fluid" alt="">
                       <div class="social">
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
@@ -310,7 +310,7 @@ include("conn.php")
                       </div>
                     </div>
                     <div class="member-info">
-                      <h4 class="title"><a href="faculty.html">Ms.M.Ashni</a></h4>
+                      <h4 class="title"><a href="faculty.php?staff_id=1126">Ms.M.Ashni</a></h4>
                       <span>Assistant Professor, CIVIL Engineering</span>
                     </div>
                   </div>
@@ -318,7 +318,7 @@ include("conn.php")
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                     <div class="member" data-aos="fade-up" data-aos-delay="100">
                       <div class="member-img">
-                        <img src="https://webdocs.pages.dev/assets/img/CSE/teaching/PARTHEBAN.png" class="img-fluid" alt="">
+                        <img src="https://webdocs.pages.dev/assets/img/faculty/1256.png" class="img-fluid" alt="">
                         <div class="social">
                           <a href=""><i class="bi bi-instagram"></i></a>
                           <a href=""><i class="bi bi-facebook"></i></a>
@@ -327,7 +327,7 @@ include("conn.php")
                         </div>
                       </div>
                       <div class="member-info">
-                        <h4 class="title"><a href="faculty.html">Ms.Sony</a></h4>
+                        <h4 class="title"><a href="faculty.php?staff_id=1256">Ms.Sony</a></h4>
                         <span>Assistant Professor, CIVIL Engineering</span>
                       </div>
                     </div>
@@ -335,7 +335,7 @@ include("conn.php")
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                     <div class="member" data-aos="fade-up" data-aos-delay="100">
                       <div class="member-img">
-                        <img src="https://webdocs.pages.dev/assets/img/CSE/teaching/PARTHEBAN.png" class="img-fluid" alt="">
+                        <img src="https://webdocs.pages.dev/assets/img/faculty/1005.png" class="img-fluid" alt="">
                         <div class="social">
                           <a href=""><i class="bi bi-instagram"></i></a>
                           <a href=""><i class="bi bi-facebook"></i></a>
@@ -344,7 +344,7 @@ include("conn.php")
                         </div>
                       </div>
                       <div class="member-info">
-                        <h4 class="title"><a href="faculty.html">Dr.A.Selva Reegan</a></h4>
+                        <h4 class="title"><a href="faculty.php?staff_id=1005">Dr.A.Selva Reegan</a></h4>
                         <span>Assistant Professor, Computer Science and Engineering</span>
                       </div>
                     </div>
@@ -352,7 +352,7 @@ include("conn.php")
                   <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                     <div class="member" data-aos="fade-up" data-aos-delay="100">
                       <div class="member-img">
-                        <img src="https://webdocs.pages.dev/assets/img/CSE/teaching/PARTHEBAN.png" class="img-fluid" alt="">
+                        <img src="https://webdocs.pages.dev/assets/img/faculty/1045.png" class="img-fluid" alt="">
                         <div class="social">
                           <a href=""><i class="bi bi-instagram"></i></a>
                           <a href=""><i class="bi bi-facebook"></i></a>
@@ -361,7 +361,7 @@ include("conn.php")
                         </div>
                       </div>
                       <div class="member-info">
-                        <h4 class="title"><a href="faculty.html">Mr.Gopal Ram </a></h4>
+                        <h4 class="title"><a href="faculty.php?staff_id=1045">Mr.Gopal Ram </a></h4>
                         <span>Assistant Professor, Electronics and Communication Engineering</span>
                       </div>
                     </div>
@@ -369,7 +369,7 @@ include("conn.php")
                   <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                     <div class="member" data-aos="fade-up" data-aos-delay="100">
                       <div class="member-img">
-                        <img src="https://webdocs.pages.dev/assets/img/CSE/teaching/PARTHEBAN.png" class="img-fluid" alt="">
+                        <img src="https://webdocs.pages.dev/assets/img/faculty/1035.png" class="img-fluid" alt="">
                         <div class="social">
                           <a href=""><i class="bi bi-instagram"></i></a>
                           <a href=""><i class="bi bi-facebook"></i></a>
@@ -378,7 +378,7 @@ include("conn.php")
                         </div>
                       </div>
                       <div class="member-info">
-                        <h4 class="title"><a href="faculty.html">Mr.Suyambulinga Rajan</a></h4>
+                        <h4 class="title"><a href="faculty.php?staff_id=1035">Mr.Suyambulinga Rajan</a></h4>
                         <span>Assistant Professor, Electrical and Electronics Engineering</span>
                       </div>
                     </div>
@@ -386,7 +386,7 @@ include("conn.php")
                   <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                     <div class="member" data-aos="fade-up" data-aos-delay="100">
                       <div class="member-img">
-                        <img src="https://webdocs.pages.dev/assets/img/CSE/teaching/PARTHEBAN.png" class="img-fluid" alt="">
+                        <img src="https://webdocs.pages.dev/assets/img/faculty/1065.png" class="img-fluid" alt="">
                         <div class="social">
                           <a href=""><i class="bi bi-instagram"></i></a>
                           <a href=""><i class="bi bi-facebook"></i></a>
@@ -395,7 +395,7 @@ include("conn.php")
                         </div>
                       </div>
                       <div class="member-info">
-                        <h4 class="title"><a href="faculty.html">Ms.Sabareesha Priya</a></h4>
+                        <h4 class="title"><a href="faculty.php?staff_id=1065">Ms.Sabareesha Priya</a></h4>
                         <span>Assistant Professor, Electrical and Electronics Engineering</span>
                       </div>
                     </div>
@@ -403,7 +403,7 @@ include("conn.php")
                   <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                     <div class="member" data-aos="fade-up" data-aos-delay="100">
                       <div class="member-img">
-                        <img src="https://webdocs.pages.dev/assets/img/CSE/teaching/PARTHEBAN.png" class="img-fluid" alt="">
+                        <img src="https://webdocs.pages.dev/assets/img/faculty/1086.png" class="img-fluid" alt="">
                         <div class="social">
                           <a href=""><i class="bi bi-instagram"></i></a>
                           <a href=""><i class="bi bi-facebook"></i></a>
@@ -412,7 +412,7 @@ include("conn.php")
                         </div>
                       </div>
                       <div class="member-info">
-                        <h4 class="title"><a href="faculty.html">Dr.Dhayananth Jegan</a></h4>
+                        <h4 class="title"><a href="faculty.php?staff_id=1086">Dr.Dhayananth Jegan</a></h4>
                         <span>Assistant Professor, Mechanical Engineering</span>
                       </div>
                     </div>
@@ -420,7 +420,7 @@ include("conn.php")
                   <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                     <div class="member" data-aos="fade-up" data-aos-delay="100">
                       <div class="member-img">
-                        <img src="https://webdocs.pages.dev/assets/img/CSE/teaching/PARTHEBAN.png" class="img-fluid" alt="">
+                        <img src="https://webdocs.pages.dev/assets/img/faculty/1357.png" class="img-fluid" alt="">
                         <div class="social">
                           <a href=""><i class="bi bi-instagram"></i></a>
                           <a href=""><i class="bi bi-facebook"></i></a>
@@ -429,7 +429,7 @@ include("conn.php")
                         </div>
                       </div>
                       <div class="member-info">
-                        <h4 class="title"><a href="faculty.html">Ms.Jini</a></h4>
+                        <h4 class="title"><a href="faculty.php?staff_id=1357">Ms.Jini</a></h4>
                         <span>Assistant Professor, Science and Humanities</span>
                       </div>
                     </div>
@@ -437,7 +437,7 @@ include("conn.php")
                   <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                     <div class="member" data-aos="fade-up" data-aos-delay="100">
                       <div class="member-img">
-                        <img src="https://webdocs.pages.dev/assets/img/CSE/teaching/PARTHEBAN.png" class="img-fluid" alt="">
+                        <img src="https://webdocs.pages.dev/assets/img/faculty/1093.png" class="img-fluid" alt="">
                         <div class="social">
                           <a href=""><i class="bi bi-instagram"></i></a>
                           <a href=""><i class="bi bi-facebook"></i></a>
@@ -446,7 +446,7 @@ include("conn.php")
                         </div>
                       </div>
                       <div class="member-info">
-                        <h4 class="title"><a href="faculty.html">Dr.Merlin Sheela</a></h4>
+                        <h4 class="title"><a href="faculty.php?staff_id=1093">Dr.Merlin Sheela</a></h4>
                         <span>Assistant Professor, Science and Humanities</span>
                       </div>
                     </div>
@@ -454,7 +454,7 @@ include("conn.php")
                   <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                     <div class="member" data-aos="fade-up" data-aos-delay="100">
                       <div class="member-img">
-                        <img src="https://webdocs.pages.dev/assets/img/CSE/teaching/PARTHEBAN.png" class="img-fluid" alt="">
+                        <img src="https://webdocs.pages.dev/assets/img/faculty/1035.png" class="img-fluid" alt="">
                         <div class="social">
                           <a href=""><i class="bi bi-instagram"></i></a>
                           <a href=""><i class="bi bi-facebook"></i></a>
@@ -463,7 +463,7 @@ include("conn.php")
                         </div>
                       </div>
                       <div class="member-info">
-                        <h4 class="title"><a href="faculty.html">Mr.Santhosh</a></h4>
+                        <h4 class="title"><a href="faculty.php?staff_id=1035">Mr.Santhosh</a></h4>
                         <span>Physical Director</span>
                       </div>
                     </div>

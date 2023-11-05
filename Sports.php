@@ -228,7 +228,7 @@ include("conn.php")
               </div>
               <div class="member-info">
                 <h4 class="title"><a href="">Mr.Johnson</a></h4>
-                <span>Head of the Department</span>
+                <span>Sports Advisor</span>
               </div>
             </div>
           </div>

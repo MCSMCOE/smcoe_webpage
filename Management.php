@@ -380,7 +380,7 @@ include("conn.php")
          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
               <div class="icon"><i class="bx bx-cube-alt"></i></div>
-              <h4 class="title"><a href="/Users/partheebanpon/Documents/Vesperr-2/Management.html">Sister Concern</a></h4>
+              <h4 class="title"><a href="">Sister Concern</a></h4>
               <p class="description">The trust manages the premier educational institutions like Bapuji Memorial higher secondary school, Bapuji Memorial College of Education, Stella Mary’s College of Engineering and Stella Mary's CBSE School.</p>
             </div>
           </div>
