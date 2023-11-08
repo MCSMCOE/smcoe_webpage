@@ -424,7 +424,7 @@ The faculty members impart knowledge through curriculum based formal education a
             <div class="tab-pane" id="tab-4">
               <div class="row">
                 <div class="col-lg-8 details order-2 order-lg-1">
-                  <h3>Common Computer</h3>
+                  <h3>Common Computer Lab</h3>
                   <p class="fst-italic text-justify">The Department of Computer Science and Engineering has a well-established Computer Practices Laboratory exclusively for First Year students. Computer Practices laboratory provides essential facilities to the students to enhance their knowledge in Programming. The common Lab is equipped with 125 Lenovo Desktop Computer with Intel i3 processor, Windows 7 Professional edition,4 LCD Projector, 2 ton carrier split AC-11,20 KVA UPS-2.</p>
                 </div>
                 <div class="col-lg-4 text-center order-1 order-lg-2">

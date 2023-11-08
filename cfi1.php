@@ -272,55 +272,170 @@ include("conn.php")
                 <div class="row">
                   <!-- ======= Team Section ======= -->
       <section id="team" class="team section-bg">
-      <div class="container">
+          <div class="container">
+    
+            <div class="section-title" data-aos="fade-up">
+              <h2>Teaching Members</h2>
+              <p></p>
+            </div>
+    
+            <div class="row justify-content-center">
+              <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                <div class="member" data-aos="fade-up" data-aos-delay="100">
+                  <div class="member-img">
+                    <img src="https://webdocs.pages.dev/assets/img/faculty/1026.png" class="img-fluid" alt="">
+                    <div class="social">
+                      <a href=""><i class="bi bi-twitter"></i></a>
+                      <a href=""><i class="bi bi-facebook"></i></a>
+                      <a href=""><i class="bi bi-instagram"></i></a>
+                      <a href=""><i class="bi bi-linkedin"></i></a>
+                    </div>
+                  </div>
+                  <div class="member-info">
+                    <h4 class="title"><a href="faculty.php?staff_id=1026">Dr.Pon.Partheeban</a></h4>
+                    <span>Convener, Assistant Professor, Computer Science and Engineering</span>
+                  </div>
+                </div>
+              </div>
   
-  <div class="section-title" data-aos="fade-up">
-    <h2>Faculty Members</h2>
-    <p></p>
-  </div>
-
-  <div class="row justify-content-center">
-  
-  <?php
-    $sql = "SELECT CONCAT('https://webdocs.pages.dev/assets/img/faculty/',staff_master.staff_id,'.png') imglink,sm.staff_id,sm.first_name, md.dept_name,cd.desg_name FROM `documentation`.`club_master` cm INNER JOIN documentation.`club_membership` cms ON cms.`cm_id`=cm.cm_id AND cms.staff_id IS NOT NULL AND cms.status>0 INNER JOIN camps.staff_master sm ON sm.staff_id=cms.staff_id INNER JOIN camps.master_department md ON md.department_id=sm.department_id INNER JOIN documentation.club_desg cd ON cd.cd_id=cms.cd_id INNER JOIN camps.master_academic_year may ON may.ay_id=cms.ay_id AND may.cur_year=1 WHERE cm.cm_id=11";
-    $result = mysqli_query($dbcon, $sql);
-    if (mysqli_num_rows($result) > 0) {
-        while($data = mysqli_fetch_assoc($result)) {
-            
-    ?>
-    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-        <div class="member" data-aos="fade-up" data-aos-delay="100">
-          <div class="member-img">
-          <img src="<?php printf("%s", $data['imglink']);?>" class="img-fluid" alt="">
-            <div class="social">
-              <a href=""><i class="bi bi-file-earmark-bar-graph"></i></a>
-              <a href=""><i class="bi bi-facebook"></i></a>
-              <a href=""><i class="bi bi-twitter"></i></a>
-              <a href=""><i class="bi bi-linkedin"></i></a>
+              <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                  <div class="member" data-aos="fade-up" data-aos-delay="100">
+                    <div class="member-img">
+                      <img src="https://webdocs.pages.dev/assets/img/faculty/1131.png" class="img-fluid" alt="">
+                      <div class="social">
+                        <a href=""><i class="bi bi-instagram"></i></a>
+                        <a href=""><i class="bi bi-facebook"></i></a>
+                        <a href=""><i class="bi bi-instagram"></i></a>
+                        <a href=""><i class="bi bi-linkedin"></i></a>
+                      </div>
+                    </div>
+                    <div class="member-info">
+                      <h4 class="title"><a href="faculty.php?staff_id=1131">Dr.R.K.Madhumathi</a></h4>
+                      <span>Assistant Professor, CIVIL Engineering</span>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                    <div class="member" data-aos="fade-up" data-aos-delay="100">
+                      <div class="member-img">
+                        <img src="https://webdocs.pages.dev/assets/img/faculty/1005.png" class="img-fluid" alt="">
+                        <div class="social">
+                          <a href=""><i class="bi bi-instagram"></i></a>
+                          <a href=""><i class="bi bi-facebook"></i></a>
+                          <a href=""><i class="bi bi-instagram"></i></a>
+                          <a href=""><i class="bi bi-linkedin"></i></a>
+                        </div>
+                      </div>
+                      <div class="member-info">
+                        <h4 class="title"><a href="faculty.php?staff_id=1005">Dr.A.Selva Reegan</a></h4>
+                        <span>Assistant Professor, Computer Science and Engineering</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                    <div class="member" data-aos="fade-up" data-aos-delay="100">
+                      <div class="member-img">
+                        <img src="https://webdocs.pages.dev/assets/img/faculty/1049.png" class="img-fluid" alt="">
+                        <div class="social">
+                          <a href=""><i class="bi bi-instagram"></i></a>
+                          <a href=""><i class="bi bi-facebook"></i></a>
+                          <a href=""><i class="bi bi-instagram"></i></a>
+                          <a href=""><i class="bi bi-linkedin"></i></a>
+                        </div>
+                      </div>
+                      <div class="member-info">
+                        <h4 class="title"><a href="faculty.php?staff_id=1049">Ms.V.Jino Shiny</a></h4>
+                        <span>Assistant Professor, Electronics and Communication Engineering</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                    <div class="member" data-aos="fade-up" data-aos-delay="100">
+                      <div class="member-img">
+                        <img src="https://webdocs.pages.dev/assets/img/CSE/teaching/PARTHEBAN.png" class="img-fluid" alt="">
+                        <div class="social">
+                          <a href=""><i class="bi bi-instagram"></i></a>
+                          <a href=""><i class="bi bi-facebook"></i></a>
+                          <a href=""><i class="bi bi-instagram"></i></a>
+                          <a href=""><i class="bi bi-linkedin"></i></a>
+                        </div>
+                      </div>
+                      <div class="member-info">
+                        <h4 class="title"><a href="faculty.php?staff_id=1267">Dr.A.R.Gayathri</a></h4>
+                        <span>Assistant Professor, Electrical and Electronics Engineering</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                    <div class="member" data-aos="fade-up" data-aos-delay="100">
+                      <div class="member-img">
+                        <img src="https://webdocs.pages.dev/assets/img/faculty/1082.png" class="img-fluid" alt="">
+                        <div class="social">
+                          <a href=""><i class="bi bi-instagram"></i></a>
+                          <a href=""><i class="bi bi-facebook"></i></a>
+                          <a href=""><i class="bi bi-instagram"></i></a>
+                          <a href=""><i class="bi bi-linkedin"></i></a>
+                        </div>
+                      </div>
+                      <div class="member-info">
+                        <h4 class="title"><a href="faculty.php?staff_id=1082">Mr.S.R.Rajkumar</a></h4>
+                        <span>Assistant Professor, Mechanical Engineering</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                    <div class="member" data-aos="fade-up" data-aos-delay="100">
+                      <div class="member-img">
+                        <img src="https://webdocs.pages.dev/assets/img/CSE/teaching/PARTHEBAN.png" class="img-fluid" alt="">
+                        <div class="social">
+                          <a href=""><i class="bi bi-instagram"></i></a>
+                          <a href=""><i class="bi bi-facebook"></i></a>
+                          <a href=""><i class="bi bi-instagram"></i></a>
+                          <a href=""><i class="bi bi-linkedin"></i></a>
+                        </div>
+                      </div>
+                      <div class="member-info">
+                        <h4 class="title"><a href="faculty.php?staff_id=1296">Dr.Supriya</a></h4>
+                        <span>Assistant Professor, Artificial Intelligence and Data science</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                    <div class="member" data-aos="fade-up" data-aos-delay="100">
+                      <div class="member-img">
+                        <img src="https://webdocs.pages.dev/assets/img/CSE/teaching/PARTHEBAN.png" class="img-fluid" alt="">
+                        <div class="social">
+                          <a href=""><i class="bi bi-instagram"></i></a>
+                          <a href=""><i class="bi bi-facebook"></i></a>
+                          <a href=""><i class="bi bi-instagram"></i></a>
+                          <a href=""><i class="bi bi-linkedin"></i></a>
+                        </div>
+                      </div>
+                      <div class="member-info">
+                        <h4 class="title"><a href="faculty.php?staff_id=1275">Dr.L.Mary Novena</a></h4>
+                        <span>Assistant Professor, Science and Humanities</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                    <div class="member" data-aos="fade-up" data-aos-delay="100">
+                      <div class="member-img">
+                        <img src="https://webdocs.pages.dev/assets/img/CSE/teaching/PARTHEBAN.png" class="img-fluid" alt="">
+                        <div class="social">
+                          <a href=""><i class="bi bi-instagram"></i></a>
+                          <a href=""><i class="bi bi-facebook"></i></a>
+                          <a href=""><i class="bi bi-instagram"></i></a>
+                          <a href=""><i class="bi bi-linkedin"></i></a>
+                        </div>
+                      </div>
+                      <div class="member-info">
+                        <h4 class="title"><a href="faculty.php?staff_id=1393">Mr.Sherin</a></h4>
+                        <span>Assistant Professor, Science and Humanities</span>
+                      </div>
+                    </div>
+                  </div>
             </div>
           </div>
-          <div class="member-info">
-            <h4 class="title"><a href="faculty.php?staff_id=<?= $data['staff_id']?>">
-            <?php 
-            printf("%s", $data["first_name"]);
-            ?>
-            </a></h4>
-            <span><?php 
-            printf("%s", $data["club_membership"]);
-            ?></span>
-          </div>
-        </div>
-      </div>
-    <?php
-} 
-}     
-    ?>
-
-    
-
-    
-  </div>
-</div>
         </section><!-- End Team Section -->
                 </div>
               </div>
