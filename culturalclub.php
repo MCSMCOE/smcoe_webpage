@@ -288,7 +288,7 @@ include("conn.php")
     
             <div class="section-title" data-aos="fade-up">
               <h2>Teaching Faculty</h2>
-              <p>The pillars of Computert Science and Engineering</p>
+              <p></p>
             </div>
     
             <div class="row justify-content-center">
@@ -314,7 +314,7 @@ include("conn.php")
           <div class="member-info">
             <h4 class="title"><a href="faculty.php?staff_id=<?= $data['staff_id']?>">
             <?php 
-            printf("%s", $data["first_name"]);
+            printf("%s", $data["staff_name"]);
             ?>
             </a></h4>
             <span><?php 

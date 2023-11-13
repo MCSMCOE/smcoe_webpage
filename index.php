@@ -327,9 +327,9 @@ include("conn.php")
                 <div class="date">
                   <span><?php echo $data["dayevent_date"]; ?><br><?php echo $data["smonth"]; ?></span>
                 </div>
-                <a href="#"><h5><?php echo $data["e_title"]; ?></h5></a>
-                <p><?php echo $data["e_desc"]; ?></p>
-                <a href="#0" class="more"><i class="fas bi-arrow-right"></i></a>
+                <a href="<?php echo $data["event_link"]; ?>"><h5><?php echo $data["e_title"]; ?></h5></a>
+                <p><?php echo $data["event_detail"]; ?></p>
+                <a href="<?php echo $data["event_link"]; ?>" class="more"><i class="fas bi-arrow-right"></i></a>
               </div>
             </div>
           </div>

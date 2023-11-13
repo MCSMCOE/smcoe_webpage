@@ -280,196 +280,45 @@ include("conn.php")
             </div>
     
             <div class="row justify-content-center">
-              <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                <div class="member" data-aos="fade-up" data-aos-delay="100">
-                  <div class="member-img">
-                    <img src="https://webdocs.pages.dev/assets/img/faculty/1026.png" class="img-fluid" alt="">
-                    <div class="social">
-                      <a href=""><i class="bi bi-twitter"></i></a>
-                      <a href=""><i class="bi bi-facebook"></i></a>
-                      <a href=""><i class="bi bi-instagram"></i></a>
-                      <a href=""><i class="bi bi-linkedin"></i></a>
-                    </div>
-                  </div>
-                  <div class="member-info">
-                    <h4 class="title"><a href="faculty.php?staff_id=1026">Dr.Pon.Partheeban</a></h4>
-                    <span>Assistant Professor, Computer Science and Engineering</span>
-                  </div>
-                </div>
-              </div>
   
-              <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                  <div class="member" data-aos="fade-up" data-aos-delay="100">
-                    <div class="member-img">
-                      <img src="https://webdocs.pages.dev/assets/img/faculty/1126.png" class="img-fluid" alt="">
-                      <div class="social">
-                        <a href=""><i class="bi bi-instagram"></i></a>
-                        <a href=""><i class="bi bi-facebook"></i></a>
-                        <a href=""><i class="bi bi-instagram"></i></a>
-                        <a href=""><i class="bi bi-linkedin"></i></a>
-                      </div>
-                    </div>
-                    <div class="member-info">
-                      <h4 class="title"><a href="faculty.php?staff_id=1126">Ms.M.Ashni</a></h4>
-                      <span>Assistant Professor, CIVIL Engineering</span>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                    <div class="member" data-aos="fade-up" data-aos-delay="100">
-                      <div class="member-img">
-                        <img src="https://webdocs.pages.dev/assets/img/faculty/1256.png" class="img-fluid" alt="">
-                        <div class="social">
-                          <a href=""><i class="bi bi-instagram"></i></a>
-                          <a href=""><i class="bi bi-facebook"></i></a>
-                          <a href=""><i class="bi bi-instagram"></i></a>
-                          <a href=""><i class="bi bi-linkedin"></i></a>
-                        </div>
-                      </div>
-                      <div class="member-info">
-                        <h4 class="title"><a href="faculty.php?staff_id=1256">Ms.Sony</a></h4>
-                        <span>Assistant Professor, CIVIL Engineering</span>
-                      </div>
-                    </div>
-                  </div>
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                    <div class="member" data-aos="fade-up" data-aos-delay="100">
-                      <div class="member-img">
-                        <img src="https://webdocs.pages.dev/assets/img/faculty/1005.png" class="img-fluid" alt="">
-                        <div class="social">
-                          <a href=""><i class="bi bi-instagram"></i></a>
-                          <a href=""><i class="bi bi-facebook"></i></a>
-                          <a href=""><i class="bi bi-instagram"></i></a>
-                          <a href=""><i class="bi bi-linkedin"></i></a>
-                        </div>
-                      </div>
-                      <div class="member-info">
-                        <h4 class="title"><a href="faculty.php?staff_id=1005">Dr.A.Selva Reegan</a></h4>
-                        <span>Assistant Professor, Computer Science and Engineering</span>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                    <div class="member" data-aos="fade-up" data-aos-delay="100">
-                      <div class="member-img">
-                        <img src="https://webdocs.pages.dev/assets/img/faculty/1045.png" class="img-fluid" alt="">
-                        <div class="social">
-                          <a href=""><i class="bi bi-instagram"></i></a>
-                          <a href=""><i class="bi bi-facebook"></i></a>
-                          <a href=""><i class="bi bi-instagram"></i></a>
-                          <a href=""><i class="bi bi-linkedin"></i></a>
-                        </div>
-                      </div>
-                      <div class="member-info">
-                        <h4 class="title"><a href="faculty.php?staff_id=1045">Mr.Gopal Ram </a></h4>
-                        <span>Assistant Professor, Electronics and Communication Engineering</span>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                    <div class="member" data-aos="fade-up" data-aos-delay="100">
-                      <div class="member-img">
-                        <img src="https://webdocs.pages.dev/assets/img/faculty/1035.png" class="img-fluid" alt="">
-                        <div class="social">
-                          <a href=""><i class="bi bi-instagram"></i></a>
-                          <a href=""><i class="bi bi-facebook"></i></a>
-                          <a href=""><i class="bi bi-instagram"></i></a>
-                          <a href=""><i class="bi bi-linkedin"></i></a>
-                        </div>
-                      </div>
-                      <div class="member-info">
-                        <h4 class="title"><a href="faculty.php?staff_id=1035">Mr.Suyambulinga Rajan</a></h4>
-                        <span>Assistant Professor, Electrical and Electronics Engineering</span>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                    <div class="member" data-aos="fade-up" data-aos-delay="100">
-                      <div class="member-img">
-                        <img src="https://webdocs.pages.dev/assets/img/faculty/1065.png" class="img-fluid" alt="">
-                        <div class="social">
-                          <a href=""><i class="bi bi-instagram"></i></a>
-                          <a href=""><i class="bi bi-facebook"></i></a>
-                          <a href=""><i class="bi bi-instagram"></i></a>
-                          <a href=""><i class="bi bi-linkedin"></i></a>
-                        </div>
-                      </div>
-                      <div class="member-info">
-                        <h4 class="title"><a href="faculty.php?staff_id=1065">Ms.Sabareesha Priya</a></h4>
-                        <span>Assistant Professor, Electrical and Electronics Engineering</span>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                    <div class="member" data-aos="fade-up" data-aos-delay="100">
-                      <div class="member-img">
-                        <img src="https://webdocs.pages.dev/assets/img/faculty/1086.png" class="img-fluid" alt="">
-                        <div class="social">
-                          <a href=""><i class="bi bi-instagram"></i></a>
-                          <a href=""><i class="bi bi-facebook"></i></a>
-                          <a href=""><i class="bi bi-instagram"></i></a>
-                          <a href=""><i class="bi bi-linkedin"></i></a>
-                        </div>
-                      </div>
-                      <div class="member-info">
-                        <h4 class="title"><a href="faculty.php?staff_id=1086">Dr.Dhayananth Jegan</a></h4>
-                        <span>Assistant Professor, Mechanical Engineering</span>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                    <div class="member" data-aos="fade-up" data-aos-delay="100">
-                      <div class="member-img">
-                        <img src="https://webdocs.pages.dev/assets/img/faculty/1357.png" class="img-fluid" alt="">
-                        <div class="social">
-                          <a href=""><i class="bi bi-instagram"></i></a>
-                          <a href=""><i class="bi bi-facebook"></i></a>
-                          <a href=""><i class="bi bi-instagram"></i></a>
-                          <a href=""><i class="bi bi-linkedin"></i></a>
-                        </div>
-                      </div>
-                      <div class="member-info">
-                        <h4 class="title"><a href="faculty.php?staff_id=1357">Ms.Jini</a></h4>
-                        <span>Assistant Professor, Science and Humanities</span>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                    <div class="member" data-aos="fade-up" data-aos-delay="100">
-                      <div class="member-img">
-                        <img src="https://webdocs.pages.dev/assets/img/faculty/1093.png" class="img-fluid" alt="">
-                        <div class="social">
-                          <a href=""><i class="bi bi-instagram"></i></a>
-                          <a href=""><i class="bi bi-facebook"></i></a>
-                          <a href=""><i class="bi bi-instagram"></i></a>
-                          <a href=""><i class="bi bi-linkedin"></i></a>
-                        </div>
-                      </div>
-                      <div class="member-info">
-                        <h4 class="title"><a href="faculty.php?staff_id=1093">Dr.Merlin Sheela</a></h4>
-                        <span>Assistant Professor, Science and Humanities</span>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                    <div class="member" data-aos="fade-up" data-aos-delay="100">
-                      <div class="member-img">
-                        <img src="https://webdocs.pages.dev/assets/img/faculty/1035.png" class="img-fluid" alt="">
-                        <div class="social">
-                          <a href=""><i class="bi bi-instagram"></i></a>
-                          <a href=""><i class="bi bi-facebook"></i></a>
-                          <a href=""><i class="bi bi-instagram"></i></a>
-                          <a href=""><i class="bi bi-linkedin"></i></a>
-                        </div>
-                      </div>
-                      <div class="member-info">
-                        <h4 class="title"><a href="faculty.php?staff_id=1035">Mr.Santhosh</a></h4>
-                        <span>Physical Director</span>
-                      </div>
-                    </div>
-                  </div>
+  <?php
+    $sql = "SELECT CONCAT('https://webdocs.pages.dev/assets/img/faculty/',sm.staff_id,'.png') imglink,sm.staff_id,TRIM(CONCAT(sm.`legend`,' ',IFNULL(sm.first_name,''),' ',IFNULL(sm.middle_name,''),' ',IFNULL(sm.last_name,''),' ')) staff_name, md.dept_name,cd.desg_name FROM `documentation`.`club_master` cm INNER JOIN documentation.`club_membership` cms ON cms.`cm_id`=cm.cm_id AND cms.staff_id IS NOT NULL AND cms.status>0 INNER JOIN camps.staff_master sm ON sm.staff_id=cms.staff_id INNER JOIN camps.master_department md ON md.department_id=sm.department_id INNER JOIN documentation.club_desg cd ON cd.cd_id=cms.cd_id INNER JOIN camps.master_academic_year may ON may.ay_id=cms.ay_id AND may.cur_year=1 WHERE cm.cm_id=16";
+    $result = mysqli_query($dbcon, $sql);
+    if (mysqli_num_rows($result) > 0) {
+        while($data = mysqli_fetch_assoc($result)) {
+            
+    ?>
+    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+        <div class="member" data-aos="fade-up" data-aos-delay="100">
+          <div class="member-img">
+          <img src="<?php printf("%s", $data['imglink']);?>" class="img-fluid" alt="">
+            <div class="social">
+              <a href=""><i class="bi bi-file-earmark-bar-graph"></i></a>
+              <a href=""><i class="bi bi-facebook"></i></a>
+              <a href=""><i class="bi bi-twitter"></i></a>
+              <a href=""><i class="bi bi-linkedin"></i></a>
             </div>
           </div>
+          <div class="member-info">
+            <h4 class="title"><a href="faculty.php?staff_id=<?= $data['staff_id']?>">
+            <?php 
+            printf("%s", $data["staff_name"]);
+            ?>
+            </a></h4>
+            <span><?php 
+            printf("%s", $data["desg_name"],);
+            ?></span><span><?php 
+            printf("%s", $data["dept_name"]);
+            ?></span>
+          </div>
+        </div>
+      </div>
+    <?php
+} 
+}     
+    ?> 
+  </div>
+</div>
         </section><!-- End Team Section -->
                 </div>
               </div>
