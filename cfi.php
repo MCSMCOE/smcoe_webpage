@@ -282,7 +282,7 @@ include("conn.php")
   <div class="row justify-content-center">
   
   <?php
-    $sql = "SELECT CONCAT('https://webdocs.pages.dev/assets/img/faculty/',staff_master.staff_id,'.png') imglink,sm.staff_id,sm.first_name, md.dept_name,cd.desg_name FROM `documentation`.`club_master` cm INNER JOIN documentation.`club_membership` cms ON cms.`cm_id`=cm.cm_id AND cms.staff_id IS NOT NULL AND cms.status>0 INNER JOIN camps.staff_master sm ON sm.staff_id=cms.staff_id INNER JOIN camps.master_department md ON md.department_id=sm.department_id INNER JOIN documentation.club_desg cd ON cd.cd_id=cms.cd_id INNER JOIN camps.master_academic_year may ON may.ay_id=cms.ay_id AND may.cur_year=1 WHERE cm.cm_id=11";
+    $sql = "SELECT CONCAT('https://webdocs.pages.dev/assets/img/faculty/',sm.staff_id,'.png') imglink,sm.staff_id,TRIM(CONCAT(sm.`legend`,' ',IFNULL(sm.first_name,''),' ',IFNULL(sm.middle_name,''),' ',IFNULL(sm.last_name,''),' ')) staff_name, md.dept_name,cd.desg_name FROM `documentation`.`club_master` cm INNER JOIN documentation.`club_membership` cms ON cms.`cm_id`=cm.cm_id AND cms.staff_id IS NOT NULL AND cms.status>0 INNER JOIN camps.staff_master sm ON sm.staff_id=cms.staff_id INNER JOIN camps.master_department md ON md.department_id=sm.department_id INNER JOIN documentation.club_desg cd ON cd.cd_id=cms.cd_id INNER JOIN camps.master_academic_year may ON may.ay_id=cms.ay_id AND may.cur_year=1 WHERE cm.cm_id=11";
     $result = mysqli_query($dbcon, $sql);
     if (mysqli_num_rows($result) > 0) {
         while($data = mysqli_fetch_assoc($result)) {
@@ -302,11 +302,13 @@ include("conn.php")
           <div class="member-info">
             <h4 class="title"><a href="faculty.php?staff_id=<?= $data['staff_id']?>">
             <?php 
-            printf("%s", $data["first_name"]);
+            printf("%s", $data["staff_name"]);
             ?>
             </a></h4>
             <span><?php 
-            printf("%s", $data["club_membership"]);
+            printf("%s", $data["desg_name"],);
+            ?></span><span><?php 
+            printf("%s", $data["dept_name"]);
             ?></span>
           </div>
         </div>
@@ -314,11 +316,7 @@ include("conn.php")
     <?php
 } 
 }     
-    ?>
-
-    
-
-    
+    ?> 
   </div>
 </div>
         </section><!-- End Team Section -->

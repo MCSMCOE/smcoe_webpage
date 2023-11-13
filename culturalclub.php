@@ -292,165 +292,45 @@ include("conn.php")
             </div>
     
             <div class="row justify-content-center">
-              <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                <div class="member" data-aos="fade-up" data-aos-delay="100">
-                  <div class="member-img">
-                    <img src="https://webdocs.pages.dev/assets/img/faculty/1126.png" class="img-fluid" alt="">
-                    <div class="social">
-                      <a href=""><i class="bi bi-twitter"></i></a>
-                      <a href=""><i class="bi bi-facebook"></i></a>
-                      <a href=""><i class="bi bi-instagram"></i></a>
-                      <a href=""><i class="bi bi-linkedin"></i></a>
-                    </div>
-                  </div>
-                  <div class="member-info">
-                    <h4 class="title"><a href="faculty.php?staff_id=1126">Ms.M.Ashni</a></h4>
-                    <span>Convener</span>
-                  </div>
-                </div>
-              </div>
   
-              <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                  <div class="member" data-aos="fade-up" data-aos-delay="100">
-                    <div class="member-img">
-                      <img src="https://webdocs.pages.dev/assets/img/faculty/1124.png" class="img-fluid" alt="">
-                      <div class="social">
-                        <a href=""><i class="bi bi-instagram"></i></a>
-                        <a href=""><i class="bi bi-facebook"></i></a>
-                        <a href=""><i class="bi bi-instagram"></i></a>
-                        <a href=""><i class="bi bi-linkedin"></i></a>
-                      </div>
-                    </div>
-                    <div class="member-info">
-                      <h4 class="title"><a href="faculty.php?staff_id=1124">Ms.Agnes Flora</a></h4>
-                      <span>Member</span>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                  <div class="member" data-aos="fade-up" data-aos-delay="100">
-                    <div class="member-img">
-                      <img src="https://webdocs.pages.dev/assets/img/faculty/1259.png" class="img-fluid" alt="">
-                      <div class="social">
-                        <a href=""><i class="bi bi-instagram"></i></a>
-                        <a href=""><i class="bi bi-facebook"></i></a>
-                        <a href=""><i class="bi bi-instagram"></i></a>
-                        <a href=""><i class="bi bi-linkedin"></i></a>
-                      </div>
-                    </div>
-                    <div class="member-info">
-                      <h4 class="title"><a href="faculty.php?staff_id=1259">Ms.Sunanthini</a></h4>
-                      <span>Member</span>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                  <div class="member" data-aos="fade-up" data-aos-delay="100">
-                    <div class="member-img">
-                      <img src="https://webdocs.pages.dev/assets/img/faculty/1048.png" class="img-fluid" alt="">
-                      <div class="social">
-                        <a href=""><i class="bi bi-instagram"></i></a>
-                        <a href=""><i class="bi bi-facebook"></i></a>
-                        <a href=""><i class="bi bi-instagram"></i></a>
-                        <a href=""><i class="bi bi-linkedin"></i></a>
-                      </div>
-                    </div>
-                    <div class="member-info">
-                      <h4 class="title"><a href="faculty.php?staff_id=1048">Ms.Baby Shola</a></h4>
-                      <span>Member</span>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                  <div class="member" data-aos="fade-up" data-aos-delay="100">
-                    <div class="member-img">
-                      <img src="https://webdocs.pages.dev/assets/img/faculty/1268.png" class="img-fluid" alt="">
-                      <div class="social">
-                        <a href=""><i class="bi bi-instagram"></i></a>
-                        <a href=""><i class="bi bi-facebook"></i></a>
-                        <a href=""><i class="bi bi-instagram"></i></a>
-                        <a href=""><i class="bi bi-linkedin"></i></a>
-                      </div>
-                    </div>
-                    <div class="member-info">
-                      <h4 class="title"><a href="faculty.php?staff_id=1268">Ms.Shajini Sheeba</a></h4>
-                      <span>Member</span>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                  <div class="member" data-aos="fade-up" data-aos-delay="100">
-                    <div class="member-img">
-                      <img src="https://webdocs.pages.dev/assets/img/faculty/1362.png" class="img-fluid" alt="">
-                      <div class="social">
-                        <a href=""><i class="bi bi-instagram"></i></a>
-                        <a href=""><i class="bi bi-facebook"></i></a>
-                        <a href=""><i class="bi bi-instagram"></i></a>
-                        <a href=""><i class="bi bi-linkedin"></i></a>
-                      </div>
-                    </div>
-                    <div class="member-info">
-                      <h4 class="title"><a href="faculty.php?staff_id=1362">Mr.Prakash</a></h4>
-                      <span>Member</span>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                  <div class="member" data-aos="fade-up" data-aos-delay="100">
-                    <div class="member-img">
-                      <img src="https://webdocs.pages.dev/assets/img/faculty/1400.png" class="img-fluid" alt="">
-                      <div class="social">
-                        <a href=""><i class="bi bi-instagram"></i></a>
-                        <a href=""><i class="bi bi-facebook"></i></a>
-                        <a href=""><i class="bi bi-instagram"></i></a>
-                        <a href=""><i class="bi bi-linkedin"></i></a>
-                      </div>
-                    </div>
-                    <div class="member-info">
-                      <h4 class="title"><a href="faculty.php?staff_id=1400">Ms.Jishma</a></h4>
-                      <span>Member</span>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                  <div class="member" data-aos="fade-up" data-aos-delay="100">
-                    <div class="member-img">
-                      <img src="https://webdocs.pages.dev/assets/img/faculty/1391.png" class="img-fluid" alt="">
-                      <div class="social">
-                        <a href=""><i class="bi bi-instagram"></i></a>
-                        <a href=""><i class="bi bi-facebook"></i></a>
-                        <a href=""><i class="bi bi-instagram"></i></a>
-                        <a href=""><i class="bi bi-linkedin"></i></a>
-                      </div>
-                    </div>
-                    <div class="member-info">
-                      <h4 class="title"><a href="faculty.php?staff_id=1391">Ms.Anugraha</a></h4>
-                      <span>Member</span>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                  <div class="member" data-aos="fade-up" data-aos-delay="100">
-                    <div class="member-img">
-                      <img src="https://webdocs.pages.dev/assets/img/faculty/1393.png" class="img-fluid" alt="">
-                      <div class="social">
-                        <a href=""><i class="bi bi-instagram"></i></a>
-                        <a href=""><i class="bi bi-facebook"></i></a>
-                        <a href=""><i class="bi bi-instagram"></i></a>
-                        <a href=""><i class="bi bi-linkedin"></i></a>
-                      </div>
-                    </div>
-                    <div class="member-info">
-                      <h4 class="title"><a href="faculty.php?staff_id=1393">Mr.Sherin</a></h4>
-                      <span>Member</span>
-                    </div>
-                  </div>
-                </div>
-
-
-
+  <?php
+    $sql = "SELECT CONCAT('https://webdocs.pages.dev/assets/img/faculty/',sm.staff_id,'.png') imglink,sm.staff_id,TRIM(CONCAT(sm.`legend`,' ',IFNULL(sm.first_name,''),' ',IFNULL(sm.middle_name,''),' ',IFNULL(sm.last_name,''),' ')) staff_name, md.dept_name,cd.desg_name FROM `documentation`.`club_master` cm INNER JOIN documentation.`club_membership` cms ON cms.`cm_id`=cm.cm_id AND cms.staff_id IS NOT NULL AND cms.status>0 INNER JOIN camps.staff_master sm ON sm.staff_id=cms.staff_id INNER JOIN camps.master_department md ON md.department_id=sm.department_id INNER JOIN documentation.club_desg cd ON cd.cd_id=cms.cd_id INNER JOIN camps.master_academic_year may ON may.ay_id=cms.ay_id AND may.cur_year=1 WHERE cm.cm_id=10";
+    $result = mysqli_query($dbcon, $sql);
+    if (mysqli_num_rows($result) > 0) {
+        while($data = mysqli_fetch_assoc($result)) {
+            
+    ?>
+    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+        <div class="member" data-aos="fade-up" data-aos-delay="100">
+          <div class="member-img">
+          <img src="<?php printf("%s", $data['imglink']);?>" class="img-fluid" alt="">
+            <div class="social">
+              <a href=""><i class="bi bi-file-earmark-bar-graph"></i></a>
+              <a href=""><i class="bi bi-facebook"></i></a>
+              <a href=""><i class="bi bi-twitter"></i></a>
+              <a href=""><i class="bi bi-linkedin"></i></a>
             </div>
           </div>
+          <div class="member-info">
+            <h4 class="title"><a href="faculty.php?staff_id=<?= $data['staff_id']?>">
+            <?php 
+            printf("%s", $data["first_name"]);
+            ?>
+            </a></h4>
+            <span><?php 
+            printf("%s", $data["desg_name"],);
+            ?></span><span><?php 
+            printf("%s", $data["dept_name"]);
+            ?></span>
+          </div>
+        </div>
+      </div>
+    <?php
+} 
+}     
+    ?> 
+  </div>
+</div>
         </section><!-- End Team Section -->
                 </div>
               </div>
