@@ -4,7 +4,7 @@ include("conn.php")
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
+  <meta charset="utf-8"> 
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>Stella Mary's College of Engineering</title>
@@ -133,29 +133,29 @@ include("conn.php")
                 <li><a href="research_codeofethics.php">Team & Code of Ethics</a></li>
                 <li><a href="research_publications.php">Publications</a></li>
                 <li><a href="https://webdocs.pages.dev/assets/docs/r&d/Starup-Policy.pdf">Startup Policy</a></li>
-                <li><a href="research_seedmoney.html">Stella Mary's Seed Money</a></li>
+                <li><a href="research_seedmoney.php">Stella Mary's Seed Money</a></li>
                 <li><a href="research_mou.php">MoU</a></li>
               </ul>
-          <li><a class="nav-link scrollto" href="Sports.php">Sports</a></li>
-          <li class="dropdown"><a href="#"><span>Students' Zone</span> <i class="bi bi-chevron-right"></i></a>
-            <ul>
+          <li class="dropdown"><a href="#"><span>Students' Zone</span> <i class="bi bi-chevron-right"></i></a>  
+          <ul>
+          <li><a href="Sports.php">Sports</a></li>
               <li class="dropdown"><a href="#more-services" href="#"><span>Clubs & Cells</span> <i class="bi bi-chevron-right"></i></a>
               <ul>
                 <li><a href="culturalclub.php">Cultural Club</a></li>
-                <li><a href="#">Literary Club</a></li>
+                <li><a href="lc.php">Literary Club</a></li>
                 <li><a href="#">Yoga Club</a></li>
                 <li><a href="cfi.php">Centre For Innovation</a></li>
-                <li><a href="#">National Cadet Corps</a></li>
-                <li><a href="#">Juniour Red Cross</a></li>
-                <li><a href="#">Grievance Redressal Cell</a></li>
-                <li><a href="#">Anti Ragging</a></li>
-                <li><a href="#">Entrepreneurship Development Cell</a></li>
+                <li><a href="nss.php">National Cadet Corps</a></li>
+                <li><a href="jrc">Juniour Red Cross</a></li>
+                <li><a href="grievance.php">Grievance Redressal Cell</a></li>
+                <li><a href="ar.php">Anti Ragging</a></li>
+                <li><a href="edc.php">Entrepreneurship Development Cell</a></li>
                 <li><a href="#">Environmental Club</a></li>
                 <li><a href="#">Institution Innovation Council</a></li>
-                <li><a href="#">Internal Complaint Cell</a></li>
+                <li><a href="icc.php">Internal Complaint Cell</a></li>
                 <li><a href="research_codeofethics.php">Research and Development Cell</a></li>
                 <li><a href="placement_home.php">Career Guidance and Placement Training Cell</a></li>
-                <li><a href="#">Internal Complaint Cell</a></li>
+                <li><a href="icc.php">Internal Complaint Cell</a></li>
                 <li><a href="mediacell.php">Media Cell</a></li>
               </ul>
               <li><a href="#">Professional Ethics</a></li>
