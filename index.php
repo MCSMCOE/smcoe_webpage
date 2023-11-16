@@ -145,7 +145,7 @@ include("conn.php")
                 <li><a href="lc.php">Literary Club</a></li>
                 <li><a href="#">Yoga Club</a></li>
                 <li><a href="cfi.php">Centre For Innovation</a></li>
-                <li><a href="nss.php">National Cadet Corps</a></li>
+                <li><a href="nss.php">National Service Scheme</a></li>
                 <li><a href="jrc">Juniour Red Cross</a></li>
                 <li><a href="grievance.php">Grievance Redressal Cell</a></li>
                 <li><a href="ar.php">Anti Ragging</a></li>
@@ -158,16 +158,16 @@ include("conn.php")
                 <li><a href="icc.php">Internal Complaint Cell</a></li>
                 <li><a href="mediacell.php">Media Cell</a></li>
               </ul>
-              <li><a href="#">Professional Ethics</a></li>
-              <li><a href="#">Capability Enhancement</a></li>
-              <li><a href="#">E-Learning</a></li>
-              <li><a href="#">Internship</a></li>
-              <li><a href="#">Campus Activities</a></li>
+              <li><a href="#"></a></li>
+              <li><a href="#"></a></li>
+              <li><a href="#"></a></li>
+              <li><a href="#"></a></li>
+              <li><a href="#"></a></li>
               <li><a href="https://www.infomirrorscloud.com/smce.webopac/Imt_frm_User_Login.aspx">Library</a></li>
               <li><a href="https://nptel.ac.in">NPTEL</a></li>
               <li><a href="https://delnet.in">DELNET</a></li>
               <li><a href="alumni.php">Alumni Association</a></li>
-              <li><a href="#">SWYAM - MOOC</a></li>
+              <li><a href="https://swayam.gov.in">SWYAM - MOOC</a></li>
                 <ul>
           <li><a class="nav-link scrollto" href="placement_home.php">Placement</a></li>
           <li><a class="nav-link scrollto" href="iqac.php">IQAC</a></li>    
