@@ -3302,7 +3302,7 @@ font-size: 14px;
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-body {
+/* body {
   font-family: "Poppins", sans-serif;
   color: #555555;
 }
@@ -3314,7 +3314,7 @@ h4,
 h5,
 h6 {
   color: #000000;
-}
+} */
 
 a {
   color: #000000;
@@ -3434,7 +3434,7 @@ a:hover {
 }
 
 /*------/ Nav Pills  /------*/
-.nav-pills-a {
+/* .nav-pills-a {
   text-decoration: none;
 }
 
@@ -3457,7 +3457,7 @@ a:hover {
   height: 2px;
   background-color: #2eca6a;
   z-index: 2;
-}
+} */
 
 /*------/ Bg Image /------*/
 .bg-image {
@@ -3761,13 +3761,13 @@ a:hover {
 }
 
 /*------/ Socials /------*/
-.socials-a {
+/* .socials-a {
   text-decoration: none;
 }
 
 .socials-a .list-inline-item:not(:last-child) {
   margin-right: 25px;
-}
+} */
 
 
 

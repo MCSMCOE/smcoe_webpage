@@ -362,16 +362,6 @@ if (!$dbcon) {
   }
 
   /**
-   * Preloader
-   */
-  let preloader = select('#preloader');
-  if (preloader) {
-    window.addEventListener('load', () => {
-      preloader.remove()
-    });
-  }
-
-  /**
    * Search window open/close
    */
   let body = select('body');
