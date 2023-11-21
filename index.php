@@ -244,7 +244,7 @@ include("conn.php")
       <div class="container">
         <div class="row">
           <div class="image col-xl-5 d-flex align-items-stretch justify-content-center justify-content-xl-start" data-aos="fade-right" data-aos-delay="150">
-            <img src="https://webdocs.pages.dev/assets/img/counts-img.svg" alt="" class="img-fluid">
+            <img src="https://28b82662.webdocs.pages.dev/hero-img.png" alt="" class="img-fluid animated">
           </div>
           <div class="col-xl-7 d-flex align-items-stretch pt-4 pt-xl-0" data-aos="fade-left" data-aos-delay="300">
             <div class="content d-flex flex-column justify-content-center">
