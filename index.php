@@ -202,44 +202,13 @@ include("conn.php")
   </section>
   <div id="divContactUsSlider" ><div class="contact-slider d-none d-flex hidden-xs open" style="top: 200px; display: flex!important;">
     <div style="border-bottom:none;margin-left: 2px;" class="slider-icon">
-        <a class="slider-icon-anchor" href="cse.html"><span class="contactus-slider-HES-Base position-relative py-4 px-3" style="margin-top: 1px;">Online Admission</span></a></div>
+        <a class="slider-icon-anchor" href="cse.php"><span class="contactus-slider-HES-Base position-relative py-4 px-3" style="margin-top: 1px;">Online Admission</span></a></div>
     
      </div>
      </div>
   <!-- End Hero --> 
   <main id="main">
-    <!-- ======= About Us Section =======
-    <section id="about" class="about">
-      <div class="container">
-
-        <div class="section-title" data-aos="fade-up">
-          <h2>About Us</h2>
-        </div>
-
-        <div class="row content">
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="150">
-            <p>
-              Stella Mary’s College of Engineering is promoted by the Nova Educational Trust & established by the well known business entrepreneur of Kanyakumari District, Dr. Nazareth Charles. The college is located amidst a beautiful eco friendly atmosphere surrounded by coconut groves. The college is only miles away from the Azhikal Sea Shore, Manavalakurichy, Kanyakumari District, Tamil Nadu
-            </p>
-            <ul>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-              <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-            </ul>
-          </div>
-          <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-up" data-aos-delay="300">
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum.
-            </p>
-            <a href="#" class="btn-learn-more">Learn More</a>
-          </div>
-        </div>
-
-      </div>
-    </section> End About Us Section -->
-    <!-- ======= Counts Section ======= -->
+    
     <section id="counts" class="counts">
       <div class="container">
         <div class="row">

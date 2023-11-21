@@ -188,8 +188,8 @@ include("conn.php")
     <!-- ======= Breadcrumbs Section ======= -->
     <section class="breadcrumbs">
       <div class="container">
-        <h2>ME Industrial Safetey Engineering</h2>
-      <p>Department encompasses the design, analysis, and manufacturing of mechanical systems and devices, including engines, machines, and structures, to address diverse engineering challenges and improve efficiency and functionality. </p>
+        <h2>M.E - Industrial Safetey Engineering</h2>
+      <p>The Factories Act stipulates requirements for ensuring safety in industry. The revised and updated provisions of the Act obligate the employment in industry of full-time Safety Officers who should be adequately qualified. The aim of this course  is to train personnel who already possess a first degree in engineering by providing them the scientific know-how and orientation in theory and practice in the area of safety, health and hygiene to make them fit into managerial positions. The course is specially suited for both regular graduates as well as sponsored personnel from industry</p>
    
     </section> </div>
   </div><!-- End Breadcrumbs -->
@@ -214,17 +214,17 @@ include("conn.php")
 
           <div class="course-info d-flex justify-content-between align-items-center">
             <h5>Total Intake</h5>
-            <p>120</p>
+            <p>24</p>
           </div>
 
           <div class="course-info d-flex justify-content-between align-items-center">
-            <h5>Budding Engineers</h5>
-            <p>200</p>
+            <h5>Budding Safety Officers</h5>
+            <p>15</p>
           </div>
 
           <div class="course-info d-flex justify-content-between align-items-center">
-            <h5>Proud Alumni</h5>
-            <p>250</p>
+            <h5></h5>
+            <p></p>
           </div>
 
         </div>

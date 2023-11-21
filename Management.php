@@ -357,7 +357,7 @@ include("conn.php")
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class="bi-binoculars"></i></div>
               <h4 class="title"><a href="">VISION</a></h4>
-              <p class="description">To emerge as a premiere institution, acknowledged as a centre for excellence imparting technical education, creating technocrats who can address the needs of the society through exploration and experimentation and uplift mankind.</p>
+              <p class="description text-justify">To emerge as a premiere institution, acknowledged as a centre for excellence imparting technical education, creating technocrats who can address the needs of the society through exploration and experimentation and uplift mankind.</p>
             </div>
           </div>
 
@@ -365,7 +365,7 @@ include("conn.php")
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="bi-card-list"></i></div>
               <h4 class="title"><a href="">MISSION</a></h4>
-              <p class="description">To provide an education that transforms students, through rigorous course-work and by providing an understanding of the needs of the society and the industry.</p>
+              <p class="description text-justify">To provide an education that transforms students, through rigorous course-work and by providing an understanding of the needs of the society and the industry.</p>
             </div>
           </div>
 
@@ -373,7 +373,7 @@ include("conn.php")
             <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
               <div class="icon"><i class="bx bx-receipt"></i></div>
               <h4 class="title"><a href="">Trust</a></h4>
-              <p class="description">The college is run by nova educational trust started in the year 2007, to provide the highest quality educational and research facilities to the students across the country.</p>
+              <p class="description text-justify">The college is run by nova educational trust started in the year 2007, to provide the highest quality educational and research facilities to the students across the country.</p>
             </div>
           </div>
 
@@ -381,7 +381,7 @@ include("conn.php")
             <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
               <div class="icon"><i class="bx bx-cube-alt"></i></div>
               <h4 class="title"><a href="">Sister Concern</a></h4>
-              <p class="description">The trust manages the premier educational institutions like Bapuji Memorial higher secondary school, Bapuji Memorial College of Education, Stella Mary’s College of Engineering and Stella Mary's CBSE School.</p>
+              <p class="description text-justify">The trust manages the premier educational institutions like Bapuji Memorial higher secondary school, Bapuji Memorial College of Education, Stella Mary’s College of Engineering and Stella Mary's CBSE School.</p>
             </div>
           </div>
 
