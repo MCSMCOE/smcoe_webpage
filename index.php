@@ -158,11 +158,6 @@ include("conn.php")
                 <li><a href="icc.php">Internal Complaint Cell</a></li>
                 <li><a href="mediacell.php">Media Cell</a></li>
               </ul>
-              <li><a href="#"></a></li>
-              <li><a href="#"></a></li>
-              <li><a href="#"></a></li>
-              <li><a href="#"></a></li>
-              <li><a href="#"></a></li>
               <li><a href="https://www.infomirrorscloud.com/smce.webopac/Imt_frm_User_Login.aspx">Library</a></li>
               <li><a href="https://nptel.ac.in">NPTEL</a></li>
               <li><a href="https://delnet.in">DELNET</a></li>

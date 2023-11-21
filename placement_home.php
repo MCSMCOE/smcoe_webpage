@@ -188,162 +188,55 @@ include("conn.php")
     
 
         <!-- ======= Doctors Section ======= -->
-    <section id="doctors" class="doctors">
-        <div class="container">
-  
-          <div class="section-title">
-            <br>
-            <h2>Team</h2>
-            <p></p>
-          </div>
-  
-          <div class="row">
-  
-            <div class="col-lg-6">
-              <div class="member d-flex align-items-start">
-                <div class="pic"><img src="https://webdocs.pages.dev/assets/img/faculty/1026.png" class="img-fluid" alt=""></div>
-                <div class="member-info">
-                  <h4 class="title"><a href="faculty.php?staff_id=1026">Dr.Pon.Partheeban</a></h4>
-                  <span>Talent Acquisition Head</span>
-                  <p>Department of Computer Science and Engineering</p>
-                  <div class="social">
-                
-                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-                  </div>
-                </div>
-              </div>
+        <section id="team" class="team section-bg">
+          <div class="container">
+    
+            <div class="section-title" data-aos="fade-up">
+              <h2>Members</h2>
+              <p></p>
             </div>
+    
+            <div class="row justify-content-center">
   
-            <div class="col-lg-6 mt-4 mt-lg-0">
-              <div class="member d-flex align-items-start">
-                <div class="pic"><img src="https://webdocs.pages.dev/assets/img/faculty/1126.png" class="img-fluid" alt=""></div>
-                <div class="member-info">
-                  <h4 class="title"><a href="faculty.php?staff_id=1126">Ms.M.Ashni</a></h4>
-                  <span>Training Head</span>
-                  <p>Department of Civil Engineering </p>
-                  <div class="social">
-              
-                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-lg-6 mt-4 mt-lg-0">
-              <div class="member d-flex align-items-start">
-                <div class="pic"><img src="assets/img/r&d/BijuGeorge.png" class="img-fluid" alt=""></div>
-                <div class="member-info">
-                  <h4 class="title"><a href="faculty.php?staff_id=1257">Mr.Sree Kumara Ganapathy</a></h4>
-                  <span>Assistant Professor</span>
-                  <p>Department of Civil Engineering</p>
-                  <div class="social">
-              
-                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-lg-6 mt-4 mt-lg-0">
-              <div class="member d-flex align-items-start">
-                <div class="pic"><img src="https://webdocs.pages.dev/assets/img/faculty/1019.png" class="img-fluid" alt=""></div>
-                <div class="member-info">
-                 
-                  <h4 class="title"><a href="faculty.php?staff_id=1019">Mr.Senthil Kumar</a></h4>
-                  <span>Assistant Professor</span>
-                  <p>Department of Computer Science and Engineering</p>
-                  <div class="social">
-          
-                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-lg-6 mt-4 mt-lg-0">
-              <div class="member d-flex align-items-start">
-                <div class="pic"><img src="assets/img/CIVIL/ASHNI.png" class="img-fluid" alt=""></div>
-                <div class="member-info">
-                 
-                  <h4 class="title"><a href="faculty.php?staff_id=1051">Ms.Ramola</a></h4>
-                  <span>Assistant Professor</span>
-                  <p>Department of Electronics and Communication Engineering</p>
-                  <div class="social">
+  <?php
+    $sql = "SELECT CONCAT('https://webdocs.pages.dev/assets/img/faculty/',sm.staff_id,'.png') imglink,sm.staff_id,TRIM(CONCAT(sm.`legend`,' ',IFNULL(sm.first_name,''),' ',IFNULL(sm.middle_name,''),' ',IFNULL(sm.last_name,''),' ')) staff_name, md.dept_name,cd.desg_name FROM `documentation`.`club_master` cm INNER JOIN documentation.`club_membership` cms ON cms.`cm_id`=cm.cm_id AND cms.staff_id IS NOT NULL AND cms.status>0 INNER JOIN camps.staff_master sm ON sm.staff_id=cms.staff_id INNER JOIN camps.master_department md ON md.department_id=sm.department_id INNER JOIN documentation.club_desg cd ON cd.cd_id=cms.cd_id INNER JOIN camps.master_academic_year may ON may.ay_id=cms.ay_id AND may.cur_year=1 WHERE cm.cm_id=17";
+    $result = mysqli_query($dbcon, $sql);
+    if (mysqli_num_rows($result) > 0) {
+        while($data = mysqli_fetch_assoc($result)) {
             
-                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-                  </div>
-                </div>
-              </div>
+    ?>
+    <div class="col-lg-2 col-md-6 d-flex align-items-stretch">
+        <div class="member" data-aos="fade-up" data-aos-delay="100">
+          <div class="member-img">
+          <img src="<?php printf("%s", $data['imglink']);?>" class="img-fluid" alt="">
+            <div class="social">
+              <a href=""><i class="bi bi-file-earmark-bar-graph"></i></a>
+              <a href=""><i class="bi bi-facebook"></i></a>
+              <a href=""><i class="bi bi-twitter"></i></a>
+              <a href=""><i class="bi bi-linkedin"></i></a>
             </div>
-
-            <div class="col-lg-6 mt-4 mt-lg-0">
-              <div class="member d-flex align-items-start">
-                <div class="pic"><img src="https://webdocs.pages.dev/assets/img/faculty/1266.png" class="img-fluid" alt=""></div>
-                <div class="member-info">
-              
-                  <h4 class="title"><a href="faculty.php?staff_id=1266">Mr.Milton</a></h4>
-                  <span>Assistant Professor</span>
-                  <p>Department of Electrical and Electronics Engineering</p>
-                  <div class="social">
-                 
-                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-lg-6 mt-4 mt-lg-0">
-              <div class="member d-flex align-items-start">
-                <div class="pic"><img src="assets/img/CIVIL/ASHNI.png" class="img-fluid" alt=""></div>
-                <div class="member-info">
-              
-                  <h4 class="title"><a href="1362">Mr.Prakash</a></h4>
-                  <span>Assistant Professor</span>
-                  <p>Department of Mechanical Engineering</p>
-                  <div class="social">
-         
-                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-  
-            <!--<div class="col-lg-6 mt-4 mt-lg-0">
-              <div class="member d-flex align-items-start">
-                <div class="pic"><img src="assets/img/CSE/PARTHEBAN.png" class="img-fluid" alt=""></div>
-                <div class="member-info">
-                 
-                  <h4 class="title"><a href="">Ms.A.L.Merlin Sheela</a></h4>
-                  <span>Assistant Professor</span>
-                  <p>Department of Science and Humanities</p>
-                  <div class="social">
-     
-                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-  
-            <div class="col-lg-6 mt-4 mt-lg-0">
-              <div class="member d-flex align-items-start">
-                <div class="pic"><img src="assets/img/CSE/SHINYMALAR.png" class="img-fluid" alt=""></div>
-                <div class="member-info">
-                  
-                  <h4 class="title"><a href="">Dr.S.A.Sumi</a></h4>
-                  <span>Assistant Professor</span>
-                  <p>Department of Science and Humanities</p>
-                  <div class="social">
-      
-                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-                  </div>
-                </div>
-              </div>
-            </div>-->
-  
           </div>
-  
+          <div class="member-info">
+            <h4 class="title"><a href="faculty.php?staff_id=<?= $data['staff_id']?>">
+            <?php 
+            printf("%s", $data["staff_name"]);
+            ?>
+            </a></h4>
+            <span><?php 
+            printf("%s", $data["desg_name"],);
+            ?></span><span><?php 
+            printf("%s", $data["dept_name"]);
+            ?></span>
+          </div>
         </div>
-      </section><!-- End Doctors Section -->
+      </div>
+    <?php
+} 
+}     
+    ?> 
+  </div>
+</div>
+        </section><!-- End Doctors Section -->
 
 
       <section id="services" class="services">
