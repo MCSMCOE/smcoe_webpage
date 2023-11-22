@@ -178,41 +178,44 @@ include("conn.php")
     </div>
   </header><!-- End Header -->
 
+ 
 
 
 
-  <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex align-items-center">
 
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
-          <h1 data-aos="fade-up">STELLA MARY'S COLLEGE OF ENGINEERING</h1>
-            <h5 class="resume-item text-justify" data-aos="fade-up" data-aos-delay="400"><Strong>“Accredited by NAAC and NBA(Mech & CSE)", </Strong>is promoted by the Nova Educational Trust & established by well known business entrepreneur of Kanyakumari, Tamil Nadu, Dr.Nazareth Charles.</h5>
-            <div data-aos="fade-up" data-aos-delay="800">
-            <a href="Management.php" class="btn-get-started scrollto">Know More</a>
-          </div>
-        </div>
-        <div class="col-lg-5 order-lg-2 hero-img justify-content-xl-start" data-aos="fade-left" data-aos-delay="200">
-          <img src="https://28b82662.webdocs.pages.dev/hero-img.png" class="img-fluid animated" alt="">
-        </div>
+<!-- ======= Hero Section ======= -->
+<section id="hero" class="d-flex align-items-center">
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
+      <h1 data-aos="fade-up">STELLA MARY'S COLLEGE OF ENGINEERING</h1>
+        <h5 class="resume-item text-justify" data-aos="fade-up" data-aos-delay="400"><Strong>“Accredited by NAAC and NBA(Mech & CSE)", </Strong>is promoted by the Nova Educational Trust & established by well known business entrepreneur of Kanyakumari, Tamil Nadu, Dr.Nazareth Charles.</h5>
+        <div data-aos="fade-up" data-aos-delay="800">
+        <a href="Management.html" class="btn-get-started scrollto">Know More</a>
       </div>
     </div>
-    
-  </section>
-  <div id="divContactUsSlider" ><div class="contact-slider d-none d-flex hidden-xs open" style="top: 200px; display: flex!important;">
-    <div style="border-bottom:none;margin-left: 2px;" class="slider-icon">
-        <a class="slider-icon-anchor" href="cse.php"><span class="contactus-slider-HES-Base position-relative py-4 px-3" style="margin-top: 1px;">Online Admission</span></a></div>
-    
-     </div>
-     </div>
-  <!-- End Hero --> 
+    <div class="col-lg-5 order-lg-2 hero-img justify-content-xl-start" data-aos="fade-left" data-aos-delay="200">
+      <img src="https://28b82662.webdocs.pages.dev/hero-img.png" class="img-fluid animated" alt="">
+    </div>
+  </div>
+</div>
+
+</section>
+<div id="divContactUsSlider" ><div class="contact-slider d-none d-flex hidden-xs open" style="top: 200px; display: flex!important;">
+<div style="border-bottom:none;margin-left: 2px;" class="slider-icon">
+    <a class="slider-icon-anchor" href="cse.html"><span class="contactus-slider-HES-Base position-relative py-4 px-3" style="margin-top: 1px;">Online Admission</span></a></div>
+
+ </div>
+ </div>
+<!-- End Hero --> 
+ 
   <main id="main">
     
     <section id="counts" class="counts">
       <div class="container">
         <div class="row">
-          <div class="image col-xl-5 d-flex align-items-stretch justify-content-center justify-content-xl-start" data-aos="fade-right" data-aos-delay="150">
+          <div class="image col-xl-4 d-flex align-items-stretch justify-content-center justify-content-xl-start" data-aos="fade-right" data-aos-delay="150">
             <img src="https://28b82662.webdocs.pages.dev/hero-img.png" alt="" class="img-fluid animated">
           </div>
           <div class="col-xl-7 d-flex align-items-stretch pt-4 pt-xl-0" data-aos="fade-left" data-aos-delay="300">

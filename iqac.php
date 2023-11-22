@@ -348,7 +348,7 @@ include("conn.php")
                 </div>
                 <div class="member-info">
                   <h4 class="title"><a href="faculty.php?staff_id=1271">Dr.J.Jenix Rino</a></h4>
-                  <h4>Management Representative</h4>
+                  <h4></h4>
                   <span>Director</span>
                 </div>
               </div>
@@ -453,7 +453,7 @@ include("conn.php")
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                 <div class="member" data-aos="fade-up" data-aos-delay="100">
                   <div class="member-img">
-                    <img src="https://webdocs.pages.dev/assets/img/CIVIL/teaching/MADHUMATHI.png" class="img-fluid" alt="">
+                    <img src="https://webdocs.pages.dev/assets/img/faculty/1267.png" class="img-fluid" alt="">
                     <div class="social">
                       <a href=""><i class="bi bi-instagram"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
@@ -470,7 +470,7 @@ include("conn.php")
               <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                 <div class="member" data-aos="fade-up" data-aos-delay="100">
                   <div class="member-img">
-                    <img src="https://webdocs.pages.dev/assets/img/CIVIL/teaching/MADHUMATHI.png" class="img-fluid" alt="">
+                    <img src="https://webdocs.pages.dev/assets/img/faculty/1093.png" class="img-fluid" alt="">
                     <div class="social">
                       <a href=""><i class="bi bi-instagram"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
@@ -484,6 +484,57 @@ include("conn.php")
                   </div>
                 </div>
               </div>
+              <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                <div class="member" data-aos="fade-up" data-aos-delay="100">
+                  <div class="member-img">
+                    <img src="https://webdocs.pages.dev/assets/img/faculty/1388.png" class="img-fluid" alt="">
+                    <div class="social">
+                      <a href=""><i class="bi bi-instagram"></i></a>
+                      <a href=""><i class="bi bi-facebook"></i></a>
+                      <a href=""><i class="bi bi-instagram"></i></a>
+                      <a href=""><i class="bi bi-linkedin"></i></a>
+                    </div>
+                  </div>
+                  <div class="member-info">
+                    <h4 class="title"><a href="faculty.php?staff_id=1388">Mrs.S.Berlin Shaheema</a></h4>
+                    <span>Assistant Professor & Head / AIDS</span>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                <div class="member" data-aos="fade-up" data-aos-delay="100">
+                  <div class="member-img">
+                    <img src="https://webdocs.pages.dev/assets/img/faculty/1403.png" class="img-fluid" alt="">
+                    <div class="social">
+                      <a href=""><i class="bi bi-instagram"></i></a>
+                      <a href=""><i class="bi bi-facebook"></i></a>
+                      <a href=""><i class="bi bi-instagram"></i></a>
+                      <a href=""><i class="bi bi-linkedin"></i></a>
+                    </div>
+                  </div>
+                  <div class="member-info">
+                    <h4 class="title"><a href="faculty.php?staff_id=1403">Mr.J.T.Pratheesh</a></h4>
+                    <span>Assistant Professor & Head / MBA</span>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                <div class="member" data-aos="fade-up" data-aos-delay="100">
+                  <div class="member-img">
+                    <img src="https://webdocs.pages.dev/assets/img/faculty/1130.png" class="img-fluid" alt="">
+                    <div class="social">
+                      <a href=""><i class="bi bi-instagram"></i></a>
+                      <a href=""><i class="bi bi-facebook"></i></a>
+                      <a href=""><i class="bi bi-instagram"></i></a>
+                      <a href=""><i class="bi bi-linkedin"></i></a>
+                    </div>
+                  </div>
+                  <div class="member-info">
+                    <h4 class="title"><a href="faculty.php?staff_id=1130">Mr.S.Ravi Kumar</a></h4>
+                    <span>Assistant Professor & Head / S&H</span>
+                  </div>
+                </div>
+              </div>
 
 
               <div class="section-title" data-aos="fade-up">
@@ -494,7 +545,7 @@ include("conn.php")
               <div class="col-lg-3 col-md-4 d-flex align-items-stretch">
                 <div class="member" data-aos="fade-up" data-aos-delay="100">
                   <div class="member-img">
-                    <img src="https://webdocs.pages.dev/assets/img/CIVIL/teaching/MADHUMATHI.png" class="img-fluid" alt="">
+                    <img src="" class="img-fluid" alt="">
                     <div class="social">
                       <a href=""><i class="bi bi-instagram"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
@@ -517,7 +568,7 @@ include("conn.php")
               <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                 <div class="member" data-aos="fade-up" data-aos-delay="100">
                   <div class="member-img">
-                    <img src="https://webdocs.pages.dev/assets/img/CIVIL/teaching/MADHUMATHI.png" class="img-fluid" alt="">
+                    <img src="" class="img-fluid" alt="">
                     <div class="social">
                       <a href=""><i class="bi bi-instagram"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
@@ -544,7 +595,7 @@ include("conn.php")
               <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                 <div class="member" data-aos="fade-up" data-aos-delay="100">
                   <div class="member-img align-items-center">
-                    <img src="https://webdocs.pages.dev/assets/img/CIVIL/teaching/MADHUMATHI.png" class="img-fluid" alt="">
+                    <img src="" class="img-fluid" alt="">
                     <div class="social">
                       <a href=""><i class="bi bi-instagram"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
@@ -561,7 +612,7 @@ include("conn.php")
               <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                 <div class="member" data-aos="fade-up" data-aos-delay="100">
                   <div class="member-img">
-                    <img src="https://webdocs.pages.dev/assets/img/CIVIL/teaching/MADHUMATHI.png" class="img-fluid" alt="">
+                    <img src="" class="img-fluid" alt="">
                     <div class="social">
                       <a href=""><i class="bi bi-instagram"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
@@ -586,7 +637,7 @@ include("conn.php")
               <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                 <div class="member" data-aos="fade-up" data-aos-delay="100">
                   <div class="member-img">
-                    <img src="https://webdocs.pages.dev/assets/img/CIVIL/teaching/MADHUMATHI.png" class="img-fluid" alt="">
+                    <img src="" class="img-fluid" alt="">
                     <div class="social">
                       <a href=""><i class="bi bi-instagram"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
@@ -603,7 +654,7 @@ include("conn.php")
               <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                 <div class="member" data-aos="fade-up" data-aos-delay="100">
                   <div class="member-img">
-                    <img src="https://webdocs.pages.dev/assets/img/CIVIL/teaching/MADHUMATHI.png" class="img-fluid" alt="">
+                    <img src="" class="img-fluid" alt="">
                     <div class="social">
                       <a href=""><i class="bi bi-instagram"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
@@ -649,7 +700,7 @@ include("conn.php")
                   </div>
                 </div>
                 <div class="member-info">
-                  <h4 class="title"><a href="">Dr.Ezhil Vignesh</a></h4>
+                  <h4 class="title"><a href=""faculty.php?staff_id=1054"">Dr.Ezhil Vignesh</a></h4>
                   <span>IQAC Coordinator, Associate Professor / EEE</span>
                 </div>
               </div>
