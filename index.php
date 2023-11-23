@@ -30,7 +30,7 @@ include("conn.php")
   
 
   <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
+  <link href="https://webdocs.pages.dev/assets/css/style.css" rel="stylesheet">
 
   <!-- =======================================================
   * Template Name: Vesperr
@@ -178,28 +178,337 @@ include("conn.php")
     </div>
   </header><!-- End Header -->
 
+<!-- ======= Intro Section ======= -->
+<div class="intro intro-carousel swiper position-relative">
 
+<div class="swiper-wrapper">
 
-
-  <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex align-items-center">
-
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
-          <h1 data-aos="fade-up">STELLA MARY'S COLLEGE OF ENGINEERING</h1>
-            <h5 class="resume-item text-justify" data-aos="fade-up" data-aos-delay="400"><Strong>“Accredited by NAAC and NBA(Mech & CSE)", </Strong>is promoted by the Nova Educational Trust & established by well known business entrepreneur of Kanyakumari, Tamil Nadu, Dr.Nazareth Charles.</h5>
-            <div data-aos="fade-up" data-aos-delay="800">
-            <a href="Management.php" class="btn-get-started scrollto">Know More</a>
+  <div class="swiper-slide carousel-item-a intro-item bg-image" style="background-image: url('https://webdocs.pages.dev/assets/img/carousel/SM1.jpeg')">
+    <div class="overlay overlay-a"></div>
+    <div class="intro-content display-table">
+      <div class="table-cell">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8">
+              <div class="intro-body">
+                <p class="intro-title-top">
+                  <br> 
+                </p>
+                <h1 class="intro-title mb-6 ">
+                  <span class="color-b">STELLA MARY'S COLLEGE OF ENGINEERING </span> </h1>
+                  <h3 class=" ">
+                    <span class="">“Accredited by NAAC and NBA(Mech & CSE)"</span> </h3>
+                  <p class="intro-subtitle intro-price">
+                  <a href="#"><span class="price-a">KNOW MORE</span></a>
+                </p>
+              </div>
+            </div>
           </div>
-        </div>
-        <div class="col-lg-5 order-lg-2 hero-img justify-content-xl-start" data-aos="fade-left" data-aos-delay="200">
-          <img src="https://28b82662.webdocs.pages.dev/hero-img.png" class="img-fluid animated" alt="">
         </div>
       </div>
     </div>
-    
-  </section>
+  </div>
+  <div class="swiper-slide carousel-item-a intro-item bg-image" style='background-image: url("https://webdocs.pages.dev/assets/img/carousel/CGPTC.jpeg");' >
+    <div class="overlay overlay-a"></div>
+    <div class="intro-content display-table">
+      <div class="table-cell">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8">
+              <div class="intro-body">
+                <p class="intro-title-top">
+                  <br> 
+                </p>
+                <h1 class="intro-title mb-6 ">
+                  <span class="color-b">CAREER GUIDANCE AND PLACEMENT TRAINING
+                  </span> </h1>
+                  <h3 class=" ">
+                    <span class="">"Charting Paths, Building Futures: Your Career Compass"</span> </h3>
+                <p class="intro-subtitle intro-price">
+                  <a href="placement_home.php"><span class="price-a">EXPLORE CGPTC</span></a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="swiper-slide carousel-item-a intro-item bg-image"  style='background-image: url("https://webdocs.pages.dev/assets/img/carousel/RD.jpg");'>
+    <div class="overlay overlay-a"></div>
+    <div class="intro-content display-table">
+      <div class="table-cell">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8">
+              <div class="intro-body">
+                <p class="intro-title-top">
+                  <br> 
+                </p>
+                <h1 class="intro-title mb-6 ">
+                  <span class="color-b">RESEARCH AND DEVELOPMENT
+                  </span> </h1>
+                  <h3 class=" ">
+                    <span class="">"Let's Research Together </span> </h3>
+                <p class="intro-subtitle intro-price">
+                  <a href="research_codeofethics.php"><span class="price-a">Explore More</span></a>
+                  </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="swiper-slide carousel-item-a intro-item bg-image" style='background-image: url("https://webdocs.pages.dev/assets/img/gallery/sports1.jpg");' >
+    <div class="overlay overlay-a"></div>
+    <div class="intro-content display-table">
+      <div class="table-cell">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8">
+              <div class="intro-body">
+                <p class="intro-title-top">
+                  <br> 
+                </p>
+              </p>
+              <h1 class="intro-title mb-6 ">
+                <span class="color-b">Play Hard, Lead Tomorrow
+                </span> </h1>
+                <h3 class=" ">
+                  <span class="">"We are team of talented sportsman with diginity"</span> </h3>
+              <p class="intro-subtitle intro-price">
+                <a href="Sports.php"><span class="price-a">PLAY WITH US</span></a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+<div class="swiper-pagination"></div>
+</div><!-- End Intro Section -->
+
+
+<!-- Vendor JS Files -->
+<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+<script src="assets/vendor/php-email-form/validate.js"></script>
+
+<!-- Template Main JS File -->
+<script src="assets/js/main.js"></script>
+<script>
+/**
+* Template Name: EstateAgency
+* Updated: Sep 18 2023 with Bootstrap v5.3.2
+* Template URL: https://bootstrapmade.com/real-estate-agency-bootstrap-template/
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
+(function() {
+"use strict";
+
+/**
+* Easy selector helper function
+*/
+const select = (el, all = false) => {
+el = el.trim()
+if (all) {
+  return [...document.querySelectorAll(el)]
+} else {
+  return document.querySelector(el)
+}
+}
+
+/**
+* Easy event listener function
+*/
+const on = (type, el, listener, all = false) => {
+let selectEl = select(el, all)
+if (selectEl) {
+  if (all) {
+    selectEl.forEach(e => e.addEventListener(type, listener))
+  } else {
+    selectEl.addEventListener(type, listener)
+  }
+}
+}
+
+/**
+* Easy on scroll event listener 
+*/
+const onscroll = (el, listener) => {
+el.addEventListener('scroll', listener)
+}
+
+/**
+* Toggle .navbar-reduce
+*/
+let selectHNavbar = select('.navbar-default')
+if (selectHNavbar) {
+onscroll(document, () => {
+  if (window.scrollY > 100) {
+    selectHNavbar.classList.add('navbar-reduce')
+    selectHNavbar.classList.remove('navbar-trans')
+  } else {
+    selectHNavbar.classList.remove('navbar-reduce')
+    selectHNavbar.classList.add('navbar-trans')
+  }
+})
+}
+
+/**
+* Back to top button
+*/
+let backtotop = select('.back-to-top')
+if (backtotop) {
+const toggleBacktotop = () => {
+  if (window.scrollY > 100) {
+    backtotop.classList.add('active')
+  } else {
+    backtotop.classList.remove('active')
+  }
+}
+window.addEventListener('load', toggleBacktotop)
+onscroll(document, toggleBacktotop)
+}
+
+/**
+* Search window open/close
+*/
+let body = select('body');
+on('click', '.navbar-toggle-box', function(e) {
+e.preventDefault()
+body.classList.add('box-collapse-open')
+body.classList.remove('box-collapse-closed')
+})
+
+on('click', '.close-box-collapse', function(e) {
+e.preventDefault()
+body.classList.remove('box-collapse-open')
+body.classList.add('box-collapse-closed')
+})
+
+/**
+* Intro Carousel
+*/
+new Swiper('.intro-carousel', {
+speed: 600,
+loop: true,
+autoplay: {
+  delay: 2000,
+  disableOnInteraction: false
+},
+slidesPerView: 'auto',
+pagination: {
+  el: '.swiper-pagination',
+  type: 'bullets',
+  clickable: true
+}
+});
+
+/**
+* Property carousel
+*/
+new Swiper('#property-carousel', {
+speed: 600,
+loop: true,
+autoplay: {
+  delay: 5000,
+  disableOnInteraction: false
+},
+slidesPerView: 'auto',
+pagination: {
+  el: '.propery-carousel-pagination',
+  type: 'bullets',
+  clickable: true
+},
+breakpoints: {
+  320: {
+    slidesPerView: 1,
+    spaceBetween: 20
+  },
+
+  1200: {
+    slidesPerView: 3,
+    spaceBetween: 20
+  }
+}
+});
+
+/**
+* News carousel
+*/
+new Swiper('#news-carousel', {
+speed: 600,
+loop: true,
+autoplay: {
+  delay: 5000,
+  disableOnInteraction: false
+},
+slidesPerView: 'auto',
+pagination: {
+  el: '.news-carousel-pagination',
+  type: 'bullets',
+  clickable: true
+},
+breakpoints: {
+  320: {
+    slidesPerView: 1,
+    spaceBetween: 20
+  },
+
+  1200: {
+    slidesPerView: 3,
+    spaceBetween: 20
+  }
+}
+});
+
+/**
+* Testimonial carousel
+*/
+new Swiper('#testimonial-carousel', {
+speed: 600,
+loop: true,
+autoplay: {
+  delay: 5000,
+  disableOnInteraction: false
+},
+slidesPerView: 'auto',
+pagination: {
+  el: '.testimonial-carousel-pagination',
+  type: 'bullets',
+  clickable: true
+}
+});
+
+/**
+* Property Single carousel
+*/
+new Swiper('#property-single-carousel', {
+speed: 600,
+loop: true,
+autoplay: {
+  delay: 5000,
+  disableOnInteraction: false
+},
+pagination: {
+  el: '.property-single-carousel-pagination',
+  type: 'bullets',
+  clickable: true
+}
+});
+
+})()
+</script>
+
+
+  <!-- ======= Hero Section ======= -->
+  
   <div id="divContactUsSlider" ><div class="contact-slider d-none d-flex hidden-xs open" style="top: 200px; display: flex!important;">
     <div style="border-bottom:none;margin-left: 2px;" class="slider-icon">
         <a class="slider-icon-anchor" href="cse.php"><span class="contactus-slider-HES-Base position-relative py-4 px-3" style="margin-top: 1px;">Online Admission</span></a></div>
