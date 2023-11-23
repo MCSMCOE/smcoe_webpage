@@ -191,7 +191,7 @@ include("conn.php")
 
         <div class="d-flex justify-content-between">
           <header class="section-header">
-              <h2 class="justify-content-center">Junior Red Cross</h2>
+              <h2 class="justify-content-center">Youth Red Cross</h2>
             </header>
       </div>
 

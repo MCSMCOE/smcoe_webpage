@@ -208,7 +208,7 @@ include("conn.php")
   
           <div class="section-title" data-aos="fade-up">
             <h2>Management</h2>
-            <p>The pillars of Stella Mary's College of Engineering</p>
+            <p>The Pillars of Stella Mary's College of Engineering</p>
           </div>
   
           <div class="row">

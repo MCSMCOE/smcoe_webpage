@@ -146,7 +146,7 @@ include("conn.php")
                 <li><a href="#">Yoga Club</a></li>
                 <li><a href="cfi.php">Centre For Innovation</a></li>
                 <li><a href="nss.php">National Service Scheme</a></li>
-                <li><a href="jrc">Juniour Red Cross</a></li>
+                <li><a href="yrc">Yoth Red Cross</a></li>
                 <li><a href="grievance.php">Grievance Redressal Cell</a></li>
                 <li><a href="ar.php">Anti Ragging</a></li>
                 <li><a href="edc.php">Entrepreneurship Development Cell</a></li>
@@ -155,7 +155,6 @@ include("conn.php")
                 <li><a href="icc.php">Internal Complaint Cell</a></li>
                 <li><a href="research_codeofethics.php">Research and Development Cell</a></li>
                 <li><a href="placement_home.php">Career Guidance and Placement Training Cell</a></li>
-                <li><a href="icc.php">Internal Complaint Cell</a></li>
                 <li><a href="mediacell.php">Media Cell</a></li>
               </ul>
               <li><a href="https://www.infomirrorscloud.com/smce.webopac/Imt_frm_User_Login.aspx">Library</a></li>
@@ -249,7 +248,7 @@ include("conn.php")
                   <span class="color-b">RESEARCH AND DEVELOPMENT
                   </span> </h1>
                   <h3 class=" ">
-                    <span class="">"Let's Research Together </span> </h3>
+                    <span class="">"Let's Research Together"</span> </h3>
                 <p class="intro-subtitle intro-price">
                   <a href="research_codeofethics.php"><span class="price-a">Explore More</span></a>
                   </p>
@@ -273,8 +272,8 @@ include("conn.php")
                 </p>
               </p>
               <h1 class="intro-title mb-6 ">
-                <span class="color-b">Play Hard, Lead Tomorrow
-                </span> </h1>
+                <span class="color-b">Play Hard, <br>
+                </span>Lead Tomorrow </h1>
                 <h3 class=" ">
                   <span class="">"We are team of talented sportsman with diginity"</span> </h3>
               <p class="intro-subtitle intro-price">
@@ -521,7 +520,7 @@ pagination: {
     <section id="counts" class="counts">
       <div class="container">
         <div class="row">
-          <div class="image col-xl-5 d-flex align-items-stretch justify-content-center justify-content-xl-start" data-aos="fade-right" data-aos-delay="150">
+          <div class="image col-xl-4 d-flex align-items-stretch justify-content-center justify-content-xl-start" data-aos="fade-right" data-aos-delay="150">
             <img src="https://28b82662.webdocs.pages.dev/hero-img.png" alt="" class="img-fluid animated">
           </div>
           <div class="col-xl-7 d-flex align-items-stretch pt-4 pt-xl-0" data-aos="fade-left" data-aos-delay="300">
