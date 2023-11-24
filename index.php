@@ -198,7 +198,7 @@ include("conn.php")
                   <h3 class=" ">
                     <span class="">“Accredited by NAAC and NBA(Mech & CSE)"</span> </h3>
                   <p class="intro-subtitle intro-price">
-                  <a href="#"><span class="price-a">KNOW MORE</span></a>
+                  <a href="Management.php"><span class="price-a">KNOW MORE</span></a>
                 </p>
               </div>
             </div>
