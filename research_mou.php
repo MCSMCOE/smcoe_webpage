@@ -190,10 +190,10 @@ include("conn.php")
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>MoU</h2>
+          <h2>Memorandum of Understanding</h2>
           <ol>
             <li><a href="index.php">Home</a></li>
-            <li>Mou</li>
+            <li>MoU</li>
           </ol>
         </div>
 
@@ -212,7 +212,7 @@ include("conn.php")
     <div class="container">
 
       <div class="section-title" data-aos="fade-up">
-        <h2>MoU</h2>
+        <h2>Memorandum of Understanding</h2>
         <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
       </div>
 
@@ -256,19 +256,19 @@ include("conn.php")
         <div class="col-lg-3 col-md-4 mt-4">
           <div class="icon-box">
             <i class="ri-check-double-line" style="color: #11dbcf;"></i>
-            <h3><a href="">CKS Solutions</a></h3>
+            <h3><a href="https://webdocs.pages.dev/assets/docs/MoU/CKS-Solutions-MoU.pdf">CKS Solutions</a></h3>
           </div>
         </div>
         <div class="col-lg-3 col-md-4 mt-4">
           <div class="icon-box">
             <i class="ri-check-double-line" style="color: #4233ff;"></i>
-            <h3><a href="">AiKatmaya Technologies Pvt, Ltd</a></h3>
+            <h3><a href="https://webdocs.pages.dev/assets/docs/MoU/Aikatmya-Technology-Pvt-Ltd-MoU.pdf">AiKatmaya Technologies Pvt, Ltd</a></h3>
           </div>
         </div>
         <div class="col-lg-3 col-md-4 mt-4">
           <div class="icon-box">
             <i class="ri-check-double-line" style="color: #b2904f;"></i>
-            <h3><a href="">VEI Technologies</a></h3>
+            <h3><a href="https://webdocs.pages.dev/assets/docs/MoU/VEI-Technologies-MoU.pdf">VEI Technologies</a></h3>
           </div>
         </div>
         <div class="col-lg-3 col-md-4 mt-4">
