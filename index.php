@@ -94,7 +94,7 @@ include("conn.php")
               <li><a href="strategicplan.php">Strategic Plan</a></li>
               <li><a href="codeofconduct.php">Code of Conduct</a></li>
               <li><a href="mandatorydisclosure.php">mandatory Disclosure</a></li>
-              <li><a href="#">Facts & Figures</a></li>
+              <li><a href="research_mou.php">MoU</a></li>
             </ul>
           <li class="dropdown"><a href="#"><span>Academics</span> <i class="bi bi-chevron-right"></i></a>
             <ul>
@@ -134,7 +134,7 @@ include("conn.php")
                 <li><a href="research_publications.php">Publications</a></li>
                 <li><a href="https://webdocs.pages.dev/assets/docs/r&d/Starup-Policy.pdf">Startup Policy</a></li>
                 <li><a href="research_seedmoney.php">Stella Mary's Seed Money</a></li>
-                <li><a href="research_mou.php">MoU</a></li>
+                
               </ul>
           <li class="dropdown"><a href="#"><span>Students' Zone</span> <i class="bi bi-chevron-right"></i></a>  
           <ul>
