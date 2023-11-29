@@ -136,7 +136,7 @@ include("conn.php")
                 <li><a href="research_seedmoney.php">Stella Mary's Seed Money</a></li>
                 
               </ul>
-          <li class="dropdown"><a href="#"><span>Students' Zone</span> <i class="bi bi-chevron-right"></i></a>  
+          <li class="dropdown"><a href="#"><span>Life at SMCE</span> <i class="bi bi-chevron-right"></i></a>  
           <ul>
           <li><a href="Sports.php">Sports</a></li>
               <li class="dropdown"><a href="#more-services" href="#"><span>Clubs & Cells</span> <i class="bi bi-chevron-right"></i></a>
