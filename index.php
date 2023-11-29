@@ -136,21 +136,52 @@ include("conn.php")
                 <li><a href="research_seedmoney.php">Stella Mary's Seed Money</a></li>
                 
               </ul>
+              <li class="dropdown"><a href="#"><span>Academics</span> <i class="bi bi-chevron-right"></i></a>
+            <ul>
+              <li class="dropdown"><a href="#more-services" href="#"><span>Co-curricular</span> <i class="bi bi-chevron-right"></i></a>
+                <ul>
+                <li><a href="cfi.php">Centre For Innovation</a></li>
+                <li><a href="culturalclub.php">Cultural Club</a></li>
+                <li><a href="Sports.php">Sports</a></li>
+                  <li><a href="eee.php">Electrical and Electronics Engineering</a></li>
+                  <li><a href="mech.php">Mechanical Engineering</a></li>
+                  <li><a href="aids.php">Artificial Intelligence and Data Science</a></li>
+                  <li><a href="sh.php">Science and Humanities</a></li>
+                </ul>
+              <li class="dropdown"><a href="#more-services" href="#"><span>Extra Curricular</span> <i class="bi bi-chevron-right"></i></a>
+                  <ul>
+                  <li><a href="nss.php">National Service Scheme</a></li>
+                  <li><a href="yrc">Yoth Red Cross</a></li>
+                    <li class="dropdown"><a href="mba.php"><span>Master of Business Administration</span> <i class="bi bi-chevron-right"></i></a>
+                      <ul>
+                        <li><a href="mba.php">Operations Management</a></li>
+                        <li><a href="mba.php">Human Resources Management</a></li>
+                        <li><a href="mba.php">Finncial Management</a></li>
+                        <li><a href="mba.php">Business Analytics Management</a></li>
+                        <li><a href="mba.php">Marketing Management</a></li>
+                        <li><a href="mba.php">Logistics & Supply Chain Management</a></li>
+                      </ul>  
+                  </ul>  
+              <li><a href="placement_home.php">Placement</a></li>
+              <li><a href="#">Academic Time-Table</a></li>
+              <li><a href="#">Academic Calender</a></li>
+              <li><a href="#">Admission Criteria</a></li>
+              <li><a href="#">LMS</a></li>
+            </ul>
           <li class="dropdown"><a href="#"><span>Life at SMCE</span> <i class="bi bi-chevron-right"></i></a>  
           <ul>
-          <li><a href="Sports.php">Sports</a></li>
+          
               <li class="dropdown"><a href="#more-services" href="#"><span>Clubs & Cells</span> <i class="bi bi-chevron-right"></i></a>
               <ul>
-                <li><a href="culturalclub.php">Cultural Club</a></li>
+                
                 <li><a href="lc.php">Literary Club</a></li>
                 <li><a href="#">Yoga Club</a></li>
-                <li><a href="cfi.php">Centre For Innovation</a></li>
-                <li><a href="nss.php">National Service Scheme</a></li>
-                <li><a href="yrc">Yoth Red Cross</a></li>
+                
+                
                 <li><a href="grievance.php">Grievance Redressal Cell</a></li>
                 <li><a href="ar.php">Anti Ragging</a></li>
                 <li><a href="edc.php">Entrepreneurship Development Cell</a></li>
-                <li><a href="#">Environmental Club</a></li>
+               
                 <li><a href="#">Institution Innovation Council</a></li>
                 <li><a href="icc.php">Internal Complaint Cell</a></li>
                 <li><a href="research_codeofethics.php">Research and Development Cell</a></li>
