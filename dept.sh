@@ -8,4 +8,4 @@ scp mech.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb
 scp mecse.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb/stellamaryscoe.edu.in/php_files_dir/mecse.php
 scp meise.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb/stellamaryscoe.edu.in/php_files_dir/meise.php
 scp sh.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb/stellamaryscoe.edu.in/php_files_dir/sh.php
-
+scp ipr.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb/stellamaryscoe.edu.in/php_files_dir/ipr.php
