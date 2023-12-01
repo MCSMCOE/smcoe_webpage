@@ -152,7 +152,7 @@ include("conn.php")
               <li class="dropdown"><a href="#more-services" href="#"><span>Extra Curricular</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                 <li><a href="nss.php">National Service Scheme</a></li>
-                <li><a href="yrc">Yoth Red Cross</a></li>  
+                <li><a href="yrc.php">Yoth Red Cross</a></li>  
                 </ul>  
               <li><a href="#">Institution Innovation Council</a></li>
                 <li><a href="icc.php">Internal Complaint Cell</a></li>
