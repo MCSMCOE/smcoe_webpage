@@ -132,6 +132,7 @@ include("conn.php")
                 <li><a href="research_codeofethics.php">Team & Code of Ethics</a></li>
                 <li><a href="research_publications.php">Publications</a></li>
                 <li><a href="research_seedmoney.php">Stella Mary's Seed Money</a></li>
+                <li><a href="ipr.php">Intellectual Property Rights</a></li>
                 <li class="dropdown"><a href="research_seedmoney.php">Industry Collaboration<i class="bi bi-chevron-right"></i></a>
                 <ul>
                 <li><a href="research_mou.php">Memorandum of Understanding</a></li>
