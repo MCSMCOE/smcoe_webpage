@@ -94,7 +94,6 @@ include("conn.php")
               <li><a href="strategicplan.php">Strategic Plan</a></li>
               <li><a href="codeofconduct.php">Code of Conduct</a></li>
               <li><a href="mandatorydisclosure.php">mandatory Disclosure</a></li>
-              <li><a href="research_mou.php">MoU</a></li>
             </ul>
           <li class="dropdown"><a href="#"><span>Academics</span> <i class="bi bi-chevron-right"></i></a>
             <ul>
@@ -132,12 +131,16 @@ include("conn.php")
               <ul>
                 <li><a href="research_codeofethics.php">Team & Code of Ethics</a></li>
                 <li><a href="research_publications.php">Publications</a></li>
-                <li><a href="https://webdocs.pages.dev/assets/docs/r&d/Starup-Policy.pdf">Startup Policy</a></li>
                 <li><a href="research_seedmoney.php">Stella Mary's Seed Money</a></li>
-                
+                <li class="dropdown"><a href="research_seedmoney.php">Industry Collaboration<i class="bi bi-chevron-right"></i></a>
+                <ul>
+                <li><a href="research_mou.php">Memorandum of Understanding</a></li>
+                <li><a href="https://webdocs.pages.dev/assets/docs/r&d/Starup-Policy.pdf">Startup Policy</a></li>
+                </ul>
               </ul>
+              
               <li class="dropdown"><a href="#"><span>Life at SMCE</span> <i class="bi bi-chevron-right"></i></a>
-            <ul>
+              <ul>
               <li class="dropdown"><a href="#more-services" href="#"><span>Co-curricular</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                 <li><a href="cfi.php">Centre For Innovation</a></li>
@@ -146,36 +149,23 @@ include("conn.php")
                 <li><a href="lc.php">Literary Club</a></li>
                 </ul>
               <li class="dropdown"><a href="#more-services" href="#"><span>Extra Curricular</span> <i class="bi bi-chevron-right"></i></a>
-                  <ul>
-                  <li><a href="nss.php">National Service Scheme</a></li>
-                  <li><a href="yrc">Yoth Red Cross</a></li>  
-                  </ul>  
+                <ul>
+                <li><a href="nss.php">National Service Scheme</a></li>
+                <li><a href="yrc">Yoth Red Cross</a></li>  
+                </ul>  
               <li><a href="#">Institution Innovation Council</a></li>
                 <li><a href="icc.php">Internal Complaint Cell</a></li>
                 <li><a href="research_codeofethics.php">Research and Development Cell</a></li>
                 <li><a href="placement_home.php">Career Guidance and Placement Training Cell</a></li>
                 <li><a href="mediacell.php">Media Cell</a></li>
                 <li><a href="grievance.php">Grievance Redressal Cell</a></li>
-                <li><a href="ar.php">Anti Ragging</a></li>
+                <li><a href="ar.php">Anti Ragging Cell</a></li>
                 <li><a href="edc.php">Entrepreneurship Development Cell</a></li>
                 <li><a href="https://www.infomirrorscloud.com/smce.webopac/Imt_frm_User_Login.aspx">Library</a></li>
               <li><a href="https://nptel.ac.in">NPTEL</a></li>
               <li><a href="https://delnet.in">DELNET</a></li>
               <li><a href="alumni.php">Alumni Association</a></li>
               <li><a href="https://swayam.gov.in">SWYAM - MOOC</a></li>
-            </ul>
-           
-          <ul>
-          
-             
-              <ul>
-                
-                
-              
-          <li><a class="nav-link scrollto" href="placement_home.php">Placement</a></li>
-          <li><a class="nav-link scrollto" href="iqac.php">IQAC</a></li>    
-          <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
-          </ul>
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="mandatorydisclosure.php">Mandatory Disclosure</a></li>
