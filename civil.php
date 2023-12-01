@@ -30,7 +30,7 @@ include("conn.php")
   
 
   <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
+  <link href="https://webdocs.pages.dev/assets/css/style.css" rel="stylesheet">
 
   <!-- =======================================================
   * Template Name: Vesperr
