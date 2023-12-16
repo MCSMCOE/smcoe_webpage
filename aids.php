@@ -227,7 +227,11 @@ include("conn.php")
         </div>
         <h3> Overview</h3>
           <p class="text-justify">
-            Department focuses on the study and application of electrical principles, systems, and devices to design, develop, and optimize power generation, distribution, and electronic systems for various industries and applications.    
+        
+B.Tech. Artificial Intelligence and Data Science programme was started in 2023 with the vision to impart students with a high-quality technical education, and instill professionalism. The Artificial Intelligence and Data Science course aims to indulge knowledge and also equip students with expertise in core technologies such as artificial intelligence, data science, natural language programming, deep learning, and big data analytics. The undergraduates are bound to acquire a strong foundation related to artificial intelligence and data science, along with in-depth knowledge pertaining to real-world smart applications.                                                                                                                                                                                                                                
+This graduate program has a comprehensive coverage of applied mathematics, statistics used in data science and artificial intelligence while preparing the students to analyze, design, and experiment with solutions to problems. The curriculum targets technical and design skills, AI knowledge, and competencies needed to master strategic analytical methods and tools to solve challenging real-world problems. Career opportunities in artificial intelligence and data science are: data scientist, knowledge engineer, data engineer, business analyst, data analyst, business intelligence engineer, machine learning engineer, and research scientist.
+The faculty members are highly motivated and devoted in delivering the high quality professional education to students and strive to excel in their research areas. The Department has planned to offer faculties, students, and industry partners a well-structured community for sharing and developing technical knowledge. The department has initiated collaboration with a number of industry partners to bridge the gaps in the vast and growing employment arena. Students shall be consistently offered opportunities to upgrade their technical knowledge and develop skills that make them more employable, qualify themselves for higher education, or develop themselves as strong entrepreneurs in the fields of artificial intelligence and data science.
+    
         </p>
       </div>
 
@@ -286,7 +290,7 @@ include("conn.php")
               <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                 <div class="icon"><i class="bx bxl-dribbble"></i></div>
                 <h4 class="title "><a href="">VISION</a></h4>
-                <p class="description text-justify">To provide world class technical education with ethics and professionalism and to create civil engineer with high technical competencies who would full fill the challenges and needs of today’s scenario with the help of green technology.</p>
+                <p class="description text-justify">To provide a cognitive learning environment and globally competent professionals in artificial intelligence and data science with ethics and social responsibility towards society.</p>
               </div>
             </div>
   
@@ -294,10 +298,10 @@ include("conn.php")
               <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                 <div class="icon"><i class="bx bx-file"></i></div>
                 <h4 class="title"><a href="">MISSION</a></h4>
-                <li class="text-justify">To impart quality technical education, imbibing lifelong learning and concern for environment.</li>
-                <li class="text-justify">To create job opportunities in research, industry and consultancy both nationally and internationally.</li>
-                <li class="text-justify">To provide technical skills, leadership qualities and team spirit among the students.</li>
-                <li class="text-justify">To establish center of excellence in emerging areas of research to find solution to the problem faced by the society.</li>
+                <li class="text-justify">To emphasize on transferring technical knowledge through progressive learning techniques in artificial intelligence and data science.</li>
+                <li class="text-justify">To collaborate with industries, Research Organizations and Professional Societies for enhancing development and career opportunities.</li>
+                <li class="text-justify">To empower the students in Artificial Intelligent based approaches sponsored by intelligent data centres across a range of disciplines.</li>
+                <li class="text-justify">To inculcate ethical values, social awareness and responsibility among students to meet society's requirements.</li>
               </div>
             </div>
   

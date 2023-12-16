@@ -5,13 +5,13 @@ $servername = "172.17.0.1";
 $username = "root";
 $password = "root";
 $db="mysql";
-$port="33070";  
+$port="33080";  
 $dbcon = mysqli_connect($servername, $username, $password,$db,$port);
 if (!$dbcon) {
     die("Connection failed: " .  mysqli_connect_error());
 }
 
-    $sql = "SELECT CONCAT('https://webdocs.pages.dev/assets/img/faculty/',sm.staff_id,'.png') imglink,sm.staff_id,TRIM(CONCAT(sm.`legend`,' ',IFNULL(sm.first_name,''),' ',IFNULL(sm.middle_name,''),' ',IFNULL(sm.last_name,''),' ')) staff_name, md.dept_name,cd.desg_name FROM `documentation`.`club_master` cm INNER JOIN documentation.`club_membership` cms ON cms.`cm_id`=cm.cm_id AND cms.staff_id IS NOT NULL AND cms.status>0 INNER JOIN camps.staff_master sm ON sm.staff_id=cms.staff_id INNER JOIN camps.master_department md ON md.department_id=sm.department_id INNER JOIN documentation.club_desg cd ON cd.cd_id=cms.cd_id INNER JOIN camps.master_academic_year may ON may.ay_id=cms.ay_id AND may.cur_year=1 WHERE cm.cm_id=11";
+    $sql = "SELECT IFNULL(CONCAT(pm.`authors`,', ',pm.`paper_title`,', ',pm.`transaction_title`,',',pt.`ptype`,', ',pm.`transaction_title`,', ',IF(pm.`volume` IS NOT NULL,'Vol:',''),IFNULL(pm.`volume`,''),IF(pm.`volume` IS NOT NULL,', ',''),IF(pm.`issue` IS NOT NULL,'Issue:',''),IFNULL(pm.`issue`,''),IF(pm.`issue` IS NOT NULL,',',''),IFNULL(pm.`issn_no`,''),IF(pm.`issn_no` IS NOT NULL,',',''),MONTHNAME(STR_TO_DATE(pm.`month`,'%m')),IF(pm.`month` IS NOT NULL,',',''),pm.`year`),'') details FROM documentation.`publication_master` pm INNER JOIN documentation.`publication_type` pt ON pt.`pt_id`=pm.`pt_id` INNER JOIN documentation.`publication_ss_mapping` pssm ON pssm.`publication_id`=pm.`publication_id` AND pssm.`staff_id`=1026";
     $result = mysqli_query($dbcon, $sql);
     echo "<h2>SQL Query:</h2>". $sql;
     if (!$result) {

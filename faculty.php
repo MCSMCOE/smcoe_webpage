@@ -342,6 +342,9 @@ include("conn.php")
             <h2>National & International Journals</h2>
           <div class="card">
               <div class="card-body">
+
+
+              
                 <h5 class="card-title text-center"></h5>
                 <!--<p>Add <code>.table-borderless</code> for a table without borders.</p>-->
                 <!-- Active Table -->
