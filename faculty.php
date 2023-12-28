@@ -341,10 +341,7 @@ include("conn.php")
           <div class="section-title" data-aos="fade-up">
             <h2>National & International Journals</h2>
           <div class="card">
-              <div class="card-body">
-
-
-              
+              <div class="card-body"> 
                 <h5 class="card-title text-center"></h5>
                 <!--<p>Add <code>.table-borderless</code> for a table without borders.</p>-->
                 <!-- Active Table -->
@@ -352,40 +349,34 @@ include("conn.php")
                   <thead>
                     <tr>
                       <th scope="col">#</th>
-                      <th scope="col">Title of paper</th>
-                      <th scope="col">Author/s</th>
-                      <th scope="col">Department</th>
-                      <th scope="col">Journal</th>
-                      <th scope="col">Year of Publication</th>
-                      <th scope="col">ISSN No</th>
                     </tr>
                   </thead>
                   <tbody>
-                      <tr>
-                        <th scope="row">1</th>
-                        <td>Blockchain based cloud service security architecture with distributed machine learning for smart device traffic record transaction</td>
-                        <td>Dr.Pon.Partheeban</td>
-                        <td>CSE</td>
-                        <td>WILEY Concurrency and Computation - Practice and Experience</td>
-                        <td>2021</td>
-                        <td>1532-0634</td>
-                      </tr>
-                      <tr>
-                        <th scope="row">2</th>
-                        <td>Bridie Kessler</td>
-                        <td>Developer</td>
-                        <td>35</td>
-                        <td>2014-12-05</td>
-                        <td>2021</td>
-                        <td>1532-0634</td>
-                      </tr>
-                     
+                  <?php
+//$dbcon - database connection
+$sql = "SELECT IFNULL(CONCAT(pm.`authors`,', ',pm.`paper_title`,', ',pm.`transaction_title`,',',pt.`ptype`,', ',pm.`transaction_title`,', ',IF(pm.`volume` IS NOT NULL,'Vol:',''),IFNULL(pm.`volume`,''),IF(pm.`volume` IS NOT NULL,', ',''),IF(pm.`issue` IS NOT NULL,'Issue:',''),IFNULL(pm.`issue`,''),IF(pm.`issue` IS NOT NULL,',',''),IFNULL(pm.`issn_no`,''),IF(pm.`issn_no` IS NOT NULL,',',''),MONTHNAME(STR_TO_DATE(pm.`month`,'%m')),IF(pm.`month` IS NOT NULL,',',''),pm.`year`),'') details 
+        FROM documentation.`publication_master` pm 
+        INNER JOIN documentation.`publication_type` pt ON pt.`pt_id`=pm.`pt_id` 
+        INNER JOIN documentation.`publication_ss_mapping` pssm ON pssm.`publication_id`=pm.`publication_id` AND pssm.staff_id=".$_GET['staff_id'];
+
+$result = mysqli_query($dbcon, $sql);
+
+if (mysqli_num_rows($result) > 0) {
+    while ($data = mysqli_fetch_assoc($result)) {
+        ?>
+        <tr>
+            <th scope="row"><?php echo $data[""]; ?></th>
+            <td class text-left><?php echo $data["details"]; ?></td>
+        </tr>
+        <?php
+    }
+}
+?>
+
                     </tbody>
                   </table>
                 </div> 
         </div>
-  
-  
     <div class="section-title" data-aos="fade-up">
       <h2>Conference Publications</h2>
     <div class="card">
