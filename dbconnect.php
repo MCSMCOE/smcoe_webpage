@@ -11,7 +11,19 @@ if (!$dbcon) {
     die("Connection failed: " .  mysqli_connect_error());
 }
 
-    $sql = "SELECT IFNULL(CONCAT(pm.`authors`,', ',pm.`paper_title`,', ',pm.`transaction_title`,',',pt.`ptype`,', ',pm.`transaction_title`,', ',IF(pm.`volume` IS NOT NULL,'Vol:',''),IFNULL(pm.`volume`,''),IF(pm.`volume` IS NOT NULL,', ',''),IF(pm.`issue` IS NOT NULL,'Issue:',''),IFNULL(pm.`issue`,''),IF(pm.`issue` IS NOT NULL,',',''),IFNULL(pm.`issn_no`,''),IF(pm.`issn_no` IS NOT NULL,',',''),MONTHNAME(STR_TO_DATE(pm.`month`,'%m')),IF(pm.`month` IS NOT NULL,',',''),pm.`year`),'') details FROM documentation.`publication_master` pm INNER JOIN documentation.`publication_type` pt ON pt.`pt_id`=pm.`pt_id` INNER JOIN documentation.`publication_ss_mapping` pssm ON pssm.`publication_id`=pm.`publication_id` AND pssm.`staff_id`=1026";
+    $sql = "SELECT 
+    cws.authors,
+    cws.paper_title,
+    cpt.cws_ptype,
+    cws.event_name,
+    cws.event_location
+FROM 
+    documentation.cws_publication_master cws
+INNER JOIN 
+    documentation.cws_publication_ss_mapping cpssm ON cpssm.staff_id = '1026' 
+    AND cpssm.cws_publication_id = cws.cws_publication_id
+INNER JOIN 
+    documentation.cws_publication_type cpt ON cpt.cws_pt_id = cws.cws_pt_id";
     $result = mysqli_query($dbcon, $sql);
     echo "<h2>SQL Query:</h2>". $sql;
     if (!$result) {

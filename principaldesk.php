@@ -198,7 +198,7 @@ include("conn.php")
     <section id="about" class="about shadow p-4">
       <div class="container" data-aos="fade-up">
         <div class="row align-items-start">
-          <div class="col-lg-4 order-1 order-lg-6" data-aos="fade-right" data-aos-delay="100">
+          <div class="col-lg-3 order-1 order-lg-6" data-aos="fade-right" data-aos-delay="100">
             <img src="https://webdocs.pages.dev/assets/img/faculty/1278.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-7 pt-4 pt-lg-0 order-2 order-lg-1 justify-content-xl-start">
@@ -207,9 +207,9 @@ include("conn.php")
               <small class="h6 text-secondary">M.E, Ph.D</small>
             </span>
     
-            <p class="p-3 fst-italic text-justify"  >
-              <i class="bx bxs-quote-alt-left quote-icon-left text-secondary h4 mr-3"></i>
-              It is education that defines and differentiates the human being from the rest of the creatures. Education always plays a vital role in the overall development and personality of an individual. Having realized this importance, SMCE aims to impart strong knowledge to its students who are young and are in thirst for it. SMCE will constantly work to provide the best knowledge to its students, through a team of dedicated staff and experienced faculty. Students are sure to get a new and good academic experience at our institution which would turn them into a holistic personality at the end of their course.
+            <p class="p-6 fst-italic text-justify" style="line-height: 3;"  >
+              <i class="bx bxs-quote-alt-left quote-icon-left text-secondary h4 mr-6"></i>
+              It is education that defines and differentiates the human being from the rest of the creatures. Education always plays a vital role in the overall development and personality of an individual. Having realized this importance, Stella Mary's College of Engineering aims to impart strong knowledge to its students who are young and are in thirst for it. Stella Mary's College of Engineering will constantly work to provide the best knowledge to its students, through a team of dedicated staff and experienced faculty. Students are sure to get a new and good academic experience at our institution which would turn them into a holistic personality at the end of their course.
               <i class="bx bxs-quote-alt-right quote-icon-right text-secondary h4 ml-3"></i>
             </p>
             <!--<ul>
