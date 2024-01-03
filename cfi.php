@@ -212,7 +212,7 @@ include("conn.php")
               <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Memorandom of Understanding</a>
               </li>
-              <li class="nav-item">
+              <!--<li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-6">TEST</a>
               </li>
               <li class="nav-item">
@@ -223,7 +223,7 @@ include("conn.php")
               </li>
               <li class="nav-item">
                   <a class="nav-link" data-bs-toggle="tab" href="#tab-9">Action Plan</a>
-              </li>
+              </li>-->
               <li class="nav-item">
                   <a class="nav-link" data-bs-toggle="tab" href="#tab-10">Gallery</a>
               </li>
@@ -321,8 +321,8 @@ include("conn.php")
           <div class="container">
     
             <div class="section-title" data-aos="fade-up">
-              <h2>Non-Teaching Faculty</h2>
-              <p>The supporting hands of Computer Science and Engineering</p>
+              <h2>Student Members</h2>
+              <p></p>
             </div>
     
             <div class="row justify-content-center">
@@ -697,7 +697,7 @@ include("conn.php")
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <!-- ======= Services Section ======= -->
-        <section id="services" class="services">
+        <!--<section id="services" class="services">
             <div class="container">
               <div class="row">
                 <div class="col-md-6 col-lg-4 d-flex align-items-center mb-5 mb-lg-0">
@@ -714,14 +714,14 @@ include("conn.php")
                   </div>
               </div>
             </div>
-          </section><!-- End Services Section --></div>
+          </section><!-- End Services Section --><!--</div>
                   </div>
                 </div>
                 <div class="tab-pane" id="tab-7">
                   <div class="row">
-                    <div class="col-lg-8 details order-2 order-lg-1">
+                    <div class="col-lg-8 details order-2 order-lg-1">-->
                       <!-- ======= Services Section ======= -->
-        <section id="services" class="services">
+        <!--<section id="services" class="services">
             <div class="container">
               <div class="row">
                 <div class="col-md-7 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
@@ -738,14 +738,14 @@ include("conn.php")
                   </div>
               </div>
             </div>
-          </section><!-- End Services Section --></div>
+          </section><!-- End Services Section --><!--</div>
                   </div>
                 </div>
                 <div class="tab-pane" id="tab-8">
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <!-- ======= Services Section ======= -->
-        <section id="services" class="services">
+        <!--<section id="services" class="services">
             <div class="container">
               <div class="row">
                 <div class="col-md-6 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
@@ -822,12 +822,12 @@ include("conn.php")
                 </div>
               </div>
             </div>
-          </section><!-- End Services Section --></div>
+          </section><!-- End Services Section --><!--</div>
                   </div>
                 </div>
                 <div class="tab-pane" id="tab-9">
                   <div class="row">
-                      <section id="features" class="features">
+                      <!--<section id="features" class="features">
                           <div class="container">
                     
                             <div class="section-title" data-aos="fade-up">
@@ -835,7 +835,7 @@ include("conn.php")
                               <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
                             </div>
                     
-                            <div class="row" data-aos="fade-up" data-aos-delay="300">
+                            <!--<div class="row" data-aos="fade-up" data-aos-delay="300">
                               <div class="col-lg-3 col-md-4">
                                 <div class="icon-box">
                                   <i class="ri-calendar-todo-line" style="color: #ffbb2c;"></i>

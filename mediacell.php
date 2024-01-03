@@ -202,7 +202,7 @@ include("conn.php")
               <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-2">Faculty Members</a>
               </li>
-              <li class="nav-item">
+              <!--<li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-3">Student Members</a>
               </li>
               <li class="nav-item">
@@ -225,7 +225,7 @@ include("conn.php")
               </li>
               <li class="nav-item">
                   <a class="nav-link" data-bs-toggle="tab" href="#tab-10">Report</a>
-              </li>
+              </li>-->
             </ul>
           </div>
           <div class="col-lg-9 mt-4 mt-lg-0">
@@ -316,7 +316,7 @@ include("conn.php")
               <div class="tab-pane" id="tab-3">
                 <div class="row">
                   <!-- ======= Team Section ======= -->
-      <section id="team" class="team section-bg">
+     <!-- <section id="team" class="team section-bg">
           <div class="container">
     
             <div class="section-title" data-aos="fade-up">
@@ -383,7 +383,7 @@ include("conn.php")
             </div>
           </div>
         </section><!-- End Team Section -->
-                </div>
+               <!-- </div>
               </div>
               <div class="tab-pane" id="tab-4">
                 <div class="row">
@@ -421,7 +421,7 @@ include("conn.php")
                     <h3>Achievements</h3>
                     
                    <!-- Default Accordion -->
-                <div class="accordion" id="accordionExample">
+               <!-- <div class="accordion" id="accordionExample">
                   <div class="accordion-item">
                     <h2 class="accordion-header" id="headingOne">
                       <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
@@ -549,7 +549,7 @@ include("conn.php")
                   </div>
                 </div><!-- End Default Accordion Example -->
                   
-                  </div>
+                <!--  </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
                     <img src="assets/img/course-details-tab-5.png" alt="" class="img-fluid">
                   </div>
@@ -559,7 +559,7 @@ include("conn.php")
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <!-- ======= Services Section ======= -->
-        <section id="services" class="services">
+      <!--  <section id="services" class="services">
             <div class="container">
               <div class="row">
                 <div class="col-md-6 col-lg-4 d-flex align-items-center mb-5 mb-lg-0">
@@ -576,14 +576,15 @@ include("conn.php")
                   </div>
               </div>
             </div>
-          </section><!-- End Services Section --></div>
+          </section><!-- End Services Section -->
+        <!--</div>
                   </div>
                 </div>
                 <div class="tab-pane" id="tab-7">
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <!-- ======= Services Section ======= -->
-        <section id="services" class="services">
+        <!--<section id="services" class="services">
             <div class="container">
               <div class="row">
                 <div class="col-md-7 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
@@ -600,14 +601,14 @@ include("conn.php")
                   </div>
               </div>
             </div>
-          </section><!-- End Services Section --></div>
+          </section><!-- End Services Section --><!--</div>
                   </div>
                 </div>
                 <div class="tab-pane" id="tab-8">
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
                       <!-- ======= Services Section ======= -->
-        <section id="services" class="services">
+        <!--<section id="services" class="services">
             <div class="container">
               <div class="row">
                 <div class="col-md-6 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
@@ -684,7 +685,7 @@ include("conn.php")
                 </div>
               </div>
             </div>
-          </section><!-- End Services Section --></div>
+          </section><!-- End Services Section --><!--</div>
                   </div>
                 </div>
                 <div class="tab-pane" id="tab-9">
@@ -695,7 +696,7 @@ include("conn.php")
                             <div class="section-title" data-aos="fade-up">
                               <h2>Newsletter</h2>
                               <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
-                            </div>
+                           <!-- </div>
                     
                             <div class="row" data-aos="fade-up" data-aos-delay="300">
                               <div class="col-lg-3 col-md-4">
@@ -774,7 +775,7 @@ include("conn.php")
                     
                           </div>
                         </section><!-- End Features Section -->
-                        </div>
+                       <!-- </div>
                         </div>
                         <div class="tab-pane" id="tab-10">
                           <div class="row">
@@ -784,7 +785,7 @@ include("conn.php")
                                     <div class="section-title" data-aos="fade-up">
                                       <h2>Brochure</h2>
                                       <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
-                                    </div>
+                                  <!--  </div>
                             
                                     <div class="row" data-aos="fade-up" data-aos-delay="300">
                                       <div class="col-lg-3 col-md-4">

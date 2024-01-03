@@ -310,7 +310,7 @@ include("conn.php")
           <div class="count-box">
             <i class="bi bi-journal-richtext"></i>
             <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-            <p><strong>Conferences</strong></p>
+            <p><strong>Conferences, Workshops, Seminars</strong></p>
           </div>
         </div>
 
@@ -342,13 +342,14 @@ include("conn.php")
             <h2>National & International Journals</h2>
           <div class="card">
               <div class="card-body"> 
-                <h5 class="card-title text-center"></h5>
+                <h5 class="card-title text-left"></h5>
                 <!--<p>Add <code>.table-borderless</code> for a table without borders.</p>-->
                 <!-- Active Table -->
                 <table class="table table-striped text-center table-hover">
                   <thead>
                     <tr>
                       <th scope="col">#</th>
+                      <th scope="col">Details</th>
                     </tr>
                   </thead>
                   <tbody>
@@ -362,13 +363,15 @@ $sql = "SELECT IFNULL(CONCAT(pm.`authors`,', ',pm.`paper_title`,', ',pm.`transac
 $result = mysqli_query($dbcon, $sql);
 
 if (mysqli_num_rows($result) > 0) {
+  $slno = 1;
     while ($data = mysqli_fetch_assoc($result)) {
         ?>
         <tr>
-            <th scope="row"><?php echo $data[""]; ?></th>
-            <td class text-left><?php echo $data["details"]; ?></td>
+            <th scope="row"><?php echo $slno; ?></th>
+            <td class="card-text text-justify"><?php echo $data["details"]; ?></td>
         </tr>
         <?php
+        $slno++;
     }
 }
 ?>

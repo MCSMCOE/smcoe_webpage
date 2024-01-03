@@ -1,0 +1,15 @@
+scp ar.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb/stellamaryscoe.edu.in/php_files_dir/ar.php
+scp cfi.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb/stellamaryscoe.edu.in/php_files_dir/cfi.php
+scp culturalclub.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb/stellamaryscoe.edu.in/php_files_dir/culturalclub.php
+scp facilities.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb/stellamaryscoe.edu.in/php_files_dir/facilities.php
+scp grievance.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb/stellamaryscoe.edu.in/php_files_dir/grievance.php
+scp icc.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb/stellamaryscoe.edu.in/php_files_dir/icc.php
+scp lc.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb/stellamaryscoe.edu.in/php_files_dir/lc.php
+scp mc.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb/stellamaryscoe.edu.in/php_files_dir/mc.php
+scp nss.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb/stellamaryscoe.edu.in/php_files_dir/nss.php
+scp science.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb/stellamaryscoe.edu.in/php_files_dir/science.php
+scp Sports.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb/stellamaryscoe.edu.in/php_files_dir/Sports.php
+scp yrc.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb/stellamaryscoe.edu.in/php_files_dir/yrc.php
+scp edc.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb/stellamaryscoe.edu.in/php_files_dir/edc.php
+scp ipr.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb/stellamaryscoe.edu.in/php_files_dir/ipr.php
+scp mediacell.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb/stellamaryscoe.edu.in/php_files_dir/mediacell.php
