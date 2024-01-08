@@ -207,20 +207,11 @@ include("conn.php")
               <small class="h6 text-secondary">M.E, Ph.D</small>
             </span>
     
-            <p class="p-6 fst-italic text-justify" style="line-height: 3;"  >
+            <p class="p-8 fst-italic text-justify" style="line-height: 3;"  >
               <i class="bx bxs-quote-alt-left quote-icon-left text-secondary h4 mr-6"></i>
               It is education that defines and differentiates the human being from the rest of the creatures. Education always plays a vital role in the overall development and personality of an individual. Having realized this importance, Stella Mary's College of Engineering aims to impart strong knowledge to its students who are young and are in thirst for it. Stella Mary's College of Engineering will constantly work to provide the best knowledge to its students, through a team of dedicated staff and experienced faculty. Students are sure to get a new and good academic experience at our institution which would turn them into a holistic personality at the end of their course.
               <i class="bx bxs-quote-alt-right quote-icon-right text-secondary h4 ml-3"></i>
             </p>
-            <!--<ul>
-              <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check-circle"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-            </ul>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-            </p>
-          -->
           </div>
         </div>
 

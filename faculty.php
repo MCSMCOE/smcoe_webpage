@@ -248,15 +248,15 @@ include("conn.php")
                 <li><i class="bi bi-chevron-right"></i> <strong>Name:</strong> <span><?php 
                     printf("%s", $data["staff_name"]);
                     ?></span></li>
-                <li><i class="bi bi-chevron-right"></i> <strong>Vidwan:</strong> <span><?php 
-                    printf("%s", $data["age"]);
-                    ?></span></li>
+                
                 <li><i class="bi bi-chevron-right"></i> <strong>Date of Joining:</strong> <span><?php 
                     printf("%s", $data["doj"]);
                     ?></span></li>
                 <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span><?php 
                     printf("%s", $data["institute_email_id"]);
                     ?></span></li>
+                   <!-- <li><i class="bi bi-chevron-right"></i> <strong>Vidwan:</strong> <span> 
+                   </span></li>-->
               </ul>
             </div>
             <div class="col-lg-7">
@@ -288,13 +288,13 @@ include("conn.php")
 
 
   <!-- ======= Facts Section ======= -->
-  <section id="facts" class="facts">
+  <!--<section id="facts" class="facts">
     <div class="container">
 
       <div class="section-title">
         <h2>Facts</h2>
-       <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>-->
-      </div>
+       <!<p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>-->
+     <!-- </div>
 
       <div class="row no-gutters">
 
@@ -333,7 +333,7 @@ include("conn.php")
       </div>
 
     </div>
-  </section><!-- End Facts Section -->
+  </section><! End Facts Section -->
         <section id="faq" class="faq">
           <div class="container">
     
@@ -414,7 +414,7 @@ ON cpssm.staff_id = ".$_GET['staff_id']."
 AND cpssm.cws_publication_id = cws.cws_publication_id 
 INNER JOIN 
 documentation.cws_publication_type cpt 
-ON cpt.cws_pt_id = cws.cws_pt_id";
+ON cpt.cws_pt_id = cws.cws_pt_id WHERE cws.record_status>0" ;
 
 $result = mysqli_query($dbcon, $sql);
 

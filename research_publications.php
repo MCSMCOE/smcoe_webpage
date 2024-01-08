@@ -207,35 +207,35 @@ include("conn.php")
                 <thead>
                   <tr>
                     <th scope="col">#</th>
-                    <th scope="col">Title of paper</th>
-                    <th scope="col">Author/s</th>
-                    <th scope="col">Department</th>
-                    <th scope="col">Journal</th>
-                    <th scope="col">Year of Publication</th>
-                    <th scope="col">ISSN No</th>
+                    <th scope="col">Details</th>
+                   
                   </tr>
                 </thead>
                 <tbody>
-                    <tr>
-                      <th scope="row">1</th>
-                      <td>Blockchain based cloud service security architecture with distributed machine learning for smart device traffic record transaction</td>
-                      <td>Dr.Pon.Partheeban</td>
-                      <td>CSE</td>
-                      <td>WILEY Concurrency and Computation - Practice and Experience</td>
-                      <td>2021</td>
-                      <td>1532-0634</td>
-                    </tr>
-                    <tr>
-                      <th scope="row">2</th>
-                      <td>Bridie Kessler</td>
-                      <td>Developer</td>
-                      <td>35</td>
-                      <td>2014-12-05</td>
-                      <td>2021</td>
-                      <td>1532-0634</td>
-                    </tr>
-                   
-                  </tbody>
+                  <?php
+//$dbcon - database connection
+$sql = "SELECT IFNULL (CONCAT(pm.authors,', ',pm.paper_title,', ',pm.transaction_title,',',pt.ptype,',',IF(pm.volume IS NOT NULL,'Vol:',''),IFNULL(pm.volume,''),IF(pm.volume IS NOT NULL,', ',''),IF(pm.issue IS NOT NULL,'Issue:',''),IFNULL(pm.issue,''),IF(pm.issue IS NOT NULL,',',''),IFNULL(pm.issn_no,''),IF(pm.issn_no IS NOT NULL,',',''),MONTHNAME(STR_TO_DATE(pm.month,'%m')),IF(pm.month IS NOT NULL,',',''),pm.year),'') details  
+        FROM documentation.`publication_master` pm 
+        INNER JOIN documentation.`publication_type` pt ON pt.`pt_id`=pm.`pt_id` AND pm.record_status > 0  
+        INNER JOIN documentation.`publication_ss_mapping` pssm ON pssm.`publication_id`=pm.`publication_id`";
+
+$result = mysqli_query($dbcon, $sql);
+
+if (mysqli_num_rows($result) > 0) {
+  $slno = 1;
+    while ($data = mysqli_fetch_assoc($result)) {
+        ?>
+        <tr>
+            <th scope="row"><?php echo $slno; ?></th>
+            <td class="card-text text-justify"><?php echo $data["details"]; ?></td>
+        </tr>
+        <?php
+        $slno++;
+    }
+}
+?>
+
+                    </tbody>
                 </table>
               </div> 
       </div>
@@ -293,35 +293,45 @@ include("conn.php")
         <thead>
           <tr>
             <th scope="col">#</th>
-            <th scope="col">Title of paper</th>
-            <th scope="col">Author/s</th>
-            <th scope="col">Department</th>
-            <th scope="col">Name of the Conference</th>
-            <th scope="col">Year of Publication</th>
-            <th scope="col">ISSN No</th>
+            <th scope="col">Details</th>
           </tr>
         </thead>
         <tbody>
-            <tr>
-              <th scope="row">1</th>
-              <td>Blockchain based cloud service security architecture with distributed machine learning for smart device traffic record transaction</td>
-              <td>Dr.Pon.Partheeban</td>
-              <td>CSE</td>
-              <td>WILEY Concurrency and Computation - Practice and Experience</td>
-              <td>2021</td>
-              <td>1532-0634</td>
-            </tr>
-            <tr>
-              <th scope="row">2</th>
-              <td>Bridie Kessler</td>
-              <td>Developer</td>
-              <td>35</td>
-              <td>2014-12-05</td>
-              <td>2021</td>
-              <td>1532-0634</td>
-            </tr>
-           
-          </tbody>
+          <?php
+//$dbcon - database connection
+$sql = "SELECT 
+CONCAT(
+    cws.authors, ', ', 
+    cws.paper_title, ', ', 
+    cpt.cws_ptype, ', ', 
+    cws.event_name, ', ', 
+    cws.event_location, ', ', 
+    MONTHNAME(cws.dop), '-', YEAR(cws.dop)
+) AS details 
+FROM 
+documentation.cws_publication_master cws 
+INNER JOIN 
+documentation.cws_publication_ss_mapping cpssm 
+ON cpssm.cws_publication_id = cws.cws_publication_id 
+INNER JOIN 
+documentation.cws_publication_type cpt 
+ON cpt.cws_pt_id = cws.cws_pt_id WHERE cws.record_status>0" ;
+$result = mysqli_query($dbcon, $sql);
+if (mysqli_num_rows($result) > 0) {
+  $slno = 1;
+    while ($data = mysqli_fetch_assoc($result)) {
+        ?>
+        <tr>
+            <th scope="row"><?php echo $slno; ?></th>
+            <td class="card-text text-justify"><?php echo $data["details"]; ?></td>
+        </tr>
+        <?php
+        $slno++;
+    }
+}
+?>
+             
+            </tbody>
         </table>
       </div>
 </div>
@@ -376,38 +386,39 @@ include("conn.php")
     <!--<p>Add <code>.table-borderless</code> for a table without borders.</p>-->
     <!-- Active Table -->
     <table class="table table-striped text-center table-hover">
-      <thead>
+    <thead>
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">Title of patent</th>
+            <th scope="col">File Date</th>
+            <th scope="col">Patent Status</th>
+            
+          </tr>
+        </thead>
+        <tbody>
+        <?php
+//$dbcon - database connection
+$sql = "SELECT pm.`patent_title`,pm.`filing_date`,ps.`patent_status` FROM documentation.`patent_master` pm INNER JOIN documentation.`patent_ss_mapping` psm ON psm.`patent_id`=pm.`patent_id` INNER JOIN documentation.`patent_status` ps ON ps.`ps_id`=pm.`ps_id`";
+
+$result = mysqli_query($dbcon, $sql);
+
+if (mysqli_num_rows($result) > 0) {
+  $slno = 1;
+    while ($data = mysqli_fetch_assoc($result)) {
+        ?>
         <tr>
-          <th scope="col">#</th>
-          <th scope="col">Title of Patent</th>
-          <th scope="col">Author/s</th>
-          <th scope="col">Department</th>
-          <th scope="col">Registration No</th>
-          <th scope="col">Year of Publication</th>
-          <th scope="col">Patent Status</th>
+            <th scope="row"><?php echo $slno; ?></th>
+            <td><?php echo $data["patent_title"]; ?></td>
+            <td><?php echo $data["filing_date"]; ?></td>
+            <td><?php echo $data["patent_status"]; ?></td>
         </tr>
-      </thead>
-      <tbody>
-          <tr>
-            <th scope="row">1</th>
-            <td>Blockchain based cloud service security architecture with distributed machine learning for smart device traffic record transaction</td>
-            <td>Dr.Pon.Partheeban</td>
-            <td>CSE</td>
-            <td>WILEY Concurrency and Computation - Practice and Experience</td>
-            <td>2021</td>
-            <td>1532-0634</td>
-          </tr>
-          <tr>
-            <th scope="row">2</th>
-            <td>Bridie Kessler</td>
-            <td>Developer</td>
-            <td>35</td>
-            <td>2014-12-05</td>
-            <td>2021</td>
-            <td>1532-0634</td>
-          </tr>
-         
-        </tbody>
+        <?php
+        $slno++;
+    }
+}
+?>
+           
+          </tbody>
       </table>
     </div>
 </div>

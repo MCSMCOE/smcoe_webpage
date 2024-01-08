@@ -200,7 +200,7 @@ include("conn.php")
                 <a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">Objective</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-2">Faculty Members</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-2">Members</a>
               </li>
               <!--<li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-3">Student Members</a>
