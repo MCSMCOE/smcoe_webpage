@@ -181,11 +181,7 @@ include("conn.php")
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Principal's Desk</h2>
-          <ol>
-            <li><a href="index.php">Home</a></li>
-            <li>Principal's Desk</li>
-          </ol>
+          <h2>Director's Desk</h2>
         </div>
 
       </div>
@@ -199,17 +195,125 @@ include("conn.php")
       <div class="container" data-aos="fade-up">
         <div class="row align-items-start">
           <div class="col-lg-3 order-1 order-lg-6" data-aos="fade-right" data-aos-delay="100">
-            <img src="https://webdocs.pages.dev/assets/img/faculty/1278.png" class="img-fluid" alt="">
+            <img src="https://webdocs.pages.dev/assets/img/faculty/1271.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-7 pt-4 pt-lg-0 order-2 order-lg-1 justify-content-xl-start">
             <span class="h3 d-inline-block">
-              <b class="font-weight-bold">Dr. R. SURESH PREMIL KUMAR</b>
-              <small class="h6 text-secondary">M.E, Ph.D</small>
+              <b class="font-weight-bold">Dr.J.Jenix Rino</b>
+              <small class="h6 text-secondary">M.E.,M.B.A.,Ph.D</small>
             </span>
     
             <p class="p-8 fst-italic text-justify" style="line-height: 3;"  >
               <i class="bx bxs-quote-alt-left quote-icon-left text-secondary h4 mr-6"></i>
               It is education that defines and differentiates the human being from the rest of the creatures. Education always plays a vital role in the overall development and personality of an individual. Having realized this importance, Stella Mary's College of Engineering aims to impart strong knowledge to its students who are young and are in thirst for it. Stella Mary's College of Engineering will constantly work to provide the best knowledge to its students, through a team of dedicated staff and experienced faculty. Students are sure to get a new and good academic experience at our institution which would turn them into a holistic personality at the end of their course.
+              <i class="bx bxs-quote-alt-right quote-icon-right text-secondary h4 ml-3"></i>
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+      </div>
+    </section>
+    <section class="breadcrumbs">
+      <div class="container">
+        <div class="d-flex justify-content-between align-items-center">
+          <h2>Principal's Desk</h2>
+        </div>
+
+      </div>
+    </section>
+    <section class="principaldesk" data-aos="fade-in">
+      <div class="container">
+       
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about shadow p-4">
+      <div class="container" data-aos="fade-up">
+        <div class="row align-items-start">
+          <div class="col-lg-3 order-1 order-lg-6" data-aos="fade-right" data-aos-delay="100">
+            <img src="https://webdocs.pages.dev/assets/img/faculty/1278.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-7 pt-4 pt-lg-0 order-2 order-lg-1 justify-content-xl-start">
+            <span class="h3 d-inline-block">
+              <b class="font-weight-bold">Dr.R.SURESH PREMIL KUMAR</b>
+              <small class="h6 text-secondary">M.E.,Ph.D</small>
+            </span>
+    
+            <p class="p-8 fst-italic text-justify" style="line-height: 3;"  >
+              <i class="bx bxs-quote-alt-left quote-icon-left text-secondary h4 mr-6"></i>
+              It is education that defines and differentiates the human being from the rest of the creatures. Education always plays a vital role in the overall development and personality of an individual. Having realized this importance, Stella Mary's College of Engineering aims to impart strong knowledge to its students who are young and are in thirst for it. Stella Mary's College of Engineering will constantly work to provide the best knowledge to its students, through a team of dedicated staff and experienced faculty. Students are sure to get a new and good academic experience at our institution which would turn them into a holistic personality at the end of their course.
+              <i class="bx bxs-quote-alt-right quote-icon-right text-secondary h4 ml-3"></i>
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+      </div>
+    </section>
+    <section class="breadcrumbs">
+      <div class="container">
+        <div class="d-flex justify-content-between align-items-center">
+          <h2>Joint Director's Desk</h2>
+        </div>
+
+      </div>
+    </section>
+    <section class="principaldesk" data-aos="fade-in">
+      <div class="container">
+       
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about shadow p-4">
+      <div class="container" data-aos="fade-up">
+        <div class="row align-items-start">
+          <div class="col-lg-3 order-1 order-lg-6" data-aos="fade-right" data-aos-delay="100">
+            <img src="https://webdocs.pages.dev/assets/img/faculty/1131.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-7 pt-4 pt-lg-0 order-2 order-lg-1 justify-content-xl-start">
+            <span class="h3 d-inline-block">
+              <b class="font-weight-bold">Dr.R.K.Madhumathi</b>
+              <small class="h6 text-secondary">M.E, Ph.D</small>
+            </span>
+    
+            <p class="p-8 fst-italic text-justify" style="line-height: 3;"  >
+              <i class="bx bxs-quote-alt-left quote-icon-left text-secondary h4 mr-6"></i>
+              Welcome to the vibrant world of <strong>Research and Development </strong>at Stella Mary's College of Engineering! Our mission is to ignite curiosity and innovation, driving transformative discoveries. We foster an environment that nurtures groundbreaking ideas and interdisciplinary collaboration. Through cutting-edge research, we aim to address societal challenges and push the boundaries of knowledge. Join us in this journey of exploration and innovation, where creativity thrives and ideas come to life. Our dedicated team is committed to supporting scholars and cultivating a culture of academic excellence. Together, let's unlock new horizons and shape the future of knowledge!
+              <i class="bx bxs-quote-alt-right quote-icon-right text-secondary h4 ml-3"></i>
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+      </div>
+    </section>
+    <section class="breadcrumbs">
+      <div class="container">
+        <div class="d-flex justify-content-between align-items-center">
+          <h2>Accounts Manager's Desk</h2>
+        </div>
+
+      </div>
+    </section>
+    <section class="principaldesk" data-aos="fade-in">
+      <div class="container">
+       
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about shadow p-4">
+      <div class="container" data-aos="fade-up">
+        <div class="row align-items-start">
+          <div class="col-lg-3 order-1 order-lg-6" data-aos="fade-right" data-aos-delay="100">
+            <img src="https://webdocs.pages.dev/assets/img/faculty/1294.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-7 pt-4 pt-lg-0 order-2 order-lg-1 justify-content-xl-start">
+            <span class="h3 d-inline-block">
+              <b class="font-weight-bold">Mrs.Melba Heni</b>
+              <small class="h6 text-secondary">M.B.A.,M.Phil</small>
+            </span>
+    
+            <p class="p-8 fst-italic text-justify" style="line-height: 3;"  >
+              <i class="bx bxs-quote-alt-left quote-icon-left text-secondary h4 mr-6"></i>
+              Welcome to the <strong>Financial Services</strong> Hub at Stella Mary's College of Engineering! We're your partners in navigating financial aspects, ensuring a seamless journey throughout your education. From tuition guidance to financial aid, our team is here to support your goals. Explore our resources and connect with us for personalized assistance. Let's pave the way for your academic success together!
               <i class="bx bxs-quote-alt-right quote-icon-right text-secondary h4 ml-3"></i>
             </p>
           </div>

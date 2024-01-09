@@ -297,7 +297,7 @@ if (mysqli_num_rows($result) > 0) {
           </tr>
         </thead>
         <tbody>
-          <?php
+        <?php
 //$dbcon - database connection
 $sql = "SELECT 
 CONCAT(
@@ -315,8 +315,10 @@ documentation.cws_publication_ss_mapping cpssm
 ON cpssm.cws_publication_id = cws.cws_publication_id 
 INNER JOIN 
 documentation.cws_publication_type cpt 
-ON cpt.cws_pt_id = cws.cws_pt_id WHERE cws.record_status>0" ;
+ON cpt.cws_pt_id = cws.cws_pt_id AND cws.record_status>0 " ;
+
 $result = mysqli_query($dbcon, $sql);
+
 if (mysqli_num_rows($result) > 0) {
   $slno = 1;
     while ($data = mysqli_fetch_assoc($result)) {

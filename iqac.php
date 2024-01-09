@@ -339,7 +339,7 @@ include("conn.php")
                 </div>
                 <div class="member-info">
                   <h4 class="title"><a href="faculty.php?staff_id=1271">Dr.J.Jenix Rino</a></h4>
-                  <h4></h4>
+                  <h4>Management Nominee</h4>
                   <span>Director</span>
                 </div>
               </div>

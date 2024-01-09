@@ -414,7 +414,7 @@ ON cpssm.staff_id = ".$_GET['staff_id']."
 AND cpssm.cws_publication_id = cws.cws_publication_id 
 INNER JOIN 
 documentation.cws_publication_type cpt 
-ON cpt.cws_pt_id = cws.cws_pt_id WHERE cws.record_status>0" ;
+ON cpt.cws_pt_id = cws.cws_pt_id AND cws.record_status>0 " ;
 
 $result = mysqli_query($dbcon, $sql);
 
