@@ -562,7 +562,7 @@ pagination: {
     </section><!-- End Counts Section -->
     <!-- ======= Latest News & Events Section ======= -->
     <!-- Latest News & Events Section -->
-<section class="blog" data-scroll-index="4">
+<section class="blog" style="position:relative"  data-scroll-index="4">
   <div class="container">
     <!-- header of section -->
     <div class="section-title" data-aos="fade-up">
