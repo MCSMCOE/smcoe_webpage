@@ -696,6 +696,47 @@ include("conn.php")
                     </section><!-- End Features Section -->
                     </div>
               </div>
+              
+              <div class="tab-pane" id="tab-11">
+    <div class="row">
+        <section id="features" class="features">
+            <div class="container">
+
+                <div class="section-title" data-aos="fade-up">
+                    <h2>Byte Bash Blitz</h2>
+                </div>
+
+                <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="300">
+                    <div class="col-lg-10 pt-4 pt-lg-0 order-2 order-lg-1 justify-content-xl-start">
+                        <div class="text-container">
+                            <p class="p-8 fst-italic text-justify" style="line-height: 3;">
+                                <i class="bx bxs-quote-alt-left quote-icon-left text-secondary h4 mr-6"></i>
+                                Byte Bash Blitz is an innovative coding Organisation spearheaded by the Center for Innovation at Stella Mary's College of Engineering. Established in 2023, Byte Bash Blitz was conceived with the aim of empowering students to navigate the rapidly evolving landscape of coding technology independently. Since its inception, the community has experienced exponential growth, attracting a diverse array of talented individuals whom we affectionately refer to as "bashers."
+
+                                As Byte Bash Blitz continues to flourish, we've recently expanded our horizons by founding Byte Bash Technologies. This new endeavor is dedicated to developing cutting-edge applications and software solutions, leveraging the collective expertise and passion of our vibrant community of bashers.
+
+                                Through Byte Bash Technologies, we aspire to not only foster innovation but also to make meaningful contributions to the technological advancements of tomorrow. Our commitment to excellence, coupled with the relentless pursuit of knowledge, propels us forward on our journey to shape the future of coding and beyond. Join us as we embark on this exciting adventure together.
+                                <i class="bx bxs-quote-alt-right quote-icon-right text-secondary h4 ml-3"></i>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+  <style>
+    .bbb-social{
+      font-size: 42px; margin-right: 30px;color:#3498db;
+    }
+  </style>
+                <div class="social-links mt-4 text-center">
+                    <a href="https://www.instagram.com/byte_bash_blitz/" class="instagram bbb-social" ><i class="bi bi-instagram"></i></a>
+                    <a href="https://www.linkedin.com/company/byte-bash-technologies/" class="linkedin  bbb-social" ><i class="bi bi-linkedin"></i></a>
+                </div>
+            </div>
+        </section>
+    </div>
+</div>
+
+
+
               <div class="tab-pane" id="tab-6">
                   <div class="row">
                     <div class="col-lg-8 details order-2 order-lg-1">
@@ -914,9 +955,10 @@ include("conn.php")
                             </div>
                     
                           </div>
-                        </section><!-- End Features Section -->
+                        </section><!- End Features Section -->
                         </div>
                         </div>
+                        
                         <div class="tab-pane" id="tab-10">
                           <div class="row">
                               
@@ -1067,3 +1109,7 @@ include("conn.php")
 </body>
 
 </html>
+
+                        
+                          
+                  

@@ -93,7 +93,7 @@ include("conn.php")
               <li><a href="iqac.php">IQAC</a></li>
               <li><a href="strategicplan.php">Strategic Plan</a></li>
               <li><a href="codeofconduct.php">Code of Conduct</a></li>
-              <li><a href="mandatorydisclosure.php">Mandatory Disclosure</a></li>
+              <li><a href="mandatorydisclosure.php">mandatory Disclosure</a></li>
             </ul>
           <li class="dropdown"><a href="#"><span>Academics</span> <i class="bi bi-chevron-right"></i></a>
             <ul>
@@ -166,7 +166,7 @@ include("conn.php")
               <li><a href="https://nptel.ac.in">NPTEL</a></li>
               <li><a href="https://delnet.in">DELNET</a></li>
               <li><a href="alumni.php">Alumni Association</a></li>
-              <li><a href="https://swayam.gov.in">SWAYAM - MOOC</a></li>
+              <li><a href="https://swayam.gov.in">SWYAM - MOOC</a></li>
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="mandatorydisclosure.php">Mandatory Disclosure</a></li>
@@ -573,7 +573,7 @@ pagination: {
     <div id="blogCarousel" class="carousel slide" data-bs-ride="carousel">
       <div class="carousel-inner">
         <?php
-        $qry_category = "SELECT we.event_desc e_title, YEAR(we.event_date) YEAR, event_date e_date, event_desc e_desc, we.event_link e_url, '' e_type, MONTH(event_date) mevent_date, DAY(event_date) dayevent_date, MONTHNAME(event_date), SUBSTR(MONTHNAME(event_date), 1, 3) smonth FROM documentation.website_event we WHERE we.status > 0 AND we.`event_type` = 'Event' AND NOW() BETWEEN we.doa AND we.doe ORDER BY we.order_no";
+        $qry_category = "SELECT we.event_desc e_title, YEAR(we.event_date) YEAR, event_date e_date, event_img e_img, event_detail e_detail, event_desc e_desc, we.event_link e_url, '' e_type, MONTH(event_date) mevent_date, DAY(event_date) dayevent_date, MONTHNAME(event_date), SUBSTR(MONTHNAME(event_date), 1, 3) smonth FROM documentation.website_event we WHERE we.status > 0 AND we.`event_type` = 'Event' AND NOW() BETWEEN we.doa AND we.doe ORDER BY we.order_no";
         mysqli_set_charset($dbcon, "utf8");
         $qry_category = mysqli_query($dbcon, $qry_category);
         $count = 0;
@@ -593,14 +593,14 @@ pagination: {
           <div class="col-md-4">
             <div class="item">
               <div class="img">
-                <img src="https://webdocs.pages.dev/assets/img/news/Graduation.jpg" alt="">
+              <img src= <?php echo $data["e_img"]; ?>  class="img-fluid" alt="">  
               </div>
               <div class="info">
                 <div class="date">
                   <span><?php echo $data["dayevent_date"]; ?><br><?php echo $data["smonth"]; ?></span>
                 </div>
                 <a href="<?php echo $data["event_link"]; ?>"><h5><?php echo $data["e_title"]; ?></h5></a>
-                <p><?php echo $data["event_detail"]; ?></p>
+                <p> <?php echo $data["e_detail"]; ?></p>
                 <a href="<?php echo $data["event_link"]; ?>" class="more"><i class="fas bi-arrow-right"></i></a>
               </div>
             </div>
