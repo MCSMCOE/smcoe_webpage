@@ -164,7 +164,7 @@ include("conn.php")
               <li><a href="https://nptel.ac.in">NPTEL</a></li>
               <li><a href="https://delnet.in">DELNET</a></li>
               <li><a href="alumni.php">Alumni Association</a></li>
-              <li><a href="https://swayam.gov.in">SWYAM - MOOC</a></li>
+              <li><a href="https://swayam.gov.in">SWAYAM - MOOC</a></li>
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="mandatorydisclosure.php">Mandatory Disclosure</a></li>

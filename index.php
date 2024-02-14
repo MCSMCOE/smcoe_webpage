@@ -93,7 +93,7 @@ include("conn.php")
               <li><a href="iqac.php">IQAC</a></li>
               <li><a href="strategicplan.php">Strategic Plan</a></li>
               <li><a href="codeofconduct.php">Code of Conduct</a></li>
-              <li><a href="mandatorydisclosure.php">mandatory Disclosure</a></li>
+              <li><a href="mandatorydisclosure.php">Mandatory Disclosure</a></li>
             </ul>
           <li class="dropdown"><a href="#"><span>Academics</span> <i class="bi bi-chevron-right"></i></a>
             <ul>
@@ -166,7 +166,7 @@ include("conn.php")
               <li><a href="https://nptel.ac.in">NPTEL</a></li>
               <li><a href="https://delnet.in">DELNET</a></li>
               <li><a href="alumni.php">Alumni Association</a></li>
-              <li><a href="https://swayam.gov.in">SWYAM - MOOC</a></li>
+              <li><a href="https://swayam.gov.in">SWAYAM - MOOC</a></li>
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="mandatorydisclosure.php">Mandatory Disclosure</a></li>
