@@ -210,6 +210,9 @@ include("conn.php")
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-4">Smart India Hackathon</a>
               </li>
               <li class="nav-item">
+                  <a class="nav-link" data-bs-toggle="tab" href="#tab-11">Byte Bash Blitz</a>
+              </li>
+              <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Memorandom of Understanding</a>
               </li>
               <!--<li class="nav-item">
