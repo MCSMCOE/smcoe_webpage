@@ -93,7 +93,7 @@ include("conn.php")
               <li><a href="iqac.php">IQAC</a></li>
               <li><a href="strategicplan.php">Strategic Plan</a></li>
               <li><a href="codeofconduct.php">Code of Conduct</a></li>
-              <li><a href="mandatorydisclosure.php">mandatory Disclosure</a></li>
+              <li><a href="mandatorydisclosure.php">Mandatory Disclosure</a></li>
             </ul>
           <li class="dropdown"><a href="#"><span>Academics</span> <i class="bi bi-chevron-right"></i></a>
             <ul>
