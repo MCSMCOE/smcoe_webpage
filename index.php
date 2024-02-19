@@ -88,7 +88,7 @@ include("conn.php")
           <li class="dropdown"><a href="#"><span>About Us</span> <i class="bi bi-chevron-right"></i></a>
             <ul>
               <li><a href="Management.php">Management</a></li>
-              <li><a href="principaldesk.php">Admini Desk</a></li>
+              <li><a href="principaldesk.php">Admin Desk</a></li>
               <li><a href="oc.php">Organisation Chart</a></li>
               <li><a href="iqac.php">IQAC</a></li>
               <li><a href="strategicplan.php">Strategic Plan</a></li>
@@ -650,7 +650,7 @@ pagination: {
 
         <div class="section-title" data-aos="fade-up">
           <h2>STELLA MARY'S COLLEGE OF ENGINEERING</h2>
-          <p>EXPERIECE EXECLLENCE</p>
+          <p>EXPERIENCE EXECLLENCE</p>
         </div>
 
         <div class="row">
@@ -658,23 +658,17 @@ pagination: {
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
               <h4 class="title"><a href="">VISION</a></h4>
-              <p class="description text-justify">To emerge as a premiere institution, acknowledged as a centre for excellence imparting technical education, creating technocrats who can address the needs of the society through exploration and experimentation and uplift mankind.</p>
+              <p class="description text-justify">To be a beacon of academic excellence, empowering future innovators with technical mastery to harness technology for positive global change.</p>
             </div>
           </div>
 
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+          <div class="col-md-6 col-lg-6 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="bx bx-file"></i></div>
               <h4 class="title"><a href="">MISSION</a></h4>
-              <p class="description text-justify">To provide an education that transforms students, through rigorous course-work and by providing an understanding of the needs of the society and the industry.</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
-              <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4 class="title"><a href="">FOUNDER</a></h4>
-              <p class="description text-justify">Dr.Nazerath Charles,Founder & Chairman was an engineer by profession & loved doing social work to uplift the women and poor, and the under privileged.</p>
+              <li class="text-justify">To Cultivate a vibrant learning environment where students delve into the frontiers of technical knowledge, hone their problem-solving skills, and embrace innovation to transform ideas into solutions that address global challenges.</li>
+              <li class="text-justify">To bridge the gap between technical brilliance and real-world impact by forging strong industry partnerships, fostering cutting-edge research, and nurturing entrepreneurial drive in our students, empowering them to build a better future through technology.</li>
+              <li class="text-justify">To ignite the spark of intellectual curiosity within every student, equip them with the tools and knowledge to become pioneers in their chosen fields, and guide them towards ethical and responsible use of technology for the betterment of humanity.</li>
             </div>
           </div>
 

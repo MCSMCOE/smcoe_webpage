@@ -355,7 +355,7 @@ include("conn.php")
                   <tbody>
                   <?php
 //$dbcon - database connection
-$sql = "SELECT IFNULL (CONCAT(pm.authors,', ',pm.paper_title,', ',pm.transaction_title,',',pt.ptype,',',IF(pm.volume IS NOT NULL,'Vol:',''),IFNULL(pm.volume,''),IF(pm.volume IS NOT NULL,', ',''),IF(pm.issue IS NOT NULL,'Issue:',''),IFNULL(pm.issue,''),IF(pm.issue IS NOT NULL,',',''),IFNULL(pm.issn_no,''),IF(pm.issn_no IS NOT NULL,',',''),MONTHNAME(STR_TO_DATE(pm.month,'%m')),IF(pm.month IS NOT NULL,',',''),pm.year),'') details  
+$sql = " SELECT IFNULL (CONCAT(pm.authors,', ',pm.paper_title,', ',pm.transaction_title,',',pt.ptype,',',IF(pm.volume IS NOT NULL,'Vol:',''),IFNULL(pm.volume,''),IF(pm.volume IS NOT NULL,', ',''),IF(pm.issue IS NOT NULL,'Issue:',''),IFNULL(pm.issue,''),IF(pm.issue IS NOT NULL,',',''),IFNULL(pm.issn_no,''),IF(pm.issn_no IS NOT NULL,',',''),MONTHNAME(STR_TO_DATE(pm.month,'%m')),IF(pm.month IS NOT NULL,',',''),pm.year),'') details  
         FROM documentation.`publication_master` pm 
         INNER JOIN documentation.`publication_type` pt ON pt.`pt_id`=pm.`pt_id` AND pm.record_status > 0  
         INNER JOIN documentation.`publication_ss_mapping` pssm ON pssm.`publication_id`=pm.`publication_id` AND pssm.staff_id=".$_GET['staff_id'];
@@ -483,7 +483,7 @@ if (mysqli_num_rows($result) > 0) {
         ?>
         <tr>
             <th scope="row"><?php echo $slno; ?></th>
-            <td><?php echo $data["patent_title"]; ?></td>
+            <td class="card-text text-justify" ><?php echo $data["patent_title"]; ?></td>
             <td><?php echo $data["filing_date"]; ?></td>
             <td><?php echo $data["patent_status"]; ?></td>
         </tr>
