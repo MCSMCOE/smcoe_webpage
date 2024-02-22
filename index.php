@@ -218,11 +218,8 @@ include("conn.php")
                 <p class="intro-title-top">
                   <br> 
                 </p>
-                <h1 class="intro-title mb-6 ">
-                  <span class="color-b">CAREER GUIDANCE AND PLACEMENT TRAINING
-                  </span> </h1>
-                  <h3 class=" ">
-                    <span class="">"Charting Paths, Building Futures: Your Career Compass"</span> </h3>
+                <h1 class="intro-title mb-6 "><span class="color-b">CAREER GUIDANCE AND PLACEMENT TRAINING</span> </h1>
+                  <h3 class=" "><span class="">"Charting Paths, Building Futures: Your Career Compass"</span> </h3>
                 <p class="intro-subtitle intro-price">
                   <a href="placement_home.php"><span class="price-a">EXPLORE CGPTC</span></a>
                 </p>
