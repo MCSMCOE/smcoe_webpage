@@ -206,7 +206,7 @@ include("conn.php")
             <p><a href="faculty.php?staff_id=1388"
                     <?php 
                     printf("%s", $data["first_name"]);
-                    ?>">Dr.A.Berlin Shaheema</a></p>
+                    ?>">Mrs.S.Berlin Shaheema</a></p>
           </div>
 
           <div class="course-info d-flex justify-content-between align-items-center">
@@ -642,7 +642,7 @@ The faculty members are highly motivated and devoted in delivering the high qual
               <div class="col-md-6 col-lg-4 d-flex align-items-center mb-5 mb-lg-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bx-world"></i></div>
-                  <h4 class="title"><a href="">Regulation 2021</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/AIDS/B.Tech.AIDS.pdf">Regulation 2021</a></h4>
                   </div>
               </div>
               <div class="col-md-6 col-lg-4 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
@@ -666,13 +666,13 @@ The faculty members are highly motivated and devoted in delivering the high qual
               <div class="col-md-7 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-journal-richtext"></i></div>
-                  <h4 class="title"><a href="">Programme Outcomes</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/AIDS/PO.pdf">Programme Outcomes</a></h4>
                   </div>
               </div>
               <div class="col-md-7 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-journal-richtext"></i></div>
-                  <h4 class="title"><a href="">Program Specfic Outcomes</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/AIDS/PSO.pdf">Program Specfic Outcomes</a></h4>
                   </div>
                 </div>
             </div>

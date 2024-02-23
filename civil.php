@@ -221,12 +221,12 @@ include("conn.php")
 
           <div class="course-info d-flex justify-content-between align-items-center">
             <h5>Budding Engineers</h5>
-            <p>200</p>
+            <p>97</p>
           </div>
 
           <div class="course-info d-flex justify-content-between align-items-center">
             <h5>Proud Alumni</h5>
-            <p>250</p>
+            <p>252</p>
           </div>
 
         </div>
@@ -290,15 +290,15 @@ include("conn.php")
     <section id="services" class="services">
         <div class="container">
           <div class="row">
-            <div class="col-md-6 col-lg-10 d-flex align-items-stretch mb-5 mb-lg-0">
+            <div class="col-md-6 col-lg-12 d-flex align-items-stretch mb-5 mb-lg-0">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                 <div class="icon"><i class="bx bxl-dribbble"></i></div>
                 <h4 class="title"><a href="">VISION</a></h4>
                 <p class="description text-justify">To provide world class technical education with ethics and professionalism and to create civil engineer with high technical competencies who would full fill the challenges and needs of today’s scenario with the help of green technology.</p>
               </div>
             </div>
-  
-            <div class="col-md-6 col-lg-10 d-flex align-items-stretch mb-5 mb-lg-0">
+  <ol></ol>
+            <div class="col-md-6 col-lg-12 d-flex align-items-stretch mb-5 mb-lg-0">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                 <div class="icon"><i class="bx bx-file"></i></div>
                 <h4 class="title"><a href="">MISSION</a></h4>
@@ -738,6 +738,10 @@ include("conn.php")
       <section id="services" class="services">
           <div class="container">
             <div class="row">
+            <div class="section-title" data-aos="fade-up">
+                            <h2>Academic Calender</h2>
+                            <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
+                          </div>
               <div class="col-md-6 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>

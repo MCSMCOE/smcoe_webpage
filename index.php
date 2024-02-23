@@ -221,7 +221,7 @@ include("conn.php")
                 <h1 class="intro-title mb-6 "><span class="color-b">CAREER GUIDANCE AND PLACEMENT TRAINING</span> </h1>
                   <h3 class=" "><span class="">"Charting Paths, Building Futures: Your Career Compass"</span> </h3>
                 <p class="intro-subtitle intro-price">
-                  <a href="placement_home.php"><span class="price-a">EXPLORE CGPTC</span></a>
+                <a href="placement_home.php"><span class="price-a">EXPLORE CGPTC</span></a>
                 </p>
               </div>
             </div>
@@ -395,10 +395,11 @@ new Swiper('.intro-carousel', {
 speed: 600,
 loop: true,
 autoplay: {
-  delay: 2000,
+  delay: 4000,
   disableOnInteraction: false
 },
 slidesPerView: 'auto',
+effect: 'fade',
 pagination: {
   el: '.swiper-pagination',
   type: 'bullets',
@@ -514,49 +515,7 @@ pagination: {
   <!-- End Hero --> 
   <main id="main">
     
-    <section id="counts" class="counts">
-      <div class="container">
-        <div class="row">
-          <div class="image col-xl-4 d-flex align-items-stretch justify-content-center justify-content-xl-start" data-aos="fade-right" data-aos-delay="150">
-            <img src="https://28b82662.webdocs.pages.dev/hero-img.png" alt="" class="img-fluid animated">
-          </div>
-          <div class="col-xl-7 d-flex align-items-stretch pt-4 pt-xl-0" data-aos="fade-left" data-aos-delay="300">
-            <div class="content d-flex flex-column justify-content-center">
-              <div class="row">
-                <div class="col-md-6 d-md-flex align-items-md-stretch">
-                  <div class="count-box">
-                    <i class="bi bi-emoji-smile"></i>
-                    <span data-purecounter-start="0" data-purecounter-end="991" data-purecounter-duration="1" class="purecounter"></span>
-                    <p><strong>Budding Engineers</strong> - Empowering education, inspiring faculty, supportive community</p>
-                  </div>
-                </div>
-                <div class="col-md-6 d-md-flex align-items-md-stretch">
-                  <div class="count-box">
-                    <i class="bi bi-clock"></i>
-                    <span data-purecounter-start="0" data-purecounter-end="90" data-purecounter-duration="1" class="purecounter"></span>
-                    <p><strong>Working Days</strong> Productivity, collaboration, growth - making the most of working days!</p>
-                  </div>
-                </div>
-                <div class="col-md-6 d-md-flex align-items-md-stretch">
-                  <div class="count-box">
-                    <i class="bi bi-emoji-smile"></i>
-                    <span data-purecounter-start="0" data-purecounter-end="993" data-purecounter-duration="1" class="purecounter"></span>
-                    <p><strong>Proud Alumni</strong> Accomplished, successful, impactful - our proud alumni make a difference!</p>
-                  </div>
-                </div>
-                <div class="col-md-6 d-md-flex align-items-md-stretch">
-                  <div class="count-box">
-                    <i class="bi bi-award"></i>
-                    <span data-purecounter-start="0" data-purecounter-end="114" data-purecounter-duration="1" class="purecounter"></span>
-                    <p><strong>Staff</strong> Dedicated, talented, valued - our staff drives excellence and success!</p>
-                  </div>
-                </div>
-              </div>
-            </div><!-- End .content-->
-          </div>
-        </div>
-      </div>
-    </section><!-- End Counts Section -->
+    <!-- End Counts Section -->
     <!-- ======= Latest News & Events Section ======= -->
     <!-- Latest News & Events Section -->
 <section class="blog" style="position:relative"  data-scroll-index="4">
@@ -934,6 +893,50 @@ pagination: {
           </div>
         </section><!-- End Clients Section -->
 
+
+        <section id="counts" class="counts">
+      <div class="container">
+        <div class="row">
+          <div class="image col-xl-4 d-flex align-items-stretch justify-content-center justify-content-xl-start" data-aos="fade-right" data-aos-delay="150">
+            <img src="https://28b82662.webdocs.pages.dev/hero-img.png" alt="" class="img-fluid animated">
+          </div>
+          <div class="col-xl-7 d-flex align-items-stretch pt-4 pt-xl-0" data-aos="fade-left" data-aos-delay="300">
+            <div class="content d-flex flex-column justify-content-center">
+              <div class="row">
+                <div class="col-md-6 d-md-flex align-items-md-stretch">
+                  <div class="count-box">
+                    <i class="bi bi-emoji-smile"></i>
+                    <span data-purecounter-start="0" data-purecounter-end="991" data-purecounter-duration="1" class="purecounter"></span>
+                    <p><strong>Budding Engineers</strong> - Empowering education, inspiring faculty, supportive community</p>
+                  </div>
+                </div>
+                <div class="col-md-6 d-md-flex align-items-md-stretch">
+                  <div class="count-box">
+                    <i class="bi bi-clock"></i>
+                    <span data-purecounter-start="0" data-purecounter-end="90" data-purecounter-duration="1" class="purecounter"></span>
+                    <p><strong>Working Days</strong> Productivity, collaboration, growth - making the most of working days!</p>
+                  </div>
+                </div>
+                <div class="col-md-6 d-md-flex align-items-md-stretch">
+                  <div class="count-box">
+                    <i class="bi bi-emoji-smile"></i>
+                    <span data-purecounter-start="0" data-purecounter-end="993" data-purecounter-duration="1" class="purecounter"></span>
+                    <p><strong>Proud Alumni</strong> Accomplished, successful, impactful - our proud alumni make a difference!</p>
+                  </div>
+                </div>
+                <div class="col-md-6 d-md-flex align-items-md-stretch">
+                  <div class="count-box">
+                    <i class="bi bi-award"></i>
+                    <span data-purecounter-start="0" data-purecounter-end="114" data-purecounter-duration="1" class="purecounter"></span>
+                    <p><strong>Staff</strong> Dedicated, talented, valued - our staff drives excellence and success!</p>
+                  </div>
+                </div>
+              </div>
+            </div><!-- End .content-->
+          </div>
+        </div>
+      </div>
+    </section>
     <!-- ======= Testimonials Section ======= -->
     <section id="testimonials" class="testimonials section-bg">
       <div class="container">

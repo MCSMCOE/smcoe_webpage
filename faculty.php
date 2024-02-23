@@ -263,7 +263,7 @@ include("conn.php")
               <ul><ul><li></li>
                 <ul><li></li>
                 
-                <li><i class="bi bi-chevron-right"></i> <strong>Research Intersest:</strong> <span><?php 
+                <li><i class="bi bi-chevron-right"></i> <strong>Research Interest:</strong> <span><?php 
                     printf("%s", $data[""]);
                     ?></span></li>
                 <li><i class="bi bi-chevron-right"></i> <strong>Specialisation:</strong> <span><?php 
