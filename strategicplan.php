@@ -197,12 +197,6 @@ include("conn.php")
          <p class ="text-justify">Stella Mary's College of Engineering, driven by a vision of imparting quality education and fostering technical and social excellence, is dedicated to a continuous process of strategic planning. With a focus on both short-term and long-term objectives, these plans aim to fortify the institution's capacities, fostering dynamism, quality consciousness, and efficiency. The institution's commitment to excellence is underscored by the development of short-term plans for 2022-2027, serving as a guiding force for the next five years.</p>
          <p class ="text-justify">This strategic initiative is a collaborative effort, drawing support from an impassioned management, the commitment of the leadership team, and insights from academic and industrial experts. The final draft undergoes meticulous review and discussion by the Governing Council, incorporating valuable suggestions to ensure effective implementation.</p>       
          <h4 class="text-justify"><strong>5-Year Strategic Plan (2022-2027) - Stella Mary’s College of Engineering</strong></h4> 
-         <p class="text-justify">1.Governance</p>
-         <p class="text-justify">2.Physical Resources</p>
-         <p class="text-justify">3.Human Resources</p>
-         <p class="text-justify">4.Education Processes</p>
-         <p class="text-justify">5.Research and Innovation</p>
-         <p class="text-justify">6.Building Relationships</p>
          <div class="accordion" id="accordionExample">
             <div class="accordion-item">
               <h2 class="accordion-header" id="headingOne">
@@ -210,7 +204,7 @@ include("conn.php")
                 1. Governance 
                 </button>
               </h2>
-              <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+              <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
                   <strong>1.1 Enhance Diversity in Recruitment:</strong>
                   <li>Initiate quality enhancement methods.</li>
@@ -230,7 +224,6 @@ include("conn.php")
                 <li>Appraise faculty and staff annually.</li>
                 </div>
                 <div class="accordion-body">
-                  
                 </div>
               </div>
             </div>
