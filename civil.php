@@ -268,7 +268,7 @@ include("conn.php")
               <a class="nav-link" data-bs-toggle="tab" href="#tab-7">Syllabus</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" data-bs-toggle="tab" href="#tab-8">Program Outcome</a>
+              <a class="nav-link" data-bs-toggle="tab" href="#tab-8">Outcome</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-9">Calender</a>
@@ -684,19 +684,23 @@ include("conn.php")
               </div>
             </div>
             <div class="tab-pane" id="tab-7">
-                <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
+            <div class="row row justify-content-center">
+                  <div class="">
                     <!-- ======= Services Section ======= -->
       <section id="services" class="services">
           <div class="container">
-            <div class="row">
-              <div class="col-md-6 col-lg-4 d-flex align-items-center mb-5 mb-lg-0">
+            <div class="row justify-content-center">
+            <div class="section-title" data-aos="fade-up">
+                            <h2>Syllabus</h2>
+                            <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
+                          </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bx-world"></i></div>
                   <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/civil/syllabus/2021.pdf">Regulation 2021</a></h4>
                   </div>
               </div>
-              <div class="col-md-6 col-lg-4 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
+              <div class="col-lg-3 col-md-4">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bx-world"></i></div>
                   <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/civil/syllabus/2017.pdf">Regulation 2017</a></h4>
@@ -708,19 +712,23 @@ include("conn.php")
                 </div>
               </div>
               <div class="tab-pane" id="tab-8">
-                <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
+              <div class="row row justify-content-center">
+                  <div class="">
                     <!-- ======= Services Section ======= -->
       <section id="services" class="services">
           <div class="container">
-            <div class="row">
-              <div class="col-md-7 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
+            <div class="row justify-content-center">
+            <div class="section-title" data-aos="fade-up">
+                            <h2>Outcome</h2>
+                            <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
+                          </div>
+              <div class="col-md-7 col-lg-5">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-journal-richtext"></i></div>
                   <h4 class="title"><a href="">Programme Outcomes</a></h4>
                   </div>
               </div>
-              <div class="col-md-7 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
+              <div class="col-md-7 col-lg-5">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-journal-richtext"></i></div>
                   <h4 class="title"><a href="">Program Specfic Outcomes</a></h4>
@@ -733,7 +741,7 @@ include("conn.php")
               </div>
               <div class="tab-pane" id="tab-9">
                 <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
+                  <div class="">
                     <!-- ======= Services Section ======= -->
       <section id="services" class="services">
           <div class="container">
@@ -742,76 +750,78 @@ include("conn.php")
                             <h2>Academic Calender</h2>
                             <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
                           </div>
-              <div class="col-md-6 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/civil/calender/CIVIL-2018-19-odd.pdf">2018-19 ODD</a></h4>
+                  <h4 class="title"><a href="">2023-24 EVEN</a></h4>
                 </div>
+                <ol></ol>
               </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/civil/calender/CIVIL-2018-19-even.pdf">2018-19 EVEN</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/civil/calender/CIVIL-2019-20-odd.pdf">2019-20 ODD</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/civil/calender/CIVIL-2019-20-even.pdf">2019-20 EVEN</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/civil/calender/CIVIL-2020-21-odd.pdf">2020-21 ODD</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/civil/calender/CIVIL-2020-21-even.pdf">2020-21 EVEN</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/civil/calender/CIVIL-2021-22-odd.pdf">2021-22 ODD</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2021-22 EVEN</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2022-23 ODD</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2022-23 EVEN</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
                   <h4 class="title"><a href="">2023-24 ODD</a></h4>
                 </div>
               </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2023-24 EVEN</a></h4>
+                  <h4 class="title"><a href="">2022-23 EVEN</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2022-23 ODD</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2021-22 EVEN</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2021-22 ODD</a></h4>
+                </div>
+                <ol></ol>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2020-21 EVEN</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2020-21 ODD</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2019-20 EVEN</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2019-20 ODD</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2018-19 EVEN</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2018-19 EVEN</a></h4>
                 </div>
               </div>
             </div>
