@@ -960,10 +960,7 @@ include("conn.php")
                         </div>
                         
                         <div class="tab-pane" id="tab-10">
-                          <div class="row">
-                              
-                            
-                               
+                          <div class="row">  
                             <div class="col-md-10">
       
                               <!--slider start here-->

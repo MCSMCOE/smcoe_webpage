@@ -609,16 +609,16 @@ pagination: {
           <p>EXPERIENCE EXECLLENCE</p>
         </div>
 
-        <div class="row">
-          <div class="col-md-6 col-lg-6 d-flex align-items-stretch mb-5 mb-lg-0">
+        <div class="row justify-content-center">
+          <div class="col-md-6 col-lg-12 ">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-              <div class="icon"><i class="bx bxl-dribbble"></i></div>
+              <div class="icon"><i class="bx bxl-dribbble"></i> </div>
               <h4 class="title"><a href="">VISION</a></h4>
               <p class="description text-justify">To be a beacon of academic excellence, empowering future innovators with technical mastery to harness technology for positive global change. </p>
             </div>
           </div>
 
-          <div class="col-md-6 col-lg-6 d-flex align-items-stretch mb-5 mb-lg-0">
+          <div class="col-md-6 col-lg-12 ">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="bx bx-file"></i></div>
               <h4 class="title"><a href="">MISSION</a></h4>
@@ -939,7 +939,7 @@ pagination: {
     </section>
     <!-- ======= Testimonials Section ======= -->
     <section id="testimonials" class="testimonials section-bg">
-      <div class="container">
+      <div class="container ">
 
         <div class="section-title" data-aos="fade-up">
           <h2>Testimonials</h2>

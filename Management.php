@@ -336,39 +336,41 @@ include("conn.php")
     </section>
     <!-- ======= Services Section ======= -->
     <section id="services" class="services">
-      <div class="container">
+      <div class="container justify-content-center">
 
         <div class="section-title" data-aos="fade-up">
           <h2>STELLA MARY'S COLLEGE OF ENGINEERING</h2>
           <p>Nova Educational Trust</p>
         </div>
 
-        <div class="row">
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+        <div class="row justify-content-center">
+          <div class="col-md-6 col-lg-12 ">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class="bi-binoculars"></i></div>
-              <h4 class="title"><a href="">VISION</a></h4>
-              <p class="description text-justify">To emerge as a premiere institution, acknowledged as a centre for excellence imparting technical education, creating technocrats who can address the needs of the society through exploration and experimentation and uplift mankind.</p>
+              <h4 class="title"><a href="">OJECTIVES</a></h4>
+              <li class="text-justify">To ensure the continual maintenance of elevated academic standards across all programs.</li>
+              <li class="text-justify">To provide students with the technical skills necessary for global innovation.</li>
+              <li class="text-justify">To cultivate an environment that promotes active learning and innovation.</li>
+              <li class="text-justify">To motivate students to transform their ideas into practical solutions.</li>
+              <li class="text-justify">To Form robust partnerships with industries to offer students real-world exposure.</li>
+              <li class="text-justify">To cultivate an entrepreneurial mind-set among students, fostering innovative thinking.</li>
+              <li class="text-justify">To Spark and nurture curiosity to encourage continuous learning among students.</li>
+              <li class="text-justify">To equip students with the tools and skills necessary to become effective leaders.</li>
+              <li class="text-justify">To emphasize ethical considerations in the development and application of technology.</li>
+              <li class="text-justify">To cultivate a culture of collaboration and a shared commitment to making a positive impact globally.</li>
+
             </div>
           </div>
-
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
-              <div class="icon"><i class="bi-card-list"></i></div>
-              <h4 class="title"><a href="">MISSION</a></h4>
-              <p class="description text-justify">To provide an education that transforms students, through rigorous course-work and by providing an understanding of the needs of the society and the industry.</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+<ol></ol>
+          <div class="col-md-6 col-lg-12">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
               <div class="icon"><i class="bx bx-receipt"></i></div>
               <h4 class="title"><a href="">Trust</a></h4>
-              <p class="description text-justify">The college is run by nova educational trust started in the year 2007, to provide the highest quality educational and research facilities to the students across the country.</p>
+              <p class="description text-justify">The college is run by nova educational trust started in the year 2007, to provide the highest quality educational and research facilities to the students across the country. </p>
             </div>
           </div>
-
-         <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+<ol></ol>
+         <div class="col-md-6 col-lg-12">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
               <div class="icon"><i class="bx bx-cube-alt"></i></div>
               <h4 class="title"><a href="">Sister Concern</a></h4>
