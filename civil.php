@@ -290,7 +290,7 @@ include("conn.php")
     <section id="services" class="services">
         <div class="container">
           <div class="row">
-            <div class="col-md-6 col-lg-12 d-flex align-items-stretch mb-5 mb-lg-0">
+            <div class="col-md-6 col-lg-12">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                 <div class="icon"><i class="bx bxl-dribbble"></i></div>
                 <h4 class="title"><a href="">VISION</a></h4>
@@ -298,7 +298,7 @@ include("conn.php")
               </div>
             </div>
   <ol></ol>
-            <div class="col-md-6 col-lg-12 d-flex align-items-stretch mb-5 mb-lg-0">
+            <div class="col-md-6 col-lg-12">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                 <div class="icon"><i class="bx bx-file"></i></div>
                 <h4 class="title"><a href="">MISSION</a></h4>
@@ -424,73 +424,113 @@ include("conn.php")
             </div>
             <div class="tab-pane" id="tab-4">
               <div class="row">
-                <div class="col-lg-8 details order-2 order-lg-1">
-                  <h3>Environmental Engineering Laboratory</h3>
-                  <p class="fst-italic text-justify">In this laboratory the students will be able to know the common environmental experiements relating to water and wastewater quality.</p>
-                  <strong>Experiments</strong> <li class="text-justify"> Determination of Ammonia Nitrogen in wastewater, Coagulation and Precipitation process for treating waste water, Determination of suspended, volatile, fixed and settleable solids in wastewater,B.O.D. test,C.O.D. test, Nitrate in wastewater,Phosphate in wastewater, Determination of Calcium, Potassium and Sodium, Heavy metals determination - Chromium, Lead and Zinc.(Demonstration only)</li>
-                  <strong>Equipments</strong> <li class="text-justify"> Oxygen analyzer,Spectrophotometer, Ion – selective electrode, Sodium Potassium Analyzer – Flame Photometer 5.Gas Chromatography, Atomic absorption spectroscopy (Ni, Zn, Pb),Nephlo-turbidity me ter, BOD Analyser,COD Analyser,Jar Test Apparatus.</li>
-                       
+                <div class="col-lg-12 details order-2 order-lg-1">
+                <div class="accordion" id="accordionExample">
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="headingOne">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                    <strong>Environmental Engineering Laboratory</strong>
+                    </button>
+                  </h2>
+                  <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                      <p class="fst-italic text-justify">In this laboratory the students will be able to know the common environmental experiements relating to water and wastewater quality.</p>
+      
+                      <strong>Experiments</strong> <li class="text-justify">Determination of Ammonia Nitrogen in wastewater, Coagulation and Precipitation process for treating waste water, Determination of suspended, volatile, fixed and settleable solids in wastewater,B.O.D. test,C.O.D. test, Nitrate in wastewater,Phosphate in wastewater, Determination of Calcium, Potassium and Sodium, Heavy metals determination - Chromium, Lead and Zinc.(Demonstration only)</li>
+                      <strong>Equipments</strong> <li class="text-justify">Oxygen analyzer,Spectrophotometer, Ion – selective electrode, Sodium Potassium Analyzer – Flame Photometer 5.Gas Chromatography, Atomic absorption spectroscopy (Ni, Zn, Pb),Nephlo-turbidity me ter, BOD Analyser,COD Analyser,Jar Test Apparatus.</li>
+                    </div>
+                  </div>
                 </div>
-                <div class="col-lg-4 text-center order-1 order-lg-2">
-                  <img src="assets/img/CSE/CM.png" alt="" class="img-fluid">
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="headingTwo">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                      <strong>Soil Mechanics Laboratory</strong>
+                    </button>
+                  </h2>
+                  <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <p class="fst-italic">Students will able to identify physical and mechanical properties of soil in the field and laboratory settings. This include preparing soil samples for testing, performing the test, collecting and analyzing data, interpreting the results and writing technical reports.</p>
+      
+                      <strong>Experiments</strong> <li class="text-justify">Determination of index properties, Permeability determination (constant head and falling head methods), One dimensional consolidation test (Determination of co-efficient of consolidation only),Direct shear test in cohesion-less soil,Unconfined compression test in cohesive soil,Laboratory vane Shear test in cohesive soil ,Tri-axial compression test in cohesion-less soil(Demonstration only),California Bearing Ratio Test.</li>
+                      <strong>Equipments</strong> <li class="text-justify">Sieves,Hydrometer,Liquid and plastic limit apparatu, Shinkage limit apparatus,Proctor compaction apparatus, UTM of minimum of 20KN capacity,Direct shear apparatus , Thermeometer, Field den sity measuring device ,Triaxial shear apparatus , Three gang consolidation test device</li>
+                      
+                    </div>
+                  </div>
                 </div>
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="headingThree">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    <strong>Strength of materials Laboratory</strong>
+                    </button>
+                  </h2>
+                  <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <p class="fst-italic">Demonstrating the basic principles in the area of strength and mechanics of materials and structural analysis to the students through a series of experiments.</p>
+                    <strong>Experiments</strong> <li class="text-justify"> Tension test on mild steel rod,Compression test on wood, Double shear test on metal,Torsion test on mild steel rod , Impact test on metal specimen (Izod and Charpy) , Hardness test on metals (Rockwell and Brinell Hardness Tests), Deflection test on metal beam,Compression test on helical spring, Deflection test on carriage spring,Test on Cement.</li>
+                    <strong>Equipments</strong> <li class="text-justify"> UTM of minimum 400 kN capacity,Torsion testing machine for steel rods,Izod impact testing machine,Hardness testing machine, Beam deflection test apparatus,Extensometer,Compressometer, Dial gauges,Le Chatelier’s apparatus,Vicat’s apparatus, Mortar cube moulds.</li> 
+                
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="headingFour">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                    <strong>Survey Laboratory</strong>
+                    </button>
+                  </h2>
+                  <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <p class="fst-italic">Students learn techniques for gathering field data with both traditional and modern instruments and demonstrate their proficiency on weekly lab exercises and a comprehensive semester project and final exam.</p>
+                    <strong>Experiments</strong> <li class="text-justify"> Study of theodolite,Measurement of horizontal angles by reiteration and repetition and vertical angles,Theodolite survey traverse,Heights and distances - Triangulation - Single plane method,Tacheometry - Tangential system - Stadia system - Subtense system,Setting out works - Foundation marking - Simple curve (right/ left-handed) - Transition curve, Field observation for and Calculation of azimuth,Field work using Total Station.</li>
+                  <strong>Equipments</strong> <li class="text-justify"> Total Station,Theodolites Atleast 1 for every,Dumpy level, Plane table,Pocket stereoscope,Ranging rods,Levelling staff , Cross staff, Chains,Tapes, Arrows, Hand held GPS.</li> 
+                
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="headingFive">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                    <strong>Concrete and Highway Laboratory</strong>
+                    </button>
+                  </h2>
+                  <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <p class="fst-italic">The behavior and properties of structural materials, e.g. concrete, asphalt and steel can be better understood by detailed, well-designed, first hand experience with these materials. The students will become familiar with the nature and properties of these materials by conducting laboratory tests.</p>
+                    <strong>Experiments</strong> <li class="text-justify"> Tests on fresh concrete,Test on hardener concrete,Theodolite survey traverse,Test on aggregates, Tests on bitumen, Test on bitumen mixes.</li>
+                    <strong>Equipments</strong> <li class="text-justify"> Concrete cube moulds,Concrete cylinder moulds,Concrete Prism moulds, Sieves,Concrete Mixer,Slump cone,Flow table,Vibrator,Trovels and planers, UTM – 400 kN capacity,Vee Bee Consistometer,Aggregate impact testing machine,CBR Apparatus,Los - Angeles abrasion testing machine, Marshall Stability Apparatus.</li> 
+                
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="headingSix">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                    <strong>Hydraulics Engineering laboratory</strong>
+                    </button>
+                  </h2>
+                  <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <p class="fst-italic">The main objective of this lab is to build fundamental concepts combined with strong analytical and problem solving abilities that would form the backbone of many other subjects in higher educations</p>
+                    <strong>Experiments</strong> <li class="text-justify"> Flow measurement,Losses in pipes,Pumps,Turbines, Determination of metacentric height.</li>
+                    <strong>Equipments</strong> <li class="text-justify"> Bernoulli’s theorem – Verification Apparatus, Calculation of Metacentric height water tank Ship model with accessories,Measurement of velocity Pitot tube assembly, Venturimeter,Orificemeter,Flow through mouthpiece, Centrifugal pump assembly with accessories (single stage), Centrifugal pump assembly with accessories (multi stage), Reciprocating pump assembly with accessories, Deep well pump assembly set with accessories.</li> 
+                
+                    </div>
+                  </div>
+                </div>
+
+
+
+
+</div>
+                  
+                </div>
+                
               </div>
             
-              <div class="row">
-                <div class="col-lg-8 details order-2 order-lg-1">
-                  <h3>Soil Mechanics Laboratory</h3>
-                  <p class="fst-italic text-justify">Students will able to identify physical and mechanical properties of soil in the field and laboratory settings. This include preparing soil samples for testing, performing the test, collecting and analyzing data, interpreting the results and writing technical reports.</p>
-                  <strong>Experiments</strong> <li class="text-justify"> Determination of index properties, Permeability determination (constant head and falling head methods), One dimensional consolidation test (Determination of co-efficient of consolidation only),Direct shear test in cohesion-less soil,Unconfined compression test in cohesive soil,Laboratory vane Shear test in cohesive soil ,Tri-axial compression test in cohesion-less soil(Demonstration only),California Bearing Ratio Test.</li>
-                  <strong>Equipments</strong> <li class ="text-justify"> Sieves,Hydrometer,Liquid and plastic limit apparatu, Shinkage limit apparatus,Proctor compaction apparatus, UTM of minimum of 20KN capacity,Direct shear apparatus , Thermeometer, Field den sity measuring device ,Triaxial shear apparatus , Three gang consolidation test device,</li> 
-                </div>
-                <div class="col-lg-4 text-center order-1 order-lg-2">
-                  <img src="assets/img/CSE/BD.jpg" alt="" class="img-fluid">
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-lg-8 details order-2 order-lg-1">
-                  <h3>Strength of materials Laboratory</h3>
-                  <p class="fst-italic text-justify">Demonstrating the basic principles in the area of strength and mechanics of materials and structural analysis to the students through a series of experiments.</p>
-                  <strong>Experiments</strong> <li class="text-justify"> Tension test on mild steel rod,Compression test on wood, Double shear test on metal,Torsion test on mild steel rod , Impact test on metal specimen (Izod and Charpy) , Hardness test on metals (Rockwell and Brinell Hardness Tests), Deflection test on metal beam,Compression test on helical spring, Deflection test on carriage spring,Test on Cement.</li>
-                  <strong>Equipments</strong> <li class="text-justify"> UTM of minimum 400 kN capacity,Torsion testing machine for steel rods,Izod impact testing machine,Hardness testing machine, Beam deflection test apparatus,Extensometer,Compressometer, Dial gauges,Le Chatelier’s apparatus,Vicat’s apparatus, Mortar cube moulds.</li> 
-                </div>
-                <div class="col-lg-4 text-center order-1 order-lg-2">
-                  <img src="assets/img/CSE/BD.jpg" alt="" class="img-fluid">
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-lg-8 details order-2 order-lg-1">
-                  <h3>Survey Laboratory</h3>
-                  <p class="fst-italic text-justify">Students learn techniques for gathering field data with both traditional and modern instruments and demonstrate their proficiency on weekly lab exercises and a comprehensive semester project and final exam.</p>
-                  <strong>Experiments</strong> <li class="text-justify"> Study of theodolite,Measurement of horizontal angles by reiteration and repetition and vertical angles,Theodolite survey traverse,Heights and distances - Triangulation - Single plane method,Tacheometry - Tangential system - Stadia system - Subtense system,Setting out works - Foundation marking - Simple curve (right/ left-handed) - Transition curve, Field observation for and Calculation of azimuth,Field work using Total Station.</li>
-                  <strong>Equipments</strong> <li class="text-justify"> Total Station,Theodolites Atleast 1 for every,Dumpy level, Plane table,Pocket stereoscope,Ranging rods,Levelling staff , Cross staff, Chains,Tapes, Arrows, Hand held GPS.</li> 
-                </div>
-                <div class="col-lg-4 text-center order-1 order-lg-2">
-                  <img src="assets/img/CSE/BD.jpg" alt="" class="img-fluid">
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-lg-8 details order-2 order-lg-1">
-                  <h3>Concrete and Highway Laboratory</h3>
-                  <p class="fst-italic">The behavior and properties of structural materials, e.g. concrete, asphalt and steel can be better understood by detailed, well-designed, first hand experience with these materials. The students will become familiar with the nature and properties of these materials by conducting laboratory tests.</p>
-                  <strong>Experiments</strong> <li class="text-justify"> Tests on fresh concrete,Test on hardener concrete,Theodolite survey traverse,Test on aggregates, Tests on bitumen, Test on bitumen mixes.</li>
-                  <strong>Equipments</strong> <li class="text-justify"> Concrete cube moulds,Concrete cylinder moulds,Concrete Prism moulds, Sieves,Concrete Mixer,Slump cone,Flow table,Vibrator,Trovels and planers, UTM – 400 kN capacity,Vee Bee Consistometer,Aggregate impact testing machine,CBR Apparatus,Los - Angeles abrasion testing machine, Marshall Stability Apparatus.</li> 
-                </div>
-                <div class="col-lg-4 text-center order-1 order-lg-2">
-                  <img src="assets/img/CSE/BD.jpg" alt="" class="img-fluid">
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-lg-8 details order-2 order-lg-1">
-                  <h3>Hydraulics Engineering laboratory</h3>
-                  <p class="fst-italic">The main objective of this lab is to build fundamental concepts combined with strong analytical and problem solving abilities that would form the backbone of many other subjects in higher educations</p>
-                  <strong>Experiments</strong> <li class="text-justify"> Flow measurement,Losses in pipes,Pumps,Turbines, Determination of metacentric height.</li>
-                  <strong>Equipments</strong> <li class="text-justify"> Bernoulli’s theorem – Verification Apparatus, Calculation of Metacentric height water tank Ship model with accessories,Measurement of velocity Pitot tube assembly, Venturimeter,Orificemeter,Flow through mouthpiece, Centrifugal pump assembly with accessories (single stage), Centrifugal pump assembly with accessories (multi stage), Reciprocating pump assembly with accessories, Deep well pump assembly set with accessories.</li> 
-                </div>
-                <div class="col-lg-4 text-center order-1 order-lg-2">
-                  <img src="assets/img/CSE/BD.jpg" alt="" class="img-fluid">
-                </div>
-              </div>
+              
+              
+              
+            
           
             </div>
             <div class="tab-pane" id="tab-5">

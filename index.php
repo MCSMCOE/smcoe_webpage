@@ -610,11 +610,11 @@ pagination: {
         </div>
 
         <div class="row">
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+          <div class="col-md-6 col-lg-6 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
               <h4 class="title"><a href="">VISION</a></h4>
-              <p class="description text-justify">To be a beacon of academic excellence, empowering future innovators with technical mastery to harness technology for positive global change.</p>
+              <p class="description text-justify">To be a beacon of academic excellence, empowering future innovators with technical mastery to harness technology for positive global change. </p>
             </div>
           </div>
 
@@ -628,13 +628,13 @@ pagination: {
             </div>
           </div>
 
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+          <!--<div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
               <div class="icon"><i class="bx bx-world"></i></div>
               <h4 class="title"><a href="Management.php">MANAGEMENT</a></h4>
               <p class="description text-justify">The college is run by Nova Educational Trust established in the year 2007, to provide high quality technical education and research facilities to the students across the country.</p>
             </div>
-          </div>
+          </div>-->
 
         </div>
 
@@ -642,7 +642,7 @@ pagination: {
     </section><!-- End Services Section -->
 
     <!-- ======= More Services Section ======= -->
-    <section id="more-services" class="more-services">
+   <!-- <section id="more-services" class="more-services">
       <div class="container">
         <div class="section-title" data-aos="fade-up">
           <h2><a href=""></a>DEPARTMENTS</h2>
@@ -741,7 +741,7 @@ pagination: {
           </div>
         </div>
       </div>
-    </section><!-- End More Services Section -->
+    </section>--><!-- End More Services Section -->
 
     <!-- ======= Features Section ======= -->
     <section id="features" class="features">
