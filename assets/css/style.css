@@ -1856,6 +1856,7 @@ h6 {
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
+/*
 .testimonials .testimonial-wrap {
   padding-left: 50px;
 }
@@ -1955,6 +1956,37 @@ h6 {
   .testimonials .testimonial-item .testimonial-img {
     position: static;
     left: auto;
+  }
+}
+*/
+
+.testimonials .testimonials-slider {
+  overflow: hidden;
+  max-height: 300px; /* Adjust the height as needed */
+}
+
+.testimonials .testimonial-item {
+  width: 100%; /* Ensure each testimonial item takes the full width */
+  box-sizing: border-box;
+  padding: 30px;
+  margin: 0 auto; /* Center the testimonial item horizontally */
+  min-height: 200px;
+  border: 1px solid #eef0ef;
+  background: #fff;
+}
+
+.testimonials .testimonial-item .testimonial-img {
+  width: 90px;
+  border-radius: 10px;
+  border: 6px solid #fff;
+  float: left;
+  margin-right: 20px;
+}
+
+@media (max-width: 767px) {
+  .testimonials .testimonial-item .testimonial-img {
+    width: 60px; /* Adjust image size for smaller screens */
+    margin-right: 10px;
   }
 }
 
