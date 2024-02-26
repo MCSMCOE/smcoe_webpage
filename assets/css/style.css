@@ -519,6 +519,7 @@ section {
 /*--------------------------------------------------------------
 # Clients
 --------------------------------------------------------------*/
+/*
 .clients {
   background: #f3f9fd;
   padding: 10px 0;
@@ -555,7 +556,7 @@ section {
     width: 30%;
   }
 }
-
+*/
 /*--------------------------------------------------------------
 # About Us
 --------------------------------------------------------------*/
@@ -3937,6 +3938,38 @@ a:hover {
 
 
 
+
+/*--------------------------------------------------------------
+# Clients
+--------------------------------------------------------------*/
+.clients {
+  padding-top: 30px;
+}
+
+.clients .clients-wrap {
+  border-top: 1px solid #e7e7e7;
+  border-left: 1px solid #e7e7e7;
+}
+
+.clients .client-logo {
+  padding: 64px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-right: 1px solid #e7e7e7;
+  border-bottom: 1px solid #e7e7e7;
+  overflow: hidden;
+  background: #fff;
+  height: 140px;
+}
+
+.clients .client-logo:hover img {
+  transform: scale(1.1);
+}
+
+.clients img {
+  transition: all 0.4s ease-in-out;
+}
 
 
 
