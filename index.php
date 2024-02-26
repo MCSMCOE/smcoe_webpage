@@ -612,12 +612,12 @@ pagination: {
         <div class="row justify-content-center">
           <div class="col-md-6 col-lg-12 ">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-              <div class="icon"><i class="bx bxl-dribbble"></i> </div>
+              <div class="icon"><i class="bx bxl-dribbble" ></i></div>
               <h4 class="title"><a href="">VISION</a></h4>
               <p class="description text-justify">To be a beacon of academic excellence, empowering future innovators with technical mastery to harness technology for positive global change. </p>
             </div>
           </div>
-
+<ol></ol>
           <div class="col-md-6 col-lg-12 ">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="bx bx-file"></i></div>
@@ -828,72 +828,96 @@ pagination: {
         </div>
 
       </div>
-    </section><!-- End Features Section -->
-        <!-- ======= Clients Section ======= -->
-        <section id="clients" class="clients clients">
-          <div class="container">
-            <div class="section-title" data-aos="fade-up">
+    </section>
+    
+    
+    
+    
+    <!-- ======= Clients Section ======= -->
+    <section id="clients" class="clients">
+      <div class="container">
+      <div class="section-title" data-aos="fade-up">
               <h2>PLACEMENT PARTNERS</h2>
               <p>Places where our alumins showing their skills</p>
             </div>
-            <div class="row">
-            
-    
-              <div class="col-lg-2 col-md-4 col-6">
-                <img src="https://webdocs.pages.dev/assets/img/cr/techm.png" class="img-fluid" alt="" data-aos="zoom-in">
-              </div>
-    
-              <div class="col-lg-2 col-md-4 col-6">
-                <img src="https://webdocs.pages.dev/assets/img/cr/tcs.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="100">
-              </div>
-    
-              <div class="col-lg-2 col-md-4 col-6">
-                <img src="https://webdocs.pages.dev/assets/img/cr/cts.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="200">
-              </div>
+        <div class="row no-gutters clients-wrap clearfix wow fadeInUp">
 
-              <div class="col-lg-2 col-md-4 col-6">
-                <img src="https://webdocs.pages.dev/assets/img/cr/wipro.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="200">
-              </div>
-    
-              <div class="col-lg-2 col-md-4 col-6">
-                <img src="https://webdocs.pages.dev/assets/img/cr/exbt.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="300">
-              </div>
-    
-              <div class="col-lg-2 col-md-4 col-6">
-                <img src="https://webdocs.pages.dev/assets/img/cr/bdx.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="400">
-              </div>
-              <div class="col-lg-2 col-md-4 col-6">
-                <img src="https://webdocs.pages.dev/assets/img/cr/infaworx.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="400">
-              </div>
-              <div class="col-lg-2 col-md-4 col-6">
-                <img src="https://webdocs.pages.dev/assets/img/cr/shail.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="400">
-              </div>
-              <div class="col-lg-2 col-md-4 col-6">
-                <img src="https://webdocs.pages.dev/assets/img/cr/entelyst.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="400">
-              </div>
-              <div class="col-lg-2 col-md-4 col-6">
-                <img src="https://webdocs.pages.dev/assets/img/cr/INBOX.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="400">
-              </div>
-              <div class="col-lg-2 col-md-4 col-6">
-                <img src="https://webdocs.pages.dev/assets/img/cr/zonduo.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="400">
-              </div>
-              <div class="col-lg-2 col-md-4 col-6">
-                <img src="https://webdocs.pages.dev/assets/img/cr/al.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="400">
-              </div>
-              <div class="col-lg-2 col-md-4 col-6">
-                <img src="" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="400">
-              </div>
-    
-              <div class="col-lg-2 col-md-4 col-6">
-                <img src="" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="500">
-              </div>
-    
+          <div class="col-lg-2 col-md-4 col-6">
+            <div class="client-logo">
+              <img src="https://webdocs.pages.dev/assets/img/cr/Hexaware.png" class="img-fluid" alt="">
             </div>
-    
           </div>
-        </section><!-- End Clients Section -->
 
+          <div class="col-lg-2 col-md-4 col-6">
+            <div class="client-logo">
+              <img src="https://webdocs.pages.dev/assets/img/cr/tcs.png" class="img-fluid" alt="">
+            </div>
+          </div>
 
+          <div class="col-lg-2 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="https://webdocs.pages.dev/assets/img/cr/yamaha.png" class="img-fluid" alt="">
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="https://webdocs.pages.dev/assets/img/cr/al.png" class="img-fluid" alt="">
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="https://webdocs.pages.dev/assets/img/cr/exbt.png" class="img-fluid" alt="">
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="https://webdocs.pages.dev/assets/img/cr/INBOX.png" class="img-fluid" alt="">
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="https://webdocs.pages.dev/assets/img/cr/entelyst.png" class="img-fluid" alt="">
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="https://webdocs.pages.dev/assets/img/cr/wipro.png" class="img-fluid" alt="">
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="https://webdocs.pages.dev/assets/img/cr/lt.png" class="img-fluid" alt="">
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="https://webdocs.pages.dev/assets/img/cr/cts.png" class="img-fluid" alt="">
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="https://webdocs.pages.dev/assets/img/cr/shail.png" class="img-fluid" alt="">
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="https://webdocs.pages.dev/assets/img/cr/techm.png" class="img-fluid" alt="">
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+    
+    
+    
+    
         <section id="counts" class="counts">
       <div class="container">
         <div class="row">
@@ -1182,217 +1206,11 @@ pagination: {
             </div>
     
           </div>
-        </section><!-- End Portfolio Section -->
+        <!-- End Portfolio Section -->
 
 
-    <section class="Management">
-      <div class="container">
-        <!-- ======= Team Section ======= -->
-    <!--<section id="team" class="team section-bg">
-        <div class="container">
   
-          <div class="section-title" data-aos="fade-up">
-            <h2>Management</h2>
-            <p>The pillars of Stella Mary's College of Engineering</p>
-          </div>
-  
-          <div class="row">
-  
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-              <div class="member" data-aos="fade-up" data-aos-delay="100">
-                <div class="member-img">
-                  <img src="assets/img/team/CM.jpg" class="img-fluid" alt="">
-                  <div class="social">
-                    <a href=""><i class="bi bi-twitter"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
-                  </div>
-                </div>
-                <div class="member-info">
-                  <h4>Dr.Nazerath Charles</h4>
-                  <span>Chairman</span>
-                </div>
-              </div>
-            </div>
-  
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-              <div class="member" data-aos="fade-up" data-aos-delay="200">
-                <div class="member-img">
-                  <img src="assets/img/team/S.jpg" class="img-fluid" alt="">
-                  <div class="social">
-                    <a href=""><i class="bi bi-twitter"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
-                  </div>
-                </div>
-                <div class="member-info">
-                  <h4>Mrs.Mary Stella Charles</h4>
-                  <span>Secretary</span>
-                </div>
-              </div>
-            </div>
-  
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-              <div class="member" data-aos="fade-up" data-aos-delay="300">
-                <div class="member-img">
-                  <img src="assets/img/team/CEO.jpg" class="img-fluid" alt="">
-                  <div class="social">
-                    <a href=""><i class="bi bi-twitter"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href="https://www.linkedin.com/in/carol-judeson-j-8695a61b/"><i class="bi bi-linkedin"></i></a>
-                  </div>
-                </div>
-                <div class="member-info">
-                  <h4>Mr.Carol Judeson</h4>
-                  <span>Chief Executive Officer</span>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                <div class="member" data-aos="fade-up" data-aos-delay="300">
-                  <div class="member-img">
-                    <img src="assets/img/team/VC.png" class="img-fluid" alt="">
-                    <div class="social">
-                      <a href=""><i class="bi bi-twitter"></i></a>
-                      <a href=""><i class="bi bi-facebook"></i></a>
-                      <a href=""><i class="bi bi-instagram"></i></a>
-                      <a href=""><i class="bi bi-linkedin"></i></a>
-                    </div>
-                  </div>
-                  <div class="member-info">
-                    <h4>Mrs.Sumitha C Judeson</h4>
-                    <span>Vice Chairman</span>
-                  </div>
-                </div>
-              </div>
-             <!-- <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                <div class="member" data-aos="fade-up" data-aos-delay="300">
-                  <div class="member-img">
-                    <img src="assets/img/team/D.jpeg" class="img-fluid" alt="">
-                    <div class="social">
-                      <a href=""><i class="bi bi-twitter"></i></a>
-                      <a href=""><i class="bi bi-facebook"></i></a>
-                      <a href=""><i class="bi bi-instagram"></i></a>
-                      <a href="https://www.linkedin.com/in/dr-jenix-rino-j-42a92855/"><i class="bi bi-linkedin"></i></a>
-                    </div>
-                  </div>
-                  <div class="member-info">
-                    <h4>Dr.Jenix Rino</h4>
-                    <span>Director</span>
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                <div class="member" data-aos="fade-up" data-aos-delay="300">
-                  <div class="member-img">
-                    <img src="assets/img/team/PL.jpg" class="img-fluid" alt="">
-                    <div class="social">
-                      <a href=""><i class="bi bi-twitter"></i></a>
-                      <a href=""><i class="bi bi-facebook"></i></a>
-                      <a href=""><i class="bi bi-instagram"></i></a>
-                      <a href="https://www.linkedin.com/in/suresh-premil-kumar-smce-41b96611/"><i class="bi bi-linkedin"></i></a>
-                    </div>
-                  </div>
-                  <div class="member-info">
-                    <h4>Dr.Suresh Premil Kumar</h4>
-                    <span>Principal</span>
-                  </div>
-                </div>
-              </div>
-  
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-              <div class="member" data-aos="fade-up" data-aos-delay="400">
-                <div class="member-img">
-                  <img src="assets/img/team/AM.jpg" class="img-fluid" alt="">
-                  <div class="social">
-                    <a href=""><i class="bi bi-twitter"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
-                  </div>
-                </div>
-                <div class="member-info">
-                  <h4>Mrs.Melba Heni</h4>
-                  <span>Accounts Manager</span>
-                </div>
-              </div>
-            </div>
-  
-          </div>-->
-  
-        </div>
-      </section><!-- End Team Section -->
-
-    <!-- ======= Pricing Section ======= -->
-   <!-- <section id="pricing" class="pricing">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>Pricing</h2>
-          <p>Sit sint consectetur velit nemo qui impedit suscipit alias ea</p>
-        </div>
-
-        <div class="row">
-
-          <div class="col-lg-4 col-md-6">
-            <div class="box" data-aos="zoom-in-right" data-aos-delay="200">
-              <h3>Free</h3>
-              <h4><sup>$</sup>0<span> / month</span></h4>
-              <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li class="na">Pharetra massa</li>
-                <li class="na">Massa ultricies mi</li>
-              </ul>
-              <div class="btn-wrap">
-                <a href="#" class="btn-buy">Buy Now</a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
-            <div class="box recommended" data-aos="zoom-in" data-aos-delay="100">
-              <h3>Business</h3>
-              <h4><sup>$</sup>19<span> / month</span></h4>
-              <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li>Pharetra massa</li>
-                <li class="na">Massa ultricies mi</li>
-              </ul>
-              <div class="btn-wrap">
-                <a href="#" class="btn-buy">Buy Now</a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
-            <div class="box" data-aos="zoom-in-left" data-aos-delay="200">
-              <h3>Developer</h3>
-              <h4><sup>$</sup>29<span> / month</span></h4>
-              <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li>Pharetra massa</li>
-                <li>Massa ultricies mi</li>
-              </ul>
-              <div class="btn-wrap">
-                <a href="#" class="btn-buy">Buy Now</a>
-              </div>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section>--><!-- End Pricing Section -->
-
+        
     
 
     <!-- ======= Contact Section ======= -->
@@ -1466,7 +1284,7 @@ pagination: {
 
       </div>
     </section><!-- End Contact Section -->
-
+    </section>
   </main><!-- End #main -->
 
 

@@ -995,7 +995,7 @@ include("conn.php")
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
                                       <div class="icon-box">
-                                        <i class="ri-file-list-3-line" style="color: #e361ff;"></i>
+                                        <i class="ri-database-2-line" style="color: #e361ff;"></i>
                                         <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2020-21.pdf">2020-2021</a></h3>
                                       </div>
                                     </div>
