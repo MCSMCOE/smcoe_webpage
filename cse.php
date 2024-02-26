@@ -251,23 +251,29 @@ The faculty members impart knowledge through curriculum based formal education a
             <li class="nav-item">
               <a class="nav-link" data-bs-toggle="tab" href="#tab-4">Laboratory</a>
             </li>
-            <li class="nav-item">
+            <!--<li class="nav-item">
               <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Achievements</a>
+            </li>-->
+            <li class="nav-item">
+              <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Syllabus</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" data-bs-toggle="tab" href="#tab-6">Syllabus</a>
+              <a class="nav-link" data-bs-toggle="tab" href="#tab-6">Program Outcome</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" data-bs-toggle="tab" href="#tab-7">Program Outcome</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-7">Academic Calender</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-8">Calender</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-8">Newsletter</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-9">Newsletter</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-9">Brochure</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-10">Brochure</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-10">Gallery</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-11">Testimonial</a>
             </li>
           </ul>
         </div>
@@ -275,20 +281,20 @@ The faculty members impart knowledge through curriculum based formal education a
           <div class="tab-content">
             <div class="tab-pane active show" id="tab-1">
               <div class="row">
-                <div class="col-lg-8 details order-2 order-lg-1">
+                <div class="col-md-6 col-lg-12 ">
                   <!-- ======= Services Section ======= -->
     <section id="services" class="services">
         <div class="container">
-          <div class="row">
-            <div class="col-md-6 col-lg-10 d-flex align-items-stretch mb-5 mb-lg-0">
+          <div class="row justify-content-center">
+            <div class="col-md-6 col-lg-12 ">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                 <div class="icon"><i class="bx bxl-dribbble"></i></div>
                 <h4 class="title"><a href="">VISION</a></h4>
                 <p class="description text-justify">To produce Computer Science professionals who can accomplish path-breaking solutions for a better society, through quality technical education, on gaining the required inter- personal, entrepreneurial and computing skills.</p>
               </div>
             </div>
-
-            <div class="col-md-6 col-lg-10 d-flex align-items-stretch mb-5 mb-lg-0">
+<ol></ol>
+            <div class="col-md-6 col-lg-12 ">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                 <div class="icon"><i class="bx bx-file"></i></div>
                 <h4 class="title"><a href="">MISSION</a></h4>
@@ -412,7 +418,70 @@ The faculty members impart knowledge through curriculum based formal education a
       </section><!-- End Team Section -->
               </div>
             </div>
+
+
+
             <div class="tab-pane" id="tab-4">
+              <div class="row">
+                <div class="col-lg-12 details order-2 order-lg-1">
+                  <h3></h3>
+                  
+                 <!-- Default Accordion -->
+              <div class="accordion" id="accordionExample">
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="headingOne">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                    <strong>Common Computer Lab</strong>
+                    </button>
+                  </h2>
+                  <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <p class="fst-italic text-justify">The Department of Computer Science and Engineering has a well-established Computer Practices Laboratory exclusively for First Year students. Computer Practices laboratory provides essential facilities to the students to enhance their knowledge in Programming. The common Lab is equipped with 125 Lenovo Desktop Computer with Intel i3 processor, Windows 7 Professional edition,4 LCD Projector, 2 ton carrier split AC-11,20 KVA UPS-2.</p>
+                    <div class="col-md-6 col-lg-12">
+                  <img src="https://webdocs.pages.dev/assets/img/CSE/lab/CM.png" alt="" class="img-fluid">
+                </div>
+                
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="headingTwo">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    <strong>BigData Lab</strong>
+                    </button>
+                  </h2>
+                  <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <p class="fst-italic text-justify">Big data lab is typically equipped with internet access. Computers in this lab are typically arranged in rows, so that every workstation has a similar view of one end of the room to facilitate lecturing or presentations, to facilitate small group work. The Big Data Lab is equipped with 40 Lenovo Desktop computers with Intel i7 Processor, 64 bit OS, 8GB Ram, on screen projector & centralized AC. Programming and Data Structures, Object Oriented Programming Systems, Operating Systems, Internet Programming, Grid and Cloud Computing Lab practical classes are conducted in this Laboratory.</p>
+                    <div class="col-md-6 col-lg-12">
+                  <img src="https://webdocs.pages.dev/assets/img/CSE/lab/BD.jpg" alt="" class="img-fluid">
+                </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="headingThree">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    <strong>Software Development Lab</strong>
+                    </button>
+                  </h2>
+                  <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <p class="fst-italic text-justify">Software Development Lab is typically equipped with internet access. Computers in this lab are typically arranged in rows, so that every workstation has a similar view of one end of the room to facilitate lecturing or presentations, to facilitate small group work. The Software Development Lab is equipped with 40 Dell Desktop computer with Intel i3 Processor, 32 bit OS,4 GB Ram and 3 AC. Compiler Laboratory and Database Management system, Software Development, Computer Graphics, Mobile Application Development and Network Laboratory practical classes are conducted in this Laboratory.</p>
+                    <div class="col-md-6 col-lg-12">
+                  <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                </div>
+                    </div>
+                  </div>
+                </div>
+                </div>
+                  </div>
+                </div>
+                </div>
+
+
+            
+            <!--<div class="tab-pane" id="tab-4">
               <div class="row">
                 <div class="col-lg-8 details order-2 order-lg-1">
                   <h3>Common Computer Lab</h3>
@@ -441,8 +510,8 @@ The faculty members impart knowledge through curriculum based formal education a
                   <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
                 </div>
               </div>
-            </div>
-            <div class="tab-pane" id="tab-5">
+            </div>-->
+            <div class="tab-pane" id="tab-">
               <div class="row">
                 <div class="col-lg-12 details order-2 order-lg-1">
                   <h3>Achievements</h3>
@@ -582,23 +651,55 @@ The faculty members impart knowledge through curriculum based formal education a
                 </div>
               </div>
             </div>
-            <div class="tab-pane" id="tab-6">
-                <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
+            <div class="tab-pane" id="tab-5">
+            <div class="row row justify-content-center">
+                  <div class="">
                     <!-- ======= Services Section ======= -->
       <section id="services" class="services">
           <div class="container">
-            <div class="row">
-              <div class="col-md-6 col-lg-4 d-flex align-items-center mb-5 mb-lg-0">
+            <div class="row justify-content-center">
+            <div class="section-title" data-aos="fade-up">
+                            <h2>Syllabus</h2>
+                            <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
+                          </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bx-world"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/cse/syllabus/2021.pdf">Regulation 2021</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/civil/syllabus/2021.pdf">Regulation 2021</a></h4>
                   </div>
               </div>
-              <div class="col-md-6 col-lg-4 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
+              <div class="col-lg-3 col-md-4">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bx-world"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/cse/syllabus/2017.pdf">Regulation 2017</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/civil/syllabus/2017.pdf">Regulation 2017</a></h4>
+                  </div>
+                </div>
+            </div>
+          </div>
+        </section><!-- End Services Section --></div>
+                </div>
+              </div>
+              <div class="tab-pane" id="tab-6">
+              <div class="row row justify-content-center">
+                  <div class="">
+                    <!-- ======= Services Section ======= -->
+      <section id="services" class="services">
+          <div class="container">
+            <div class="row justify-content-center">
+            <div class="section-title" data-aos="fade-up">
+                            <h2>Outcome</h2>
+                            <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
+                          </div>
+              <div class="col-md-7 col-lg-5">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-journal-richtext"></i></div>
+                  <h4 class="title"><a href="">Programme Outcomes</a></h4>
+                  </div>
+              </div>
+              <div class="col-md-7 col-lg-5">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-journal-richtext"></i></div>
+                  <h4 class="title"><a href="">Program Specfic Outcomes</a></h4>
                   </div>
                 </div>
             </div>
@@ -608,113 +709,95 @@ The faculty members impart knowledge through curriculum based formal education a
               </div>
               <div class="tab-pane" id="tab-7">
                 <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
+                  <div class="">
                     <!-- ======= Services Section ======= -->
       <section id="services" class="services">
           <div class="container">
             <div class="row">
-              <div class="col-md-7 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
+            <div class="section-title" data-aos="fade-up">
+                            <h2>Academic Calender</h2>
+                            <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
+                          </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-journal-richtext"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/cse/po/Programme-Outcomes.pdf">Programme Outcomes</a></h4>
-                  </div>
-              </div>
-              <div class="col-md-7 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-journal-richtext"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/cse/po/PSO-CSE.pdf">Program Specfic Outcomes</a></h4>
-                  </div>
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2023-24 EVEN</a></h4>
                 </div>
+                <ol></ol>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2023-24 ODD</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2022-23 EVEN</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2022-23 ODD</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2021-22 EVEN</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2021-22 ODD</a></h4>
+                </div>
+                <ol></ol>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2020-21 EVEN</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2020-21 ODD</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2019-20 EVEN</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2019-20 ODD</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2018-19 EVEN</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2018-19 EVEN</a></h4>
+                </div>
+              </div>
             </div>
           </div>
         </section><!-- End Services Section --></div>
                 </div>
               </div>
               <div class="tab-pane" id="tab-8">
-                <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
-                    <!-- ======= Services Section ======= -->
-      <section id="services" class="services">
-          <div class="container">
-            <div class="row">
-              <div class="col-md-6 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/cse/Calender/2018-19-odd.pdf">2018-19 ODD</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/cse/Calender/2018-19-even.pdf">2018-19 EVEN</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/cse/Calender/2019-20-odd.pdf">2019-20 ODD</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/cse/Calender/2019-20-even.pdf">2019-20 EVEN</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2020-21 ODD</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2020-21 EVEN</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/cse/Calender/2021-22-odd.pdf">2021-22 ODD</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/cse/Calender/2021-22-even.pdf">2021-22 EVEN</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2022-23 ODD</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2022-23 EVEN</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2023-24 ODD</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2023-24 EVEN</a></h4>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section><!-- End Services Section --></div>
-                </div>
-              </div>
-              <div class="tab-pane" id="tab-9">
                 <div class="row">
                     <section id="features" class="features">
                         <div class="container">
@@ -728,88 +811,88 @@ The faculty members impart knowledge through curriculum based formal education a
                             <div class="col-lg-3 col-md-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #ffbb2c;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/cse/NewsLetter/April-2016.pdf">APRIL 2016</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume1issue1.pdf">Volume I, Issue 1 : Dec 2017</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #5578ff;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/cse/NewsLetter/November-2016.pdf">NOVEMBER 2016</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume1issue2.pdf">Volume I, Issue 2 : April 2018</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #e80368;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/cse/NewsLetter/April-2017.pdf">APRIL 2017</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume2issue1.pdf">Volume II, Issue 1 : Dec 2018</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #e361ff;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/cse/NewsLetter/November-2017.pdf">NOVEMBER 2017</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume2issue2.pdf">Volume II, Issue 2 : April 2019</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #47aeff;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/cse/NewsLetter/April-2018.pdf">APRIL 2018</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume3issue1.pdf">Volume III, Issue 1 : Dec 2019</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #ffa76e;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/cse/NewsLetter/November-2018.pdf">NOVEMBER 2018</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume3issue2.pdf">Volume III, Issue 2 : April 2020</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #11dbcf;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/cse/NewsLetter/April-2019.pdf">APRIL 2019</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume4issue1.pdf">Volume IV, Issue 1 : Dec 2020</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #4233ff;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/cse/NewsLetter/November-2019.pdf">NOVEMBER 2019</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume4issue2.pdf">Volume IV, Issue 2 : April 2021</a></h3>
                               </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 mt-4">
+                            <!--<div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #b2904f;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/cse/NewsLetter/April-2020.pdf">APRIL 2020</a></h3>
+                                <h3><a href="">APRIL 2020</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #b20969;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/cse/NewsLetter/November-2020.pdf">NOVEMBER 2020</a></h3>
+                                <h3><a href="">NOVEMBER 2020</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #ff5828;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/cse/NewsLetter/April-2021.pdf">APRIL 2021</a></h3>
+                                <h3><a href="">APRIL 2021</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #29cc61;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/cse/NewsLetter/November-2021.pdf">NOVEMBER 2021</a></h3>
+                                <h3><a href="">NOVEMBER 2021</a></h3>
                               </div>
-                            </div>
+                            </div>-->
                           </div>
                   
                         </div>
                       </section><!-- End Features Section -->
                       </div>
                       </div>
-                      <div class="tab-pane" id="tab-10">
+                      <div class="tab-pane" id="tab-9">
                         <div class="row">
                             <section id="features" class="features">
                                 <div class="container">
                           
                                   <div class="section-title" data-aos="fade-up">
-                                    <h2>Brochure</h2>
+                                    <h2>Magazine</h2>
                                     <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
                                   </div>
                           
@@ -817,81 +900,182 @@ The faculty members impart knowledge through curriculum based formal education a
                                     <div class="col-lg-3 col-md-4">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #ffbb2c;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/cse/brochure/Ajax-Basics.pdf">AJAX BASICS</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2017-18.pdf">2017-2018</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #5578ff;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/cse/brochure/Bootstarp.pdf">BOOTSTRAP</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2018-19.pdf">2018-2019</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                                       <div class="icon-box">
                                         <i class="ri-database-2-line" style="color: #e80368;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/cse/brochure/Hadoop.pdf">HADOOP</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2019-20.pdf">2019-2020</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
                                       <div class="icon-box">
-                                        <i class="ri-file-list-3-line" style="color: #e361ff;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/cse/brochure/Machine-Learning-and-Data-Analytics.pdf">MACHINE LEARNING AND DATA ANALYTICS</a></h3>
+                                        <i class="ri-database-2-line" style="color: #e361ff;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2020-21.pdf">2020-2021</a></h3>
                                       </div>
                                     </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-bar-chart-box-line" style="color: #47aeff;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/cse/brochure/Matlab.pdf">MATLAB</a></h3>
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-check-double-line" style="color: #ffa76e;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/cse/brochure/Mobile-App-Development.pdf">MOBILE APP DEVELOPMENT</a></h3>
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-database-2-line" style="color: #11dbcf;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/cse/brochure/Network-Storage-Concepts.pdf">NETWORK STORAGE CONCEPTS</a></h3>
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-disc-line" style="color: #4233ff;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/cse/brochure/NS2.pdf">NS2</a></h3>
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-anchor-line" style="color: #b2904f;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/cse/brochure/U-Turn-motivation-of-Engineers.pdf">U-TURN MOTIVATION OF ENGINEERS</a></h3>
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-check-double-line" style="color: #b20969;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/cse/brochure/Web-Designing-Using-Word-Process.pdf">WEB DESIGNING USING WORDPRESS</a></h3>
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-check-double-line" style="color: #ff5828;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/cse/brochure/Web-Development.pdf">WEB DEVELOPMENT</a></h3>
-                                      </div>
-                                    </div>
+                                   
                                   </div>
                           
                                 </div>
                               </section><!-- End Features Section -->
                               </div>
                               </div>
-          </div>
-        </div>
-      </div>
+                              <div class="tab-pane" id="tab-10">
+                          <div class="row">  
+                            <div class="">
+      
+                              <!--slider start here-->
+                        
+                              <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="4000"> <!-- Change the data-bs-interval value as needed -->
+                                <div class="carousel-indicators">
+                                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+                                </div>
+                                <div class="carousel-inner">
+                                  <div class="carousel-item active">
+                                    <img src="https://webdocs.pages.dev/assets/docs/cfi/sih2022/3.jpg" class="d-block w-100" alt="...">
+                                  </div>
+                                  <div class="carousel-item">
+                                    <img src="https://webdocs.pages.dev/assets/docs/cfi/sih2022/2.jpg" class="d-block w-100" alt="...">
+                                  </div>
+                                  <div class="carousel-item">
+                                    <img src="https://webdocs.pages.dev/assets/docs/cfi/sih2022/1.jpg" class="d-block w-100" alt="...">
+                                  </div>
+                                  <div class="carousel-item">
+                                    <img src="https://webdocs.pages.dev/assets/docs/cfi/sih2022/4.jpg" class="d-block w-100" alt="...">
+                                  </div>
+                                  
+                                </div>
+                                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                  <span class="visually-hidden">Previous</span>
+                                </button>
+                                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                  <span class="visually-hidden">Next</span>
+                                </button>
+                              </div>
+                                <!--end here-->
+                            </div>
+                            <!-- End Features Section -->
+                                </div>
 
-    </div>
-  </section><!-- End Cource Details Tabs Section -->
+                                </div>
+
+
+                                <div class="tab-pane" id="tab-11">
+                          <div class="row">  
+                            <div class="">
+                            <section id="testimonials" class="testimonials section-bg">
+      <div class="container">
+
+        <div class="section-title" data-aos="fade-up">
+          <h2>Testimonials</h2>
+          <p>Words from eminent personalities</p>
+        </div>
+
+        <div class="testimonials-slider swiper text-justify" data-aos="fade-up" data-aos-delay="100">
+          <div class="swiper-wrapper">
+
+            <div class="swiper-slide">
+              <div class="testimonial-wrap">
+                <div class="testimonial-item">
+                  <img src="https://webdocs.pages.dev/assets/img/testimonials/Vaishnavi.jpeg" class="testimonial-img" alt="">
+                  <h3>Vaishnavi M J</h3>
+                  <h4>ECE - Alumni 2019-23 &amp; Software Developer @ Agile Cyber Solutions</h4>
+                  <p class ="text-justify">
+                    <i class="bx bxs-quote-alt-left quote-icon-left text-justify"></i>
+                    infrastructure provided by our institution Stella Mary's College of Engineering and the unwavering support of my teachers have been instrumental in facilitating my achievement. The constant guidance and insightful feedback they have imparted have enriched my learning experience and empowered me to reach new heights. I am forever thankful..
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  </p>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-wrap">
+                <div class="testimonial-item">
+                  <img src="" class="testimonial-img" alt="">
+                  <h3>Sara Wilsson</h3>
+                  <h4>Designer</h4>
+                  <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  </p>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-wrap">
+                <div class="testimonial-item">
+                  <img src="" class="testimonial-img" alt="">
+                  <h3>Jena Karlis</h3>
+                  <h4>Store Owner</h4>
+                  <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  </p>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-wrap">
+                <div class="testimonial-item">
+                  <img src="" class="testimonial-img" alt="">
+                  <h3>Matt Brandon</h3>
+                  <h4>Freelancer</h4>
+                  <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  </p>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-wrap">
+                <div class="testimonial-item">
+                  <img src="" class="testimonial-img" alt="">
+                  <h3>John Larson</h3>
+                  <h4>Entrepreneur</h4>
+                  <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  </p>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+          </div>
+          <div class="swiper-pagination"></div>
+        </div>
+
+      </div>
+    </section><!-- End Testimonials Section -->
+
+</div>
+</div>
+</div>
+
+
+                      </div>
+    </section>
 
   </main><!-- End #main -->
 

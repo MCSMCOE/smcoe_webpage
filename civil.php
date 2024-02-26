@@ -602,7 +602,7 @@ include("conn.php")
             </div>
               </div>
             </div>
-            <div class="tab-pane" id="tab-6">
+            <div class="tab-pane" id="tab-">
               <div class="row">
                 <div class="col-lg-12 details order-2 order-lg-1">
                   <h3>Achievements</h3>
@@ -999,48 +999,7 @@ include("conn.php")
                                         <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2020-21.pdf">2020-2021</a></h3>
                                       </div>
                                     </div>
-                                    <!--<div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-bar-chart-box-line" style="color: #47aeff;"></i>
-                                        <h3><a href="">MATLAB</a></h3>
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-check-double-line" style="color: #ffa76e;"></i>
-                                        <h3><a href="">MOBILE APP DEVELOPMENT</a></h3>
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-database-2-line" style="color: #11dbcf;"></i>
-                                        <h3><a href="">NETWORK STORAGE CONCEPTS</a></h3>
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-disc-line" style="color: #4233ff;"></i>
-                                        <h3><a href="">NS2</a></h3>
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-anchor-line" style="color: #b2904f;"></i>
-                                        <h3><a href="">U-TURN MOTIVATION OF ENGINEERS</a></h3>
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-check-double-line" style="color: #b20969;"></i>
-                                        <h3><a href="">WEB DESIGNING USING WORDPRESS</a></h3>
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-check-double-line" style="color: #ff5828;"></i>
-                                        <h3><a href="">WEB DEVELOPMENT</a></h3>
-                                      </div>
-                                    </div>-->
+                                   
                                   </div>
                           
                                 </div>
