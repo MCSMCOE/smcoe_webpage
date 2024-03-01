@@ -250,23 +250,29 @@ The faculty members impart knowledge through curriculum based formal education a
             <li class="nav-item">
               <a class="nav-link" data-bs-toggle="tab" href="#tab-4">Laboratory</a>
             </li>
-            <li class="nav-item">
+            <!--<li class="nav-item">
               <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Achievements</a>
+            </li>-->
+            <li class="nav-item">
+              <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Syllabus</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" data-bs-toggle="tab" href="#tab-6">Syllabus</a>
+              <a class="nav-link" data-bs-toggle="tab" href="#tab-6">Program Outcome</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" data-bs-toggle="tab" href="#tab-7">Program Outcome</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-7">Academic Calender</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-8">Calender</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-8">Newsletter</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-9">Newsletter</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-9">Brochure</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-10">Brochure</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-10">Gallery</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-11">Testimonial</a>
             </li>
           </ul>
         </div>
@@ -412,35 +418,286 @@ The faculty members impart knowledge through curriculum based formal education a
               </div>
             </div>
             <div class="tab-pane" id="tab-4">
+            <div class="row">
+                <div class="col-lg-12 details order-2 order-lg-1">
+                  <h3></h3>
+                  
+                 <!-- Default Accordion -->
+              <div class="accordion" id="accordionExample">
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="headingOne">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                    <strong>Communication Systems</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Experiments</strong> 
+                    <li>To visualize the effects of sampling and TDM</li>
+                    <li>To Implement AM & FM modulation and demodulation</li>
+                    <li>To implement PCM & DM, To implement FSK, PSK and DPSK schemes</li>
+                    <li>To implement Equalization algorithms</li>
+                    <li>To implement Error control coding schemes</li>
+                    <strong>Equipments</strong> 
+                    <li>AM & FM modulation and demodulation Kit</li>
+                    <li>Time Division Multiplexing Kit</li>
+                    <li>Pulse Code Modulation & Delta Modulation Kit</li>
+                    <li>Frequency Shift Keying, Phase Shift keying Kit</li>
+                    <li>Frequency Division Multiplexing Kit</li>
+                    <li>Sampling Kit</li>
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/CM.png" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingTwo">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    <strong>Linear Integrated Circuits</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Experiments</strong> 
+                    <li>To expose the students to linear and integrated circuits</li>
+                    <li>To understand the basics of linear integrated circuits and available ICs</li>
+                    <li>To understand and apply operational amplifiers in linear and nonlinear applications</li>
+                    <li>To acquire the basic knowledge of special function IC</li>
+                    <li>To use P-SPICE software for circuit design.</li>
+                    <strong>Equipments</strong> 
+                    <li>Function Generator</li>
+                    <li>Cathode Ray Oscilloscope</li>
+                    <li>Digital Storage Oscilloscope</li>
+                    <li>P-SPICE software</li>
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/BD.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingThree">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    <strong>Electron Device And Circuits</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Experiments</strong> 
+                    <li>Study the characteristics of Electron Devices</li>
+                    <li>Study the characteristic of CE, CB, CC, CS and differential Amplifier</li>
+                    <li>Design and implementation of combinational Logic circuits using logic gates</li>
+                    <li>Construction and verification of sequential logic circuits using Flip Flops</li>
+                    <li>To gain hands on experience in designing electronic circuits</li>
+                    <li>To learn the fundamental principles of amplifier circuits</li>
+                    <li>To differentiate feedback amplifiers and oscillators</li>
+                    <li>To understand the concepts of multivibrators</li>
+                    <strong>Equipments</strong> 
+                    <li>Function Generator</li>
+                    <li>Cathode Ray Oscilloscope</li>
+                    <li>Digital Storage Oscilloscope</li>
+                    <li>P-SPICE software</li>
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingFour">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                    <strong>Microprocessor</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Experiments</strong> 
+                    <li>To Write ALP Programs for fixed and Floating Point and Arithmetic</li>
+                    <li>To Interface different I/Os with processor</li>
+                    <li>To Generate waveforms using Microprocessors</li>
+                    <li>To Execute Programs in 8051</li>
+                    <strong>Equipments</strong> 
+                    <li>8279,8251,8253,8255,8259</li>
+                    <li>Stepper motor</li>
+                    <li>DC motor</li>
+                    <li>ADC,DAC</li>
+                    <li>Traffic light</li>
+                    <li>Printer Interfacing boards</li>
+                    <li>8085 Microprocessor Kit</li>
+                    <li>8086 Microprocessor Kit</li>
+                    <li>8051 Microcontroller Kit</li>
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingFive">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                    <strong>Digital Signal Processing</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Experiments</strong> 
+                    <li>To carry out simulation of DSP systems</li>
+                    <li>To demonstrate their abilities towards DSP processor based implementation of DSP systems</li>
+                    <li>To Analyze Finite word length effect on DSP systems</li>
+                    <li>To demonstrate the applications of FFT to DSP.</li>
+                    <strong>Equipments</strong> 
+                    <li>Fixed point DSP processor kit</li>
+                    <li>Floating point DSP processor kit</li>
+                    <li>MATLAB/ SIMULINK software</li> 
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingSix">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                    <strong>VLSI Design Laboratory</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Experiments</strong> 
+                    <li>To Write HDL code for basic as well as advanced digital integrated circuits</li>
+                    <li>To Import the logic modules into FPGA Boards</li>
+                    <li>To Synthesize Place and Route the digital IPs</li>
+                    <li>To Design Simulate and Extract the layouts of Analog IC Blocks using EDA tools</li>
+                    <strong>Equipments</strong> 
+                    <li>Cadence - 20 User License</li>
+                    <li>FPGA-Spartan 6</li>
+                    <li>X- link</li> 
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingSeven">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                    <strong>Computer Networks Laboratory</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Experiments</strong> 
+                    <li>To communicate between two desktop computers</li>
+                    <li>To Implement the different protocols</li>
+                    <strong>Equipments</strong> 
+                    <li>LAN Trainer Kit</li> 
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingEight">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                    <strong>Microwave And Fiber Optics</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Experiments</strong> 
+                    <li>To analyze the performance of simple optical link</li>
+                    <li>To Test microwave and optical components</li>
+                    <li>To analyze the mode characteristics of fiber</li>
+                    <li>To analyze the radiation of pattern of antenna</li>
+                    <li>To Formulate the S-Parameters for Microwave components</li>
+                    <strong>Equipments</strong> 
+                    <li>Klystron Test Bench(X-Band)</li>
+                    <li>Advanced fiber Optic trainer Kit</li>
+                    <li>Single Mode Fiber Characteristics Trainer</li> 
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingNine">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                    <strong>Embedded System Laboratory</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Experiments</strong> 
+                    <li>To Learn the working of ARM processor</li>
+                    <li>To Understand the Building Blocks of Embedded Systems</li>
+                    <li>To Learn the concept of memory map and memory interface</li>
+                    <li>To Know the characteristics of Real Time Systems</li>
+                    <li>To Write programs to interface memory, I/Os with processor</li>
+                    <li>To Study the interrupt performance</li>
+                    <strong>Equipments</strong> 
+                    <li>Embedded trainer kits with ARM board</li>
+                    <li>ARM CORTEX M3</li>
+                    <li>Zigbee Module</li>
+                    <li>Temperature sensor for Embedded trainer kits</li>
+                    <li>Stepper Motor</li>
+                    <li>Keyboard</li>
+                    <li>LCD</li>
+                    <li>ADC</li>
+                    <li>DAC Starter Kit</li>
+                    <li>On Board RTC & Serial port using UART Interface</li>
+                    <li>On Board EEPROM Interface & Interrupt</li>
+                    <li>On-chip PWM Interface</li>  
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+
+
+
+                </div>
+                  </div>
+                </div>
+                </div>
+
+
+            
+            <!--<div class="tab-pane" id="tab-4">
               <div class="row">
                 <div class="col-lg-8 details order-2 order-lg-1">
                   <h3>Common Computer Lab</h3>
-                  <p class="fst-italic">The Department of Computer Science and Engineering has a well-established Computer Practices Laboratory exclusively for First Year students. Computer Practices laboratory provides essential facilities to the students to enhance their knowledge in Programming. The common Lab is equipped with 125 Lenovo Desktop Computer with Intel i3 processor, Windows 7 Professional edition,4 LCD Projector, 2 ton carrier split AC-11,20 KVA UPS-2.</p>
+                  <p class="fst-italic text-justify">The Department of Computer Science and Engineering has a well-established Computer Practices Laboratory exclusively for First Year students. Computer Practices laboratory provides essential facilities to the students to enhance their knowledge in Programming. The common Lab is equipped with 125 Lenovo Desktop Computer with Intel i3 processor, Windows 7 Professional edition,4 LCD Projector, 2 ton carrier split AC-11,20 KVA UPS-2.</p>
                 </div>
                 <div class="col-lg-4 text-center order-1 order-lg-2">
-                  <img src="assets/img/CSE/CM.png" alt="" class="img-fluid">
+                  <img src="https://webdocs.pages.dev/assets/img/CSE/lab/CM.png" alt="" class="img-fluid">
                 </div>
               </div>
               <div class="row">
                 <div class="col-lg-8 details order-2 order-lg-1">
                   <h3>BigData Lab</h3>
-                  <p class="fst-italic">Big data lab is typically equipped with internet access. Computers in this lab are typically arranged in rows, so that every workstation has a similar view of one end of the room to facilitate lecturing or presentations, to facilitate small group work. The Big Data Lab is equipped with 40 Lenovo Desktop computers with Intel i7 Processor, 64 bit OS, 8GB Ram, on screen projector & centralized AC. Programming and Data Structures, Object Oriented Programming Systems, Operating Systems, Internet Programming, Grid and Cloud Computing Lab practical classes are conducted in this Laboratory.</p>
+                  <p class="fst-italic text-justify">Big data lab is typically equipped with internet access. Computers in this lab are typically arranged in rows, so that every workstation has a similar view of one end of the room to facilitate lecturing or presentations, to facilitate small group work. The Big Data Lab is equipped with 40 Lenovo Desktop computers with Intel i7 Processor, 64 bit OS, 8GB Ram, on screen projector & centralized AC. Programming and Data Structures, Object Oriented Programming Systems, Operating Systems, Internet Programming, Grid and Cloud Computing Lab practical classes are conducted in this Laboratory.</p>
                 </div>
                 <div class="col-lg-4 text-center order-1 order-lg-2">
-                  <img src="assets/img/CSE/BD.jpg" alt="" class="img-fluid">
+                  <img src="https://webdocs.pages.dev/assets/img/CSE/lab/BD.jpg" alt="" class="img-fluid">
                 </div>
               </div>
               <div class="row">
                 <div class="col-lg-8 details order-2 order-lg-1">
+                  <br>
                   <h3>Software Development Lab</h3>
-                  <p class="fst-italic"> Software Development Lab is typically equipped with internet access. Computers in this lab are typically arranged in rows, so that every workstation has a similar view of one end of the room to facilitate lecturing or presentations, to facilitate small group work. The Software Development Lab is equipped with 40 Dell Desktop computer with Intel i3 Processor, 32 bit OS,4 GB Ram and 3 AC. Compiler Laboratory and Database Management system, Software Development, Computer Graphics, Mobile Application Development and Network Laboratory practical classes are conducted in this Laboratory.</p>
+                  <p class="fst-italic text-justify"> Software Development Lab is typically equipped with internet access. Computers in this lab are typically arranged in rows, so that every workstation has a similar view of one end of the room to facilitate lecturing or presentations, to facilitate small group work. The Software Development Lab is equipped with 40 Dell Desktop computer with Intel i3 Processor, 32 bit OS,4 GB Ram and 3 AC. Compiler Laboratory and Database Management system, Software Development, Computer Graphics, Mobile Application Development and Network Laboratory practical classes are conducted in this Laboratory.</p>
                 </div>
                 <div class="col-lg-4 text-center order-1 order-lg-2">
-                  <img src="assets/img/CSE/SW.jpg" alt="" class="img-fluid">
+                  <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
                 </div>
               </div>
-            </div>
-            <div class="tab-pane" id="tab-5">
+            </div>-->
+            <div class="tab-pane" id="tab-">
               <div class="row">
                 <div class="col-lg-12 details order-2 order-lg-1">
                   <h3>Achievements</h3>
@@ -580,23 +837,27 @@ The faculty members impart knowledge through curriculum based formal education a
                 </div>
               </div>
             </div>
-            <div class="tab-pane" id="tab-6">
-                <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
+            <div class="tab-pane" id="tab-5">
+            <div class="row row justify-content-center">
+                  <div class="">
                     <!-- ======= Services Section ======= -->
       <section id="services" class="services">
           <div class="container">
-            <div class="row">
-              <div class="col-md-6 col-lg-4 d-flex align-items-center mb-5 mb-lg-0">
+            <div class="row justify-content-center">
+            <div class="section-title" data-aos="fade-up">
+                            <h2>Syllabus</h2>
+                            <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
+                          </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bx-world"></i></div>
-                  <h4 class="title"><a href="">Regulation 2021</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/civil/syllabus/2021.pdf">Regulation 2021</a></h4>
                   </div>
               </div>
-              <div class="col-md-6 col-lg-4 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
+              <div class="col-lg-3 col-md-4">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bx-world"></i></div>
-                  <h4 class="title"><a href="">Regulation 2017</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/civil/syllabus/2017.pdf">Regulation 2017</a></h4>
                   </div>
                 </div>
             </div>
@@ -604,20 +865,24 @@ The faculty members impart knowledge through curriculum based formal education a
         </section><!-- End Services Section --></div>
                 </div>
               </div>
-              <div class="tab-pane" id="tab-7">
-                <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
+              <div class="tab-pane" id="tab-6">
+              <div class="row row justify-content-center">
+                  <div class="">
                     <!-- ======= Services Section ======= -->
       <section id="services" class="services">
           <div class="container">
-            <div class="row">
-              <div class="col-md-7 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
+            <div class="row justify-content-center">
+            <div class="section-title" data-aos="fade-up">
+                            <h2>Outcome</h2>
+                            <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
+                          </div>
+              <div class="col-md-7 col-lg-5">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-journal-richtext"></i></div>
                   <h4 class="title"><a href="">Programme Outcomes</a></h4>
                   </div>
               </div>
-              <div class="col-md-7 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
+              <div class="col-md-7 col-lg-5">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-journal-richtext"></i></div>
                   <h4 class="title"><a href="">Program Specfic Outcomes</a></h4>
@@ -628,83 +893,89 @@ The faculty members impart knowledge through curriculum based formal education a
         </section><!-- End Services Section --></div>
                 </div>
               </div>
-              <div class="tab-pane" id="tab-8">
+              <div class="tab-pane" id="tab-7">
                 <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
+                  <div class="">
                     <!-- ======= Services Section ======= -->
       <section id="services" class="services">
           <div class="container">
             <div class="row">
-              <div class="col-md-6 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
+            <div class="section-title" data-aos="fade-up">
+                            <h2>Academic Calender</h2>
+                            <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
+                          </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2018-19 ODD</a></h4>
+                  <h4 class="title"><a href="">2023-24 EVEN</a></h4>
                 </div>
+                <ol></ol>
               </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2018-19 EVEN</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2019-20 ODD</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2019-20 EVEN</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2020-21 ODD</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2020-21 EVEN</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2021-22 ODD</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2021-22 EVEN</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2022-23 ODD</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2022-23 EVEN</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
                   <h4 class="title"><a href="">2023-24 ODD</a></h4>
                 </div>
               </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2023-24 EVEN</a></h4>
+                  <h4 class="title"><a href="">2022-23 EVEN</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2022-23 ODD</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2021-22 EVEN</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2021-22 ODD</a></h4>
+                </div>
+                <ol></ol>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2020-21 EVEN</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2020-21 ODD</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2019-20 EVEN</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2019-20 ODD</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2018-19 EVEN</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2018-19 EVEN</a></h4>
                 </div>
               </div>
             </div>
@@ -712,7 +983,7 @@ The faculty members impart knowledge through curriculum based formal education a
         </section><!-- End Services Section --></div>
                 </div>
               </div>
-              <div class="tab-pane" id="tab-9">
+              <div class="tab-pane" id="tab-8">
                 <div class="row">
                     <section id="features" class="features">
                         <div class="container">
@@ -726,52 +997,52 @@ The faculty members impart knowledge through curriculum based formal education a
                             <div class="col-lg-3 col-md-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #ffbb2c;"></i>
-                                <h3><a href="">APRIL 2016</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume1issue1.pdf">Volume I, Issue 1 : Dec 2017</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #5578ff;"></i>
-                                <h3><a href="">NOVEMBER 2016</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume1issue2.pdf">Volume I, Issue 2 : April 2018</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #e80368;"></i>
-                                <h3><a href="">APRIL 2017</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume2issue1.pdf">Volume II, Issue 1 : Dec 2018</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #e361ff;"></i>
-                                <h3><a href="">NOVEMBER 2017</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume2issue2.pdf">Volume II, Issue 2 : April 2019</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #47aeff;"></i>
-                                <h3><a href="">APRIL 2018</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume3issue1.pdf">Volume III, Issue 1 : Dec 2019</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #ffa76e;"></i>
-                                <h3><a href="">NOVEMBER 2018</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume3issue2.pdf">Volume III, Issue 2 : April 2020</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #11dbcf;"></i>
-                                <h3><a href="">APRIL 2019</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume4issue1.pdf">Volume IV, Issue 1 : Dec 2020</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #4233ff;"></i>
-                                <h3><a href="">NOVEMBER 2019</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume4issue2.pdf">Volume IV, Issue 2 : April 2021</a></h3>
                               </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 mt-4">
+                            <!--<div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #b2904f;"></i>
                                 <h3><a href="">APRIL 2020</a></h3>
@@ -794,20 +1065,20 @@ The faculty members impart knowledge through curriculum based formal education a
                                 <i class="ri-calendar-todo-line" style="color: #29cc61;"></i>
                                 <h3><a href="">NOVEMBER 2021</a></h3>
                               </div>
-                            </div>
+                            </div>-->
                           </div>
                   
                         </div>
                       </section><!-- End Features Section -->
                       </div>
                       </div>
-                      <div class="tab-pane" id="tab-10">
+                      <div class="tab-pane" id="tab-9">
                         <div class="row">
                             <section id="features" class="features">
                                 <div class="container">
                           
                                   <div class="section-title" data-aos="fade-up">
-                                    <h2>Brochure</h2>
+                                    <h2>Magazine</h2>
                                     <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
                                   </div>
                           
@@ -815,86 +1086,187 @@ The faculty members impart knowledge through curriculum based formal education a
                                     <div class="col-lg-3 col-md-4">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #ffbb2c;"></i>
-                                        <h3><a href="">AJAX BASICS</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2017-18.pdf">2017-2018</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #5578ff;"></i>
-                                        <h3><a href="">BOOTSTRAP</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2018-19.pdf">2018-2019</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                                       <div class="icon-box">
                                         <i class="ri-database-2-line" style="color: #e80368;"></i>
-                                        <h3><a href="">HADOOP</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2019-20.pdf">2019-2020</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
                                       <div class="icon-box">
-                                        <i class="ri-file-list-3-line" style="color: #e361ff;"></i>
-                                        <h3><a href="">MACHINE LEARNING AND DATA ANALYTICS</a></h3>
+                                        <i class="ri-database-2-line" style="color: #e361ff;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2020-21.pdf">2020-2021</a></h3>
                                       </div>
                                     </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-bar-chart-box-line" style="color: #47aeff;"></i>
-                                        <h3><a href="">MATLAB</a></h3>
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-check-double-line" style="color: #ffa76e;"></i>
-                                        <h3><a href="">MOBILE APP DEVELOPMENT</a></h3>
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-database-2-line" style="color: #11dbcf;"></i>
-                                        <h3><a href="">NETWORK STORAGE CONCEPTS</a></h3>
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-disc-line" style="color: #4233ff;"></i>
-                                        <h3><a href="">NS2</a></h3>
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-anchor-line" style="color: #b2904f;"></i>
-                                        <h3><a href="">U-TURN MOTIVATION OF ENGINEERS</a></h3>
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-check-double-line" style="color: #b20969;"></i>
-                                        <h3><a href="">WEB DESIGNING USING WORDPRESS</a></h3>
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-check-double-line" style="color: #ff5828;"></i>
-                                        <h3><a href="">WEB DEVELOPMENT</a></h3>
-                                      </div>
-                                    </div>
+                                   
                                   </div>
                           
                                 </div>
                               </section><!-- End Features Section -->
                               </div>
                               </div>
-          </div>
-        </div>
-      </div>
+                              <div class="tab-pane" id="tab-10">
+                          <div class="row">  
+                            <div class="">
+      
+                              <!--slider start here-->
+                        
+                              <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="4000"> <!-- Change the data-bs-interval value as needed -->
+                                <div class="carousel-indicators">
+                                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+                                </div>
+                                <div class="carousel-inner">
+                                  <div class="carousel-item active">
+                                    <img src="https://webdocs.pages.dev/assets/docs/cfi/sih2022/3.jpg" class="d-block w-100" alt="...">
+                                  </div>
+                                  <div class="carousel-item">
+                                    <img src="https://webdocs.pages.dev/assets/docs/cfi/sih2022/2.jpg" class="d-block w-100" alt="...">
+                                  </div>
+                                  <div class="carousel-item">
+                                    <img src="https://webdocs.pages.dev/assets/docs/cfi/sih2022/1.jpg" class="d-block w-100" alt="...">
+                                  </div>
+                                  <div class="carousel-item">
+                                    <img src="https://webdocs.pages.dev/assets/docs/cfi/sih2022/4.jpg" class="d-block w-100" alt="...">
+                                  </div>
+                                  
+                                </div>
+                                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                  <span class="visually-hidden">Previous</span>
+                                </button>
+                                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                  <span class="visually-hidden">Next</span>
+                                </button>
+                              </div>
+                                <!--end here-->
+                            </div>
+                            <!-- End Features Section -->
+                                </div>
 
-    </div>
-  </section><!-- End Cource Details Tabs Section -->
+                                </div>
+
+
+                                <div class="tab-pane" id="tab-11">
+                          <div class="row">  
+                            <div class="">
+                            <section id="testimonials" class="testimonials section-bg">
+      <div class="container">
+
+        <div class="section-title" data-aos="fade-up">
+          <h2>Testimonials</h2>
+          <p>Words from our Alumni</p>
+        </div>
+
+        <div class="testimonials-slider swiper text-justify" data-aos="fade-up" data-aos-delay="100">
+          <div class="swiper-wrapper">
+
+            <div class="swiper-slide">
+              <div class="testimonial-wrap">
+                <div class="testimonial-item">
+                  <img src="https://webdocs.pages.dev/assets/img/testimonials/Vaishnavi.jpeg" class="testimonial-img" alt="">
+                  <h3>Vaishnavi M J</h3>
+                  <h4>ECE - Alumni 2019-23 &amp; Software Developer @ Agile Cyber Solutions</h4>
+                  <p class ="text-justify">
+                    <i class="bx bxs-quote-alt-left quote-icon-left text-justify"></i>
+                    infrastructure provided by our institution Stella Mary's College of Engineering and the unwavering support of my teachers have been instrumental in facilitating my achievement. The constant guidance and insightful feedback they have imparted have enriched my learning experience and empowered me to reach new heights. I am forever thankful..
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  </p>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-wrap">
+                <div class="testimonial-item">
+                  <img src="" class="testimonial-img" alt="">
+                  <h3>Sara Wilsson</h3>
+                  <h4>Designer</h4>
+                  <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  </p>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-wrap">
+                <div class="testimonial-item">
+                  <img src="" class="testimonial-img" alt="">
+                  <h3>Jena Karlis</h3>
+                  <h4>Store Owner</h4>
+                  <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  </p>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-wrap">
+                <div class="testimonial-item">
+                  <img src="" class="testimonial-img" alt="">
+                  <h3>Matt Brandon</h3>
+                  <h4>Freelancer</h4>
+                  <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  </p>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-wrap">
+                <div class="testimonial-item">
+                  <img src="" class="testimonial-img" alt="">
+                  <h3>John Larson</h3>
+                  <h4>Entrepreneur</h4>
+                  <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  </p>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+          </div>
+          <div class="swiper-pagination"></div>
+        </div>
+
+      </div>
+    </section><!-- End Testimonials Section -->
+
+</div>
+</div>
+</div>
+
+
+                      </div>
+    </section>
 
   </main><!-- End #main -->
 
-  <!-- ======= Footer ======= -->
-  <footer id="footer">
+   <!-- ======= Footer ======= -->
+   <footer id="footer">
     <div class="container">
       <div class="footer-top">
         <div class="container">

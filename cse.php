@@ -981,7 +981,7 @@ The faculty members impart knowledge through curriculum based formal education a
 
         <div class="section-title" data-aos="fade-up">
           <h2>Testimonials</h2>
-          <p>Words from eminent personalities</p>
+          <p>Words from our Alumni</p>
         </div>
 
         <div class="testimonials-slider swiper text-justify" data-aos="fade-up" data-aos-delay="100">

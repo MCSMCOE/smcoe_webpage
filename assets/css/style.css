@@ -962,9 +962,9 @@ section {
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #3498db;
-}
+} 
 
-@media (max-width: 767px) {
+ /* @media (max-width: 767px) {
   .testimonials .testimonial-wrap {
     padding-left: 0;
   }
@@ -983,7 +983,9 @@ section {
     position: static;
     left: auto;
   }
-}
+} 
+ */
+
 
 /*--------------------------------------------------------------
 # Portfolio
@@ -1855,6 +1857,7 @@ h6 {
 
 
 /*--------------------------------------------------------------
+<<<<<<< HEAD
 # Testimonials
 --------------------------------------------------------------*/
 .testimonials .testimonial-wrap {
@@ -1960,6 +1963,8 @@ h6 {
 }
 -->
 /*--------------------------------------------------------------
+=======
+>>>>>>> c5b32f2 (update)
 # Cource Details
 --------------------------------------------------------------*/
 .course-details h3 {

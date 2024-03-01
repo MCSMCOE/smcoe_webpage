@@ -435,91 +435,76 @@ include("conn.php")
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingOne">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                    <strong>Environmental Engineering Laboratory</strong>
+                    <strong>SURVEYING AND LEVELLING LABORATORY</strong>
                     </button>
                   </h2>
                   <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                      <p class="fst-italic text-justify">In this laboratory the students will be able to know the common environmental experiements relating to water and wastewater quality.</p>
-      
-                      <strong>Experiments</strong> <li class="text-justify">Determination of Ammonia Nitrogen in wastewater, Coagulation and Precipitation process for treating waste water, Determination of suspended, volatile, fixed and settleable solids in wastewater,B.O.D. test,C.O.D. test, Nitrate in wastewater,Phosphate in wastewater, Determination of Calcium, Potassium and Sodium, Heavy metals determination - Chromium, Lead and Zinc.(Demonstration only)</li>
-                      <strong>Equipments</strong> <li class="text-justify">Oxygen analyzer,Spectrophotometer, Ion – selective electrode, Sodium Potassium Analyzer – Flame Photometer 5.Gas Chromatography, Atomic absorption spectroscopy (Ni, Zn, Pb),Nephlo-turbidity me ter, BOD Analyser,COD Analyser,Jar Test Apparatus.</li>
+                    <p class="fst-italic text-justify">This laboratory offers students an in-depth understanding of survey field techniques, allowing them to proficiently utilize advanced instruments for precision in measurements. Students will develop practical expertise in land surveys, levelling, and contour mapping. The course is structured to instill a comprehensive grasp of surveying principles, equipping students with the skills essential for practical applications in civil engineering and land development projects.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingTwo">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                      <strong>Soil Mechanics Laboratory</strong>
+                      <strong>WATER AND WASTEWATER ANALYSIS LABORATORY</strong>
                     </button>
                   </h2>
                   <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    <p class="fst-italic">Students will able to identify physical and mechanical properties of soil in the field and laboratory settings. This include preparing soil samples for testing, performing the test, collecting and analyzing data, interpreting the results and writing technical reports.</p>
+                    <p class="fst-italic">This laboratory encompasses a series of experiments dedicated to characterizing water and municipal sewage. Upon completing the course, students are anticipated to have gained proficiency in quantifying quality parameters associated with water and sewage. The experiments provided in the laboratory enhances their practical understanding of water and wastewater analysis techniques.</p>
       
-                      <strong>Experiments</strong> <li class="text-justify">Determination of index properties, Permeability determination (constant head and falling head methods), One dimensional consolidation test (Determination of co-efficient of consolidation only),Direct shear test in cohesion-less soil,Unconfined compression test in cohesive soil,Laboratory vane Shear test in cohesive soil ,Tri-axial compression test in cohesion-less soil(Demonstration only),California Bearing Ratio Test.</li>
-                      <strong>Equipments</strong> <li class="text-justify">Sieves,Hydrometer,Liquid and plastic limit apparatu, Shinkage limit apparatus,Proctor compaction apparatus, UTM of minimum of 20KN capacity,Direct shear apparatus , Thermeometer, Field den sity measuring device ,Triaxial shear apparatus , Three gang consolidation test device</li>
-                      
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingThree">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                    <strong>Strength of materials Laboratory</strong>
+                    <strong>MATERIALS TESTING LABORATORY</strong>
                     </button>
                   </h2>
                   <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    <p class="fst-italic">Demonstrating the basic principles in the area of strength and mechanics of materials and structural analysis to the students through a series of experiments.</p>
-                    <strong>Experiments</strong> <li class="text-justify"> Tension test on mild steel rod,Compression test on wood, Double shear test on metal,Torsion test on mild steel rod , Impact test on metal specimen (Izod and Charpy) , Hardness test on metals (Rockwell and Brinell Hardness Tests), Deflection test on metal beam,Compression test on helical spring, Deflection test on carriage spring,Test on Cement.</li>
-                    <strong>Equipments</strong> <li class="text-justify"> UTM of minimum 400 kN capacity,Torsion testing machine for steel rods,Izod impact testing machine,Hardness testing machine, Beam deflection test apparatus,Extensometer,Compressometer, Dial gauges,Le Chatelier’s apparatus,Vicat’s apparatus, Mortar cube moulds.</li> 
-                
+                    <p class="fst-italic">This laboratory focuses on developing students' skills in testing a variety of construction materials. Students will gain practical experience in conducting tests to assess the properties and characteristics of construction materials. The course aims to enhance their proficiency in material testing techniques and equip them with the knowledge necessary for quality assessment in construction projects. The ultimate goal is to prepare students for real-world applications in the field of materials engineering.</li>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingFour">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                    <strong>Survey Laboratory</strong>
+                    <strong>SOIL MECHANICS LABORATORY</strong>
                     </button>
                   </h2>
                   <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    <p class="fst-italic">Students learn techniques for gathering field data with both traditional and modern instruments and demonstrate their proficiency on weekly lab exercises and a comprehensive semester project and final exam.</p>
-                    <strong>Experiments</strong> <li class="text-justify"> Study of theodolite,Measurement of horizontal angles by reiteration and repetition and vertical angles,Theodolite survey traverse,Heights and distances - Triangulation - Single plane method,Tacheometry - Tangential system - Stadia system - Subtense system,Setting out works - Foundation marking - Simple curve (right/ left-handed) - Transition curve, Field observation for and Calculation of azimuth,Field work using Total Station.</li>
-                  <strong>Equipments</strong> <li class="text-justify"> Total Station,Theodolites Atleast 1 for every,Dumpy level, Plane table,Pocket stereoscope,Ranging rods,Levelling staff , Cross staff, Chains,Tapes, Arrows, Hand held GPS.</li> 
-                
+                    <p class="fst-italic">This laboratory is designed to cultivate skills in testing soils for their index and engineering properties, facilitating the characterization of soil based on these key attributes. Through experimentation, students will gain practical experience in soil testing techniques, aiming to foster a comprehensive understanding of soil behavior and properties. The ultimate goal is to equip students with the expertise needed for effective soil characterization in civil engineering applications.</p>
+                    
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingFive">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                    <strong>Concrete and Highway Laboratory</strong>
+                    <strong>HIGHWAY ENGINEERING LABORATORY</strong>
                     </button>
                   </h2>
                   <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    <p class="fst-italic">The behavior and properties of structural materials, e.g. concrete, asphalt and steel can be better understood by detailed, well-designed, first hand experience with these materials. The students will become familiar with the nature and properties of these materials by conducting laboratory tests.</p>
-                    <strong>Experiments</strong> <li class="text-justify"> Tests on fresh concrete,Test on hardener concrete,Theodolite survey traverse,Test on aggregates, Tests on bitumen, Test on bitumen mixes.</li>
-                    <strong>Equipments</strong> <li class="text-justify"> Concrete cube moulds,Concrete cylinder moulds,Concrete Prism moulds, Sieves,Concrete Mixer,Slump cone,Flow table,Vibrator,Trovels and planers, UTM – 400 kN capacity,Vee Bee Consistometer,Aggregate impact testing machine,CBR Apparatus,Los - Angeles abrasion testing machine, Marshall Stability Apparatus.</li> 
-                
+                    <p class="fst-italic">This laboratory aims to familiarize students with the principles and procedures involved in testing materials utilized in highway construction. Through practical experiments, students will gain hands-on experience in assessing the properties and performance characteristics of materials crucial for highway engineering. The course objective is to equip students with the knowledge and skills necessary for quality control in highway construction projects.</p>
+                    
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingSix">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                    <strong>Hydraulics Engineering laboratory</strong>
+                    <strong>BUILDING DRAWING AND DETAILING LABORATORY</strong>
                     </button>
                   </h2>
                   <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    <p class="fst-italic">The main objective of this lab is to build fundamental concepts combined with strong analytical and problem solving abilities that would form the backbone of many other subjects in higher educations</p>
-                    <strong>Experiments</strong> <li class="text-justify"> Flow measurement,Losses in pipes,Pumps,Turbines, Determination of metacentric height.</li>
-                    <strong>Equipments</strong> <li class="text-justify"> Bernoulli’s theorem – Verification Apparatus, Calculation of Metacentric height water tank Ship model with accessories,Measurement of velocity Pitot tube assembly, Venturimeter,Orificemeter,Flow through mouthpiece, Centrifugal pump assembly with accessories (single stage), Centrifugal pump assembly with accessories (multi stage), Reciprocating pump assembly with accessories, Deep well pump assembly set with accessories.</li> 
-                
+                    <p class="fst-italic">This laboratory aims to impart knowledge and skills related to building drawing and detailing using computer software. Students will engage in hands-on activities to enhance their proficiency in creating detailed building drawings. The course objective is to equip students with practical skills in utilizing computer software for Structural design and detailing, preparing them for real-world applications in the field of building construction.</p>
+                    
                     </div>
                   </div>
                 </div>
@@ -1059,7 +1044,7 @@ include("conn.php")
 
         <div class="section-title" data-aos="fade-up">
           <h2>Testimonials</h2>
-          <p>Words from eminent personalities</p>
+          <p>Words from our Alumni</p>
         </div>
 
         <div class="testimonials-slider swiper text-justify" data-aos="fade-up" data-aos-delay="100">

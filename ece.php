@@ -287,12 +287,12 @@ include("conn.php")
           <div class="tab-content">
             <div class="tab-pane active show" id="tab-1">
               <div class="row">
-                <div class="col-lg-8 details order-2 order-lg-1">
+                <div class="col-md-6 col-lg-12 ">
                   <!-- ======= Services Section ======= -->
     <section id="services" class="services">
         <div class="container">
-          <div class="row">
-            <div class="col-md-6 col-lg-10 d-flex align-items-stretch mb-5 mb-lg-0">
+          <div class="row justify-content-center">
+            <div class="col-md-6 col-lg-12 ">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                 <div class="icon"><i class="bx bxl-dribbble"></i></div>
                 <h4 class="title"><a href="">VISION</a></h4>
@@ -300,7 +300,7 @@ include("conn.php")
               </div>
             </div>
   
-            <div class="col-md-6 col-lg-10 d-flex align-items-stretch mb-5 mb-lg-0">
+            <div class="col-md-6 col-lg-12 ">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                 <div class="icon"><i class="bx bx-file"></i></div>
                 <h4 class="title"><a href="">MISSION</a></h4>
@@ -422,7 +422,7 @@ include("conn.php")
               </div>
             </div>
             <div class="tab-pane" id="tab-4">
-              <div class="row">
+            <div class="row">
                 <div class="col-lg-12 details order-2 order-lg-1">
                   <h3></h3>
                   
@@ -433,57 +433,60 @@ include("conn.php")
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
                     <strong>Communication Systems</strong>
                     </button>
-                  </h2>
-                  <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                    </h2>
+                    <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    <strong>Experiments</strong> <li>To visualize the effects of sampling and TDM</li>
+                    <strong>Experiments</strong> 
+                    <li>To visualize the effects of sampling and TDM</li>
                     <li>To Implement AM & FM modulation and demodulation</li>
                     <li>To implement PCM & DM, To implement FSK, PSK and DPSK schemes</li>
                     <li>To implement Equalization algorithms</li>
                     <li>To implement Error control coding schemes</li>
-                  <strong>Equipments</strong> <li> AM & FM modulation and demodulation Kit</li>
+                    <strong>Equipments</strong> 
+                    <li>AM & FM modulation and demodulation Kit</li>
                     <li>Time Division Multiplexing Kit</li>
                     <li>Pulse Code Modulation & Delta Modulation Kit</li>
                     <li>Frequency Shift Keying, Phase Shift keying Kit</li>
                     <li>Frequency Division Multiplexing Kit</li>
-                    <li>Sampling Kit</li><div class="col-md-6 col-lg-12">
-                  <img src="https://webdocs.pages.dev/assets/img/CSE/lab/CM.png" alt="" class="img-fluid">
-                </div>
-                
+                    <li>Sampling Kit</li>
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/CM.png" alt="" class="img-fluid">
                     </div>
                   </div>
                 </div>
-                <div class="accordion-item">
-                  <h2 class="accordion-header" id="headingTwo">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingTwo">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                     <strong>Linear Integrated Circuits</strong>
                     </button>
-                  </h2>
-                  <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                    </h2>
+                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
                     <strong>Experiments</strong> 
-                    <li> To expose the students to linear and integrated circuits</li>
+                    <li>To expose the students to linear and integrated circuits</li>
                     <li>To understand the basics of linear integrated circuits and available ICs</li>
                     <li>To understand and apply operational amplifiers in linear and nonlinear applications</li>
                     <li>To acquire the basic knowledge of special function IC</li>
                     <li>To use P-SPICE software for circuit design.</li>
-                  <strong>Equipments</strong>
-                  <li>Function Generator</li>
-                  <li>Cathode Ray Oscilloscope</li>
-                  <li>Digital Storage Oscilloscope</li>
-                  <li>P-SPICE software</li> <div class="col-md-6 col-lg-12">
-                  <img src="https://webdocs.pages.dev/assets/img/CSE/lab/BD.jpg" alt="" class="img-fluid">
-                </div>
+                    <strong>Equipments</strong> 
+                    <li>Function Generator</li>
+                    <li>Cathode Ray Oscilloscope</li>
+                    <li>Digital Storage Oscilloscope</li>
+                    <li>P-SPICE software</li>
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/BD.jpg" alt="" class="img-fluid">
                     </div>
                   </div>
                 </div>
-                <div class="accordion-item">
-                  <h2 class="accordion-header" id="headingThree">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingThree">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                     <strong>Electron Device And Circuits</strong>
                     </button>
-                  </h2>
-                  <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                    </h2>
+                    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
                     <strong>Experiments</strong> 
                     <li>Study the characteristics of Electron Devices</li>
@@ -494,47 +497,173 @@ include("conn.php")
                     <li>To learn the fundamental principles of amplifier circuits</li>
                     <li>To differentiate feedback amplifiers and oscillators</li>
                     <li>To understand the concepts of multivibrators</li>
-                  <strong>Equipments</strong> 
-                  <li>Function Generator</li>
-                  <li>Cathode Ray Oscilloscope</li>
-                  <li>Digital Storage Oscilloscope</li>
-                  <li>P-SPICE software</li> <div class="col-md-6 col-lg-12">
-                  <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
-                </div>
+                    <strong>Equipments</strong> 
+                    <li>Function Generator</li>
+                    <li>Cathode Ray Oscilloscope</li>
+                    <li>Digital Storage Oscilloscope</li>
+                    <li>P-SPICE software</li>
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
                     </div>
                   </div>
-</div>
-                  <div class="accordion-item">
-                  <h2 class="accordion-header" id="headingFour">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingFour">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                     <strong>Microprocessor</strong>
                     </button>
-                  </h2>
-                  <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                    </h2>
+                    <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
                     <strong>Experiments</strong> 
                     <li>To Write ALP Programs for fixed and Floating Point and Arithmetic</li>
                     <li>To Interface different I/Os with processor</li>
                     <li>To Generate waveforms using Microprocessors</li>
-                    <li>To Execute Programs in 8051.</li>
-                  <strong>Equipments</strong> 
-                  <li>8279,8251,8253,8255,8259</li>
-                  <li>Stepper motor</li>
-                  <li>DC motor</li>
-                  <li>ADC</li>
-                  <li>DAC</li>
-                  <li>Traffic light</li>
-                  <li>Printer Interfacing boards</li>
-                  <li>8085 Microprocessor Kit</li>
-                  <li>8086 Microprocessor Kit</li>
-                  <li>8051 Microcontroller Kit</li> 
-                     <div class="col-md-6 col-lg-12">
-                  <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
-                </div>
+                    <li>To Execute Programs in 8051</li>
+                    <strong>Equipments</strong> 
+                    <li>8279,8251,8253,8255,8259</li>
+                    <li>Stepper motor</li>
+                    <li>DC motor</li>
+                    <li>ADC,DAC</li>
+                    <li>Traffic light</li>
+                    <li>Printer Interfacing boards</li>
+                    <li>8085 Microprocessor Kit</li>
+                    <li>8086 Microprocessor Kit</li>
+                    <li>8051 Microcontroller Kit</li>
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
                     </div>
                   </div>
-</div>
                 </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingFive">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                    <strong>Digital Signal Processing</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Experiments</strong> 
+                    <li>To carry out simulation of DSP systems</li>
+                    <li>To demonstrate their abilities towards DSP processor based implementation of DSP systems</li>
+                    <li>To Analyze Finite word length effect on DSP systems</li>
+                    <li>To demonstrate the applications of FFT to DSP.</li>
+                    <strong>Equipments</strong> 
+                    <li>Fixed point DSP processor kit</li>
+                    <li>Floating point DSP processor kit</li>
+                    <li>MATLAB/ SIMULINK software</li> 
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingSix">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                    <strong>VLSI Design Laboratory</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Experiments</strong> 
+                    <li>To Write HDL code for basic as well as advanced digital integrated circuits</li>
+                    <li>To Import the logic modules into FPGA Boards</li>
+                    <li>To Synthesize Place and Route the digital IPs</li>
+                    <li>To Design Simulate and Extract the layouts of Analog IC Blocks using EDA tools</li>
+                    <strong>Equipments</strong> 
+                    <li>Cadence - 20 User License</li>
+                    <li>FPGA-Spartan 6</li>
+                    <li>X- link</li> 
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingSeven">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                    <strong>Computer Networks Laboratory</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Experiments</strong> 
+                    <li>To communicate between two desktop computers</li>
+                    <li>To Implement the different protocols</li>
+                    <strong>Equipments</strong> 
+                    <li>LAN Trainer Kit</li> 
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingEight">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                    <strong>Microwave And Fiber Optics</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Experiments</strong> 
+                    <li>To analyze the performance of simple optical link</li>
+                    <li>To Test microwave and optical components</li>
+                    <li>To analyze the mode characteristics of fiber</li>
+                    <li>To analyze the radiation of pattern of antenna</li>
+                    <li>To Formulate the S-Parameters for Microwave components</li>
+                    <strong>Equipments</strong> 
+                    <li>Klystron Test Bench(X-Band)</li>
+                    <li>Advanced fiber Optic trainer Kit</li>
+                    <li>Single Mode Fiber Characteristics Trainer</li> 
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingNine">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                    <strong>Embedded System Laboratory</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Experiments</strong> 
+                    <li>To Learn the working of ARM processor</li>
+                    <li>To Understand the Building Blocks of Embedded Systems</li>
+                    <li>To Learn the concept of memory map and memory interface</li>
+                    <li>To Know the characteristics of Real Time Systems</li>
+                    <li>To Write programs to interface memory, I/Os with processor</li>
+                    <li>To Study the interrupt performance</li>
+                    <strong>Equipments</strong> 
+                    <li>Embedded trainer kits with ARM board</li>
+                    <li>ARM CORTEX M3</li>
+                    <li>Zigbee Module</li>
+                    <li>Temperature sensor for Embedded trainer kits</li>
+                    <li>Stepper Motor</li>
+                    <li>Keyboard</li>
+                    <li>LCD</li>
+                    <li>ADC</li>
+                    <li>DAC Starter Kit</li>
+                    <li>On Board RTC & Serial port using UART Interface</li>
+                    <li>On Board EEPROM Interface & Interrupt</li>
+                    <li>On-chip PWM Interface</li>  
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+
+
+
                 </div>
                   </div>
                 </div>
@@ -1042,7 +1171,7 @@ include("conn.php")
 
         <div class="section-title" data-aos="fade-up">
           <h2>Testimonials</h2>
-          <p>Words from eminent personalities</p>
+          <p>Words from our Alumni</p>
         </div>
 
         <div class="testimonials-slider swiper text-justify" data-aos="fade-up" data-aos-delay="100">

@@ -255,26 +255,32 @@ include("conn.php")
             <li class="nav-item">
               <a class="nav-link" data-bs-toggle="tab" href="#tab-4">Laboratory</a>
             </li>
-            <li class="nav-item">
+            <!--<li class="nav-item">
               <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Achievements</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" data-bs-toggle="tab" href="#tab-6">Industrial Visit</a>
+            </li>-->
+            <li class="nav-item">
+              <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Syllabus</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" data-bs-toggle="tab" href="#tab-7">Syllabus</a>
+              <a class="nav-link" data-bs-toggle="tab" href="#tab-6">Program Outcome</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" data-bs-toggle="tab" href="#tab-8">Program Outcome</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-7">Calender</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-9">Calender</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-8">Newsletter</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-10">Newsletter</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-9">Brochure</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-11">Brochure</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-10">Gallery</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-11">Testimonial</a>
             </li>
           </ul>
         </div>
@@ -282,12 +288,12 @@ include("conn.php")
           <div class="tab-content">
             <div class="tab-pane active show" id="tab-1">
               <div class="row">
-                <div class="col-lg-8 details order-2 order-lg-1">
+                <div class="col-md-6 col-lg-12 ">
                   <!-- ======= Services Section ======= -->
     <section id="services" class="services">
         <div class="container">
-          <div class="row">
-            <div class="col-md-6 col-lg-10 d-flex align-items-stretch mb-5 mb-lg-0">
+          <div class="row justify-content-center">
+            <div class="col-md-6 col-lg-12 ">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                 <div class="icon"><i class="bx bxl-dribbble"></i></div>
                 <h4 class="title"><a href="">VISION</a></h4>
@@ -295,7 +301,7 @@ include("conn.php")
               </div>
             </div>
   
-            <div class="col-md-6 col-lg-10 d-flex align-items-stretch mb-5 mb-lg-0">
+            <div class="col-md-6 col-lg-12 ">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                 <div class="icon"><i class="bx bx-file"></i></div>
                 <h4 class="title"><a href="">MISSION</a></h4>
@@ -423,196 +429,288 @@ include("conn.php")
               </div>
             </div>
             <div class="tab-pane" id="tab-4">
-              <div class="row">
-                <div class="col-lg-8 details order-2 order-lg-1">
-                  <h3>Electrical Engineering Practices Lab</h3>
-                  <strong>Background</strong> <li>This lab pioneers the students to the basic electrical measuring equipments that make them deal with some of the commonly used instruments and equipments, like the digital multimeter, tester etc. The students would gain the basic knowledge about different types of wiring circuits, behaviour of current, voltage, power, energy under different conditions and their determination. They can also add on to their knowledge about residential wiring, trouble shooting various electrical equipments like ceiling fan, mixer, air conditioner and other electrical gadgets. These experiments therefore aid in providing them the foundation they require to be Electrical engineers.
-                    </li>
-                  <strong>Equipments</strong> <li> Voltmeters, Ammeters, Single phase and three phase Energy meter, Power factor meter, Transformer winding machine, Wattmeter(LPF and UPF), Meggar, resistive load, inductive load, capacitive load, multimeter, Earth tester.</li>
-                       
-                </div>
-                <div class="col-lg-4 text-center order-1 order-lg-2">
-                  <img src="assets/img/CSE/CM.png" alt="" class="img-fluid">
-                </div>
-              </div>
-            
-              <div class="row">
-                <div class="col-lg-8 details order-2 order-lg-1">
-                  <h3>Control And Instrumentation Laboratory</h3>
-                  <strong>Background</strong> <li> It is the duty of instrumentation and control engineers to research, design, install, develop, test and maintain instruments, electronics and computer control systems that are in use in the process industry. Many ways have been formulated to control these systems with the help of automation techniques and computer-aided processes. Their key focus is to ensure that the processes function efficiently and safely. This lab prepares students who seek to enter this stream by providing them with elaborate knowledge to supervise and control instruments.</li>
-                  <strong>Description</strong> <li> The laboratory utilizes both hardware and software facilities. The Control & Instrumentation lab is equipped with CRO, oscilloscopes, various trainer kits and earth tester such as megger, signal generators, sensors, tranducers, converters digital multimeters and loading inductor, capacitor, resistive loads, LCR meter & energy meter. The software used is MATLAB.</li> 
-                    <strong>Equipments</strong> <li> This lab is equipped with excellent facilities for Instrumentation and control. This lab includes various kits, Hardware/Software as well as specialized computer language compilers software (MATLAB).
-
-                      Bridge Kits,
-                      LVDT Trainer,
-                      P,PI,PID Controllers,
-                      Synchro Controllers,
-                      AC Servo Motors,
-                      Oscilloscope,
-                      DC Position Control System,
-                      AC Position Control System,
-                      AC Servo Motor,
-                      Resistive Load Single Phase,
-                      Inductive Load Three Phase,
-                      Capacitive Load,
-                      Earth Tester,
-                      Megger,
-                      Stepper Motor.</li>
-                </div>
-                <div class="col-lg-4 text-center order-1 order-lg-2">
-                  <img src="assets/img/CSE/BD.jpg" alt="" class="img-fluid">
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-lg-8 details order-2 order-lg-1">
-                  <h3>Power Electronics And Drives Laboratory</h3>
-                  <strong>Background</strong> <li> The power electronics lab augments the knowledge of the EEE students by providing them a better understanding of the concepts and working of advanced power semiconductor devices and power electronics circuits.</li>
-                  <strong>Description</strong> <li> In this lab:
-                    R, RC and UJT triggering circuits are built to know the procedure to give and adjust the firing pulse to the SCR so as to make it to conduct. 1-phase semi converter and full converter experiments are performed to understand the conversion of AC supply to DC supply and the variation of average output voltage for different firing angles. 1-phase AC voltage controller using TRIAC is done to get the variable AC output voltage from fixed AC input voltage. For converting DC to AC, 1-phase series inverter, 1-phase parallel inverter and 1-phase Mc Murray inverter experiments inverter are conducted. Voltage and current commutated chopper circuits are built to understand the conversion of fixed DC to variable DC voltage by voltage commutation and current commutation respectively. Speed control of DC shunt motor, universal motor and three phase induction motor using respective power electronics circuits are also done.</li> 
-                    <strong>curriculum objectives </strong> <li> To set up circuits for various applications in power electronics
-                      To comprehend the operation of different types of power controllers
-                      Description
-                      In this lab:
-                      R, RC and UJT triggering circuits are built to know the procedure to give and adjust the firing pulse to the SCR so as to make it to conduct. 1-phase semi converter and full converter experiments are performed to understand the conversion of AC supply to DC supply and the variation of average output voltage for different firing angles. 1-phase AC voltage controller using TRIAC is done to get the variable AC output voltage from fixed AC input voltage. For converting DC to AC, 1-phase series inverter, 1-phase parallel inverter and 1-phase Mc Murray inverter experiments inverter are conducted. Voltage and current commutated chopper circuits are built to understand the conversion of fixed DC to variable DC voltage by voltage commutation and current commutation respectively. Speed control of DC shunt motor, universal motor and three phase induction motor using respective power electronics circuits are also done.
-                      
-                      The power electronics lab is equipped with the following prominent power electronics equipments:
-                      
-                      Voltage commutated chopper,
-                      Current commutated chopper,
-                      Series inverter,
-                      Parallel inverter,
-                      Mc Murray inverter,
-                      Universal motor speed control drive,
-                      DC motor speed control drive,
-                      AC voltage controller using SCR and TRIAC,
-                      1-phase half converter,
-                      1-phase full converter,
-                      3-phase half wave and full wave converter,
-                      1-phase cyclo-converter,
-                      Spectrum analyzer,
-                      TMS320F240 digital signal processor,
-                      Mc Murray Bedford inverter,
-                      CRO,
-                      Function generator,
-                      300V RPS,
-                      R, RC and UJT triggering circuits</li> 
+            <div class="row">
+                <div class="col-lg-12 details order-2 order-lg-1">
+                  <h3></h3>
                   
-                  </div>
-                <div class="col-lg-4 text-center order-1 order-lg-2">
-                  <img src="assets/img/CSE/BD.jpg" alt="" class="img-fluid">
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-lg-8 details order-2 order-lg-1">
-                  <h3>Power System Simulation Laboratory</h3>
-                  <strong>Background</strong> <li> The chief goal of the Power System Simulation lab is to provide assistance to students that will enhance their chances of succeeding in technology-based assignments and to provide access to equipment that will support the needs of instruction where we cherish life-long learning. The Simulation lab supports the curriculum of the Anna University and the assignments of the faculty.
+                 <!-- Default Accordion -->
+              <div class="accordion" id="accordionExample">
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="headingOne">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                    <strong>Electrical Engineering Practices Lab</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Background</strong> <li>This lab pioneers the students to the basic electrical measuring equipments that make them deal with some of the commonly used instruments and equipments, like the digital multimeter, tester etc. The students would gain the basic knowledge about different types of wiring circuits, behaviour of current, voltage, power, energy under different conditions and their determination. They can also add on to their knowledge about residential wiring, trouble shooting various electrical equipments like ceiling fan, mixer, air conditioner and other electrical gadgets. These experiments therefore aid in providing them the foundation they require to be Electrical engineers.
                     </li>
-                  <strong>Description</strong> <li> The aim of this laboratory is to provide required simulations facilities to the undergraduate students in order to meet their requirements in the field of the Electrical engineering profession. The major emphasis is laid on doing project works on designing Electrical and Electronics circuits using latest application packages such as MATLAB, PSPICE, ETAP and other engineering packages which are greatly used by the undergraduate students. It is equipped with computers and remains active during all working days. Required printing facilities are also available to all its users.</li> 
+                    <strong>Equipments</strong> <li> Voltmeters, Ammeters, Single phase and three phase Energy meter, Power factor meter, Transformer winding machine, Wattmeter(LPF and UPF), Meggar, resistive load, inductive load, capacitive load, multimeter, Earth tester.</li>
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/CM.png" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingTwo">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    <strong>Control And Instrumentation Laboratory</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Background</strong> <li> It is the duty of instrumentation and control engineers to research, design, install, develop, test and maintain instruments, electronics and computer control systems that are in use in the process industry. Many ways have been formulated to control these systems with the help of automation techniques and computer-aided processes. Their key focus is to ensure that the processes function efficiently and safely. This lab prepares students who seek to enter this stream by providing them with elaborate knowledge to supervise and control instruments.</li>
+                    <strong>Description</strong> <li> The laboratory utilizes both hardware and software facilities. The Control & Instrumentation lab is equipped with CRO, oscilloscopes, various trainer kits and earth tester such as megger, signal generators, sensors, tranducers, converters digital multimeters and loading inductor, capacitor, resistive loads, LCR meter & energy meter. The software used is MATLAB.</li> 
+                    <strong>Equipments</strong> <li> This lab is equipped with excellent facilities for Instrumentation and control. This lab includes various kits, Hardware/Software as well as specialized computer language compilers software (MATLAB)</li>
+                    <li>Bridge Kits</li>
+                    <li>LVDT Trainer</li>
+                    <li>P,PI,PID Controllers</li>
+                    <li>Synchro Controllers</li>
+                    <li>AC Servo Motors</li>
+                    <li>Oscilloscope</li>
+                    <li>DC Position Control System</li>
+                    <li>AC Position Control System</li>
+                    <li>AC Servo Motor</li>
+                    <li>Resistive Load Single Phase</li>
+                    <li>Inductive Load Three Phase</li>
+                    <li>Capacitive Load</li>
+                    <li>Earth Tester</li>
+                    <li>Megger</li>
+                    <li>Stepper Motor</li>
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/BD.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingThree">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    <strong>Power Electronics And Drives Laboratory</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Background</strong> <li> The power electronics lab augments the knowledge of the EEE students by providing them a better understanding of the concepts and working of advanced power semiconductor devices and power electronics circuits.</li>
+                    <strong>Description</strong>  In this lab:
+                    <li>R,RC and UJT triggering circuits are built to know the procedure to give and adjust the firing pulse to the SCR so as to make it to conduct. 1-phase semi converter and full converter experiments are performed to understand the conversion of AC supply to DC supply and the variation of average output voltage for different firing angles. 1-phase AC voltage controller using TRIAC is done to get the variable AC output voltage from fixed AC input voltage. For converting DC to AC, 1-phase series inverter, 1-phase parallel inverter and 1-phase Mc Murray inverter experiments inverter are conducted. Voltage and current commutated chopper circuits are built to understand the conversion of fixed DC to variable DC voltage by voltage commutation and current commutation respectively. Speed control of DC shunt motor, universal motor and three phase induction motor using respective power electronics circuits are also done.</li> 
+                    <strong>curriculum objectives </strong> To set up circuits for various applications in power electronics
+                    <strong>Equipments:</strong>
+                    <li>Voltage commutated chopper</li> 
+                    <li>Current commutated chopper</li> 
+                    <li>Series inverter</li> 
+                    <li>Parallel inverter</li> 
+                    <li>Mc Murray inverter</li> 
+                    <li>Universal motor speed control drive</li> 
+                    <li>DC motor speed control drive</li> 
+                    <li>AC voltage controller using SCR and TRIAC</li> 
+                    <li>1-phase half converter</li> 
+                    <li>1-phase full converter</li> 
+                    <li>3-phase half wave and full wave converter</li> 
+                    <li>1-phase cyclo-converter</li> 
+                    <li>Spectrum analyzer</li> 
+                    <li>TMS320F240 digital signal processor</li> 
+                    <li>Mc Murray Bedford inverter</li> 
+                    <li>CRO</li> 
+                    <li>Function generator</li> 
+                    <li>300V RPS</li> 
+                    <li>R, RC and UJT triggering circuits</li> 
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingFour">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                    <strong>Power System Simulation Laboratory</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Background</strong> <li> The chief goal of the Power System Simulation lab is to provide assistance to students that will enhance their chances of succeeding in technology-based assignments and to provide access to equipment that will support the needs of instruction where we cherish life-long learning. The Simulation lab supports the curriculum of the Anna University and the assignments of the faculty.
+                    </li>
+                    <strong>Description</strong> <li> The aim of this laboratory is to provide required simulations facilities to the undergraduate students in order to meet their requirements in the field of the Electrical engineering profession. The major emphasis is laid on doing project works on designing Electrical and Electronics circuits using latest application packages such as MATLAB, PSPICE, ETAP and other engineering packages which are greatly used by the undergraduate students. It is equipped with computers and remains active during all working days. Required printing facilities are also available to all its users.</li> 
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingFive">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                    <strong>Electrical Machines Laboratory</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Background</strong> <li> This is our core set of laboratories, in terms of curriculum. Its overall needs are versatility and generality, in view of the many fundamental course needs it serves. This lab in general holds enough number of experiments appropriate for giving students a sufficient exposure thereby enabling them to easily adopt experiments in more advanced laboratories in the department.</li>
+                    <strong>Description</strong> <li> This is the major lab where experiments like load test on various machines, speed control tests, open circuit tests, short circuit tests, etc are carried out and also wide variety of experiments are performed here with combination of different rotating machines. The laboratory is also used for research activities in machines and to carry out project works on energy conversion.</li> 
+                    <strong>Major Equipments</strong> <li> Rectifier, motor-generator set, motor- alternator set, induction motor, synchronous motor, variety of transformers, lamploads, inductive loads, resistive loads, compound machines, tachometers, voltmeters ,ammeters, wattmeters, megger ,frequency meter, synchroscope, rheostats, variety of starters, DC motors, etc.</li> 
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingSix">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                    <strong>Electric Circuits Laboratory</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Background</strong> <li>The students will learn the basic requirements for building simple DC/AC circuits, verification of circuit theorems, employ power supplies as well as measure electrical parameters of current, voltage, resistance with multimeters and oscilloscopes. The Electric Circuit Laboratory is utilised by EEE & ECE branches of students for lab work.</li>
+                    <strong>Major Equipments</strong> <li> Voltmeters, Ammeters, CRO, DSO, Regulated Power Supply, Single phase Energy meter, Power factor meter, Wattmeter(LPF and UPF), resistive load, inductive load, capacitive load, multimeter, DRB, DCB & DIB and consumables such as Resistors, Capacitors & Inductors.</li> 
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingSeven">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                    <strong>Linear Integrated Circuits Laboratory</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Background</strong> <li> The main objective of this lab course is to gain the practical hands on experience by exposing the students to various linear IC applications. The lab also introduces to the students 555 timer and IC 741 and its applications, various voltage regulators. The testers for IC are available.</li>
+                    <strong>Major Equipments</strong> <li> Digital Multimeter, IC Tester (Analog), Cathode Ray Oscilloscope, Dual Power Supply, Function Generator (3MHz), Linear IC Trainer Kits, ADC & DAC Measurements & Controller, PSPICE Software, Digital IC’s.</li> 
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingEight">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                    <strong>Microwave And Fiber Optics</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Experiments</strong> 
+                    <li>To analyze the performance of simple optical link</li>
+                    <li>To Test microwave and optical components</li>
+                    <li>To analyze the mode characteristics of fiber</li>
+                    <li>To analyze the radiation of pattern of antenna</li>
+                    <li>To Formulate the S-Parameters for Microwave components</li>
+                    <strong>Equipments</strong> 
+                    <li>Klystron Test Bench(X-Band)</li>
+                    <li>Advanced fiber Optic trainer Kit</li>
+                    <li>Single Mode Fiber Characteristics Trainer</li> 
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingNine">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                    <strong>Embedded System Laboratory</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Experiments</strong> 
+                    <li>To Learn the working of ARM processor</li>
+                    <li>To Understand the Building Blocks of Embedded Systems</li>
+                    <li>To Learn the concept of memory map and memory interface</li>
+                    <li>To Know the characteristics of Real Time Systems</li>
+                    <li>To Write programs to interface memory, I/Os with processor</li>
+                    <li>To Study the interrupt performance</li>
+                    <strong>Equipments</strong> 
+                    <li>Embedded trainer kits with ARM board</li>
+                    <li>ARM CORTEX M3</li>
+                    <li>Zigbee Module</li>
+                    <li>Temperature sensor for Embedded trainer kits</li>
+                    <li>Stepper Motor</li>
+                    <li>Keyboard</li>
+                    <li>LCD</li>
+                    <li>ADC</li>
+                    <li>DAC Starter Kit</li>
+                    <li>On Board RTC & Serial port using UART Interface</li>
+                    <li>On Board EEPROM Interface & Interrupt</li>
+                    <li>On-chip PWM Interface</li>  
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+
+
+
+                </div>
+                  </div>
+                </div>
+                </div>
+
+
+            
+            <!--<div class="tab-pane" id="tab-4">
+              <div class="row">
+                <div class="col-lg-8 details order-2 order-lg-1">
+                  <h3>Common Computer Lab</h3>
+                  <p class="fst-italic text-justify">The Department of Computer Science and Engineering has a well-established Computer Practices Laboratory exclusively for First Year students. Computer Practices laboratory provides essential facilities to the students to enhance their knowledge in Programming. The common Lab is equipped with 125 Lenovo Desktop Computer with Intel i3 processor, Windows 7 Professional edition,4 LCD Projector, 2 ton carrier split AC-11,20 KVA UPS-2.</p>
                 </div>
                 <div class="col-lg-4 text-center order-1 order-lg-2">
-                  <img src="assets/img/CSE/BD.jpg" alt="" class="img-fluid">
+                  <img src="https://webdocs.pages.dev/assets/img/CSE/lab/CM.png" alt="" class="img-fluid">
                 </div>
               </div>
               <div class="row">
                 <div class="col-lg-8 details order-2 order-lg-1">
-                  <h3>Electrical Machines Laboratory</h3>
-                   <strong>Background</strong> <li> This is our core set of laboratories, in terms of curriculum. Its overall needs are versatility and generality, in view of the many fundamental course needs it serves. This lab in general holds enough number of experiments appropriate for giving students a sufficient exposure thereby enabling them to easily adopt experiments in more advanced laboratories in the department.</li>
-                  <strong>Description</strong> <li> This is the major lab where experiments like load test on various machines, speed control tests, open circuit tests, short circuit tests, etc are carried out and also wide variety of experiments are performed here with combination of different rotating machines. The laboratory is also used for research activities in machines and to carry out project works on energy conversion.</li> 
-                  <strong>Major Equipments</strong> <li> Rectifier, motor-generator set, motor- alternator set, induction motor, synchronous motor, variety of transformers, lamploads, inductive loads, resistive loads, compound machines, tachometers, voltmeters ,ammeters, wattmeters, megger ,frequency meter, synchroscope, rheostats, variety of starters, DC motors, etc.</li> 
-                
+                  <h3>BigData Lab</h3>
+                  <p class="fst-italic text-justify">Big data lab is typically equipped with internet access. Computers in this lab are typically arranged in rows, so that every workstation has a similar view of one end of the room to facilitate lecturing or presentations, to facilitate small group work. The Big Data Lab is equipped with 40 Lenovo Desktop computers with Intel i7 Processor, 64 bit OS, 8GB Ram, on screen projector & centralized AC. Programming and Data Structures, Object Oriented Programming Systems, Operating Systems, Internet Programming, Grid and Cloud Computing Lab practical classes are conducted in this Laboratory.</p>
                 </div>
                 <div class="col-lg-4 text-center order-1 order-lg-2">
-                  <img src="assets/img/CSE/BD.jpg" alt="" class="img-fluid">
+                  <img src="https://webdocs.pages.dev/assets/img/CSE/lab/BD.jpg" alt="" class="img-fluid">
                 </div>
               </div>
               <div class="row">
                 <div class="col-lg-8 details order-2 order-lg-1">
-                  <h3>Electric Circuits Laboratory</h3>
-                   <strong>Background</strong> <li>The students will learn the basic requirements for building simple DC/AC circuits, verification of circuit theorems, employ power supplies as well as measure electrical parameters of current, voltage, resistance with multimeters and oscilloscopes. The Electric Circuit Laboratory is utilised by EEE & ECE branches of students for lab work.</li>
-                  <strong>Major Equipments</strong> <li> Voltmeters, Ammeters, CRO, DSO, Regulated Power Supply, Single phase Energy meter, Power factor meter, Wattmeter(LPF and UPF), resistive load, inductive load, capacitive load, multimeter, DRB, DCB & DIB and consumables such as Resistors, Capacitors & Inductors.</li> 
+                  <br>
+                  <h3>Software Development Lab</h3>
+                  <p class="fst-italic text-justify"> Software Development Lab is typically equipped with internet access. Computers in this lab are typically arranged in rows, so that every workstation has a similar view of one end of the room to facilitate lecturing or presentations, to facilitate small group work. The Software Development Lab is equipped with 40 Dell Desktop computer with Intel i3 Processor, 32 bit OS,4 GB Ram and 3 AC. Compiler Laboratory and Database Management system, Software Development, Computer Graphics, Mobile Application Development and Network Laboratory practical classes are conducted in this Laboratory.</p>
                 </div>
                 <div class="col-lg-4 text-center order-1 order-lg-2">
-                  <img src="assets/img/CSE/BD.jpg" alt="" class="img-fluid">
+                  <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
                 </div>
               </div>
-              <div class="row">
-                <div class="col-lg-8 details order-2 order-lg-1">
-                  <h3>Linear Integrated Circuits Laboratory</h3>
-                   <strong>Background</strong> <li> The main objective of this lab course is to gain the practical hands on experience by exposing the students to various linear IC applications. The lab also introduces to the students 555 timer and IC 741 and its applications, various voltage regulators. The testers for IC are available.</li>
-                  <strong>Major Equipments</strong> <li> Digital Multimeter, IC Tester (Analog), Cathode Ray Oscilloscope, Dual Power Supply, Function Generator (3MHz), Linear IC Trainer Kits, ADC & DAC Measurements & Controller, PSPICE Software, Digital IC’s.</li> 
-                </div>
-                <div class="col-lg-4 text-center order-1 order-lg-2">
-                  <img src="assets/img/CSE/BD.jpg" alt="" class="img-fluid">
-                </div>
-              </div>
-              <!--<div class="row">
-                <div class="col-lg-8 details order-2 order-lg-1">
-                  <h3>Microwave And Fiber Optics</h3>
-                   <strong>Experiments</strong> <li> To analyze the performance of simple optical link,
-                    To Test microwave and optical components,
-                    To analyze the mode characteristics of fiber,
-                    To analyze the radiation of pattern of antenna,
-                    To Formulate the S-Parameters for Microwave components,</li>
-                  <strong>Equipments</strong> <li> Klystron Test Bench(X-Band),
-                    Gunn Oscillator Test Bench(X-Band),
-                    Advanced fiber Optic trainer Kit,
-                    Single Mode Fiber Characteristics Trainer</li> 
-                </div>
-                <div class="col-lg-4 text-center order-1 order-lg-2">
-                  <img src="assets/img/CSE/BD.jpg" alt="" class="img-fluid">
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-lg-8 details order-2 order-lg-1">
-                  <h3>Embedded System Laboratory</h3>
-                  <strong>Experiments</strong> <li> To Learn the working of ARM processor,
-                    To Understand the Building Blocks of Embedded Systems,
-                    To Learn the concept of memory map and memory interface,
-                    To Know the characteristics of Real Time Systems,
-                    To Write programs to interface memory, I/Os with processor,
-                    To Study the interrupt performance</li>
-                  <strong>Equipments</strong> <li> Embedded trainer kits with ARM board,
-                    ARM CORTEX M3,
-                    Zigbee Module, Temperature sensor for Embedded trainer kits,
-                    Stepper Motor, Keyboard, LCD, ADC, DAC Starter Kit,
-                    On Board RTC & Serial port using UART Interface,
-                    On Board EEPROM Interface & Interrupt,
-                    On-chip PWM Interface</li> 
-                </div>
-                <div class="col-lg-4 text-center order-1 order-lg-2">
-                  <img src="assets/img/CSE/BD.jpg" alt="" class="img-fluid">
-                </div>
-              </div>-->
-          
-            </div>
-            <div class="tab-pane" id="tab-5">
+            </div>-->
+            <div class="tab-pane" id="tab-">
               <div class="row">
                 <div class="col-lg-12 details order-2 order-lg-1">
                   <h3>Achievements</h3>
                   
+                 <!-- Default Accordion -->
               <div class="accordion" id="accordionExample">
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingOne">
                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                      2016
+                      2021
                     </button>
                   </h2>
                   <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                      <strong>A.J. Vijay & D. Joy Alex</strong> <li> Final Year won first prize in paper presentation event with a cash award of Rs. 1500/- at TECHNIX 2K 16 organized by V V college of engineering, Tisaiyanvilai on 14th September 2016 for the paper “An Experimental Investigation on MPPT Based Two Stage Battery Charging Scheme for a Solar PV Lighting System with Integrated Automatic Luminous Control Mechanism towards Energy.</li>
-                      <strong>S.Mary Stancy & V. Rakshana</strong> <li>Final Year won second prize in paper presentation event at a National level Technical Symposium EKRAFT’ 16 organized by Rajas International Institute of Technology For Women, Ozhuginasery, on 10th September 2016 for the paper “A Novel drowsiness detection on feature extraction capitalizing neural networks& sparse classifiers.”</li>
-                      <strong>G. Manikandan & C. Dhinesh</strong> <li>Final Year won first prize in Technical Quiz event with a cash award of Rs. 1000/- at TECHNIX 2K 16 organized by V V college of engineering, Tisaiyanvilai on 14th September 2016.</li>
-                      <strong>S. Mary Stancy</strong> <li>Final Year won first prize in on-spot speach event at a National level Technical Symposium EKRAFT’ 16 organized by Rajas International Institute of Technology For Women, Ozhuginasery, on 10th September 2016.</li>
-                      <strong>A.S. Aswini Kumari</strong> <li>Final Year won first prize in Circuit Tricks event at a National level Technical Symposium CEEMTEZ’ 16 organized by Sardar Raja College of Engineering, Alangulam, on 15th September 2016.</li>
-                      <strong>H. Thanisha</strong> <li>second Year won second prize in Circuit Tricks event at a National level Technical Symposium CEEMTEZ’ 16 organized by Sardar Raja College of Engineering, Alangulam, on 15th September 2016.</li>
-                      <strong>S. Mary Stancy & V. Rakshana</strong> <li>Final Year won second price in paper presentation event at a National level Technical Symposium EMERALD – 2K16 organized by Arunachala College of Engineering for Women, Manavilai, on 23rd& 24th September 2016 for the paper titled “A Novel drowsiness detection architecture using neural networks&sparse classifiers.”</li>
-                      <strong>G. Manikandan & C. Dhinesh</strong> <li>Final Year won first prize in paper presentation event with a cash award of Rs. 1500/- at 9th National Level Technical Symposium TECHNOBUZZ 16 organized by PSN College of Engineering & Technology, Melathediyoor, Tirunelveli District on 28th September 2016 for the paper “Design, Development and Performance Analysis of Grid Accessible Hybrid Solar and Wind Based Automatic Street Light System.”</li>
+                      <strong>All the computer science department students</strong> <li> haveparticipated in the Lecture Series on “ Mobile Application Development using Android Studio “ held on 22-05-2021 organized by Institution’s Innovative Councilin association with Department of Computer Science andEngineering,Stella Mary’s College of Engineering.</li>
+                      <strong>All the computer science department students</strong> <li>have participated in the Lecture Serieson “ InnovationinNetworkSimulationusingNS2 ” held on 29-05-2021 organized by Institution’s Innovative Councilin association with Department of Computer Science andEngineering,Stella Mary’s College of Engineering. </li>
+                      <strong>All the computer science department students</strong> <li> have participated in the Lecture Series on “Opportunities inSoftware Testing ”held on 21-05-2021 organized by Institution’s Innovative Councilin association with Department of Computer Science and Engineering, StellaMary’s College of Engineering.</li>
                       
                     
                     </div>
                   </div>
                 </div>
-                <!--<div class="accordion-item">
+                <div class="accordion-item">
                   <h2 class="accordion-header" id="headingTwo">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                       2020
@@ -720,8 +818,8 @@ include("conn.php")
                       <strong>Third year CSE girls</strong> <li>attended one day workshop on "Mobile Application Development” organized by Arunachala College of Engineering on 8th February 2016. </li>
                     </div>
                   </div>
-                </div>-->
-              </div>
+                </div>
+              </div><!-- End Default Accordion Example -->
                 
                 </div>
                 <div class="col-lg-4 text-center order-1 order-lg-2">
@@ -729,206 +827,153 @@ include("conn.php")
                 </div>
               </div>
             </div>
-
-
-
-            <div class="tab-pane" id="tab-6">
-              <div class="row">
-                <div class="col-lg-8 details order-2 order-lg-1">
-                  
-<!-- ======= Resume Section ======= -->
-<section id="resume" class="resume">
-  <div class="container">
-
-
-
-    <div class="row">
-      <div class="col-lg-12" data-aos="fade-up" data-aos-delay="100">
-        <h3 class="resume-title">Industrial Visit</h3>
-        <div class="resume-item">
-          <h4>Department of Electronics and Communication Engineering</h4>
-          <h5>2018-19</h5>
-          
-          <ul>
-            <li> Our II,III,IV year students visited Kudankulam Nuclear Power Project(KKNPP),Kudankulam on 25.07.2018</li>
-            <li> Our II year students visited Kudankulam Nuclear Power Project(KKNPP),Kudankulam on 25.07.2018</li>
-            <li> Our II,III year students visited 230 kV/110 kV Substation, Shenbagaramanputhoor on 29.09.2018</li>
-            <li> Our II,III year students visited 1.1MW Solar Power Plant, Flow Link Systems, Munajipatti on 10.01.2019</li>
-            
-          </ul>
-        </div>
-        <div class="resume-item">
-        
-          <h5>2017-18</h5>
-          
-          <ul>
-            <li> Our III,IV year students visited Thermal Power Plant, NTPL, Tutucorin on 07.09.2017</li>
-            <li> Our III year students visited JK Fenner India Ltd. 1MW Solar PV power plant, Aralvoimozhi on 29.09.2017</li>
-            <li> Our III year students visited Solar Observatory Centre, Kodaikanal on 16.03.2018</li>
-              
-          </ul>
-        </div>
-        <div class="resume-item">
-          <h5>2016-17</h5>
-          <ul>
-            <li> Our IV year students visited Pykara Mini Power House, Ooty on 16.02.2017</li>
-            <li> Our IV year students visited Doddabetta Tea Factory, Ooty on 17.02.2017</li>
-            <li> Our II,III year students visited 230 kV/110 kV Substation, Shenbagaramanputhoor on 13.04.2017</li>
-              </ul>
-        </div>
-        <div class="resume-item">
-          <h5>2015-16</h5>
-          <ul>
-        
-            
-            <li> Our II,III year students visited Kudankulam Nuclear Power Project (KKNPP), Kudankulam on 27.08.2015</li>
-             </ul>
-        </div>
-      </div>
-    </div>
-
-  </div>
-</section><!-- End Resume Section -->
-
-
-            </div>
+            <div class="tab-pane" id="tab-5">
+            <div class="row row justify-content-center">
+                  <div class="">
+                    <!-- ======= Services Section ======= -->
+      <section id="services" class="services">
+          <div class="container">
+            <div class="row justify-content-center">
+            <div class="section-title" data-aos="fade-up">
+                            <h2>Syllabus</h2>
+                            <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
+                          </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bx-world"></i></div>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/civil/syllabus/2021.pdf">Regulation 2021</a></h4>
+                  </div>
               </div>
+              <div class="col-lg-3 col-md-4">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bx-world"></i></div>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/civil/syllabus/2017.pdf">Regulation 2017</a></h4>
+                  </div>
+                </div>
             </div>
-
-            
-            <div class="tab-pane" id="tab-7">
+          </div>
+        </section><!-- End Services Section --></div>
+                </div>
+              </div>
+              <div class="tab-pane" id="tab-6">
+              <div class="row row justify-content-center">
+                  <div class="">
+                    <!-- ======= Services Section ======= -->
+      <section id="services" class="services">
+          <div class="container">
+            <div class="row justify-content-center">
+            <div class="section-title" data-aos="fade-up">
+                            <h2>Outcome</h2>
+                            <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
+                          </div>
+              <div class="col-md-7 col-lg-5">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-journal-richtext"></i></div>
+                  <h4 class="title"><a href="">Programme Outcomes</a></h4>
+                  </div>
+              </div>
+              <div class="col-md-7 col-lg-5">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-journal-richtext"></i></div>
+                  <h4 class="title"><a href="">Program Specfic Outcomes</a></h4>
+                  </div>
+                </div>
+            </div>
+          </div>
+        </section><!-- End Services Section --></div>
+                </div>
+              </div>
+              <div class="tab-pane" id="tab-7">
                 <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
+                  <div class="">
                     <!-- ======= Services Section ======= -->
       <section id="services" class="services">
           <div class="container">
             <div class="row">
-              <div class="col-md-6 col-lg-4 d-flex align-items-center mb-5 mb-lg-0">
+            <div class="section-title" data-aos="fade-up">
+                            <h2>Academic Calender</h2>
+                            <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
+                          </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bx-world"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/eee/syllabus/2021.pdf">Regulation 2021</a></h4>
-                  </div>
-              </div>
-              <div class="col-md-6 col-lg-4 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bx-world"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/eee/syllabus/2017.pdf">Regulation 2017</a></h4>
-                  </div>
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2023-24 EVEN</a></h4>
                 </div>
+                <ol></ol>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2023-24 ODD</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2022-23 EVEN</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2022-23 ODD</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2021-22 EVEN</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2021-22 ODD</a></h4>
+                </div>
+                <ol></ol>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2020-21 EVEN</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2020-21 ODD</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2019-20 EVEN</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2019-20 ODD</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2018-19 EVEN</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2018-19 EVEN</a></h4>
+                </div>
+              </div>
             </div>
           </div>
         </section><!-- End Services Section --></div>
                 </div>
               </div>
               <div class="tab-pane" id="tab-8">
-                <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
-                    <!-- ======= Services Section ======= -->
-      <section id="services" class="services">
-          <div class="container">
-            <div class="row">
-              <div class="col-md-7 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-journal-richtext"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/eee/po/Programme-Outcomes.pdf">Programme Outcomes</a></h4>
-                  </div>
-              </div>
-              <div class="col-md-7 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-journal-richtext"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/eee/po/PSO-EEE.pdf">Program Specfic Outcomes</a></h4>
-                  </div>
-                </div>
-            </div>
-          </div>
-        </section><!-- End Services Section --></div>
-                </div>
-              </div>
-              <div class="tab-pane" id="tab-9">
-                <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
-                    <!-- ======= Services Section ======= -->
-      <section id="services" class="services">
-          <div class="container">
-            <div class="row">
-              <div class="col-md-6 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2018-19 ODD</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2018-19 EVEN</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2019-20 ODD</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2019-20 EVEN</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2020-21 ODD</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2020-21 EVEN</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2021-22 ODD</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2021-22 EVEN</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2022-23 ODD</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2022-23 EVEN</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2023-24 ODD</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2023-24 EVEN</a></h4>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section><!-- End Services Section --></div>
-                </div>
-              </div>
-              <div class="tab-pane" id="tab-10">
                 <div class="row">
                     <section id="features" class="features">
                         <div class="container">
@@ -942,52 +987,52 @@ include("conn.php")
                             <div class="col-lg-3 col-md-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #ffbb2c;"></i>
-                                <h3><a href="">APRIL 2016</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume1issue1.pdf">Volume I, Issue 1 : Dec 2017</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #5578ff;"></i>
-                                <h3><a href="">NOVEMBER 2016</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume1issue2.pdf">Volume I, Issue 2 : April 2018</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #e80368;"></i>
-                                <h3><a href="">APRIL 2017</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume2issue1.pdf">Volume II, Issue 1 : Dec 2018</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #e361ff;"></i>
-                                <h3><a href="">NOVEMBER 2017</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume2issue2.pdf">Volume II, Issue 2 : April 2019</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #47aeff;"></i>
-                                <h3><a href="">APRIL 2018</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume3issue1.pdf">Volume III, Issue 1 : Dec 2019</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #ffa76e;"></i>
-                                <h3><a href="">NOVEMBER 2018</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume3issue2.pdf">Volume III, Issue 2 : April 2020</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #11dbcf;"></i>
-                                <h3><a href="">APRIL 2019</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume4issue1.pdf">Volume IV, Issue 1 : Dec 2020</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #4233ff;"></i>
-                                <h3><a href="">NOVEMBER 2019</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume4issue2.pdf">Volume IV, Issue 2 : April 2021</a></h3>
                               </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 mt-4">
+                            <!--<div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #b2904f;"></i>
                                 <h3><a href="">APRIL 2020</a></h3>
@@ -1010,20 +1055,20 @@ include("conn.php")
                                 <i class="ri-calendar-todo-line" style="color: #29cc61;"></i>
                                 <h3><a href="">NOVEMBER 2021</a></h3>
                               </div>
-                            </div>
+                            </div>-->
                           </div>
                   
                         </div>
                       </section><!-- End Features Section -->
                       </div>
                       </div>
-                      <div class="tab-pane" id="tab-11">
+                      <div class="tab-pane" id="tab-9">
                         <div class="row">
                             <section id="features" class="features">
                                 <div class="container">
                           
                                   <div class="section-title" data-aos="fade-up">
-                                    <h2>Brochure</h2>
+                                    <h2>Magazine</h2>
                                     <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
                                   </div>
                           
@@ -1031,82 +1076,187 @@ include("conn.php")
                                     <div class="col-lg-3 col-md-4">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #ffbb2c;"></i>
-                                        <h3><a href="">AJAX BASICS</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2017-18.pdf">2017-2018</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #5578ff;"></i>
-                                        <h3><a href="">BOOTSTRAP</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2018-19.pdf">2018-2019</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                                       <div class="icon-box">
                                         <i class="ri-database-2-line" style="color: #e80368;"></i>
-                                        <h3><a href="">HADOOP</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2019-20.pdf">2019-2020</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
                                       <div class="icon-box">
-                                        <i class="ri-file-list-3-line" style="color: #e361ff;"></i>
-                                        <h3><a href="">MACHINE LEARNING AND DATA ANALYTICS</a></h3>
+                                        <i class="ri-database-2-line" style="color: #e361ff;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2020-21.pdf">2020-2021</a></h3>
                                       </div>
                                     </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-bar-chart-box-line" style="color: #47aeff;"></i>
-                                        <h3><a href="">MATLAB</a></h3>
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-check-double-line" style="color: #ffa76e;"></i>
-                                        <h3><a href="">MOBILE APP DEVELOPMENT</a></h3>
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-database-2-line" style="color: #11dbcf;"></i>
-                                        <h3><a href="">NETWORK STORAGE CONCEPTS</a></h3>
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-disc-line" style="color: #4233ff;"></i>
-                                        <h3><a href="">NS2</a></h3>
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-anchor-line" style="color: #b2904f;"></i>
-                                        <h3><a href="">U-TURN MOTIVATION OF ENGINEERS</a></h3>
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-check-double-line" style="color: #b20969;"></i>
-                                        <h3><a href="">WEB DESIGNING USING WORDPRESS</a></h3>
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-check-double-line" style="color: #ff5828;"></i>
-                                        <h3><a href="">WEB DEVELOPMENT</a></h3>
-                                      </div>
-                                    </div>
+                                   
                                   </div>
                           
                                 </div>
                               </section><!-- End Features Section -->
                               </div>
                               </div>
+                              <div class="tab-pane" id="tab-10">
+                          <div class="row">  
+                            <div class="">
+      
+                              <!--slider start here-->
+                        
+                              <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="4000"> <!-- Change the data-bs-interval value as needed -->
+                                <div class="carousel-indicators">
+                                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+                                </div>
+                                <div class="carousel-inner">
+                                  <div class="carousel-item active">
+                                    <img src="https://webdocs.pages.dev/assets/docs/cfi/sih2022/3.jpg" class="d-block w-100" alt="...">
+                                  </div>
+                                  <div class="carousel-item">
+                                    <img src="https://webdocs.pages.dev/assets/docs/cfi/sih2022/2.jpg" class="d-block w-100" alt="...">
+                                  </div>
+                                  <div class="carousel-item">
+                                    <img src="https://webdocs.pages.dev/assets/docs/cfi/sih2022/1.jpg" class="d-block w-100" alt="...">
+                                  </div>
+                                  <div class="carousel-item">
+                                    <img src="https://webdocs.pages.dev/assets/docs/cfi/sih2022/4.jpg" class="d-block w-100" alt="...">
+                                  </div>
+                                  
+                                </div>
+                                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                  <span class="visually-hidden">Previous</span>
+                                </button>
+                                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                  <span class="visually-hidden">Next</span>
+                                </button>
+                              </div>
+                                <!--end here-->
+                            </div>
+                            <!-- End Features Section -->
+                                </div>
+
+                                </div>
+
+
+                                <div class="tab-pane" id="tab-11">
+                          <div class="row">  
+                            <div class="">
+                            <section id="testimonials" class="testimonials section-bg">
+      <div class="container">
+
+        <div class="section-title" data-aos="fade-up">
+          <h2>Testimonials</h2>
+          <p>Words from our Alumni</p>
+        </div>
+
+        <div class="testimonials-slider swiper text-justify" data-aos="fade-up" data-aos-delay="100">
+          <div class="swiper-wrapper">
+
+            <div class="swiper-slide">
+              <div class="testimonial-wrap">
+                <div class="testimonial-item">
+                  <img src="https://webdocs.pages.dev/assets/img/testimonials/Vaishnavi.jpeg" class="testimonial-img" alt="">
+                  <h3>Vaishnavi M J</h3>
+                  <h4>ECE - Alumni 2019-23 &amp; Software Developer @ Agile Cyber Solutions</h4>
+                  <p class ="text-justify">
+                    <i class="bx bxs-quote-alt-left quote-icon-left text-justify"></i>
+                    infrastructure provided by our institution Stella Mary's College of Engineering and the unwavering support of my teachers have been instrumental in facilitating my achievement. The constant guidance and insightful feedback they have imparted have enriched my learning experience and empowered me to reach new heights. I am forever thankful..
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  </p>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-wrap">
+                <div class="testimonial-item">
+                  <img src="" class="testimonial-img" alt="">
+                  <h3>Sara Wilsson</h3>
+                  <h4>Designer</h4>
+                  <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  </p>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-wrap">
+                <div class="testimonial-item">
+                  <img src="" class="testimonial-img" alt="">
+                  <h3>Jena Karlis</h3>
+                  <h4>Store Owner</h4>
+                  <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  </p>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-wrap">
+                <div class="testimonial-item">
+                  <img src="" class="testimonial-img" alt="">
+                  <h3>Matt Brandon</h3>
+                  <h4>Freelancer</h4>
+                  <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  </p>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-wrap">
+                <div class="testimonial-item">
+                  <img src="" class="testimonial-img" alt="">
+                  <h3>John Larson</h3>
+                  <h4>Entrepreneur</h4>
+                  <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  </p>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+          </div>
+          <div class="swiper-pagination"></div>
+        </div>
+
       </div>
+    </section><!-- End Testimonials Section -->
+
+</div>
+</div>
+</div>
+
+
+                      </div>
     </section>
 
   </main><!-- End #main -->
 
- <!-- ======= Footer ======= -->
- <footer id="footer">
+   <!-- ======= Footer ======= -->
+   <footer id="footer">
     <div class="container">
       <div class="footer-top">
         <div class="container">

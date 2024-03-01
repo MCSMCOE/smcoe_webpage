@@ -255,26 +255,32 @@ include("conn.php")
             <li class="nav-item">
               <a class="nav-link" data-bs-toggle="tab" href="#tab-4">Laboratory</a>
             </li>
-            <li class="nav-item">
+            <!--<li class="nav-item">
               <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Industrial Visit</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" data-bs-toggle="tab" href="#tab-6">Achievements</a>
+            </li>-->
+            <li class="nav-item">
+              <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Syllabus</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" data-bs-toggle="tab" href="#tab-7">Syllabus</a>
+              <a class="nav-link" data-bs-toggle="tab" href="#tab-6">Program Outcome</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" data-bs-toggle="tab" href="#tab-8">Program Outcome</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-7">Calender</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-9">Calender</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-8">Newsletter</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-10">Newsletter</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-9">Brochure</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-11">Brochure</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-10">Gallery</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-11">Testimonial</a>
             </li>
           </ul>
         </div>
@@ -426,247 +432,395 @@ include("conn.php")
               </div>
             </div>
             <div class="tab-pane" id="tab-4">
-              <div class="row">
-                <div class="col-lg-8 details order-2 order-lg-1">
-                  <h3>Physics Laboratory</h3>
-                   <strong>COURSE OBJECTIVES:</strong> <li> To learn the proper use of various kinds of physics laboratory equipment.</li>
-                  <li>To learn how data can be collected, presented and interpreted in a clear and concise manner.</li>
-                  <li>To learn problem solving skills related to physics principles and interpretation of experimental data.</li>
-                  <li>To determine error in experimental measurements and techniques used to minimize such error.</li>
-                  <li>To make the student as an active participant in each part of all lab exercises.</li>
-                  <strong>Experiments</strong> <li>Torsional pendulum - Determination of rigidity modulus of wire and moment of inertia of regular and irregular objects.</li>
-                  <li>Simple harmonic oscillations of cantilever.</li>
-                  <li>Non-uniform bending - Determination of Young's modulus</li>
-                  <li>Uniform bending - Determination of Young's modulus</li>
-                  <li>Laser-Determination of the wave length of the laser using grating</li>
-                  <li>Air wedge - Determination of thickness of a thin sheet/wire</li>
-                  <li>Optical fibre -Determination of Numerical Aperture and acceptance angle </li>
-                  <li>Compact disc- Determination of width of the groove using laser.</li>
-                  <li>Acoustic grating- Determination of velocity of ultrasonic waves in liquids</li>
-                  <li>Ultrasonic interferometer - determination of the velocity of sound and compressibility of liquids</li>
-                  <li>Post office box -Determination of Band gap of a semiconductor.</li>
-                  <li>Photoelectric effect</li>
-                  <li>Michelson Interferometer.</li>
-                  <li>Melde's string experiment</li>
-                  <li>Experiment with lattice dynamics kit.</li>       
-                </div>
-                <div class="col-lg-4 text-center order-1 order-lg-2">
-                  <img src="assets/img/CSE/CM.png" alt="" class="img-fluid">
+            <div class="row">
+                <div class="col-lg-12 details order-2 order-lg-1">
+                  <h3></h3>
+                  
+                 <!-- Default Accordion -->
+              <div class="accordion" id="accordionExample">
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="headingOne">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                    <strong>Communication Systems</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Experiments</strong> 
+                    <li>To visualize the effects of sampling and TDM</li>
+                    <li>To Implement AM & FM modulation and demodulation</li>
+                    <li>To implement PCM & DM, To implement FSK, PSK and DPSK schemes</li>
+                    <li>To implement Equalization algorithms</li>
+                    <li>To implement Error control coding schemes</li>
+                    <strong>Equipments</strong> 
+                    <li>AM & FM modulation and demodulation Kit</li>
+                    <li>Time Division Multiplexing Kit</li>
+                    <li>Pulse Code Modulation & Delta Modulation Kit</li>
+                    <li>Frequency Shift Keying, Phase Shift keying Kit</li>
+                    <li>Frequency Division Multiplexing Kit</li>
+                    <li>Sampling Kit</li>
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/CM.png" alt="" class="img-fluid">
+                    </div>
+                  </div>
                 </div>
               </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingTwo">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    <strong>Linear Integrated Circuits</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Experiments</strong> 
+                    <li>To expose the students to linear and integrated circuits</li>
+                    <li>To understand the basics of linear integrated circuits and available ICs</li>
+                    <li>To understand and apply operational amplifiers in linear and nonlinear applications</li>
+                    <li>To acquire the basic knowledge of special function IC</li>
+                    <li>To use P-SPICE software for circuit design.</li>
+                    <strong>Equipments</strong> 
+                    <li>Function Generator</li>
+                    <li>Cathode Ray Oscilloscope</li>
+                    <li>Digital Storage Oscilloscope</li>
+                    <li>P-SPICE software</li>
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/BD.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingThree">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    <strong>Electron Device And Circuits</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Experiments</strong> 
+                    <li>Study the characteristics of Electron Devices</li>
+                    <li>Study the characteristic of CE, CB, CC, CS and differential Amplifier</li>
+                    <li>Design and implementation of combinational Logic circuits using logic gates</li>
+                    <li>Construction and verification of sequential logic circuits using Flip Flops</li>
+                    <li>To gain hands on experience in designing electronic circuits</li>
+                    <li>To learn the fundamental principles of amplifier circuits</li>
+                    <li>To differentiate feedback amplifiers and oscillators</li>
+                    <li>To understand the concepts of multivibrators</li>
+                    <strong>Equipments</strong> 
+                    <li>Function Generator</li>
+                    <li>Cathode Ray Oscilloscope</li>
+                    <li>Digital Storage Oscilloscope</li>
+                    <li>P-SPICE software</li>
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingFour">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                    <strong>Microprocessor</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Experiments</strong> 
+                    <li>To Write ALP Programs for fixed and Floating Point and Arithmetic</li>
+                    <li>To Interface different I/Os with processor</li>
+                    <li>To Generate waveforms using Microprocessors</li>
+                    <li>To Execute Programs in 8051</li>
+                    <strong>Equipments</strong> 
+                    <li>8279,8251,8253,8255,8259</li>
+                    <li>Stepper motor</li>
+                    <li>DC motor</li>
+                    <li>ADC,DAC</li>
+                    <li>Traffic light</li>
+                    <li>Printer Interfacing boards</li>
+                    <li>8085 Microprocessor Kit</li>
+                    <li>8086 Microprocessor Kit</li>
+                    <li>8051 Microcontroller Kit</li>
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingFive">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                    <strong>Digital Signal Processing</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Experiments</strong> 
+                    <li>To carry out simulation of DSP systems</li>
+                    <li>To demonstrate their abilities towards DSP processor based implementation of DSP systems</li>
+                    <li>To Analyze Finite word length effect on DSP systems</li>
+                    <li>To demonstrate the applications of FFT to DSP.</li>
+                    <strong>Equipments</strong> 
+                    <li>Fixed point DSP processor kit</li>
+                    <li>Floating point DSP processor kit</li>
+                    <li>MATLAB/ SIMULINK software</li> 
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingSix">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                    <strong>VLSI Design Laboratory</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Experiments</strong> 
+                    <li>To Write HDL code for basic as well as advanced digital integrated circuits</li>
+                    <li>To Import the logic modules into FPGA Boards</li>
+                    <li>To Synthesize Place and Route the digital IPs</li>
+                    <li>To Design Simulate and Extract the layouts of Analog IC Blocks using EDA tools</li>
+                    <strong>Equipments</strong> 
+                    <li>Cadence - 20 User License</li>
+                    <li>FPGA-Spartan 6</li>
+                    <li>X- link</li> 
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingSeven">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                    <strong>Computer Networks Laboratory</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Experiments</strong> 
+                    <li>To communicate between two desktop computers</li>
+                    <li>To Implement the different protocols</li>
+                    <strong>Equipments</strong> 
+                    <li>LAN Trainer Kit</li> 
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingEight">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                    <strong>Microwave And Fiber Optics</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Experiments</strong> 
+                    <li>To analyze the performance of simple optical link</li>
+                    <li>To Test microwave and optical components</li>
+                    <li>To analyze the mode characteristics of fiber</li>
+                    <li>To analyze the radiation of pattern of antenna</li>
+                    <li>To Formulate the S-Parameters for Microwave components</li>
+                    <strong>Equipments</strong> 
+                    <li>Klystron Test Bench(X-Band)</li>
+                    <li>Advanced fiber Optic trainer Kit</li>
+                    <li>Single Mode Fiber Characteristics Trainer</li> 
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingNine">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                    <strong>Embedded System Laboratory</strong>
+                    </button>
+                    </h2>
+                    <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                    <strong>Experiments</strong> 
+                    <li>To Learn the working of ARM processor</li>
+                    <li>To Understand the Building Blocks of Embedded Systems</li>
+                    <li>To Learn the concept of memory map and memory interface</li>
+                    <li>To Know the characteristics of Real Time Systems</li>
+                    <li>To Write programs to interface memory, I/Os with processor</li>
+                    <li>To Study the interrupt performance</li>
+                    <strong>Equipments</strong> 
+                    <li>Embedded trainer kits with ARM board</li>
+                    <li>ARM CORTEX M3</li>
+                    <li>Zigbee Module</li>
+                    <li>Temperature sensor for Embedded trainer kits</li>
+                    <li>Stepper Motor</li>
+                    <li>Keyboard</li>
+                    <li>LCD</li>
+                    <li>ADC</li>
+                    <li>DAC Starter Kit</li>
+                    <li>On Board RTC & Serial port using UART Interface</li>
+                    <li>On Board EEPROM Interface & Interrupt</li>
+                    <li>On-chip PWM Interface</li>  
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+
+
+
+                </div>
+                  </div>
+                </div>
+                </div>
+
+
             
+            <!--<div class="tab-pane" id="tab-4">
               <div class="row">
                 <div class="col-lg-8 details order-2 order-lg-1">
-                  <h3>Chenmistry Laboratory</h3>
-                  <strong>COURSE OBJECTIVES:</strong> 
-                  <li> To inculcate experimental skills to test basic understanding of water quality parameters, such as, acidity, alkalinity, hardness, DO, chloride and copper.</li>
-                  <li>To induce the students to familiarize with electroanalytical techniques such as, pH metry, potentiometry and conductometry in the determination of impurities in aqueous solutions.</li>
-                  <li>To demonstrate the analysis of metals and alloys.</li>
-                  <li>To demonstrate the synthesis of nanoparticles</li>
-                  
-                  <strong>Experiments</strong> 
-                  <li>Preparation of Na2CO3 as a primary standard and estimation of acidity of a water sample using the primary standard</li>
-                  <li>Determination of types and amount of alkalinity in water sample. Split the first experiment into two</li>
-                  <li>Determination of total, temporary & permanent hardness of water by EDTA method.</li>
-                  <li>Determination of DO content of water sample by Winkler's method.</li>
-                  <li>Determination of chloride content water sample by Argentometric method.</li>
-                  <li>Estimation of copper content of the given solution by lodometry.</li>
-                  <li>Estimation of TDS of a water sample by gravimetry.</li>
-                  <li>Determination of strength of given hydrochloric acid using pH meter.</li>
-                  <li>Determination of strength of acids in a mixture of acids using conductivity meter.</li>
-                  <li>Conductometric titration of barium chloride against sodium sulphate (precipitation titration)</li>
-                  <li>Estimation of iron content of the given solution using potentiometer.</li>
-                  <li>Estimation of sodium /potassium present in water using flame photometer.</li>
-                  <li>Preparation of nanoparticles (TiO2/ZnO/CuO) by Sol-Gel method.</li>
-                  <li>Estimation of Nickel in steel</li>
-                  <li>Proximate analysis of Coal</li>  
+                  <h3>Common Computer Lab</h3>
+                  <p class="fst-italic text-justify">The Department of Computer Science and Engineering has a well-established Computer Practices Laboratory exclusively for First Year students. Computer Practices laboratory provides essential facilities to the students to enhance their knowledge in Programming. The common Lab is equipped with 125 Lenovo Desktop Computer with Intel i3 processor, Windows 7 Professional edition,4 LCD Projector, 2 ton carrier split AC-11,20 KVA UPS-2.</p>
                 </div>
                 <div class="col-lg-4 text-center order-1 order-lg-2">
-                  <img src="assets/img/CSE/BD.jpg" alt="" class="img-fluid">
+                  <img src="https://webdocs.pages.dev/assets/img/CSE/lab/CM.png" alt="" class="img-fluid">
                 </div>
               </div>
               <div class="row">
                 <div class="col-lg-8 details order-2 order-lg-1">
-                  <h3>Computer Laboratory</h3>
-                   <strong>PROBLEM SOLVING AND PYTHON PROGRAMMING LABORATORY</strong> 
-                   <li> To understand the problem solving approaches.</li>
-                   <li> To learn the basic programming constructs in Python.</li>
-                   <li> To practice various computing strategies for Python-based solutions to real world problems.</li>
-                   <li> To use Python data structures - lists, tuples, dictionaries.</li>
-                   <li> To do input/output with files in Python</li>
-                  <strong>Experiments</strong> <li> Principles of planning, orientation and complete joinery details ,Buildings with load bearing walls 3. Buildings with sloping roof,R.C.C. framed structures, Industrial buildings – North light roof structures,Unconfined compression test in cohesive soil , Building Information Modeling.</li> 
-                  <strong>Equipments</strong> <li> Computer system of Pentium IV or equivalent (1 for each student) ,AUTOCAD (software).</li> 
-                
+                  <h3>BigData Lab</h3>
+                  <p class="fst-italic text-justify">Big data lab is typically equipped with internet access. Computers in this lab are typically arranged in rows, so that every workstation has a similar view of one end of the room to facilitate lecturing or presentations, to facilitate small group work. The Big Data Lab is equipped with 40 Lenovo Desktop computers with Intel i7 Processor, 64 bit OS, 8GB Ram, on screen projector & centralized AC. Programming and Data Structures, Object Oriented Programming Systems, Operating Systems, Internet Programming, Grid and Cloud Computing Lab practical classes are conducted in this Laboratory.</p>
                 </div>
                 <div class="col-lg-4 text-center order-1 order-lg-2">
-                  <img src="assets/img/CSE/BD.jpg" alt="" class="img-fluid">
+                  <img src="https://webdocs.pages.dev/assets/img/CSE/lab/BD.jpg" alt="" class="img-fluid">
                 </div>
               </div>
-              
-              
-              
-          
-            </div>
-            <div class="tab-pane" id="tab-5">
               <div class="row">
                 <div class="col-lg-8 details order-2 order-lg-1">
-                  
-<!-- ======= Resume Section ======= -->
-<section id="resume" class="resume">
-  <div class="container">
-
-
-
-    <div class="row">
-      <div class="col-lg-12" data-aos="fade-up" data-aos-delay="100">
-        <h3 class="resume-title">Industrial Visit</h3>
-        <div class="resume-item">
-          <h4>Department of Civil Engineering</h4>
-          <h5>2019</h5>
-          
-          <ul>
-            <li> Civil engineering students Industrial Visit on Alipuram Erectors, Kollam on 01/10/2019.</li>
-            <li> Civil engineering students Industrial Visit on Bridge Project, Azhikal on 03/10/2019. </li>
-            <li> Stella Mary’s civil engineering students Two days industrial visit to various sites for at Moonar, Wayanad on 22/02/2019.</li>
-            <li> Three days Educational Tour was organized to Wayanad, Moonar, and Kochi on 12/03/2019.</li>
-            <li> One day industrial visit to Neyyar dam and Pechiparai on 02/03/2019.</li>
-          </ul>
-        </div>
-        <div class="resume-item">
-        
-          <h5>2018</h5>
-          
-          <ul>
-            <li>SMCE students Industrial Visit on Seshasayee. Paper &boards ltd on 08-09-2018.</li>
-            <li>Industrial Visit on Road Construction in hilly areas at kodaikanal on 03/08/18.</li>
-            <li>Industrial Visit on Road Construction in hilly areas at kodaikanal on 01/09/18.</li>
-            <li>Industrial visit Seshasayee.paper &boards ltd.unit on 28/07/2018.</li>
-            <li>Educational visit to Sankar Cement factory on 17/03/2018.</li>
-            <li>Industrial Visit 1.Educational visit to SPK and Co.,Kapallur, Madurai on 12/03/2018.</li>
-            <li>Five days Eduactional Tour was Organised at Thekadi,Iduki,Mummar, Ooty, Kochin on 17/02/2018.</li>
-          </ul>
-        </div>
-        <div class="resume-item">
-          <h5>2017</h5>
-          <ul>
-            <li>Industrial Visit on Precast Production Company, Nagercoil on 08-08-2017.</li>
-            <li>Industrial visit to Pechiparai dam, Puthen Dam , Perunchani Dam(Drainage gallery visit for the students) Mathur Thottipalam (Aqueduct) on 16/09/2017.</li>
-            <li>Industrial Visit Our students visited SH-46 Road work. Nagercoil on 16/09/2017.</li>
-          </ul>
-        </div>
-        <div class="resume-item">
-          <h5>2016</h5>
-          <ul>
-            <li>One day industrial visit to cement factory, Tirunelveli on 16/08/2016.</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-
-  </div>
-</section><!-- End Resume Section -->
-
-
-            </div>
+                  <br>
+                  <h3>Software Development Lab</h3>
+                  <p class="fst-italic text-justify"> Software Development Lab is typically equipped with internet access. Computers in this lab are typically arranged in rows, so that every workstation has a similar view of one end of the room to facilitate lecturing or presentations, to facilitate small group work. The Software Development Lab is equipped with 40 Dell Desktop computer with Intel i3 Processor, 32 bit OS,4 GB Ram and 3 AC. Compiler Laboratory and Database Management system, Software Development, Computer Graphics, Mobile Application Development and Network Laboratory practical classes are conducted in this Laboratory.</p>
+                </div>
+                <div class="col-lg-4 text-center order-1 order-lg-2">
+                  <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                </div>
               </div>
-            </div>
-            <div class="tab-pane" id="tab-6">
+            </div>-->
+            <div class="tab-pane" id="tab-">
               <div class="row">
                 <div class="col-lg-12 details order-2 order-lg-1">
                   <h3>Achievements</h3>
-                  <p class="fst-italic">Omnis blanditiis saepe eos autem qui sunt debitis porro quia.</p>
-                  <p>Exercitationem nostrum omnis. Ut reiciendis repudiandae minus. Omnis recusandae ut non quam ut quod eius qui. Ipsum quia odit vero atque qui quibusdam amet. Occaecati sed est sint aut vitae molestiae voluptate vel</p>
+                  
                  <!-- Default Accordion -->
               <div class="accordion" id="accordionExample">
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingOne">
                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                      2019-2020
+                      2021
                     </button>
                   </h2>
                   <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                      <strong>IrinSweeta, RajaSree Raj - National Conference</strong> <li>"Effects of plastic used in concrete" won II Prize in National Conference, held on 18.10.2019 organized by Marthandam College of Engineering and Technology</li>
-                      <strong>R.Abishiya - Connection</strong> <li>Won I Prize held on 14.03.2020 organized by Ponjesly College Of Engineering</li>
-                      <strong>Winfred	- Technical Quiz</strong> <li>Won I Prize held on 14.03.2020 organized by Ponjesly College Of Engineering</li>
-                      <strong>Subin.I	- Brick Bonding</strong> <li>Won II Prize held on 07.03.2020 organized by Rohini College Of Engineering</li>
-                      <strong>Subin.I	- Super Plumber</strong> <li>Won II Prize held on 07.03.2020 organized by Rohini College Of Engineering</li>
-                      <strong>J.Jamila - Rose	Technical Quiz</strong> <li>Won I Prize held on	02.03.2020 organized by Anna University-Konam</li>
-                      <strong>R.Abisha -	Technical Quiz	</strong> <li>Won II Prize held on 10.10.2019 organized by Universal College Of Engineering And Technology</li>
-                      <strong>R.Abishya, V.Bindhu, S.Anu -	Quiz</strong> <li>Won I Prize held on 14.03.2020 organized by Ponjesly College Of Engineering</li>
-                      <strong>Subin, Pavithran, Sam Berfin, Subin.I	- Quiz</strong> <li>Won I Prize held on 20.09.2019 organized by Stella Mary’s College Of Engineering</li>
+                      <strong>All the computer science department students</strong> <li> haveparticipated in the Lecture Series on “ Mobile Application Development using Android Studio “ held on 22-05-2021 organized by Institution’s Innovative Councilin association with Department of Computer Science andEngineering,Stella Mary’s College of Engineering.</li>
+                      <strong>All the computer science department students</strong> <li>have participated in the Lecture Serieson “ InnovationinNetworkSimulationusingNS2 ” held on 29-05-2021 organized by Institution’s Innovative Councilin association with Department of Computer Science andEngineering,Stella Mary’s College of Engineering. </li>
+                      <strong>All the computer science department students</strong> <li> have participated in the Lecture Series on “Opportunities inSoftware Testing ”held on 21-05-2021 organized by Institution’s Innovative Councilin association with Department of Computer Science and Engineering, StellaMary’s College of Engineering.</li>
                       
-
+                    
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingTwo">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                      2018-19
+                      2020
                     </button>
                   </h2>
                   <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                      <strong>Kohila, Blessy - National Conference</strong> <li>"Sustainable Building Materials" won I Prize in National Conference, held on 22.03.2019 organized by Arunachala College of Engineering For Woman</li>
-                      <strong>S.S.Anu, Minimol, Ashminm Rejith - Connection</strong> <li>Won II Prize held on 08.03.2019 organized by Mar Ephraem College Of Engineering and Technology</li>
-                      <strong>S.Alan, I.R.Nizanth, Sujith	- Technical Event</strong> <li>Won I Prize held on 08.02.2019 organized by Bethlahem Institute Of Engineering</li>
-                      <strong>B.Nithish Nelson, M. IrinSweeta, Mini mol, Ram Prabu	- Technical Event</strong> <li>Won II Prize held on 08.02.2019 organized by Cape Institute Of Technology</li>
-                      <strong>S.Alan,I.R.Nizanth - Quiz</strong> <li>Won II Prize held on 14.09.2018 organized by Thamirabharani Engineering College</li>
-                      
+                      <strong>K.Lakshmi Prabha</strong> <li> second year CSE participated a Webinar on "DEVOPS" organized by Star Certification on 11th May 2020.</li>
+                      <strong>J.ShaksiyaBrindha Mol</strong> <li> second year CSE participated in a Webinar on "Data Science for Engineers" organized by Sri Eswar College of Engineering, Coimbatore on 13th May 2020.</li>
+                      <strong>J.ShaksiyaBrindha Mol</strong> <li> econd year CSE participated in a Webinar on "Artificial Intelligence and Machine Learning" organized by Sri Eswar College of Engineering, Coimbatore on 14th May 2020.</li>
+                      <strong>All the students of Computer Science Department</strong> <li> have attended One Day Live Webinar on "Employability Skills for the Future” presented by Mr. Daniel Jacob, Vice President, HR EC Group International on 20th May 2020.</li>
+                      <strong>All the students of Computer Science Department</strong> <li> have attended one day Live Webinar on "Data Science and its Applications” presented by Mr.DilipMuralidaran, Senior Technical Instructor, Splunk on 9th June 2020.</li>
+                      <strong>All the students of Computer Science Department</strong> <li> have attended one day Live Webinar on "Internet of Things” presented by Mr. Solomon Ashok, Director, Splendio Technologies on 18th June 2020.</li>
+                      <strong>All the students of Computer Science Department</strong> <li> have attended one day Live Webinar on "Explore Yourselves in Real time Projects” presented by Mrs. Sandhi Durairaj on 18th June 2020.</li>
+                      <strong>Dhamodaran.N</strong> <li> third year student won first prize inDebugging held at St.Xavier's College of Engineering on7th February 2020.</li>
+                      <strong>Renold.A</strong> <li>third year student won second prize in WebDesigning held at St.John's College of Arts and Science on11th February 2020. </li>
+                      <strong>Dhamodaran.N</strong> <li> third year student won second prize inSmart Coding held at St.John's College of Arts and Scienceon 11th February 2020.</li>
+                      <strong>Ashik Christo Mourin.M</strong> <li>second year student won firstprize in Paper Presentation and Cinematography held atPonjesly College of Engineering on 22nd February 2020. </li>
+                      <strong>Dhamodaran.N</strong> <li> third year student won first prize inCode Debugging held at Ponjesly College of Engineeringon 22nd February 2020.</li>
+                      <strong>Ashik Christo Mourin.M</strong> <li> second year student wonsecond prize in Project Presentation held at PonjeslyCollege of Engineering on 22nd February 2020.</li>
+                      <strong>Dhamodaran.N</strong> <li>third year student won second prize inWeb Designing and Technical Quiz held at PonjeslyCollege of Engineering on 22nd February 2020. </li>
+                  
+
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingThree">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                      2017-18
+                      2019
                     </button>
                   </h2>
                   <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    
-                      <strong>Raja Prija, Jenisha - National Conference</strong> <li>"Plastic as a soil stabilizer" won II Prize in National Conference, held on 16.09.2017 organized by Rohini College of Engineering</li>
-                      <strong>Akash, Sahaya Abith Akash - Quiz</strong> <li>Won II Prize held on 27.03.2018 organized by Noorul Islam Centre For Higher Education</li>
-                      <strong>Subin -	Technical Connections</strong> <li>Won I Prize held on 22.08.2017 organized by Stella Mary’s College Of Engineering</li>
-                      <strong>J.Karishma, Josema Koshy -	Connection</strong> <li>Won I Prize held on 19.08.2016 organized by Mar Ephraem College Of Engineering and Technology</li>
-                      <strong>J.Karishma,Josema Koshy - Quiz</strong> <li>Won II Prize held on 19.08.2016 organized by Mar Ephraem College Of Engineering and Technology</li>
-                      
-
+                      <strong>M.Jayindra, K.Lakshmi Prabha</strong> <li> second year haveparticipated and presented a paper as a part ofKRYPTOZ in Mar Ephraem College of Engineeringon 8th August 2019.</li>
+                      <strong>Minisha P.M</strong> <li> of final year presented a paper entitled"Sentimental Analysis of Twitter Data" in BethlehemCollege of Engineering on 9th August 2019.</li>
+                      <strong>K.Lakshmi Prabha</strong> <li>second year has participatedand presented a paper in Bethlehem College Of Engineering on 9th August 2019. </li>
+                      <strong>Minisha P.M </strong> <li> final year presented a paper entitled"Sentimental Analysis of Twitter Data " in LoyalaInstitute of Technology on 31st August 2019.</li>
+                      <strong>Ashik Christo Mourin.M</strong> <li> ofthird year presented a paperentitled "Integration of CloudComputing with Internet ofThings" and won second prizein Loyala Institute ofTechnology on 31st August2019.</li>
+                      <strong>Minisha M.P</strong> <li> third year student presented a paper entitled“Sentimental Analysis of Twitter Data" and secured first prize inStella Mary's College of Engineering, Azhikal on 20th February2019.</li>
+                      <strong>Minisha M.P</strong> <li> third year has participated and secured third prize in Tech Talk, National Level Technical Symposium held at Stella Mary’s College of Engineering on 20th February 2019.</li>
+                      <strong>Akshai.R</strong> <li>third year student presented a paper entitled"Crossed-Dipole Arrays for DS-CDMA Systems" held at PonjeslyCollege of Engineering on 2nd February 2019. </li>
+                      <strong>J. Joel David</strong> <li> third year student presented a paper entitled "Riskbased Estimation of Manufacturing Order Cost with ArtificialIntelligence" in Ponjesly College of Engineering on 2nd February2019.</li>
+                      <strong>Minisha.M.P</strong> <li> third year has participated and secured first prizein the paper presentation in Just a Minute & Quiz, National LevelTechnical Symposium held at Ponjesly College of Engineering on2nd February 2019.</li>
+                      <strong>J.Joel David</strong> <li> third year has participated and secured secondprize in Photography, National Level Technical Symposium held atRajas College of Engineering on 2nd February 2019. </li>
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingFour">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                      2016-17
+                      2018
                     </button>
                   </h2>
                   <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                      <strong>Kavitha, Karishma - National Conference</strong> <li>"Solar Building" won III Prize in National Conference, held on 25.03.2017 organized by Maria College of Engineering & Technology</li>
-                      <strong>J.Karishma, Josema Koshy	- Connection</strong> <li>Won I Prize held on 09.08.2016 organized by Mar Ephraem College Of Engineering And Technology	</li>
-                      <strong>J.Karishma, Josema Koshy -	Quiz</strong> <li>Won II Prize held on 09.08.2016 organized by Mar Ephraem College Of Engineering And Technology</li>
+                      <strong>B.Aishwarya</strong> <li> third year student presented a PaperPresentation on 5G Wireless Technology, National LevelTechnical Symposium held at Rajas International Instituteof Technology on 5th October 2018.</li>
+                      <strong>B.Aishwarya</strong> <li> third Year has participated and securedfirst prize in Code Debugging, National Level TechnicalSymposium held at Rajas College of Engineering on 5thOctober 2018.</li>
+                      <strong>B.Aishwarya</strong> <li> third year student presented a paper entitled "A Smart Home Energy Management System Using Big Data Analytics" on National Level Technical Symposium in Rajas International Institute of Technology on 28th September 2018.</li>
+                      <strong>Ajini A.V</strong> <li> Final year student got third place in Technical Quiz organized by Rohini college Of Engineering &Technology on 20th March 2018.</li>
+                      <strong>Ajini A.V</strong> <li> Final year student got second place in paper presentation in National Level Technical Symposium held at Kalaivanar N.S.K College of Engineering on 16th March 2018.</li>
+                      <strong>A.George Stalin Britto</strong> <li> Final year student wonfirst prize in ElocutionCompetition held at St.Hindu College,Nagercoil (NationalVoters Day on 25thJanuary 2018).</li>
                       
-
                     </div>
                   </div>
                 </div>
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingFive">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                      2015-16
+                      2017
                     </button>
                   </h2>
                   <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                      <strong>Kavitha, Ancelin Suga - National Conference</strong> <li>"Ground Improvement Techniques" won I Prize in National Conference, held on 01.04.2016 organized by C.S.I. Institute of Technology</li>
-                      <strong>Shifino G Sekhar, Mathana - National Conference</strong> <li>"Green Building" won II Prize in National Conference, held on 05.03.2016 organized by Bethlahem Institute of Engineering</li>
-                      
+                      <strong>Archana Vijayan and Catherine SethiRaj.K</strong> <li>secondyear have participated and presented a paper entitled"Location Privacy preserving using Semi-TTP Server" inHeera College of Engineering and Technology,Trivandrum on 11th September 2017. </li>
+                      <strong>Artheya R.S, Prabha.S and Priyanka Lidiya.P</strong> <li>secondyear have participated and presented a paper entitled "ANew Method of Text Categorization and Summarizationwith Fuzzy Confusion Matrix" in Heera College ofEngineering and Technology, Trivandrum on 11thSeptember 2017. </li>
+                      <strong>Ashwini Priya.J, JeyaBrintha.M.R</strong> <li> hird year have participated and presented a paper entitled "Novel Algorithm for Finding the Closest l-mers in Biological Data" and secured second prize held at Marian Engineering College, Trivandrum on 4th September 2017.</li>
+                      <strong>M.SornaRevathy and W.SherlinVivitha</strong> <li>Second year students presented a paper entitled "Effective Method for Energy Saving" in Rohini College of Engineering on 21st February 2017. </li>
+                      <strong>M.SoranaRevathy and W.SherlinVivitha</strong> <li> Second yearstudents presented a paper entitled "Effective Method forEnergy Saving" in Arunachala College of Engineering forWomen on 25th January 2017.</li>
+                      <strong>Sheeba Ann Thomas and SahayaNishanthini.M</strong> <li> Finalyear students presented a paper entitled "A Real Time EventDetection and Notification Listing Social Media" inArunachala College of Engineering for Women on 25thJanuary 2017.</li>
+                      <strong>Ajini.A.V and Gokul Priya.C</strong> <li> third year studentspresented a paper entitled "Security Issues IRV6:AComprehensive Overview" in Arunachala College ofEngineering for Women on 25th January 2017.</li>
+                     
                     </div>
                   </div>
                 </div>
-                <!--<div class="accordion-item">
+                <div class="accordion-item">
                   <h2 class="accordion-header" id="headingSix">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
                       2016
@@ -688,7 +842,7 @@ include("conn.php")
                       <strong>Third year CSE girls</strong> <li>attended one day workshop on "Mobile Application Development” organized by Arunachala College of Engineering on 8th February 2016. </li>
                     </div>
                   </div>
-                </div>-->
+                </div>
               </div><!-- End Default Accordion Example -->
                 
                 </div>
@@ -697,23 +851,27 @@ include("conn.php")
                 </div>
               </div>
             </div>
-            <div class="tab-pane" id="tab-7">
-                <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
+            <div class="tab-pane" id="tab-5">
+            <div class="row row justify-content-center">
+                  <div class="">
                     <!-- ======= Services Section ======= -->
       <section id="services" class="services">
           <div class="container">
-            <div class="row">
-              <div class="col-md-6 col-lg-4 d-flex align-items-center mb-5 mb-lg-0">
+            <div class="row justify-content-center">
+            <div class="section-title" data-aos="fade-up">
+                            <h2>Syllabus</h2>
+                            <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
+                          </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bx-world"></i></div>
-                  <h4 class="title"><a href="">Regulation 2021</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/civil/syllabus/2021.pdf">Regulation 2021</a></h4>
                   </div>
               </div>
-              <div class="col-md-6 col-lg-4 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
+              <div class="col-lg-3 col-md-4">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bx-world"></i></div>
-                  <h4 class="title"><a href="">Regulation 2017</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/civil/syllabus/2017.pdf">Regulation 2017</a></h4>
                   </div>
                 </div>
             </div>
@@ -721,20 +879,24 @@ include("conn.php")
         </section><!-- End Services Section --></div>
                 </div>
               </div>
-              <div class="tab-pane" id="tab-8">
-                <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
+              <div class="tab-pane" id="tab-6">
+              <div class="row row justify-content-center">
+                  <div class="">
                     <!-- ======= Services Section ======= -->
       <section id="services" class="services">
           <div class="container">
-            <div class="row">
-              <div class="col-md-7 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
+            <div class="row justify-content-center">
+            <div class="section-title" data-aos="fade-up">
+                            <h2>Outcome</h2>
+                            <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
+                          </div>
+              <div class="col-md-7 col-lg-5">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-journal-richtext"></i></div>
                   <h4 class="title"><a href="">Programme Outcomes</a></h4>
                   </div>
               </div>
-              <div class="col-md-7 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
+              <div class="col-md-7 col-lg-5">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-journal-richtext"></i></div>
                   <h4 class="title"><a href="">Program Specfic Outcomes</a></h4>
@@ -745,83 +907,89 @@ include("conn.php")
         </section><!-- End Services Section --></div>
                 </div>
               </div>
-              <div class="tab-pane" id="tab-9">
+              <div class="tab-pane" id="tab-7">
                 <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
+                  <div class="">
                     <!-- ======= Services Section ======= -->
       <section id="services" class="services">
           <div class="container">
             <div class="row">
-              <div class="col-md-6 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
+            <div class="section-title" data-aos="fade-up">
+                            <h2>Academic Calender</h2>
+                            <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
+                          </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2018-19 ODD</a></h4>
+                  <h4 class="title"><a href="">2023-24 EVEN</a></h4>
                 </div>
+                <ol></ol>
               </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2018-19 EVEN</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2019-20 ODD</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2019-20 EVEN</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2020-21 ODD</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2020-21 EVEN</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2021-22 ODD</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2021-22 EVEN</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2022-23 ODD</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2022-23 EVEN</a></h4>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
                   <h4 class="title"><a href="">2023-24 ODD</a></h4>
                 </div>
               </div>
-              <div class="col-md-6 col-lg-5 d-md-flex align-items-stretch mb-lg-0 mb-lg-0">
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2023-24 EVEN</a></h4>
+                  <h4 class="title"><a href="">2022-23 EVEN</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2022-23 ODD</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2021-22 EVEN</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2021-22 ODD</a></h4>
+                </div>
+                <ol></ol>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2020-21 EVEN</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2020-21 ODD</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2019-20 EVEN</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2019-20 ODD</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2018-19 EVEN</a></h4>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2018-19 EVEN</a></h4>
                 </div>
               </div>
             </div>
@@ -829,7 +997,7 @@ include("conn.php")
         </section><!-- End Services Section --></div>
                 </div>
               </div>
-              <div class="tab-pane" id="tab-10">
+              <div class="tab-pane" id="tab-8">
                 <div class="row">
                     <section id="features" class="features">
                         <div class="container">
@@ -843,52 +1011,52 @@ include("conn.php")
                             <div class="col-lg-3 col-md-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #ffbb2c;"></i>
-                                <h3><a href="">APRIL 2016</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume1issue1.pdf">Volume I, Issue 1 : Dec 2017</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #5578ff;"></i>
-                                <h3><a href="">NOVEMBER 2016</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume1issue2.pdf">Volume I, Issue 2 : April 2018</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #e80368;"></i>
-                                <h3><a href="">APRIL 2017</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume2issue1.pdf">Volume II, Issue 1 : Dec 2018</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #e361ff;"></i>
-                                <h3><a href="">NOVEMBER 2017</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume2issue2.pdf">Volume II, Issue 2 : April 2019</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #47aeff;"></i>
-                                <h3><a href="">APRIL 2018</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume3issue1.pdf">Volume III, Issue 1 : Dec 2019</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #ffa76e;"></i>
-                                <h3><a href="">NOVEMBER 2018</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume3issue2.pdf">Volume III, Issue 2 : April 2020</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #11dbcf;"></i>
-                                <h3><a href="">APRIL 2019</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume4issue1.pdf">Volume IV, Issue 1 : Dec 2020</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #4233ff;"></i>
-                                <h3><a href="">NOVEMBER 2019</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume4issue2.pdf">Volume IV, Issue 2 : April 2021</a></h3>
                               </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 mt-4">
+                            <!--<div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #b2904f;"></i>
                                 <h3><a href="">APRIL 2020</a></h3>
@@ -911,20 +1079,20 @@ include("conn.php")
                                 <i class="ri-calendar-todo-line" style="color: #29cc61;"></i>
                                 <h3><a href="">NOVEMBER 2021</a></h3>
                               </div>
-                            </div>
+                            </div>-->
                           </div>
                   
                         </div>
                       </section><!-- End Features Section -->
                       </div>
                       </div>
-                      <div class="tab-pane" id="tab-11">
+                      <div class="tab-pane" id="tab-9">
                         <div class="row">
                             <section id="features" class="features">
                                 <div class="container">
                           
                                   <div class="section-title" data-aos="fade-up">
-                                    <h2>Brochure</h2>
+                                    <h2>Magazine</h2>
                                     <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
                                   </div>
                           
@@ -932,82 +1100,187 @@ include("conn.php")
                                     <div class="col-lg-3 col-md-4">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #ffbb2c;"></i>
-                                        <h3><a href="">AJAX BASICS</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2017-18.pdf">2017-2018</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #5578ff;"></i>
-                                        <h3><a href="">BOOTSTRAP</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2018-19.pdf">2018-2019</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                                       <div class="icon-box">
                                         <i class="ri-database-2-line" style="color: #e80368;"></i>
-                                        <h3><a href="">HADOOP</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2019-20.pdf">2019-2020</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
                                       <div class="icon-box">
-                                        <i class="ri-file-list-3-line" style="color: #e361ff;"></i>
-                                        <h3><a href="">MACHINE LEARNING AND DATA ANALYTICS</a></h3>
+                                        <i class="ri-database-2-line" style="color: #e361ff;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2020-21.pdf">2020-2021</a></h3>
                                       </div>
                                     </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-bar-chart-box-line" style="color: #47aeff;"></i>
-                                        <h3><a href="">MATLAB</a></h3>
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-check-double-line" style="color: #ffa76e;"></i>
-                                        <h3><a href="">MOBILE APP DEVELOPMENT</a></h3>
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-database-2-line" style="color: #11dbcf;"></i>
-                                        <h3><a href="">NETWORK STORAGE CONCEPTS</a></h3>
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-disc-line" style="color: #4233ff;"></i>
-                                        <h3><a href="">NS2</a></h3>
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-anchor-line" style="color: #b2904f;"></i>
-                                        <h3><a href="">U-TURN MOTIVATION OF ENGINEERS</a></h3>
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-check-double-line" style="color: #b20969;"></i>
-                                        <h3><a href="">WEB DESIGNING USING WORDPRESS</a></h3>
-                                      </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 mt-4">
-                                      <div class="icon-box">
-                                        <i class="ri-check-double-line" style="color: #ff5828;"></i>
-                                        <h3><a href="">WEB DEVELOPMENT</a></h3>
-                                      </div>
-                                    </div>
+                                   
                                   </div>
                           
                                 </div>
                               </section><!-- End Features Section -->
                               </div>
                               </div>
+                              <div class="tab-pane" id="tab-10">
+                          <div class="row">  
+                            <div class="">
+      
+                              <!--slider start here-->
+                        
+                              <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="4000"> <!-- Change the data-bs-interval value as needed -->
+                                <div class="carousel-indicators">
+                                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+                                </div>
+                                <div class="carousel-inner">
+                                  <div class="carousel-item active">
+                                    <img src="https://webdocs.pages.dev/assets/docs/cfi/sih2022/3.jpg" class="d-block w-100" alt="...">
+                                  </div>
+                                  <div class="carousel-item">
+                                    <img src="https://webdocs.pages.dev/assets/docs/cfi/sih2022/2.jpg" class="d-block w-100" alt="...">
+                                  </div>
+                                  <div class="carousel-item">
+                                    <img src="https://webdocs.pages.dev/assets/docs/cfi/sih2022/1.jpg" class="d-block w-100" alt="...">
+                                  </div>
+                                  <div class="carousel-item">
+                                    <img src="https://webdocs.pages.dev/assets/docs/cfi/sih2022/4.jpg" class="d-block w-100" alt="...">
+                                  </div>
+                                  
+                                </div>
+                                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                  <span class="visually-hidden">Previous</span>
+                                </button>
+                                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                  <span class="visually-hidden">Next</span>
+                                </button>
+                              </div>
+                                <!--end here-->
+                            </div>
+                            <!-- End Features Section -->
+                                </div>
+
+                                </div>
+
+
+                                <div class="tab-pane" id="tab-11">
+                          <div class="row">  
+                            <div class="">
+                            <section id="testimonials" class="testimonials section-bg">
+      <div class="container">
+
+        <div class="section-title" data-aos="fade-up">
+          <h2>Testimonials</h2>
+          <p>Words from our Alumni</p>
+        </div>
+
+        <div class="testimonials-slider swiper text-justify" data-aos="fade-up" data-aos-delay="100">
+          <div class="swiper-wrapper">
+
+            <div class="swiper-slide">
+              <div class="testimonial-wrap">
+                <div class="testimonial-item">
+                  <img src="https://webdocs.pages.dev/assets/img/testimonials/Vaishnavi.jpeg" class="testimonial-img" alt="">
+                  <h3>Vaishnavi M J</h3>
+                  <h4>ECE - Alumni 2019-23 &amp; Software Developer @ Agile Cyber Solutions</h4>
+                  <p class ="text-justify">
+                    <i class="bx bxs-quote-alt-left quote-icon-left text-justify"></i>
+                    infrastructure provided by our institution Stella Mary's College of Engineering and the unwavering support of my teachers have been instrumental in facilitating my achievement. The constant guidance and insightful feedback they have imparted have enriched my learning experience and empowered me to reach new heights. I am forever thankful..
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  </p>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-wrap">
+                <div class="testimonial-item">
+                  <img src="" class="testimonial-img" alt="">
+                  <h3>Sara Wilsson</h3>
+                  <h4>Designer</h4>
+                  <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  </p>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-wrap">
+                <div class="testimonial-item">
+                  <img src="" class="testimonial-img" alt="">
+                  <h3>Jena Karlis</h3>
+                  <h4>Store Owner</h4>
+                  <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  </p>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-wrap">
+                <div class="testimonial-item">
+                  <img src="" class="testimonial-img" alt="">
+                  <h3>Matt Brandon</h3>
+                  <h4>Freelancer</h4>
+                  <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  </p>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-wrap">
+                <div class="testimonial-item">
+                  <img src="" class="testimonial-img" alt="">
+                  <h3>John Larson</h3>
+                  <h4>Entrepreneur</h4>
+                  <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  </p>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+          </div>
+          <div class="swiper-pagination"></div>
+        </div>
+
       </div>
+    </section><!-- End Testimonials Section -->
+
+</div>
+</div>
+</div>
+
+
+                      </div>
     </section>
 
   </main><!-- End #main -->
 
-  <!-- ======= Footer ======= -->
-  <footer id="footer">
+   <!-- ======= Footer ======= -->
+   <footer id="footer">
     <div class="container">
       <div class="footer-top">
         <div class="container">
