@@ -208,17 +208,17 @@ include("conn.php")
 
           <div class="course-info d-flex justify-content-between align-items-center">
             <h5>Total Intake</h5>
-            <p>120</p>
+            <p>60</p>
           </div>
 
           <div class="course-info d-flex justify-content-between align-items-center">
             <h5>Budding Engineers</h5>
-            <p>200</p>
+            <p>157</p>
           </div>
 
           <div class="course-info d-flex justify-content-between align-items-center">
             <h5>Proud Alumni</h5>
-            <p>250</p>
+            <p>378</p>
           </div>
 
         </div>
@@ -447,17 +447,38 @@ include("conn.php")
                     <li>Assorted components for plumbing consisting of metallic pipes, plastic pipes, flexible pipes, couplings, unions, elbows, plugs and other fittings. 15 Sets.</li>
                     <li>Carpentry vice (fitted to work bench) 15 Nos.</li>
                     <li>Standard woodworking tools 15 Sets.</li>
-                    <li>To implement Equalization algorithms</li>
-                    <li>To implement Error control coding schemes</li>
-                    <strong>Equipments</strong> 
-                    <li>AM & FM modulation and demodulation Kit</li>
-                    <li>Time Division Multiplexing Kit</li>
-                    <li>Pulse Code Modulation & Delta Modulation Kit</li>
-                    <li>Frequency Shift Keying, Phase Shift keying Kit</li>
-                    <li>Frequency Division Multiplexing Kit</li>
-                    <li>Sampling Kit</li>
+                    <li>Models of industrial trusses, door joints, furniture joints 5 each</li>
+                    <li>Rotary Hammer 2 Nos</li>
+                    <li>Demolition Hammer 2 Nos</li>
+                    <li>Circular Saw 2 Nos</li>
+                    <li>Planer 2 Nos</li>
+                    <li>Hand Drilling Machine 2 Nos</li>
+                    <li>Jigsaw 2 Nos</li>
+                    <strong>Facilities for Mechanical Engineering Practices</strong> 
+                    <li>Arc welding transformer with cables and holders 5 Nos.</li>
+                    <li>Welding booth with exhaust facility 5 Nos.</li>
+                    <li>Welding accessories like welding shield, chipping hammer, wire brush, etc. 5 Sets.</li>
+                    <li>Oxygen and acetylene gas cylinders, blow pipe and other welding outfit. 2 Nos. 34</li>
+                    <li>Centre lathe 2 Nos.</li>
+                    <li>Hearth furnace, anvil and smithy tools 2 Sets.</li>
+                    <li>Moulding table, foundry tools 2 Sets.</li>
+                    <li>Power Tool: Angle Grinder 2 Nos</li>
+                    <li>Study-purpose items: centrifugal pump, air-conditioner One each.</li>
+                    <strong>Facilities for Electrical Engineering Practices</strong> 
+                    <li>Assorted electrical components for house wiring 15 Sets</li>
+                    <li>Electrical measuring instruments 10 Sets</li>
+                    <li>Study purpose items: Iron box, fan and regulator, emergency lamp 1 each</li>
+                    <li>Megger (250V/500V) 1 No.</li>
+                    <li>Range Finder 2 Nos</li>
+                    <li>Digital Live-wire detector 2 Nos</li>
+                    <strong>Facilities for Electronics Engineering Practices</strong> 
+                    <li>Soldering guns 10 Nos.</li>
+                    <li>Assorted electronic components for making circuits 50 Nos.</li>
+                    <li>Small PCBs 10 Nos.</li>
+                    <li>Multimeters 10 Nos.</li>
+                    <li>Study purpose items: Telephone, FM radio, low-voltage power</li>
                     <div class="col-md-6 col-lg-12">
-                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/CM.png" alt="" class="img-fluid">
+                    <img src="https://webdocs.pages.dev/assets/img/mech/lab/mechlab1.jpg" alt="" class="img-fluid">
                     </div>
                   </div>
                 </div>
@@ -465,24 +486,26 @@ include("conn.php")
               <div class="accordion-item">
                 <h2 class="accordion-header" id="headingTwo">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                    <strong>Linear Integrated Circuits</strong>
+                    <strong>CADEM CENTRE</strong>
                     </button>
                     </h2>
                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    <strong>Experiments</strong> 
-                    <li>To expose the students to linear and integrated circuits</li>
-                    <li>To understand the basics of linear integrated circuits and available ICs</li>
-                    <li>To understand and apply operational amplifiers in linear and nonlinear applications</li>
-                    <li>To acquire the basic knowledge of special function IC</li>
-                    <li>To use P-SPICE software for circuit design.</li>
-                    <strong>Equipments</strong> 
-                    <li>Function Generator</li>
-                    <li>Cathode Ray Oscilloscope</li>
-                    <li>Digital Storage Oscilloscope</li>
-                    <li>P-SPICE software</li>
+                    <p class="fst-italic">CADEM Centre is established to impart practical experience in handling 2D drafting and 3D modeling software. To understand the features of CNC Machine tool and to know the application of various CNC machines like CNC lathe, CNC Vertical Machining centre. To give exposure to software tools needed to analyze engineering problems. To expose the students to different applications of simulation and analysis tools. Students of Mechanical Engineering program use the center for laboratory courses like Computer Aided Machine Drawing, Computer Aided Design and Computer Aided Manufacturing lab, Simulation and Analysis laboratory and Interpersonal skill & listening and speaking laboratory as per their curriculum. They also use this centre for the preparation of Technical Seminar laboratory, mini project and main project.</p>
+      
+                    <strong>Facilities</strong> 
+                    <li>CNC Lathe</li>
+                    <li>CNC Vertical Milling Machine</li>
+                    <li>Desktops 61 Nos</li>
+                    <li>CreO License 50 Nos</li>
+                    <li>ANSYS License 50 Nos.</li>
+                    <li>LCD Projector</li>
+                    <li>Adequate no of head sets</li>
+                    <li>Internet and Intranet Connectivity</li>
+                    <li>Wi-fi Facility</li>
+                    <li>Document scanner and copier</li>
                     <div class="col-md-6 col-lg-12">
-                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/BD.jpg" alt="" class="img-fluid">
+                    <img src="https://webdocs.pages.dev/assets/img/mech/lab/mechlab2.jpg" alt="" class="img-fluid">
                     </div>
                   </div>
                 </div>
@@ -490,27 +513,28 @@ include("conn.php")
               <div class="accordion-item">
                 <h2 class="accordion-header" id="headingThree">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                    <strong>Electron Device And Circuits</strong>
+                    <strong>Kinematics And Dynamics Laboratory</strong>
                     </button>
                     </h2>
                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    <strong>Experiments</strong> 
-                    <li>Study the characteristics of Electron Devices</li>
-                    <li>Study the characteristic of CE, CB, CC, CS and differential Amplifier</li>
-                    <li>Design and implementation of combinational Logic circuits using logic gates</li>
-                    <li>Construction and verification of sequential logic circuits using Flip Flops</li>
-                    <li>To gain hands on experience in designing electronic circuits</li>
-                    <li>To learn the fundamental principles of amplifier circuits</li>
-                    <li>To differentiate feedback amplifiers and oscillators</li>
-                    <li>To understand the concepts of multivibrators</li>
-                    <strong>Equipments</strong> 
-                    <li>Function Generator</li>
-                    <li>Cathode Ray Oscilloscope</li>
-                    <li>Digital Storage Oscilloscope</li>
-                    <li>P-SPICE software</li>
+                    <p class="fst-italic">This laboratory is used to supplement the principles taught in the theory courses like kinematics of Machinery and Dynamics of Machinery to make understand how certain measuring devices are used for dynamic and kinematics testing.</p>
+    
+                    <strong>Facilities</strong> 
+                    <li>Cam follower setup.</li>
+                    <li>Motorized gyroscope.</li>
+                    <li>Governor apparatus - Watt, Porter, Proell and Hartnell governors.</li>
+                    <li>Whirling of shaft apparatus.</li>
+                    <li>Dynamic balancing machine.</li>
+                    <li>Two rotor vibration setup.</li>
+                    <li>Spring mass vibration system.</li>
+                    <li>Torsional Vibration of single rotor system setup.</li>
+                    <li>Gear Models</li>
+                    <li>Kinematic Models to study various mechanisms.</li>
+                    <li>Turn table apparatus</li>
+                    <li>Transverse vibration setup of cantilever, Free-Free beam, Simply supported beam.</li>
                     <div class="col-md-6 col-lg-12">
-                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    <img src="https://webdocs.pages.dev/assets/img/mech/lab/mechlab3.jpg" alt="" class="img-fluid">
                     </div>
                   </div>
                 </div>
@@ -518,28 +542,35 @@ include("conn.php")
               <div class="accordion-item">
                 <h2 class="accordion-header" id="headingFour">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                    <strong>Microprocessor</strong>
+                    <strong>Fluid Mechanics and Machinery Laboratory</strong>
                     </button>
                     </h2>
                     <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    <strong>Experiments</strong> 
-                    <li>To Write ALP Programs for fixed and Floating Point and Arithmetic</li>
-                    <li>To Interface different I/Os with processor</li>
-                    <li>To Generate waveforms using Microprocessors</li>
-                    <li>To Execute Programs in 8051</li>
-                    <strong>Equipments</strong> 
-                    <li>8279,8251,8253,8255,8259</li>
-                    <li>Stepper motor</li>
-                    <li>DC motor</li>
-                    <li>ADC,DAC</li>
-                    <li>Traffic light</li>
-                    <li>Printer Interfacing boards</li>
-                    <li>8085 Microprocessor Kit</li>
-                    <li>8086 Microprocessor Kit</li>
-                    <li>8051 Microcontroller Kit</li>
+                    <p class="fst-italic">This lab is to study the applications of the conservation laws to flow through pipes and hydraulic machines. To understand the importance of dimensional analysis. To understand the importance of various types of flow in pumps and turbines. Upon Completion of this lab, the students can able to have hands on experience in flow measurements using different devices and also perform calculation related to losses in pipes and also perform characteristic study of pumps, turbines etc.,</p>
+    
+                    <strong>Facilities</strong> 
+                    <li>Orifice meter setup</li>
+                    <li>Venturi meter setup</li>
+                    <li>Rotameter setup</li>
+                    <li>Pipe Flow analysis setup</li>
+                    <li>Centrifugal pump / submergible pump setup</li>
+                    <li>Reciprocating pump setup</li>
+                    <li>Gear pump setup</li>
+                    <li>Pelton wheel turbine setup</li>
+                    <li>Francis turbine setup</li>
+                    <li>Kaplan turbine setup</li>
+                    <li>Notch Apparatus</li>
+                    <li>Minor Losses Apparatus</li>
+                    <li>Multi Stage Centrifugal Pump</li>
+                    <li>Orifice and Mouth piece setup</li>
+                    <li>Bernoulli’s setup</li>
+                    <li>Meta Centric Height Setup</li>
+                    <li>Pitot Tube</li>
+                    <li>Hydraulic Flume Test setup</li>
+
                     <div class="col-md-6 col-lg-12">
-                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    <img src="https://webdocs.pages.dev/assets/img/mech/lab/mechlab4.jpg" alt="" class="img-fluid">
                     </div>
                   </div>
                 </div>
@@ -547,22 +578,40 @@ include("conn.php")
               <div class="accordion-item">
                 <h2 class="accordion-header" id="headingFive">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                    <strong>Digital Signal Processing</strong>
+                    <strong>DManufacturing Technology Laboratory</strong>
                     </button>
                     </h2>
                     <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    <strong>Experiments</strong> 
-                    <li>To carry out simulation of DSP systems</li>
-                    <li>To demonstrate their abilities towards DSP processor based implementation of DSP systems</li>
-                    <li>To Analyze Finite word length effect on DSP systems</li>
-                    <li>To demonstrate the applications of FFT to DSP.</li>
-                    <strong>Equipments</strong> 
-                    <li>Fixed point DSP processor kit</li>
-                    <li>Floating point DSP processor kit</li>
-                    <li>MATLAB/ SIMULINK software</li> 
+                    <p class="fst-italic">This lab is to study and practice the various operations that can be performed in lathe, shaper, drilling, milling machines etc., and to acquire knowledge on various basic machining operations in special purpose machines and its applications in real life manufacture of components to equip with the practical knowledge required in the core manufacturing industries. The laboratory courses Manufacturing Technology-I and Manufacturing Technology-II will be taught using this laboratory.</p>
+    
+                    <strong>Facilities</strong> 
+                    <li>Centre Lathes</li>
+                    <li>Horizontal Milling Machine</li>
+                    <li>Vertical Milling Machine</li>
+                    <li>Shaper</li>
+                    <li>Arc welding transformer with cables and holders</li>
+                    <li>Oxygen and acetylene gas cylinders, blow pipe and other welding outfit</li>
+                    <li>Molding table, Molding equipments</li>
+                    <li>Sheet metal forming tools and equipments</li>
+                    <li>Turret and Capstan Lathes</li>
+                    <li>Horizontal Milling Machine</li>
+                    <li>Vertical Milling Machine</li>
+                    <li>Surface Grinding Machine</li>
+                    <li>Radial Drilling Machine</li>
+                    <li>Lathe Tool Dynamometer</li>
+                    <li>Milling Tool Dynamometer</li>
+                    <li>Gear Hobbing Machine</li>
+                    <li>Tool Makers Microscope</li>
+                    <li>CNC Lathe</li>
+                    <li>CNC Milling machine</li>
+                    <li>Gear Shaping machine</li>
+                    <li>Centerless grinding machine</li>
+                    <li>Tool and cutter grinder</li>
+                    <li>Cylindrical Grinding Machine</li>
+                    <li>Injection Molding Machine</li>
                     <div class="col-md-6 col-lg-12">
-                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    <img src="https://webdocs.pages.dev/assets/img/mech/lab/mechlab5.jpg" alt="" class="img-fluid">
                     </div>
                   </div>
                 </div>
@@ -570,22 +619,35 @@ include("conn.php")
               <div class="accordion-item">
                 <h2 class="accordion-header" id="headingSix">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                    <strong>VLSI Design Laboratory</strong>
+                    <strong>Metrology And Measurement Laboratory</strong>
                     </button>
                     </h2>
                     <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    <strong>Experiments</strong> 
-                    <li>To Write HDL code for basic as well as advanced digital integrated circuits</li>
-                    <li>To Import the logic modules into FPGA Boards</li>
-                    <li>To Synthesize Place and Route the digital IPs</li>
-                    <li>To Design Simulate and Extract the layouts of Analog IC Blocks using EDA tools</li>
-                    <strong>Equipments</strong> 
-                    <li>Cadence - 20 User License</li>
-                    <li>FPGA-Spartan 6</li>
-                    <li>X- link</li> 
+                    <p class="fst-italic">This laboratory is to familiarize the students with different measurement aids and equipments and its use in the industries for quality inspection.</p>
+    
+                    <strong>Facilities</strong> 
+                    <li>Micrometer</li> 
+                    <li>Vernier Caliper</li> 
+                    <li>Vernier Height Gauge</li> 
+                    <li>Vernier depth Gauge</li> 
+                    <li>Slip Gauge Set</li> 
+                    <li>Gear Tooth Vernier</li> 
+                    <li>Sine Bar</li> 
+                    <li>Floating Carriage Micrometer</li> 
+                    <li>Profile Projector</li> 
+                    <li>Tool Makers Microscope</li> 
+                    <li>Mechanical / Electrical / Pneumatic Comparator</li> 
+                    <li>Autocollimator</li> 
+                    <li>Temperature Measuring Setup</li> 
+                    <li>Force Measuring Setup</li> 
+                    <li>Torque Measuring Setup</li> 
+                    <li>Coordinate measuring machine</li> 
+                    <li>Surface finish measuring equipment</li> 
+                    <li>Bore gauge</li> 
+                    <li>Telescope gauge.</li> 
                     <div class="col-md-6 col-lg-12">
-                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    <img src="https://webdocs.pages.dev/assets/img/mech/lab/mechlab6.jpg" alt="" class="img-fluid">
                     </div>
                   </div>
                 </div>
@@ -593,18 +655,24 @@ include("conn.php")
               <div class="accordion-item">
                 <h2 class="accordion-header" id="headingSeven">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-                    <strong>Computer Networks Laboratory</strong>
+                    <strong>MECHATRONICS LABORATORY</strong>
                     </button>
                     </h2>
                     <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
+                    <p class="fst-italic">This lab is to familiarizing the students with the method of programming the microprocessor and also with the design, modeling & analysis of basic electrical, hydraulic & pneumatic systems which enable the students to understand the concept of mechatronics.</p>
+    
                     <strong>Experiments</strong> 
-                    <li>To communicate between two desktop computers</li>
-                    <li>To Implement the different protocols</li>
-                    <strong>Equipments</strong> 
-                    <li>LAN Trainer Kit</li> 
+                    <li>Transducers ( Pressure , Temperature , Strain , LVDT)</li> 
+                    <li>Basic Hydraulic Trainer Kit</li> 
+                    <li>Basic Pneumatic Trainer Kit with manual and electrical controls</li> 
+                    <li>Basic Pneumatic Trainer Kit with PLC Control</li> 
+                    <li>Hydraulics Systems Simulation Software</li> 
+                    <li>Pneumatics Systems Simulation Software</li> 
+                    <li>8051 - Microcontroller kit with stepper motor and drive circuit sets , Traffic control</li> 
+                    <li>Image processing system with hardware & software</li> 
                     <div class="col-md-6 col-lg-12">
-                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    <img src="https://webdocs.pages.dev/assets/img/mech/lab/mechlab7.jpg" alt="" class="img-fluid">
                     </div>
                   </div>
                 </div>
@@ -612,23 +680,24 @@ include("conn.php")
               <div class="accordion-item">
                 <h2 class="accordion-header" id="headingEight">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-                    <strong>Microwave And Fiber Optics</strong>
+                    <strong>Strength Of Materials Laboratory</strong>
                     </button>
                     </h2>
                     <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    <strong>Experiments</strong> 
-                    <li>To analyze the performance of simple optical link</li>
-                    <li>To Test microwave and optical components</li>
-                    <li>To analyze the mode characteristics of fiber</li>
-                    <li>To analyze the radiation of pattern of antenna</li>
-                    <li>To Formulate the S-Parameters for Microwave components</li>
-                    <strong>Equipments</strong> 
-                    <li>Klystron Test Bench(X-Band)</li>
-                    <li>Advanced fiber Optic trainer Kit</li>
-                    <li>Single Mode Fiber Characteristics Trainer</li> 
+                    <p class="fst-italic">To supplement the theoretical knowledge gained in the theory courses like Engineering Metallurgy and Strength of Material with practical testing for determining the material behavior and strength of materials under externally applied loads. This would enable the student to have a clear understanding of the design for strength and stiffness.</p>
+    
+                    <strong>Facilities</strong> 
+                    <li>Universal Tensile Testing machine with double shear attachment – 40 Ton Capacity</li> 
+                    <li>Torsion Testing Machine (60 NM Capacity)</li> 
+                    <li>Impact Testing Machine (300 J Capacity)</li> 
+                    <li>Brinell Hardness Testing Machine</li> 
+                    <li>Rockwell Hardness Testing Machine</li> 
+                    <li>Spring Testing Machine for tensile and compressive loads (2500 N)</li> 
+                    <li>Metallurgical Microscopes</li> 
+                    <li>Muffle Furnace (1200 C).</li> 
                     <div class="col-md-6 col-lg-12">
-                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    <img src="https://webdocs.pages.dev/assets/img/mech/lab/mechlab8.jpg" alt="" class="img-fluid">
                     </div>
                   </div>
                 </div>
@@ -636,33 +705,38 @@ include("conn.php")
               <div class="accordion-item">
                 <h2 class="accordion-header" id="headingNine">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-                    <strong>Embedded System Laboratory</strong>
+                    <strong>Thermal Engineering Laboratory</strong>
                     </button>
                     </h2>
                     <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    <strong>Experiments</strong> 
-                    <li>To Learn the working of ARM processor</li>
-                    <li>To Understand the Building Blocks of Embedded Systems</li>
-                    <li>To Learn the concept of memory map and memory interface</li>
-                    <li>To Know the characteristics of Real Time Systems</li>
-                    <li>To Write programs to interface memory, I/Os with processor</li>
-                    <li>To Study the interrupt performance</li>
-                    <strong>Equipments</strong> 
-                    <li>Embedded trainer kits with ARM board</li>
-                    <li>ARM CORTEX M3</li>
-                    <li>Zigbee Module</li>
-                    <li>Temperature sensor for Embedded trainer kits</li>
-                    <li>Stepper Motor</li>
-                    <li>Keyboard</li>
-                    <li>LCD</li>
-                    <li>ADC</li>
-                    <li>DAC Starter Kit</li>
-                    <li>On Board RTC & Serial port using UART Interface</li>
-                    <li>On Board EEPROM Interface & Interrupt</li>
-                    <li>On-chip PWM Interface</li>  
+                    <p class="fst-italic">This laboratory is to study the value timing, port timing- diagram and performance of IC Engines. To Study the characteristics of fuels/Lubricates used in IC Engines. To study the Performance of steam generator/ turbine. To study the heat transfer phenomena and predict the relevant coefficient using implementation. To study the performance of refrigeration cycle / components. This lab consists of separate Steam an IC engines lab, Hear Transfer Lab.</p>
+    
+                    <strong>Facilities</strong> 
+                    <li>I.C Engine – 2 stroke and 4 stroke model.</li> 
+                    <li>Apparatus for Flash and Fire Point.</li> 
+                    <li>4-stroke Diesel Engine with mechanical loading.</li> 
+                    <li>4-stroke Diesel Engine with hydraulic loading.</li> 
+                    <li>4-stroke Diesel Engine with electrical loading.</li> 
+                    <li>Multi-cylinder Petrol Engine.</li> 
+                    <li>Single cylinder Petrol Engine.</li> 
+                    <li>Data Acquisition system with any one of the above engines.</li> 
+                    <li>Steam Boiler with turbine setup.</li> 
+                    <li>Guarded plate apparatus.</li> 
+                    <li>Lagged pipe apparatus.</li> 
+                    <li>Natural convection-vertical cylinder apparatus.</li> 
+                    <li>Forced convection inside tube apparatus.</li> 
+                    <li>Composite wall apparatus.</li> 
+                    <li>Thermal conductivity of insulating powder apparatus.</li> 
+                    <li>Pin-fin apparatus.</li> 
+                    <li>Stefan-Boltzmann apparatus.</li> 
+                    <li>Emissivity measurement apparatus.</li> 
+                    <li>Parallel/counter flow heat exchanger apparatus.</li> 
+                    <li>Single/two stage reciprocating air compressor</li> 
+                    <li>Refrigeration test rig.</li> 
+                    <li>Air-conditioning test rig.</li> 
                     <div class="col-md-6 col-lg-12">
-                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                    <img src="https://webdocs.pages.dev/assets/img/mech/lab/mechlab9.jpg" alt="" class="img-fluid">
                     </div>
                   </div>
                 </div>
