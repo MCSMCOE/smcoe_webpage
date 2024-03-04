@@ -224,6 +224,15 @@ include("conn.php")
             ?>
 
       <?php
+            $sql="SELECT CONCAT(FLOOR(SUM(mon)/12),' Year(s) ',MOD(SUM(mon),12) ,' Month(s)') yrs FROM (SELECT TIMESTAMPDIFF(MONTH,from_date, IFNULL(to_date,NOW()))mon FROM camps.staff_experience se WHERE se.status>0 AND se.staff_id=".$_GET['staff_id']." AND se.from_date IS NOT NULL AND se.to_date IS NOT NULL UNION SELECT TIMESTAMPDIFF(MONTH,from_date, IFNULL(to_date,NOW()))mon FROM camps.staff_promotion sp WHERE sp.status>0 AND sp.staff_id=".$_GET['staff_id']." AND sp.from_date IS NOT NULL )a";
+            $result = mysqli_query($dbcon, $sql);
+            if (mysqli_num_rows($result) > 0) {
+                while($data = mysqli_fetch_assoc($result)) {
+                     $exp= $data['yrs'];               
+                    /*echo "<script>alert(".$sil.")</script>";
+                     echo $data['link'];*/
+                }
+            }     
             $sql = "SELECT md.`desigination`,sm.staff_id,TRIM(CONCAT(sm.`legend`,' ',IFNULL(sm.first_name,''),' ',IFNULL(sm.middle_name,''),' ',IFNULL(sm.last_name,''),' ')) staff_name,TIMESTAMPDIFF(YEAR,sm.dob,NOW()) age,sav.`text_val`,DATE_FORMAT(doj,'%d-%m-%Y') doj,sav2.`text_val`,sm.`institute_email_id`,sm.`mobile_no` FROM camps.`staff_master` sm INNER JOIN camps.`staff_promotion` sp  ON sp.`staff_id`=sm.`staff_id` AND sp.status=2 INNER JOIN camps.`master_desigination` md ON md.`md_id`=sp.`md_id`  LEFT JOIN documentation.`ss_additional_values` sav ON sav.`ss_am_id`=21 AND sav.`ss_id`=sm.staff_id LEFT JOIN documentation.`ss_additional_values` sav2 ON sav2.`ss_am_id`=10 AND sav2.`ss_id`=sm.staff_id WHERE sm.staff_id=".$_GET['staff_id'];
             $result = mysqli_query($dbcon, $sql);
             if (mysqli_num_rows($result) > 0) {
@@ -234,9 +243,7 @@ include("conn.php")
         <img src="https://webdocs.pages.dev/assets/img/faculty/<?= $_GET['staff_id']?>.png"  class="img-fluid" alt="">
         </div>
         <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-          <h3><?php 
-                    printf("%s", $data["desigination"]);
-                    ?></h3>
+          <h3><?php printf("%s", $data["desigination"]);?></h3>
          <!-- <p class="fst-italic">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
             magna aliqua.
@@ -263,14 +270,13 @@ include("conn.php")
               <ul><ul><li></li>
                 <ul><li></li>
                 
-                <li><i class="bi bi-chevron-right"></i> <strong>Research Interest:</strong> <span><?php 
-                    printf("%s", $data[""]);
-                    ?></span></li>
+                <!--<li><i class="bi bi-chevron-right"></i> <strong>Research Interest:</strong> <span>
+                    ?></span></li>-->
                 <li><i class="bi bi-chevron-right"></i> <strong>Specialisation:</strong> <span><?php 
                     printf("%s", $data["text_val"]);
                     ?></span></li>
                 <li><i class="bi bi-chevron-right"></i> <strong>Experience:</strong> <span><?php 
-                    printf("%s", $data[""]);
+                    printf("%s", $exp);
                     ?></span></li>
               </ul>
             </div>
@@ -355,10 +361,10 @@ include("conn.php")
                   <tbody>
                   <?php
 //$dbcon - database connection
-$sql = " SELECT IFNULL (CONCAT(pm.authors,', ',pm.paper_title,', ',pm.transaction_title,',',pt.ptype,',',IF(pm.volume IS NOT NULL,'Vol:',''),IFNULL(pm.volume,''),IF(pm.volume IS NOT NULL,', ',''),IF(pm.issue IS NOT NULL,'Issue:',''),IFNULL(pm.issue,''),IF(pm.issue IS NOT NULL,',',''),IFNULL(pm.issn_no,''),IF(pm.issn_no IS NOT NULL,',',''),MONTHNAME(STR_TO_DATE(pm.month,'%m')),IF(pm.month IS NOT NULL,',',''),pm.year),'') details  
-        FROM documentation.`publication_master` pm 
-        INNER JOIN documentation.`publication_type` pt ON pt.`pt_id`=pm.`pt_id` AND pm.record_status > 0  
-        INNER JOIN documentation.`publication_ss_mapping` pssm ON pssm.`publication_id`=pm.`publication_id` AND pssm.staff_id=".$_GET['staff_id'];
+$sql = " SELECT IFNULL (CONCAT(IFNULL(pm.authors,''),', ',IFNULL(pm.paper_title,''),', ',IFNULL(pm.transaction_title,''),',',IFNULL(pt.ptype,''),',',IF(pm.volume IS NOT NULL,'Vol:',''),IFNULL(pm.volume,''),IF(pm.volume IS NOT NULL,', ',''),IF(pm.issue IS NOT NULL,'Issue:',''),IFNULL(pm.issue,''),IF(pm.issue IS NOT NULL,',',''),IFNULL(pm.issn_no,''),IF(pm.issn_no IS NOT NULL,',',''),IFNULL(MONTHNAME(STR_TO_DATE(pm.month,'%m')),''),IF(pm.month IS NOT NULL,',',''),pm.year),'') details , pm.`paper_title` 
+FROM documentation.publication_master pm 
+INNER JOIN documentation.publication_type pt ON pt.pt_id=pm.pt_id AND pm.record_status > 0  
+INNER JOIN documentation.publication_ss_mapping pssm ON pssm.publication_id=pm.publication_id AND pssm.staff_id=".$_GET['staff_id'];
 
 $result = mysqli_query($dbcon, $sql);
 
@@ -399,12 +405,12 @@ if (mysqli_num_rows($result) > 0) {
 //$dbcon - database connection
 $sql = "SELECT 
 CONCAT(
-    cws.authors, ', ', 
-    cws.paper_title, ', ', 
-    cpt.cws_ptype, ', ', 
-    cws.event_name, ', ', 
-    cws.event_location, ', ', 
-    MONTHNAME(cws.dop), '-', YEAR(cws.dop)
+    ifnull(cws.authors,''), ', ', 
+    ifnull(cws.paper_title,''), ', ', 
+    ifnull(cpt.cws_ptype,''), ', ', 
+    ifnull(cws.event_name,''), ', ', 
+    ifnull(cws.event_location,''), ', ', 
+    ifnull(MONTHNAME(cws.dop),''), '-', ifnull(YEAR(cws.dop),'')
 ) AS details 
 FROM 
 documentation.cws_publication_master cws 
@@ -461,9 +467,9 @@ if (mysqli_num_rows($result) > 0) {
         <?php
 //$dbcon - database connection
 $sql = "SELECT 
-pm.patent_title, 
-pm.filing_date, 
-ps.patent_status 
+ifnull(pm.patent_title,'') patent_title, 
+ifnull(pm.filing_date,'') filing_date, 
+ifnull(ps.patent_status,'') patent_status
 FROM 
 documentation.patent_master pm 
 INNER JOIN 

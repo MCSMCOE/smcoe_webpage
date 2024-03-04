@@ -436,15 +436,17 @@ include("conn.php")
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingOne">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                    <strong>Communication Systems</strong>
+                    <strong>Engineering Practices Laboratory</strong>
                     </button>
                     </h2>
                     <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    <strong>Experiments</strong> 
-                    <li>To visualize the effects of sampling and TDM</li>
-                    <li>To Implement AM & FM modulation and demodulation</li>
-                    <li>To implement PCM & DM, To implement FSK, PSK and DPSK schemes</li>
+                    <p class="fst-italic">This laboratory is to train the students in the basic engineering practices in the field of civil, mechanical, electrical and electronics engineering. All the first year engineering students will be taking this laboratory course in their second semester of the program.</p>
+      
+                    <strong>Facilities for Civil Engineering Practices</strong> 
+                    <li>Assorted components for plumbing consisting of metallic pipes, plastic pipes, flexible pipes, couplings, unions, elbows, plugs and other fittings. 15 Sets.</li>
+                    <li>Carpentry vice (fitted to work bench) 15 Nos.</li>
+                    <li>Standard woodworking tools 15 Sets.</li>
                     <li>To implement Equalization algorithms</li>
                     <li>To implement Error control coding schemes</li>
                     <strong>Equipments</strong> 

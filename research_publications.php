@@ -214,10 +214,10 @@ include("conn.php")
                 <tbody>
                   <?php
 //$dbcon - database connection
-$sql = "SELECT IFNULL (CONCAT(pm.authors,', ',pm.paper_title,', ',pm.transaction_title,',',pt.ptype,',',IF(pm.volume IS NOT NULL,'Vol:',''),IFNULL(pm.volume,''),IF(pm.volume IS NOT NULL,', ',''),IF(pm.issue IS NOT NULL,'Issue:',''),IFNULL(pm.issue,''),IF(pm.issue IS NOT NULL,',',''),IFNULL(pm.issn_no,''),IF(pm.issn_no IS NOT NULL,',',''),MONTHNAME(STR_TO_DATE(pm.month,'%m')),IF(pm.month IS NOT NULL,',',''),pm.year),'') details  
-        FROM documentation.`publication_master` pm 
-        INNER JOIN documentation.`publication_type` pt ON pt.`pt_id`=pm.`pt_id` AND pm.record_status > 0  
-        INNER JOIN documentation.`publication_ss_mapping` pssm ON pssm.`publication_id`=pm.`publication_id`";
+$sql = "SELECT distinct IFNULL (CONCAT(IFNULL(pm.authors,''),', ',IFNULL(pm.paper_title,''),', ',IFNULL(pm.transaction_title,''),',',IFNULL(pt.ptype,''),',',IF(pm.volume IS NOT NULL,'Vol:',''),IFNULL(pm.volume,''),IF(pm.volume IS NOT NULL,', ',''),IF(pm.issue IS NOT NULL,'Issue:',''),IFNULL(pm.issue,''),IF(pm.issue IS NOT NULL,',',''),IFNULL(pm.issn_no,''),IF(pm.issn_no IS NOT NULL,',',''),IFNULL(MONTHNAME(STR_TO_DATE(pm.month,'%m')),''),IF(pm.month IS NOT NULL,',',''),pm.year),'') details , pm.`paper_title` 
+FROM documentation.publication_master pm 
+INNER JOIN documentation.publication_type pt ON pt.pt_id=pm.pt_id AND pm.record_status > 0  
+INNER JOIN documentation.publication_ss_mapping pssm ON pssm.publication_id=pm.publication_id";
 
 $result = mysqli_query($dbcon, $sql);
 
@@ -299,14 +299,14 @@ if (mysqli_num_rows($result) > 0) {
         <tbody>
         <?php
 //$dbcon - database connection
-$sql = "SELECT 
+$sql = "SELECT distinct
 CONCAT(
-    cws.authors, ', ', 
-    cws.paper_title, ', ', 
-    cpt.cws_ptype, ', ', 
-    cws.event_name, ', ', 
-    cws.event_location, ', ', 
-    MONTHNAME(cws.dop), '-', YEAR(cws.dop)
+    ifnull(cws.authors,''), ', ', 
+    ifnull(cws.paper_title,''), ', ', 
+    ifnull(cpt.cws_ptype,''), ', ', 
+    ifnull(cws.event_name,''), ', ', 
+    ifnull(cws.event_location,''), ', ', 
+    ifnull(MONTHNAME(cws.dop),''), '-', ifnull(YEAR(cws.dop),'')
 ) AS details 
 FROM 
 documentation.cws_publication_master cws 
@@ -316,6 +316,7 @@ ON cpssm.cws_publication_id = cws.cws_publication_id
 INNER JOIN 
 documentation.cws_publication_type cpt 
 ON cpt.cws_pt_id = cws.cws_pt_id AND cws.record_status>0 " ;
+
 
 $result = mysqli_query($dbcon, $sql);
 
@@ -400,7 +401,18 @@ if (mysqli_num_rows($result) > 0) {
         <tbody>
         <?php
 //$dbcon - database connection
-$sql = "SELECT pm.`patent_title`,pm.`filing_date`,ps.`patent_status` FROM documentation.`patent_master` pm INNER JOIN documentation.`patent_ss_mapping` psm ON psm.`patent_id`=pm.`patent_id` INNER JOIN documentation.`patent_status` ps ON ps.`ps_id`=pm.`ps_id`";
+$sql = "SELECT distinct
+ifnull(pm.patent_title,'') patent_title, 
+ifnull(pm.filing_date,'') filing_date, 
+ifnull(ps.patent_status,'') patent_status
+FROM 
+documentation.patent_master pm 
+INNER JOIN 
+documentation.patent_ss_mapping psm 
+ON psm.patent_id = pm.patent_id 
+INNER JOIN 
+documentation.patent_status ps 
+ON ps.ps_id = pm.ps_id";
 
 $result = mysqli_query($dbcon, $sql);
 
