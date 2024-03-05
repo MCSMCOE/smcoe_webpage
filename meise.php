@@ -200,7 +200,7 @@ include("conn.php")
             <p><a href="faculty.php?staff_id=1079"
                     <?php 
                     printf("%s", $data["first_name"]);
-                    ?>">Dr.Michael Raj</a></p>
+                    ?>">Dr.F.Michael Raj</a></p>
           </div>
 
           <div class="course-info d-flex justify-content-between align-items-center">
@@ -210,7 +210,7 @@ include("conn.php")
 
           <div class="course-info d-flex justify-content-between align-items-center">
             <h5>Budding Safety Officers</h5>
-            <p>15</p>
+            <p>19</p>
           </div>
 
           <div class="course-info d-flex justify-content-between align-items-center">
@@ -281,13 +281,13 @@ include("conn.php")
         <div class="col-lg-9 mt-4 mt-lg-0">
           <div class="tab-content">
             <div class="tab-pane active show" id="tab-1">
-              <div class="row">
+              <div class="row justify-content-center">
                 <div class="col-lg-8 details order-2 order-lg-1">
                   <!-- ======= Services Section ======= -->
     <section id="services" class="services">
         <div class="container">
-          <div class="row">
-            <div class="col-md-6 col-lg-10 d-flex align-items-stretch mb-5 mb-lg-0">
+          <div class="row justify-content-center">
+            <div class="col-md-6 col-lg-12">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                 <div class="icon"><i class="bx bxl-dribbble"></i></div>
                 <h4 class="title"><a href="">VISION</a></h4>
@@ -295,7 +295,7 @@ include("conn.php")
               </div>
             </div>
   
-            <div class="col-md-6 col-lg-10 d-flex align-items-stretch mb-5 mb-lg-0">
+            <div class="col-md-6 col-lg-12">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                 <div class="icon"><i class="bx bx-file"></i></div>
                 <h4 class="title"><a href="">MISSION</a></h4>

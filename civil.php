@@ -291,7 +291,7 @@ include("conn.php")
           <div class="tab-content">
             <div class="tab-pane active show" id="tab-1">
               <div class="row">
-                <div class="col-md-6 col-lg-12 ">
+                <div class="col-md-6 col-lg-12">
                   <!-- ======= Services Section ======= -->
     <section id="services" class="services">
         <div class="container">
@@ -441,7 +441,10 @@ include("conn.php")
                   <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
                     <p class="fst-italic text-justify">This laboratory offers students an in-depth understanding of survey field techniques, allowing them to proficiently utilize advanced instruments for precision in measurements. Students will develop practical expertise in land surveys, levelling, and contour mapping. The course is structured to instill a comprehensive grasp of surveying principles, equipping students with the skills essential for practical applications in civil engineering and land development projects.</p>
-                    </div>
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CIVIL/lab/civillab1.png" alt="" class="img-fluid">
+                    </div> 
+                  </div>
                   </div>
                 </div>
                 <div class="accordion-item">
@@ -453,7 +456,9 @@ include("conn.php")
                   <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
                     <p class="fst-italic">This laboratory encompasses a series of experiments dedicated to characterizing water and municipal sewage. Upon completing the course, students are anticipated to have gained proficiency in quantifying quality parameters associated with water and sewage. The experiments provided in the laboratory enhances their practical understanding of water and wastewater analysis techniques.</p>
-      
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CIVIL/lab/civillab6.png" alt="" class="img-fluid">
+                    </div>
                     </div>
                   </div>
                 </div>
@@ -466,7 +471,10 @@ include("conn.php")
                   <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
                     <p class="fst-italic">This laboratory focuses on developing students' skills in testing a variety of construction materials. Students will gain practical experience in conducting tests to assess the properties and characteristics of construction materials. The course aims to enhance their proficiency in material testing techniques and equip them with the knowledge necessary for quality assessment in construction projects. The ultimate goal is to prepare students for real-world applications in the field of materials engineering.</li>
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CIVIL/lab/civillab5.png" alt="" class="img-fluid">
                     </div>
+                  </div>
                   </div>
                 </div>
                 <div class="accordion-item">
@@ -478,7 +486,9 @@ include("conn.php")
                   <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
                     <p class="fst-italic">This laboratory is designed to cultivate skills in testing soils for their index and engineering properties, facilitating the characterization of soil based on these key attributes. Through experimentation, students will gain practical experience in soil testing techniques, aiming to foster a comprehensive understanding of soil behavior and properties. The ultimate goal is to equip students with the expertise needed for effective soil characterization in civil engineering applications.</p>
-                    
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/mech/lab/mechlab5.jpg" alt="" class="img-fluid">
+                    </div>
                     </div>
                   </div>
                 </div>
@@ -491,7 +501,9 @@ include("conn.php")
                   <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
                     <p class="fst-italic">This laboratory aims to familiarize students with the principles and procedures involved in testing materials utilized in highway construction. Through practical experiments, students will gain hands-on experience in assessing the properties and performance characteristics of materials crucial for highway engineering. The course objective is to equip students with the knowledge and skills necessary for quality control in highway construction projects.</p>
-                    
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/CIVIL/lab/civillab1.png" alt="" class="img-fluid">
+                    </div>
                     </div>
                   </div>
                 </div>
@@ -504,7 +516,9 @@ include("conn.php")
                   <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
                     <p class="fst-italic">This laboratory aims to impart knowledge and skills related to building drawing and detailing using computer software. Students will engage in hands-on activities to enhance their proficiency in creating detailed building drawings. The course objective is to equip students with practical skills in utilizing computer software for Structural design and detailing, preparing them for real-world applications in the field of building construction.</p>
-                    
+                    <div class="col-md-6 col-lg-12">
+                    <img src="https://webdocs.pages.dev/assets/img/mech/lab/mechlab4.jpg" alt="" class="img-fluid">
+                    </div>
                     </div>
                   </div>
                 </div>
@@ -753,16 +767,35 @@ include("conn.php")
                             <h2>Outcome</h2>
                             <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
                           </div>
-              <div class="col-md-7 col-lg-5">
+              <div class="col-md-6 col-lg-12">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-journal-richtext"></i></div>
                   <h4 class="title"><a href="">Programme Outcomes</a></h4>
+                <li class="text-justify"><strong>Engineering knowledge:</strong> Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.</li>
+                <li class="text-justify"><strong>Problem analysis:</strong> Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of Mathematics, natural sciences, and engineering sciences.</li>
+                <li class="text-justify"><strong>Design/development of solutions:</strong> Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal and environmental considerations.</li>
+                <li class="text-justify"><strong>Conduct investigations of complex problems:</strong>Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data and synthesis of the information to provide valid conclusions.</li>
+                <li class="text-justify"><strong>Modern tool usage:</strong>Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.</li>
+                <li class="text-justify"><strong>The engineer and society:</strong>Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.</li>
+                <li class="text-justify"><strong>Environment and sustainability:</strong>Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.</li>
+                <li class="text-justify"><strong>Ethics:</strong>Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.</li>
+                <li class="text-justify"><strong>Individual and team work:</strong>Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.</li>
+                <li class="text-justify"><strong>Communication:</strong>Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.</li>
+                <li class="text-justify"><strong>Project management and finance:</strong>Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.</li>
+                <li class="text-justify"><strong>Life-long Learning:</strong>Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change</li>
+                
                   </div>
               </div>
-              <div class="col-md-7 col-lg-5">
+              <ol></ol>
+              <div class="col-md-6 col-lg-12">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-journal-richtext"></i></div>
                   <h4 class="title"><a href="">Program Specfic Outcomes</a></h4>
+                  <p class="fst-italic">On successful completion of the Civil Engineering Degree programme, the Graduates shall exhibit the following:</p>
+                  <li class="text-justify"><strong>PSO1 Knowledge of Civil Engineering discipline:</strong> Demonstrate in-depth knowledge of Civil Engineering discipline, with an ability to evaluate, analyze and synthesize existing and new knowledge.</li>
+                  <li class="text-justify"><strong>PSO2 Critical analysis of Civil Engineering problems and innovation:</strong> Critically analyze complex Civil Engineering problems, apply independent judgment for synthesizing information and make innovative advances in a theoretical, practical and policy context.</li>
+                  <li class="text-justify"><strong>PSO3 Conceptualization and evaluation of engineering solutions to Civil Engineering:</strong> Issues Conceptualize and solve Civil Engineering problems, evaluate potential solutions and arrive at technically feasible, economically viable and environmentally sound solutions with due consideration of health, safety, and socio cultural factors. </li>
+                
                   </div>
                 </div>
             </div>
@@ -852,7 +885,7 @@ include("conn.php")
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2018-19 EVEN</a></h4>
+                  <h4 class="title"><a href="">2018-19 ODD</a></h4>
                 </div>
               </div>
             </div>
