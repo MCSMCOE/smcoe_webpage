@@ -764,9 +764,8 @@ include("conn.php")
           <div class="container">
             <div class="row justify-content-center">
             <div class="section-title" data-aos="fade-up">
-                            <h2>Outcome</h2>
-                            <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
-                          </div>
+            <h2>Outcome</h2>
+            </div>
               <div class="col-md-6 col-lg-12">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-journal-richtext"></i></div>

@@ -287,13 +287,13 @@ include("conn.php")
         <div class="col-lg-9 mt-4 mt-lg-0">
           <div class="tab-content">
             <div class="tab-pane active show" id="tab-1">
-              <div class="row">
-                <div class="col-lg-8 details order-2 order-lg-1">
+              <div class="row justify-content-center">
+                <div class="col-md-6 col-lg-12">
                   <!-- ======= Services Section ======= -->
     <section id="services" class="services">
         <div class="container">
-          <div class="row">
-            <div class="col-md-6 col-lg-10 d-flex align-items-stretch mb-5 mb-lg-0">
+        <div class="row justify-content-center">
+            <div class="col-md-6 col-lg-12 ">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                 <div class="icon"><i class="bx bxl-dribbble"></i></div>
                 <h4 class="title"><a href="">VISION</a></h4>
@@ -305,8 +305,8 @@ include("conn.php")
                           <li>Offer collaborative industry program in the emerging areas and spirit of enterprise.</li>
               </div>
             </div>
-  
-            <div class="col-md-6 col-lg-10 d-flex align-items-stretch mb-5 mb-lg-0">
+  <ol></ol>
+            <div class="col-md-6 col-lg-12 ">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                 <div class="icon"><i class="bx bx-file"></i></div>
                 <h4 class="title"><a href="">MISSION</a></h4>
@@ -441,24 +441,27 @@ include("conn.php")
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingOne">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                    <strong>Communication Systems</strong>
+                    <strong>PHYSICS LABORATORY</strong>
                     </button>
                     </h2>
                     <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
                     <strong>Experiments</strong> 
-                    <li>To visualize the effects of sampling and TDM</li>
-                    <li>To Implement AM & FM modulation and demodulation</li>
-                    <li>To implement PCM & DM, To implement FSK, PSK and DPSK schemes</li>
-                    <li>To implement Equalization algorithms</li>
-                    <li>To implement Error control coding schemes</li>
-                    <strong>Equipments</strong> 
-                    <li>AM & FM modulation and demodulation Kit</li>
-                    <li>Time Division Multiplexing Kit</li>
-                    <li>Pulse Code Modulation & Delta Modulation Kit</li>
-                    <li>Frequency Shift Keying, Phase Shift keying Kit</li>
-                    <li>Frequency Division Multiplexing Kit</li>
-                    <li>Sampling Kit</li>
+                    <li>Torsional pendulum - Determination of rigidity modulus of wire and moment of inertia of regular and irregular objects.</li>
+                    <li>Simple harmonic oscillations of cantilever.</li>
+                    <li>Non-uniform bending - Determination of Young’s modulus</li>
+                    <li>Uniform bending – Determination of Young’s modulus</li>
+                    <li>Laser- Determination of the wavelength of the laser using grating</li>
+                    <li>Air wedge - Determination of thickness of a thin sheet/wire</li>
+                    <li>Optical fibre -Determination of Numerical Aperture and acceptance angle</li>
+                    <li>Compact disc- Determination of width of the groove using laser.</li>
+                    <li>Acoustic grating- Determination of velocity of ultrasonic waves in liquids.</li>
+                    <li>Ultrasonic interferometer – Determination of the velocity of sound and compressibility of liquids</li>
+                    <li>Post office box -Determination of Band gap of a semiconductor.</li>
+                    <li>Photoelectric effect</li>
+                    <li>Michelson Interferometer.</li>
+                    <li>Melde’s string experiment</li>
+                    <li>Experiment with lattice dynamics kit.</li>
                     <div class="col-md-6 col-lg-12">
                     <img src="https://webdocs.pages.dev/assets/img/CSE/lab/CM.png" alt="" class="img-fluid">
                     </div>
@@ -468,22 +471,26 @@ include("conn.php")
               <div class="accordion-item">
                 <h2 class="accordion-header" id="headingTwo">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                    <strong>Linear Integrated Circuits</strong>
+                    <strong>CHEMISTRY LABORATORY</strong>
                     </button>
                     </h2>
                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
                     <strong>Experiments</strong> 
-                    <li>To expose the students to linear and integrated circuits</li>
-                    <li>To understand the basics of linear integrated circuits and available ICs</li>
-                    <li>To understand and apply operational amplifiers in linear and nonlinear applications</li>
-                    <li>To acquire the basic knowledge of special function IC</li>
-                    <li>To use P-SPICE software for circuit design.</li>
-                    <strong>Equipments</strong> 
-                    <li>Function Generator</li>
-                    <li>Cathode Ray Oscilloscope</li>
-                    <li>Digital Storage Oscilloscope</li>
-                    <li>P-SPICE software</li>
+                    <li>Preparation of Na2CO3 as a primary standard and estimation of acidity of a water sample using the primary standard</li>
+                    <li>Determination of types and amount of alkalinity in a water sample. - Split the first experiment into two</li>
+                    <li>Determination of total, temporary & permanent hardness of water by EDTA method.</li>
+                    <li>Determination of DO content of water sample by Winkler’s method.</li>
+                    <li>Determination of chloride content of water sample by Argentometric method.</li>
+                    <li>Estimation of copper content of the given solution by Iodometry.</li>
+                    <li>Estimation of TDS of a water sample by gravimetry.</li>
+                    <li>Determination of strength of given hydrochloric acid using pH meter.</li>
+                    <li>Determination of strength of acids in a mixture of acids using conductivity meter.</li>
+                    <li>Conductometric titration of barium chloride against sodium sulphate (precipitation titration)</li>
+                    <li>Estimation of iron content of the given solution using potentiometer.</li>
+                    <li>Preparation of nanoparticles (TiO2/ZnO/CuO) by Sol-Gel method.</li>
+                    <li>Estimation of Nickel in steel</li>
+                    <li>Proximate analysis of Coal</li>
                     <div class="col-md-6 col-lg-12">
                     <img src="https://webdocs.pages.dev/assets/img/CSE/lab/BD.jpg" alt="" class="img-fluid">
                     </div>
@@ -865,15 +872,10 @@ include("conn.php")
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bx-world"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/civil/syllabus/2021.pdf">Regulation 2021</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/img/sh/syllabus/be2021.pdf">Regulation 2021</a></h4>
                   </div>
               </div>
-              <div class="col-lg-3 col-md-4">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bx-world"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/civil/syllabus/2017.pdf">Regulation 2017</a></h4>
-                  </div>
-                </div>
+              
             </div>
           </div>
         </section><!-- End Services Section --></div>
@@ -890,18 +892,26 @@ include("conn.php")
                             <h2>Outcome</h2>
                             <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
                           </div>
-              <div class="col-md-7 col-lg-5">
+              <div class="col-md-6 col-lg-12">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-journal-richtext"></i></div>
                   <h4 class="title"><a href="">Programme Outcomes</a></h4>
+                  <li class="text-justify"><strong>Engineering knowledge:</strong> Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.</li>
+                <li class="text-justify"><strong>Problem analysis:</strong> Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of Mathematics, natural sciences, and engineering sciences.</li>
+                <li class="text-justify"><strong>Design/development of solutions:</strong> Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal and environmental considerations.</li>
+                <li class="text-justify"><strong>Conduct investigations of complex problems:</strong>Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data and synthesis of the information to provide valid conclusions.</li>
+                <li class="text-justify"><strong>Modern tool usage:</strong>Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.</li>
+                <li class="text-justify"><strong>The engineer and society:</strong>Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.</li>
+                <li class="text-justify"><strong>Environment and sustainability:</strong>Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.</li>
+                <li class="text-justify"><strong>Ethics:</strong>Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.</li>
+                <li class="text-justify"><strong>Individual and team work:</strong>Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.</li>
+                <li class="text-justify"><strong>Communication:</strong>Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.</li>
+                <li class="text-justify"><strong>Project management and finance:</strong>Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.</li>
+                <li class="text-justify"><strong>Life-long Learning:</strong>Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change</li>
+                
                   </div>
               </div>
-              <div class="col-md-7 col-lg-5">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-journal-richtext"></i></div>
-                  <h4 class="title"><a href="">Program Specfic Outcomes</a></h4>
-                  </div>
-                </div>
+              
             </div>
           </div>
         </section><!-- End Services Section --></div>
@@ -921,63 +931,63 @@ include("conn.php")
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2023-24 EVEN</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/sh/acad%20calender/2023-24%20(EVEN).pdf">2023-24 EVEN</a></h4>
                 </div>
                 <ol></ol>
               </div>
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2023-24 ODD</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/sh/acad%20calender/2023-24%20odd.pdf">2023-24 ODD</a></h4>
                 </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2022-23 EVEN</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/sh/acad%20calender/2022-23%20EVEN.pdf">2022-23 EVEN</a></h4>
                 </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2022-23 ODD</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/sh/acad%20calender/2022-23(ODD).pdf">2022-23 ODD</a></h4>
                 </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2021-22 EVEN</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/sh/acad%20calender/2021-22%20Even.pdf">2021-22 EVEN</a></h4>
                 </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2021-22 ODD</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/sh/acad%20calender/2021-22%200dd.pdf">2021-22 ODD</a></h4>
                 </div>
                 <ol></ol>
               </div>
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2020-21 EVEN</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/sh/acad%20calender/2020-21%20(EVEN).pdf">2020-21 EVEN</a></h4>
                 </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2020-21 ODD</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/sh/acad%20calender/2020-21%20(ODD).pdf">2020-21 ODD</a></h4>
                 </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2019-20 EVEN</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/sh/acad%20calender/2019-20%20(EVEN).pdf">2019-20 EVEN</a></h4>
                 </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2019-20 ODD</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/sh/acad%20calender/2019-20%20(ODD).pdf">2019-20 ODD</a></h4>
                 </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
@@ -989,7 +999,7 @@ include("conn.php")
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2018-19 EVEN</a></h4>
+                  <h4 class="title"><a href="">2018-19 ODD</a></h4>
                 </div>
               </div>
             </div>

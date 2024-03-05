@@ -280,12 +280,12 @@ The faculty members impart knowledge through curriculum based formal education a
           <div class="tab-content">
             <div class="tab-pane active show" id="tab-1">
               <div class="row">
-                <div class="col-lg-8 details order-2 order-lg-1">
+                <div class="col-md-6 col-lg-12 ">
                   <!-- ======= Services Section ======= -->
     <section id="services" class="services">
         <div class="container">
-          <div class="row">
-            <div class="col-md-6 col-lg-10 d-flex align-items-stretch mb-5 mb-lg-0">
+        <div class="row justify-content-center">
+            <div class="col-md-6 col-lg-12 ">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                 <div class="icon"><i class="bx bxl-dribbble"></i></div>
                 <h4 class="title"><a href="">VISION</a></h4>
@@ -293,7 +293,7 @@ The faculty members impart knowledge through curriculum based formal education a
               </div>
             </div>
   
-            <div class="col-md-6 col-lg-10 d-flex align-items-stretch mb-5 mb-lg-0">
+            <div class="col-md-6 col-lg-12 ">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                 <div class="icon"><i class="bx bx-file"></i></div>
                 <h4 class="title"><a href="">MISSION</a></h4>
