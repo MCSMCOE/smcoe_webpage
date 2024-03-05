@@ -441,42 +441,66 @@ include("conn.php")
                     </h2>
                     <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    <p class="fst-italic">This laboratory is to train the students in the basic engineering practices in the field of civil, mechanical, electrical and electronics engineering. All the first year engineering students will be taking this laboratory course in their second semester of the program.</p>
-      
-                    <strong>Facilities for Civil Engineering Practices</strong> 
-                    <li>Assorted components for plumbing consisting of metallic pipes, plastic pipes, flexible pipes, couplings, unions, elbows, plugs and other fittings. 15 Sets.</li>
-                    <li>Carpentry vice (fitted to work bench) 15 Nos.</li>
-                    <li>Standard woodworking tools 15 Sets.</li>
-                    <li>Models of industrial trusses, door joints, furniture joints 5 each</li>
-                    <li>Rotary Hammer 2 Nos</li>
-                    <li>Demolition Hammer 2 Nos</li>
-                    <li>Circular Saw 2 Nos</li>
-                    <li>Planer 2 Nos</li>
-                    <li>Hand Drilling Machine 2 Nos</li>
-                    <li>Jigsaw 2 Nos</li>
-                    <strong>Facilities for Mechanical Engineering Practices</strong> 
-                    <li>Arc welding transformer with cables and holders 5 Nos.</li>
-                    <li>Welding booth with exhaust facility 5 Nos.</li>
-                    <li>Welding accessories like welding shield, chipping hammer, wire brush, etc. 5 Sets.</li>
-                    <li>Oxygen and acetylene gas cylinders, blow pipe and other welding outfit. 2 Nos. 34</li>
-                    <li>Centre lathe 2 Nos.</li>
-                    <li>Hearth furnace, anvil and smithy tools 2 Sets.</li>
-                    <li>Moulding table, foundry tools 2 Sets.</li>
-                    <li>Power Tool: Angle Grinder 2 Nos</li>
-                    <li>Study-purpose items: centrifugal pump, air-conditioner One each.</li>
-                    <strong>Facilities for Electrical Engineering Practices</strong> 
-                    <li>Assorted electrical components for house wiring 15 Sets</li>
-                    <li>Electrical measuring instruments 10 Sets</li>
-                    <li>Study purpose items: Iron box, fan and regulator, emergency lamp 1 each</li>
-                    <li>Megger (250V/500V) 1 No.</li>
-                    <li>Range Finder 2 Nos</li>
-                    <li>Digital Live-wire detector 2 Nos</li>
-                    <strong>Facilities for Electronics Engineering Practices</strong> 
-                    <li>Soldering guns 10 Nos.</li>
-                    <li>Assorted electronic components for making circuits 50 Nos.</li>
-                    <li>Small PCBs 10 Nos.</li>
-                    <li>Multimeters 10 Nos.</li>
-                    <li>Study purpose items: Telephone, FM radio, low-voltage power</li>
+                    <strong>Civil Engineering Practices</strong> 
+                    <ol></ol>
+                    <p class="fst-italic">Plumbing Work</p>
+                    <li>Plumbing Work</li>
+                    <li>Plumbing Work</li>
+                    <ol></ol>
+                    <p class="fst-italic">Wood Work</p>
+                    <li>Tri Square</li>
+                    <li>Hand Saw</li>
+                    <li>Carpentry bench wise</li>
+                    <li>Firmer Chisel</li>
+                    <li>Motrin Chisel</li>
+                    <li>Iron Jack</li>
+                    <li>Mallet</li>
+                    <li>Bench hold fastens</li>
+                    <li>Wooden Bench Hook</li>
+                    <li>Wood Cutting Machine</li>
+                    <ol></ol>
+                    <strong>Mechanical Engineering Practices</strong> 
+                    <p class="fst-italic">Welding Work</p>
+                    <li>Arc welding unit</li>
+                    <li>Gas welding unit</li>
+                    <ol></ol>
+                    <p class="fst-italic">Basic Machining Work</p>
+                    <li>Lathe Machines</li>
+                    <li>Drilling Machines</li>
+                    <ol></ol>
+                    <p class="fst-italic">Assembly Work</p>
+                    <li>Centrifugal pump</li>
+                    <li>Air-conditioner unit</li>
+                    <li>Household mixer</li>
+                    <ol></ol>
+                    <p class="fst-italic">Sheet Metal Work</p>
+                    <li>Steel rule</li>
+                    <li>Bend snips</li>
+                    <li>Straight snips</li>
+                    <li>Scriber</li>
+                    <li>Divider</li>
+                    <li>Trammel</li>
+                    <li>Prick Punches</li>
+                    <li>Centre punches</li>
+                    <li>Pliers</li>
+                    <li>Ball pean hammer</li>
+                    <li>Raising hammer</li>
+                    <li>Riverting hammer</li>
+                    <li>Square free hammer</li>
+                    <li>Anvil</li>
+                    <li>Swage block</li>
+                    <li>Wige gauges</li>
+                    <ol></ol>
+                    <p class="fst-italic">Foundry Work</p>
+                    <li>Cope and Drag Box</li>
+                    <li>Pattern</li>
+                    <li>Solid pattern</li>
+                    <li>Split pattern</li>
+                    <li>Runner</li>
+                    <li>Riser</li>
+                    <li>Sprue</li>
+                    <li>Sand reamer</li>
+                    <li>Trowel</li>
                     <div class="col-md-6 col-lg-12">
                     <img src="https://webdocs.pages.dev/assets/img/mech/lab/mechlab1.jpg" alt="" class="img-fluid">
                     </div>
@@ -936,13 +960,13 @@ include("conn.php")
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bx-world"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/civil/syllabus/2021.pdf">Regulation 2021</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/mech/syllabus/2021.pdf">Regulation 2021</a></h4>
                   </div>
               </div>
               <div class="col-lg-3 col-md-4">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bx-world"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/civil/syllabus/2017.pdf">Regulation 2017</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/mech/syllabus/2017.pdf">Regulation 2017</a></h4>
                   </div>
                 </div>
             </div>
@@ -961,16 +985,35 @@ include("conn.php")
                             <h2>Outcome</h2>
                             <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
                           </div>
-              <div class="col-md-7 col-lg-5">
+              <div class="col-md-6 col-lg-12">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-journal-richtext"></i></div>
                   <h4 class="title"><a href="">Programme Outcomes</a></h4>
+                  <li class="text-justify"><strong>Engineering knowledge:</strong> Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.</li>
+                <li class="text-justify"><strong>Problem analysis:</strong> Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of Mathematics, natural sciences, and engineering sciences.</li>
+                <li class="text-justify"><strong>Design/development of solutions:</strong> Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal and environmental considerations.</li>
+                <li class="text-justify"><strong>Conduct investigations of complex problems:</strong>Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data and synthesis of the information to provide valid conclusions.</li>
+                <li class="text-justify"><strong>Modern tool usage:</strong>Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.</li>
+                <li class="text-justify"><strong>The engineer and society:</strong>Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.</li>
+                <li class="text-justify"><strong>Environment and sustainability:</strong>Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.</li>
+                <li class="text-justify"><strong>Ethics:</strong>Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.</li>
+                <li class="text-justify"><strong>Individual and team work:</strong>Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.</li>
+                <li class="text-justify"><strong>Communication:</strong>Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.</li>
+                <li class="text-justify"><strong>Project management and finance:</strong>Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.</li>
+                <li class="text-justify"><strong>Life-long Learning:</strong>Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change</li>
+                
                   </div>
               </div>
-              <div class="col-md-7 col-lg-5">
+              <ol></ol>
+              <div class="col-md-6 col-lg-12">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-journal-richtext"></i></div>
                   <h4 class="title"><a href="">Program Specfic Outcomes</a></h4>
+                  <p class="fst-italic">On successful completion of the Mechanical Engineering Degree programme, the Graduates shall exhibit the following:</p>
+                  <li class="text-justify"><strong>PSO1 :</strong> Apply the knowledge gained in Mechanical Engineering for design and development and manufacture of engineering systems.</li>
+                  <li class="text-justify"><strong>PSO2 :</strong> Apply the knowledge acquired to investigate research-oriented problems in mechanical engineering with due consideration for environmental and social impacts.</li>
+                  <li class="text-justify"><strong>PSO3 :</strong> Use the engineering analysis and data management tools for effective management of multidisciplinary projects. </li>
+                
                   </div>
                 </div>
             </div>
