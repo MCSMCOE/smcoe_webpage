@@ -860,15 +860,9 @@ The faculty members are highly motivated and devoted in delivering the high qual
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bx-world"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/civil/syllabus/2021.pdf">Regulation 2021</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/AIDS/B.Tech.AIDS.pdf">Regulation 2021</a></h4>
                   </div>
               </div>
-              <div class="col-lg-3 col-md-4">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bx-world"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/civil/syllabus/2017.pdf">Regulation 2017</a></h4>
-                  </div>
-                </div>
             </div>
           </div>
         </section><!-- End Services Section --></div>
@@ -878,33 +872,52 @@ The faculty members are highly motivated and devoted in delivering the high qual
               <div class="row row justify-content-center">
                   <div class="">
                     <!-- ======= Services Section ======= -->
-      <section id="services" class="services">
+                    <section id="services" class="services">
           <div class="container">
             <div class="row justify-content-center">
             <div class="section-title" data-aos="fade-up">
                             <h2>Outcome</h2>
                             <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
                           </div>
-              <div class="col-md-7 col-lg-5">
+                          <div class="col-md-6 col-lg-12">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-journal-richtext"></i></div>
                   <h4 class="title"><a href="">Programme Outcomes</a></h4>
+                <li class="text-justify"><strong>Engineering knowledge:</strong> Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.</li>
+                <li class="text-justify"><strong>Problem analysis:</strong> Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of Mathematics, natural sciences, and engineering sciences.</li>
+                <li class="text-justify"><strong>Design/development of solutions:</strong> Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal and environmental considerations.</li>
+                <li class="text-justify"><strong>Conduct investigations of complex problems:</strong>Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data and synthesis of the information to provide valid conclusions.</li>
+                <li class="text-justify"><strong>Modern tool usage:</strong>Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.</li>
+                <li class="text-justify"><strong>The engineer and society:</strong>Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.</li>
+                <li class="text-justify"><strong>Environment and sustainability:</strong>Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.</li>
+                <li class="text-justify"><strong>Ethics:</strong>Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.</li>
+                <li class="text-justify"><strong>Individual and team work:</strong>Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.</li>
+                <li class="text-justify"><strong>Communication:</strong>Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.</li>
+                <li class="text-justify"><strong>Project management and finance:</strong>Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.</li>
+                <li class="text-justify"><strong>Life-long Learning:</strong>Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change</li>
                   </div>
               </div>
-              <div class="col-md-7 col-lg-5">
+              <ol></ol>
+              <div class="col-md-6 col-lg-12">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-journal-richtext"></i></div>
                   <h4 class="title"><a href="">Program Specfic Outcomes</a></h4>
+                  <p class="fst-italic">On successful completion of the Artificial intelligence and Data Science Degree programme, the Graduates shall exhibit the following:</p>
+                  <li class="text-justify"><strong>PSO1 :</strong> Evolve AI based efficient domain specific processes for effective decision making in several domains such as business and governance domains.</li>
+                  <li class="text-justify"><strong>PSO2 :</strong> Arrive at actionable Foresight, Insight, hindsight from data for solving business and engineering problems</li>
+                  <li class="text-justify"><strong>PSO3 :</strong> Create, select and apply the theoretical knowledge of AI and Data Analytics along with practical industrial tools and techniques to manage and solve wicked societal problems</li>
+                  <li class="text-justify"><strong>PSO4 :</strong> Develop data analytics and data visualization skills, skills pertaining to knowledge acquisition, knowledge representation and knowledge engineering, and hence be capable of coordinating complex projects.</li>
+                  <li class="text-justify"><strong>PSO5 :</strong> Able to carry out fundamental research to cater the critical needs of the society through cutting edge technologies of AI.</li>
                   </div>
                 </div>
             </div>
           </div>
         </section><!-- End Services Section --></div>
                 </div>
-              </div>
-              <div class="tab-pane" id="tab-8">
+                </div>
+                <div class="tab-pane" id="tab-8">
                 <div class="row">
-                  <div class="">
+                <div class="">
                     <!-- ======= Services Section ======= -->
       <section id="services" class="services">
           <div class="container">

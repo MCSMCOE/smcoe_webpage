@@ -18,14 +18,14 @@ include("conn.php")
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
- <!-- Vendor CSS Files -->
- <link href="https://webdocs.pages.dev/assets/vendor/aos/aos.css" rel="stylesheet">
+  <!-- Vendor CSS Files -->
+  <link href="https://webdocs.pages.dev/assets/vendor/aos/aos.css" rel="stylesheet">
   <link href="https://webdocs.pages.dev/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://webdocs.pages.dev/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
   <link href="https://webdocs.pages.dev/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
   <link href="https://webdocs.pages.dev/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
   <link href="https://webdocs.pages.dev/assets/vendor/remixicon/remixicon.css" rel="stylesheet">
-  <link href="https://webdocs.pages.dev/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">  
+  <link href="https://webdocs.pages.dev/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
   <link href="https://webdocs.pages.dev/assets/css/style.css" rel="stylesheet">
@@ -179,7 +179,7 @@ include("conn.php")
 <div class="breadcrumbs" data-aos="fade-in">
     <div class="container">
       <h2>M.E Computer Science and Engineering</h2>
-      <p>Department focuses on the study and application of computing technologies, algorithms, and software systems to solve complex problems and drive technological innovation. </p>
+      <p class="text-justify">Department focuses on the study and application of computing technologies, algorithms, and software systems to solve complex problems and drive technological innovation. </p>
     </div>
   </div><!-- End Breadcrumbs -->
 
@@ -189,8 +189,8 @@ include("conn.php")
 
       <div class="row">
         <div class="col-lg-8">
-          <img src="assets/img/cse.jpg" class="img-fluid" alt="">
-          
+          <img src="https://webdocs.pages.dev/assets/img/CSE/cse.jpg" class="img-fluid" alt="">
+         
         </div>
         <div class="col-lg-4">
 
@@ -214,18 +214,19 @@ include("conn.php")
 
           <div class="course-info d-flex justify-content-between align-items-center">
             <h5>Proud Alumni</h5>
-            <p>24</p>
+            <p>25</p>
           </div>
 
+          
         </div>
         <h3> Overview</h3>
-          <p>
-            The Department of Computer Science and Engineering was started in the year 2013. The strengths of the department include its high faculty-to-student ratio, state of the art facilities, renowned faculty, strong focus on undergraduate education balanced with leading-edge research, and emphasis on leadership, service, community and teamwork.
+        <p class="text-justify">
+          The Department of Computer Science and Engineering was started in the year 2013. The strengths of the department include its high faculty-to-student ratio, state of the art facilities, renowned faculty, strong focus on undergraduate education balanced with leading-edge research, and emphasis on leadership, service, community and teamwork.
 
 The Department strives with an outlined vision in producing socially responsible and employable engineers. It has a team of well qualified and highly experienced faculty members and technical staff who deliver their skills to the students through 360◦ teaching-learning environment which includes deployment of Module, Video Tutorials from NPTEL.
 
 The faculty members impart knowledge through curriculum based formal education and industry focused informal education which enhances the aptitude and reasoning skills of the students to make them readily employable. We strive for academic excellence in Computer Science and Engineering through a creative teaching-learning process. We create centers of excellence in leading areas of Computer Science and Engineering and transform students into technically competent, socially responsible and ethical Computer Science professionals. We incubate, apply and spread innovative ideas by collaborating with relevant industries. We attain these through continuous team work by a group of committed faculty, transforming the Computer Science and Engineering department as a leader in imparting Computer Science and Engineering education.
-          </p>
+        </p>
       </div>
 
     </div>
@@ -269,10 +270,16 @@ The faculty members impart knowledge through curriculum based formal education a
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-9">Brochure</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-10">Gallery</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-10">Industry Collaboration</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-11">Testimonial</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-11">Placement</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-12">Gallery</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-13">Testimonial</a>
             </li>
           </ul>
         </div>
@@ -284,23 +291,23 @@ The faculty members impart knowledge through curriculum based formal education a
                   <!-- ======= Services Section ======= -->
     <section id="services" class="services">
         <div class="container">
-        <div class="row justify-content-center">
+          <div class="row justify-content-center">
             <div class="col-md-6 col-lg-12 ">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                 <div class="icon"><i class="bx bxl-dribbble"></i></div>
                 <h4 class="title"><a href="">VISION</a></h4>
-                <p class="description">To produce Computer Science professionals who can accomplish path-breaking solutions for a better society, through quality technical education, on gaining the required inter- personal, entrepreneurial and computing skills.</p>
+                <p class="description text-justify">To produce Computer Science professionals who can accomplish path-breaking solutions for a better society, through quality technical education, on gaining the required inter- personal, entrepreneurial and computing skills.</p>
               </div>
             </div>
-  
+<ol></ol>
             <div class="col-md-6 col-lg-12 ">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                 <div class="icon"><i class="bx bx-file"></i></div>
                 <h4 class="title"><a href="">MISSION</a></h4>
-                <li>To impart a holistic and experiential learning experience by making use of innovative teaching methodologies.</li>
-                <li>To provide optimal technology solutions through collaborative and life-long learning for industry and societal needs with universal ethical values.</li>
-                <li>To nurture leadership skills and facilitate various co-curricular and extra-curricular activities to implant the spirit of entrepreneurship.</li>
-                <li>To provide industry-institute-interaction opportunities in order to motivate inter-disciplinary research capabilities with an inquiring mind.</li>
+               <li class="text-justify">To impart a holistic and experiential learning experience by making use of innovative teaching methodologies.</li>
+               <li class="text-justify">To provide optimal technology solutions through collaborative and life-long learning for industry and societal needs with universal ethical values.</li>
+               <li class="text-justify">To nurture leadership skills and facilitate various co-curricular and extra-curricular activities to implant the spirit of entrepreneurship.</li>
+               <li class="text-justify">To provide industry-institute-interaction opportunities in order to motivate inter-disciplinary research capabilities with an inquiring mind.</li>
               </div>
             </div>
   
@@ -309,7 +316,7 @@ The faculty members impart knowledge through curriculum based formal education a
         </div>
       </section><!-- End Services Section --></div>
                 <div class="col-lg-4 text-center order-1 order-lg-2">
-                  <img src="https://webdocs.pages.dev/assets/img/mecse/mecse.jpeg" alt="" class="img-fluid">
+                  <img src="assets/img/course-details-tab-1.png" alt="" class="img-fluid">
                 </div>
               </div>
             </div>
@@ -321,12 +328,12 @@ The faculty members impart knowledge through curriculum based formal education a
   
           <div class="section-title" data-aos="fade-up">
             <h2>Teaching Faculty</h2>
-            <p>The pillars of Computert Science and Engineering</p>
+            <p>The pillars of Computer Science and Engineering</p>
           </div>
   
           <div class="row justify-content-center">
           <?php
-            $sql = "SELECT CONCAT('https://webdocs.pages.dev/assets/img/faculty/',staff_master.staff_id,'.png') imglink,staff_master.staff_id AS staff_id,master_desigination.desigination desigination, GROUP_CONCAT(staff_promotion.md_id), staff_master.legend , CONCAT(staff_master.first_name,' ',staff_master.last_name)first_name , staff_master.department_id,master_department.dept_name , staff_photo.photo ,  staff_promotion.status, staff_qualification.status,staff_promotion.from_date, GROUP_CONCAT(deg_type ORDER BY staff_qualification.yop) deg_type FROM camps.staff_master INNER JOIN camps.master_department ON (staff_master.department_id = master_department.department_id  AND staff_master.sc_id=1) INNER JOIN camps.staff_photo ON (staff_photo.staff_id = staff_master.staff_id) INNER JOIN camps.staff_promotion ON (staff_promotion.staff_id = staff_master.staff_id) INNER JOIN camps.staff_qualification ON (staff_qualification.staff_id = staff_master.staff_id AND staff_qualification.status=1) INNER JOIN camps.master_desigination ON master_desigination.md_id=staff_promotion.md_id INNER JOIN camps.staff_degree_type ON (staff_qualification.degree_id = staff_degree_type.degree_id) WHERE staff_promotion.status=2 AND staff_degree_type.degree_id NOT IN (23,24) AND  staff_master.working_status='working' AND master_department.department_id='1' GROUP BY staff_master.staff_id;";
+            $sql = "SELECT CONCAT('https://webdocs.pages.dev/assets/img/faculty/',staff_master.staff_id,'.png') imglink,staff_master.staff_id AS staff_id,master_desigination.desigination desigination, GROUP_CONCAT(staff_promotion.md_id), staff_master.legend , CONCAT(staff_master.first_name,' ',staff_master.last_name)first_name , staff_master.department_id,master_department.dept_name , staff_photo.photo ,  staff_promotion.status, staff_qualification.status,staff_promotion.from_date, GROUP_CONCAT(deg_type ORDER BY staff_qualification.yop) deg_type FROM camps.staff_master INNER JOIN camps.master_department ON (staff_master.department_id = master_department.department_id  AND staff_master.sc_id=1) INNER JOIN camps.staff_photo ON (staff_photo.staff_id = staff_master.staff_id) INNER JOIN camps.staff_promotion ON (staff_promotion.staff_id = staff_master.staff_id) INNER JOIN camps.staff_qualification ON (staff_qualification.staff_id = staff_master.staff_id AND staff_qualification.status>0) INNER JOIN camps.master_desigination ON master_desigination.md_id=staff_promotion.md_id INNER JOIN camps.staff_degree_type ON (staff_qualification.degree_id = staff_degree_type.degree_id) WHERE staff_promotion.status=2 AND staff_degree_type.degree_id NOT IN (23,24) AND  staff_master.working_status='working' AND master_department.department_id='1' GROUP BY staff_master.staff_id;";
             $result = mysqli_query($dbcon, $sql);
             if (mysqli_num_rows($result) > 0) {
                 while($data = mysqli_fetch_assoc($result)) {
@@ -352,15 +359,15 @@ The faculty members impart knowledge through curriculum based formal education a
                     <span><?php 
                     printf("%s", $data["desigination"]);
                     ?></span>
-                              </div>
-                            </div>
-                          </div>
-                        <?php
-                } 
-            }     
-                        ?>
-
-           
+                  </div>
+                </div>
+              </div>
+            <?php
+    } 
+}     
+            ?>
+             
+              
           </div>
         </div>
       </section><!-- End Team Section -->
@@ -417,8 +424,11 @@ The faculty members impart knowledge through curriculum based formal education a
       </section><!-- End Team Section -->
               </div>
             </div>
+
+
+
             <div class="tab-pane" id="tab-4">
-            <div class="row">
+              <div class="row">
                 <div class="col-lg-12 details order-2 order-lg-1">
                   <h3></h3>
                   
@@ -427,239 +437,49 @@ The faculty members impart knowledge through curriculum based formal education a
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingOne">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                    <strong>Communication Systems</strong>
+                    <strong>Common Computer Lab</strong>
                     </button>
-                    </h2>
-                    <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                  </h2>
+                  <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    <strong>Experiments</strong> 
-                    <li>To visualize the effects of sampling and TDM</li>
-                    <li>To Implement AM & FM modulation and demodulation</li>
-                    <li>To implement PCM & DM, To implement FSK, PSK and DPSK schemes</li>
-                    <li>To implement Equalization algorithms</li>
-                    <li>To implement Error control coding schemes</li>
-                    <strong>Equipments</strong> 
-                    <li>AM & FM modulation and demodulation Kit</li>
-                    <li>Time Division Multiplexing Kit</li>
-                    <li>Pulse Code Modulation & Delta Modulation Kit</li>
-                    <li>Frequency Shift Keying, Phase Shift keying Kit</li>
-                    <li>Frequency Division Multiplexing Kit</li>
-                    <li>Sampling Kit</li>
+                    <p class="fst-italic text-justify">The Department of Computer Science and Engineering has a well-established Computer Practices Laboratory exclusively for First Year students. Computer Practices laboratory provides essential facilities to the students to enhance their knowledge in Programming. The common Lab is equipped with 125 Lenovo Desktop Computer with Intel i3 processor, Windows 7 Professional edition,4 LCD Projector, 2 ton carrier split AC-11,20 KVA UPS-2.</p>
                     <div class="col-md-6 col-lg-12">
-                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/CM.png" alt="" class="img-fluid">
+                  <img src="https://webdocs.pages.dev/assets/img/CSE/lab/CM.png" alt="" class="img-fluid">
+                </div>
+                
                     </div>
                   </div>
                 </div>
-              </div>
-              <div class="accordion-item">
-                <h2 class="accordion-header" id="headingTwo">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                    <strong>Linear Integrated Circuits</strong>
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="headingTwo">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    <strong>BigData Lab</strong>
                     </button>
-                    </h2>
-                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                  </h2>
+                  <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    <strong>Experiments</strong> 
-                    <li>To expose the students to linear and integrated circuits</li>
-                    <li>To understand the basics of linear integrated circuits and available ICs</li>
-                    <li>To understand and apply operational amplifiers in linear and nonlinear applications</li>
-                    <li>To acquire the basic knowledge of special function IC</li>
-                    <li>To use P-SPICE software for circuit design.</li>
-                    <strong>Equipments</strong> 
-                    <li>Function Generator</li>
-                    <li>Cathode Ray Oscilloscope</li>
-                    <li>Digital Storage Oscilloscope</li>
-                    <li>P-SPICE software</li>
+                    <p class="fst-italic text-justify">Big data lab is typically equipped with internet access. Computers in this lab are typically arranged in rows, so that every workstation has a similar view of one end of the room to facilitate lecturing or presentations, to facilitate small group work. The Big Data Lab is equipped with 40 Lenovo Desktop computers with Intel i7 Processor, 64 bit OS, 8GB Ram, on screen projector & centralized AC. Programming and Data Structures, Object Oriented Programming Systems, Operating Systems, Internet Programming, Grid and Cloud Computing Lab practical classes are conducted in this Laboratory.</p>
                     <div class="col-md-6 col-lg-12">
-                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/BD.jpg" alt="" class="img-fluid">
+                  <img src="https://webdocs.pages.dev/assets/img/CSE/lab/BD.jpg" alt="" class="img-fluid">
+                </div>
                     </div>
                   </div>
                 </div>
-              </div>
-              <div class="accordion-item">
-                <h2 class="accordion-header" id="headingThree">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                    <strong>Electron Device And Circuits</strong>
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="headingThree">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    <strong>Software Development Lab</strong>
                     </button>
-                    </h2>
-                    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                  </h2>
+                  <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    <strong>Experiments</strong> 
-                    <li>Study the characteristics of Electron Devices</li>
-                    <li>Study the characteristic of CE, CB, CC, CS and differential Amplifier</li>
-                    <li>Design and implementation of combinational Logic circuits using logic gates</li>
-                    <li>Construction and verification of sequential logic circuits using Flip Flops</li>
-                    <li>To gain hands on experience in designing electronic circuits</li>
-                    <li>To learn the fundamental principles of amplifier circuits</li>
-                    <li>To differentiate feedback amplifiers and oscillators</li>
-                    <li>To understand the concepts of multivibrators</li>
-                    <strong>Equipments</strong> 
-                    <li>Function Generator</li>
-                    <li>Cathode Ray Oscilloscope</li>
-                    <li>Digital Storage Oscilloscope</li>
-                    <li>P-SPICE software</li>
+                    <p class="fst-italic text-justify">Software Development Lab is typically equipped with internet access. Computers in this lab are typically arranged in rows, so that every workstation has a similar view of one end of the room to facilitate lecturing or presentations, to facilitate small group work. The Software Development Lab is equipped with 40 Dell Desktop computer with Intel i3 Processor, 32 bit OS,4 GB Ram and 3 AC. Compiler Laboratory and Database Management system, Software Development, Computer Graphics, Mobile Application Development and Network Laboratory practical classes are conducted in this Laboratory.</p>
                     <div class="col-md-6 col-lg-12">
-                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                  <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
+                </div>
                     </div>
                   </div>
                 </div>
-              </div>
-              <div class="accordion-item">
-                <h2 class="accordion-header" id="headingFour">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                    <strong>Microprocessor</strong>
-                    </button>
-                    </h2>
-                    <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
-                    <div class="accordion-body">
-                    <strong>Experiments</strong> 
-                    <li>To Write ALP Programs for fixed and Floating Point and Arithmetic</li>
-                    <li>To Interface different I/Os with processor</li>
-                    <li>To Generate waveforms using Microprocessors</li>
-                    <li>To Execute Programs in 8051</li>
-                    <strong>Equipments</strong> 
-                    <li>8279,8251,8253,8255,8259</li>
-                    <li>Stepper motor</li>
-                    <li>DC motor</li>
-                    <li>ADC,DAC</li>
-                    <li>Traffic light</li>
-                    <li>Printer Interfacing boards</li>
-                    <li>8085 Microprocessor Kit</li>
-                    <li>8086 Microprocessor Kit</li>
-                    <li>8051 Microcontroller Kit</li>
-                    <div class="col-md-6 col-lg-12">
-                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="accordion-item">
-                <h2 class="accordion-header" id="headingFive">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                    <strong>Digital Signal Processing</strong>
-                    </button>
-                    </h2>
-                    <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
-                    <div class="accordion-body">
-                    <strong>Experiments</strong> 
-                    <li>To carry out simulation of DSP systems</li>
-                    <li>To demonstrate their abilities towards DSP processor based implementation of DSP systems</li>
-                    <li>To Analyze Finite word length effect on DSP systems</li>
-                    <li>To demonstrate the applications of FFT to DSP.</li>
-                    <strong>Equipments</strong> 
-                    <li>Fixed point DSP processor kit</li>
-                    <li>Floating point DSP processor kit</li>
-                    <li>MATLAB/ SIMULINK software</li> 
-                    <div class="col-md-6 col-lg-12">
-                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="accordion-item">
-                <h2 class="accordion-header" id="headingSix">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                    <strong>VLSI Design Laboratory</strong>
-                    </button>
-                    </h2>
-                    <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
-                    <div class="accordion-body">
-                    <strong>Experiments</strong> 
-                    <li>To Write HDL code for basic as well as advanced digital integrated circuits</li>
-                    <li>To Import the logic modules into FPGA Boards</li>
-                    <li>To Synthesize Place and Route the digital IPs</li>
-                    <li>To Design Simulate and Extract the layouts of Analog IC Blocks using EDA tools</li>
-                    <strong>Equipments</strong> 
-                    <li>Cadence - 20 User License</li>
-                    <li>FPGA-Spartan 6</li>
-                    <li>X- link</li> 
-                    <div class="col-md-6 col-lg-12">
-                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="accordion-item">
-                <h2 class="accordion-header" id="headingSeven">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-                    <strong>Computer Networks Laboratory</strong>
-                    </button>
-                    </h2>
-                    <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
-                    <div class="accordion-body">
-                    <strong>Experiments</strong> 
-                    <li>To communicate between two desktop computers</li>
-                    <li>To Implement the different protocols</li>
-                    <strong>Equipments</strong> 
-                    <li>LAN Trainer Kit</li> 
-                    <div class="col-md-6 col-lg-12">
-                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="accordion-item">
-                <h2 class="accordion-header" id="headingEight">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-                    <strong>Microwave And Fiber Optics</strong>
-                    </button>
-                    </h2>
-                    <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#accordionExample">
-                    <div class="accordion-body">
-                    <strong>Experiments</strong> 
-                    <li>To analyze the performance of simple optical link</li>
-                    <li>To Test microwave and optical components</li>
-                    <li>To analyze the mode characteristics of fiber</li>
-                    <li>To analyze the radiation of pattern of antenna</li>
-                    <li>To Formulate the S-Parameters for Microwave components</li>
-                    <strong>Equipments</strong> 
-                    <li>Klystron Test Bench(X-Band)</li>
-                    <li>Advanced fiber Optic trainer Kit</li>
-                    <li>Single Mode Fiber Characteristics Trainer</li> 
-                    <div class="col-md-6 col-lg-12">
-                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="accordion-item">
-                <h2 class="accordion-header" id="headingNine">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-                    <strong>Embedded System Laboratory</strong>
-                    </button>
-                    </h2>
-                    <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine" data-bs-parent="#accordionExample">
-                    <div class="accordion-body">
-                    <strong>Experiments</strong> 
-                    <li>To Learn the working of ARM processor</li>
-                    <li>To Understand the Building Blocks of Embedded Systems</li>
-                    <li>To Learn the concept of memory map and memory interface</li>
-                    <li>To Know the characteristics of Real Time Systems</li>
-                    <li>To Write programs to interface memory, I/Os with processor</li>
-                    <li>To Study the interrupt performance</li>
-                    <strong>Equipments</strong> 
-                    <li>Embedded trainer kits with ARM board</li>
-                    <li>ARM CORTEX M3</li>
-                    <li>Zigbee Module</li>
-                    <li>Temperature sensor for Embedded trainer kits</li>
-                    <li>Stepper Motor</li>
-                    <li>Keyboard</li>
-                    <li>LCD</li>
-                    <li>ADC</li>
-                    <li>DAC Starter Kit</li>
-                    <li>On Board RTC & Serial port using UART Interface</li>
-                    <li>On Board EEPROM Interface & Interrupt</li>
-                    <li>On-chip PWM Interface</li>  
-                    <div class="col-md-6 col-lg-12">
-                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/SW.jpg" alt="" class="img-fluid">
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-
-
-
                 </div>
                   </div>
                 </div>
@@ -851,13 +671,13 @@ The faculty members impart knowledge through curriculum based formal education a
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bx-world"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/civil/syllabus/2021.pdf">Regulation 2021</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/cse/syllabus/2021.pdf">Regulation 2021</a></h4>
                   </div>
               </div>
               <div class="col-lg-3 col-md-4">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bx-world"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/civil/syllabus/2017.pdf">Regulation 2017</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/cse/syllabus/2017.pdf">Regulation 2017</a></h4>
                   </div>
                 </div>
             </div>
@@ -876,16 +696,34 @@ The faculty members impart knowledge through curriculum based formal education a
                             <h2>Outcome</h2>
                             <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
                           </div>
-              <div class="col-md-7 col-lg-5">
+                          <div class="col-md-6 col-lg-12">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-journal-richtext"></i></div>
                   <h4 class="title"><a href="">Programme Outcomes</a></h4>
+                <li class="text-justify"><strong>Engineering knowledge:</strong> Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.</li>
+                <li class="text-justify"><strong>Problem analysis:</strong> Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of Mathematics, natural sciences, and engineering sciences.</li>
+                <li class="text-justify"><strong>Design/development of solutions:</strong> Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal and environmental considerations.</li>
+                <li class="text-justify"><strong>Conduct investigations of complex problems:</strong>Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data and synthesis of the information to provide valid conclusions.</li>
+                <li class="text-justify"><strong>Modern tool usage:</strong>Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.</li>
+                <li class="text-justify"><strong>The engineer and society:</strong>Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.</li>
+                <li class="text-justify"><strong>Environment and sustainability:</strong>Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.</li>
+                <li class="text-justify"><strong>Ethics:</strong>Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.</li>
+                <li class="text-justify"><strong>Individual and team work:</strong>Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.</li>
+                <li class="text-justify"><strong>Communication:</strong>Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.</li>
+                <li class="text-justify"><strong>Project management and finance:</strong>Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.</li>
+                <li class="text-justify"><strong>Life-long Learning:</strong>Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change</li>
                   </div>
               </div>
-              <div class="col-md-7 col-lg-5">
+              <ol></ol>
+              <div class="col-md-6 col-lg-12">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-journal-richtext"></i></div>
                   <h4 class="title"><a href="">Program Specfic Outcomes</a></h4>
+                  <p class="fst-italic">On successful completion of the Computer Science and Engineering Degree programme, the Graduates shall exhibit the following:</p>
+                  <li class="text-justify"><strong>PSO1 :</strong> Exhibit design and programming skills to build and automate business solutions using cuttingedge technologies.</li>
+                  <li class="text-justify"><strong>PSO2 :</strong> Strong theoretical foundation leading to excellence and excitement towards research, to provide elegant solutions to complex problems.</li>
+                  <li class="text-justify"><strong>PSO3 :</strong> Ability to work effectively with various engineering fields as a team to design, build and develop system applications.</li>
+                
                   </div>
                 </div>
             </div>
@@ -1115,6 +953,122 @@ The faculty members impart knowledge through curriculum based formal education a
                               </div>
                               </div>
                               <div class="tab-pane" id="tab-10">
+                        <div class="row">
+                            <section id="features" class="features">
+                                <div class="container">
+                         
+                                  <div class="section-title" data-aos="fade-up">
+                                    <h2>Industry Collaboration</h2>
+                                    <p><strong>Value Added Course</strong></p>
+                                    <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
+                                  </div>
+                          
+                                  <div class="row" data-aos="fade-up" data-aos-delay="300">
+                                    <div class="col-lg-3 col-md-4">
+                                      <div class="icon-box">
+                                        <i class="ri-file-list-3-line" style="color: #ffbb2c;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2017-18.pdf">2017-2018</a></h3>
+                                      </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                                      <div class="icon-box">
+                                        <i class="ri-file-list-3-line" style="color: #5578ff;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2018-19.pdf">2018-2019</a></h3>
+                                      </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                                      <div class="icon-box">
+                                        <i class="ri-database-2-line" style="color: #e80368;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2019-20.pdf">2019-2020</a></h3>
+                                      </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
+                                      <div class="icon-box">
+                                        <i class="ri-database-2-line" style="color: #e361ff;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2020-21.pdf">2020-2021</a></h3>
+                                      </div>
+                                    </div>
+                                  </div>
+                              
+                                  <div class="section-title" data-aos="fade-up">
+                                    <p><strong>Internship</strong></p>
+                                    <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
+                                  </div>
+                          
+                                  <div class="row" data-aos="fade-up" data-aos-delay="300">
+                                    <div class="col-lg-3 col-md-4">
+                                      <div class="icon-box">
+                                        <i class="ri-file-list-3-line" style="color: #ffbb2c;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2017-18.pdf">2017-2018</a></h3>
+                                      </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                                      <div class="icon-box">
+                                        <i class="ri-file-list-3-line" style="color: #5578ff;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2018-19.pdf">2018-2019</a></h3>
+                                      </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                                      <div class="icon-box">
+                                        <i class="ri-database-2-line" style="color: #e80368;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2019-20.pdf">2019-2020</a></h3>
+                                      </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
+                                      <div class="icon-box">
+                                        <i class="ri-database-2-line" style="color: #e361ff;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2020-21.pdf">2020-2021</a></h3>
+                                      </div>
+                                    </div>
+                                   
+                                  </div>
+                                </div>
+                              </section><!-- End Features Section -->
+                              </div>
+                              </div>
+                              <div class="tab-pane" id="tab-11">
+                        <div class="row">
+                            <section id="features" class="features">
+                                <div class="container">
+                          
+                                  <div class="section-title" data-aos="fade-up">
+                                    <h2>Placement Records</h2>
+                                    <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
+                                  </div>
+                          
+                                  <div class="row" data-aos="fade-up" data-aos-delay="300">
+                                    <div class="col-lg-3 col-md-4">
+                                      <div class="icon-box">
+                                        <i class="ri-file-list-3-line" style="color: #ffbb2c;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2017-18.pdf">2017-2018</a></h3>
+                                      </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                                      <div class="icon-box">
+                                        <i class="ri-file-list-3-line" style="color: #5578ff;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2018-19.pdf">2018-2019</a></h3>
+                                      </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                                      <div class="icon-box">
+                                        <i class="ri-database-2-line" style="color: #e80368;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2019-20.pdf">2019-2020</a></h3>
+                                      </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
+                                      <div class="icon-box">
+                                        <i class="ri-database-2-line" style="color: #e361ff;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2020-21.pdf">2020-2021</a></h3>
+                                      </div>
+                                    </div>
+                                   
+                                  </div>
+                          
+                                </div>
+                              </section><!-- End Features Section -->
+                              </div>
+                              </div>
+                              <div class="tab-pane" id="tab-12">
                           <div class="row">  
                             <div class="">
       
@@ -1159,7 +1113,7 @@ The faculty members impart knowledge through curriculum based formal education a
                                 </div>
 
 
-                                <div class="tab-pane" id="tab-11">
+                                <div class="tab-pane" id="tab-13">
                           <div class="row">  
                             <div class="">
                             <section id="testimonials" class="testimonials section-bg">

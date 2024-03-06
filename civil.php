@@ -280,10 +280,16 @@ include("conn.php")
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-11">Magazine</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-12">Gallery</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-12">Industry Collaboration</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-13">Testimonial</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-13">Placement</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-14">Gallery</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-15">Testimonial</a>
             </li>
           </ul>
         </div>
@@ -1024,11 +1030,125 @@ include("conn.php")
                               </div>
                               </div>
                               <div class="tab-pane" id="tab-12">
+                        <div class="row">
+                            <section id="features" class="features">
+                                <div class="container">
+                         
+                                  <div class="section-title" data-aos="fade-up">
+                                    <h2>Industry Collaboration</h2>
+                                    <p><strong>Value Added Course</strong></p>
+                                    <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
+                                  </div>
+                          
+                                  <div class="row" data-aos="fade-up" data-aos-delay="300">
+                                    <div class="col-lg-3 col-md-4">
+                                      <div class="icon-box">
+                                        <i class="ri-file-list-3-line" style="color: #ffbb2c;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2017-18.pdf">2017-2018</a></h3>
+                                      </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                                      <div class="icon-box">
+                                        <i class="ri-file-list-3-line" style="color: #5578ff;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2018-19.pdf">2018-2019</a></h3>
+                                      </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                                      <div class="icon-box">
+                                        <i class="ri-database-2-line" style="color: #e80368;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2019-20.pdf">2019-2020</a></h3>
+                                      </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
+                                      <div class="icon-box">
+                                        <i class="ri-database-2-line" style="color: #e361ff;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2020-21.pdf">2020-2021</a></h3>
+                                      </div>
+                                    </div>
+                                  </div>
+                              
+                                  <div class="section-title" data-aos="fade-up">
+                                    <p><strong>Internship</strong></p>
+                                    <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
+                                  </div>
+                          
+                                  <div class="row" data-aos="fade-up" data-aos-delay="300">
+                                    <div class="col-lg-3 col-md-4">
+                                      <div class="icon-box">
+                                        <i class="ri-file-list-3-line" style="color: #ffbb2c;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2017-18.pdf">2017-2018</a></h3>
+                                      </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                                      <div class="icon-box">
+                                        <i class="ri-file-list-3-line" style="color: #5578ff;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2018-19.pdf">2018-2019</a></h3>
+                                      </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                                      <div class="icon-box">
+                                        <i class="ri-database-2-line" style="color: #e80368;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2019-20.pdf">2019-2020</a></h3>
+                                      </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
+                                      <div class="icon-box">
+                                        <i class="ri-database-2-line" style="color: #e361ff;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2020-21.pdf">2020-2021</a></h3>
+                                      </div>
+                                    </div>
+                                   
+                                  </div>
+                                </div>
+                              </section><!-- End Features Section -->
+                              </div>
+                              </div>
+                              <div class="tab-pane" id="tab-13">
+                        <div class="row">
+                            <section id="features" class="features">
+                                <div class="container">
+                          
+                                  <div class="section-title" data-aos="fade-up">
+                                    <h2>Placement Records</h2>
+                                    <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
+                                  </div>
+                          
+                                  <div class="row" data-aos="fade-up" data-aos-delay="300">
+                                    <div class="col-lg-3 col-md-4">
+                                      <div class="icon-box">
+                                        <i class="ri-file-list-3-line" style="color: #ffbb2c;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2017-18.pdf">2017-2018</a></h3>
+                                      </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                                      <div class="icon-box">
+                                        <i class="ri-file-list-3-line" style="color: #5578ff;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2018-19.pdf">2018-2019</a></h3>
+                                      </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                                      <div class="icon-box">
+                                        <i class="ri-database-2-line" style="color: #e80368;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2019-20.pdf">2019-2020</a></h3>
+                                      </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
+                                      <div class="icon-box">
+                                        <i class="ri-database-2-line" style="color: #e361ff;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2020-21.pdf">2020-2021</a></h3>
+                                      </div>
+                                    </div>
+                                   
+                                  </div>
+                          
+                                </div>
+                              </section><!-- End Features Section -->
+                              </div>
+                              </div>
+                              <div class="tab-pane" id="tab-14">
                           <div class="row">  
                             <div class="">
-      
                               <!--slider start here-->
-                        
                               <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="4000"> <!-- Change the data-bs-interval value as needed -->
                                 <div class="carousel-indicators">
                                   <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -1068,7 +1188,7 @@ include("conn.php")
                                 </div>
 
 
-                                <div class="tab-pane" id="tab-13">
+                                <div class="tab-pane" id="tab-15">
                           <div class="row">  
                             <div class="">
                             <section id="testimonials" class="testimonials section-bg">
