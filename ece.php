@@ -212,12 +212,12 @@ include("conn.php")
 
           <div class="course-info d-flex justify-content-between align-items-center">
             <h5>Total Intake</h5>
-            <p>120</p>
+            <p>60</p>
           </div>
 
           <div class="course-info d-flex justify-content-between align-items-center">
             <h5>Budding Engineers</h5>
-            <p>200</p>
+            <p>150</p>
           </div>
 
           <div class="course-info d-flex justify-content-between align-items-center">
@@ -299,7 +299,7 @@ include("conn.php")
                 <p class="description">To excel in higher learning, innovative research and to produce creative solution for community based needs</p>
               </div>
             </div>
-  
+  <ol></ol>
             <div class="col-md-6 col-lg-12 ">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                 <div class="icon"><i class="bx bx-file"></i></div>

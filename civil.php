@@ -1205,12 +1205,12 @@ include("conn.php")
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="https://webdocs.pages.dev/assets/img/testimonials/Vaishnavi.jpeg" class="testimonial-img" alt="">
-                  <h3>Vaishnavi M J</h3>
-                  <h4>ECE - Alumni 2019-23 &amp; Software Developer @ Agile Cyber Solutions</h4>
+                  <img src="https://webdocs.pages.dev/assets/img/cr/poster/Abinesh.jpg" class="testimonial-img" alt="">
+                  <h3>Abinesh</h3>
+                  <h4>Alumni 2019-23 &amp; Project Associate @ IIT Madras</h4>
                   <p class ="text-justify">
                     <i class="bx bxs-quote-alt-left quote-icon-left text-justify"></i>
-                    infrastructure provided by our institution Stella Mary's College of Engineering and the unwavering support of my teachers have been instrumental in facilitating my achievement. The constant guidance and insightful feedback they have imparted have enriched my learning experience and empowered me to reach new heights. I am forever thankful..
+                    This is a proud moment for me as I reflect on my college experience. I pursued my Bachelor's degree at SMCE. I was a bit nervous when I first joined, but after becoming a part of this institution, I found immense support from the Head of the Department (HOD) and the dedicated faculty members, as well as wonderful friendships. The autonomy given to the students at the college, along with the encouragement of the staff, allowed me to express my ideas freely and work on self-improvement. Participating in various college events significantly boosted my confidence, and it's an experience I treasure. Amidst countless memories and enjoyable moments, there are two that stand out the most. The first is when I served as the Student Association President, and the second is when I received the title of the Best Outgoing Student. These are moments I'll forever cherish. I would like to express my heartfelt gratitude to the Department of Civil Engineering, the dedicated staff members, and the diligent placement cell for their unwavering support, which has played a significant role in shaping me into the person I am today.
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                 </div>

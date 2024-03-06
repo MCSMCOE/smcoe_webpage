@@ -235,9 +235,7 @@ include("conn.php")
 
         </div>
         <h3> Overview</h3>
-          <p>
-            Department focuses on the study and application of electrical principles, systems, and devices to design, develop, and optimize power generation, distribution, and electronic systems for various industries and applications.    
-        </p>
+          <p class="text-justify">Master of Business Administration (MBA) is a post graduate degree that comprises of theoretical and practical orientation towards management, business, and entrepreneurship. It is one of the most desired postgraduate programs offered by Stella Mary’s College of Engineering, Aruthenganvilai approved by AICTE and affiliated to Anna University having two-year full-time program with four semesters. The Department works with zeal to offer its students the best education, having a blend of classroom sessions and experiential learning guided by an innovative curriculum by the University. In MBA we offer specializations such as Marketing Management, Human Resource Management, Financial Management, Operations Management, Logistics and Supply Chain Management and even more which is based on the interest of the students with minimum group of representation. We take students on regular industrial tours to foster their practical expertise. We help the students in career building by giving ample support & guidance through our staffs & placement team as well.</p>
       </div>
 
     </div>
@@ -292,27 +290,27 @@ include("conn.php")
           <div class="tab-content">
             <div class="tab-pane active show" id="tab-1">
               <div class="row">
-                <div class="col-lg-8 details order-2 order-lg-1">
+                <div class="col-md-6 col-lg-12 ">
                   <!-- ======= Services Section ======= -->
     <section id="services" class="services">
         <div class="container">
-          <div class="row">
-            <div class="col-md-6 col-lg-10 d-flex align-items-stretch mb-5 mb-lg-0">
+          <div class="row justify-content-center">
+            <div class="col-md-6 col-lg-12 ">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                 <div class="icon"><i class="bx bxl-dribbble"></i></div>
                 <h4 class="title"><a href="">VISION</a></h4>
-                <p class="description">To provide world class technical education with ethics and professionalism and to create civil engineer with high technical competencies who would full fill the challenges and needs of today’s scenario with the help of green technology.</p>
+                <p class="description">Transforming student community to dynamic business professionals by inculcating core business competencies towards global scenario.</p>
               </div>
             </div>
-  
-            <div class="col-md-6 col-lg-10 d-flex align-items-stretch mb-5 mb-lg-0">
+  <ol></ol>
+            <div class="col-md-6 col-lg-12 ">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                 <div class="icon"><i class="bx bx-file"></i></div>
                 <h4 class="title"><a href="">MISSION</a></h4>
-                <p class="description">*To impart quality technical education, imbibing lifelong learning and concern for environment.</p>
-                <p class="description">*To create job opportunities in research, industry and consultancy both nationally and internationally.</p>
-                <p class="description">*To provide technical skills, leadership qualities and team spirit among the students.</p>
-                <p class="description">*To establish center of excellence in emerging areas of research to find solution to the problem faced by the society.</p>
+                <li>To build Competent Professional Managers by acquiring knowledge, skills and attitude with ethical values</li>
+                <li>To create entrepreneurial culture for sustainable economic & social benefits</li>
+                <li>To promote leadership quality with value education</li>
+                <li>To Develop innovative teaching and learning methodologies.</li>
               </div>
             </div>
   
@@ -915,10 +913,13 @@ include("conn.php")
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-journal-richtext"></i></div>
                   <h4 class="title"><a href="">Program Specfic Outcomes</a></h4>
-                  <p class="fst-italic">On successful completion of the Computer Science and Engineering Degree programme, the Graduates shall exhibit the following:</p>
-                  <li class="text-justify"><strong>PSO1 :</strong> Exhibit design and programming skills to build and automate business solutions using cuttingedge technologies.</li>
-                  <li class="text-justify"><strong>PSO2 :</strong> Strong theoretical foundation leading to excellence and excitement towards research, to provide elegant solutions to complex problems.</li>
-                  <li class="text-justify"><strong>PSO3 :</strong> Ability to work effectively with various engineering fields as a team to design, build and develop system applications.</li>
+                  <p class="fst-italic">On successful completion of the programme:</p>
+                  <li class="text-justify"><strong>PSO1 :</strong> Ability to apply the business acumen gained in practice.</li>
+                  <li class="text-justify"><strong>PSO2 :</strong> Ability to understand and solve managerial issues.</li>
+                  <li class="text-justify"><strong>PSO3 :</strong> Ability to communicate and negotiate effectively, to achieve organizational and individual goals.</li>
+                  <li class="text-justify"><strong>PSO4 :</strong> Ability to understand one’s own ability to set achievable targets and complete them.</li>
+                  <li class="text-justify"><strong>PSO5 :</strong> Ability to fulfill social outreach</li>
+                  <li class="text-justify"><strong>PSO6 :</strong> Ability to take up challenging assignments</li>
                 
                   </div>
                 </div>
