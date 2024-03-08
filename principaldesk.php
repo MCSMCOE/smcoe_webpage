@@ -195,7 +195,7 @@ include("conn.php")
       <div class="container" data-aos="fade-up">
         <div class="row align-items-start">
           <div class="col-lg-3 order-1 order-lg-6" data-aos="fade-right" data-aos-delay="100">
-            <img src="https://webdocs.pages.dev/assets/img/faculty/1271.png" class="img-fluid" alt="">
+            <img src="https://webdocs.pages.dev/assets/img/faculty/dir.jpeg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-7 pt-4 pt-lg-0 order-2 order-lg-1 justify-content-xl-start">
             <span class="h3 d-inline-block">
@@ -203,9 +203,11 @@ include("conn.php")
               <small class="h6 text-secondary">M.E.,M.B.A.,Ph.D</small>
             </span>
     
-            <p class="p-8 fst-italic text-justify" style="line-height: 3;"  >
-              <i class="bx bxs-quote-alt-left quote-icon-left text-secondary h4 mr-6"></i>
-              It is education that defines and differentiates the human being from the rest of the creatures. Education always plays a vital role in the overall development and personality of an individual. Having realized this importance, Stella Mary's College of Engineering aims to impart strong knowledge to its students who are young and are in thirst for it. Stella Mary's College of Engineering will constantly work to provide the best knowledge to its students, through a team of dedicated staff and experienced faculty. Students are sure to get a new and good academic experience at our institution which would turn them into a holistic personality at the end of their course.
+            <p class=" col-md-6 col-lg-12 p-6 fst-italic text-justify" style="line-height:1.5;"  >
+              <i class="bx bxs-quote-alt-left quote-icon-left text-secondary h4 mr-6 "></i>
+              I am delighted to welcome you to Stella Mary’s College of Engineering.
+Stella Mary’s College of Engineering is one of the best institutes in Kanyakumari District, Tamilnadu.  It is a decade-old institute with well-experienced and qualified faculties. It has world-class infrastructure, lab facilities, and spacious indoor and outdoor sporting facilities. Our core aspiration is to get established as a center of technical excellence. Developing the student community technically strong, with professional ethics, moral values, leadership skills,  and social responsibility are our priorities. 
+	As you explore our website, I hope you are able to find all the information you are looking for, and more, about this vibrant learning community that is socially engaged as well. If you are a prospective student or a potential colleague and have any specific queries or concerns, do not hesitate to contact us.  Our motto is ‘If you walk you can reach, To reach you have to walk’, and I do hope that you have reason to partner with us in this endeavour, in whatever way you can.
               <i class="bx bxs-quote-alt-right quote-icon-right text-secondary h4 ml-3"></i>
             </p>
           </div>

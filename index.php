@@ -77,11 +77,12 @@ include("conn.php")
   <header id="header" class="fixed-top d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <div class="logo">
-        <!--<h1><a href="index.html">SMCE</a></h1>-->
-        <!-- Uncomment below if you prefer to use an image logo -->
-        <a href="index.php"><img src="https://9509e6cb.webdocs.pages.dev/SMCE%20ERP.png" alt="" class="img-fluid"></a>
-      </div>
+    <div class="logo">
+    <!--<h1><a href="index.html">SMCE</a></h1>-->
+    <!-- Uncomment below if you prefer to use an image logo -->
+    <a href="index.php"><img src="https://webdocs.pages.dev/assets/img/LOGO%20NEW1.png" alt="" class="img-fluid" style="max-width: 100%; height: auto;"></a>
+</div>
+
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
@@ -126,7 +127,7 @@ include("conn.php")
               <li><a href="#">Academic Time-Table</a></li>
               <li><a href="#">Academic Calender</a></li>
               <li><a href="#">Admission Criteria</a></li>
-              <li><a href="#">LMS</a></li>
+              <li><a href="https://camps.stellamaryscoe.edu.in/CAMPS/CommonJSP/signin.jsp">CAMPS LOGIN</a></li>
             </ul>
             <li class="dropdown"><a href="#"><span>Research</span> <i class="bi bi-chevron-right"></i></a>
               <ul>
@@ -171,7 +172,7 @@ include("conn.php")
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="mandatorydisclosure.php">Mandatory Disclosure</a></li>
-          <li><a class="getstarted scrollto" href="https://camps.stellamaryscoe.edu.in/CAMPS/CommonJSP/signin.jsp">CAMPS LOGIN</a></li>
+          <li><a class="getstarted scrollto" href="https://camps.stellamaryscoe.edu.in/CAMPS/applications/application_register.jsp">Admission</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -507,12 +508,12 @@ pagination: {
 
   <!-- ======= Hero Section ======= -->
   
-  <div id="divContactUsSlider" ><div class="contact-slider d-none d-flex hidden-xs open" style="top: 200px; display: flex!important;">
+  <!--<div id="divContactUsSlider" ><div class="contact-slider d-none d-flex hidden-xs open" style="top: 200px; display: flex!important;">
     <div style="border-bottom:none;margin-left: 2px;" class="slider-icon">
         <a class="slider-icon-anchor" href="https://camps.stellamaryscoe.edu.in/CAMPS/applications/application_register.jsp"><span class="contactus-slider-HES-Base position-relative py-4 px-3" style="margin-top: 1px;">Online Admission</span></a></div>
     
      </div>
-     </div>
+     </div>-->
   <!-- End Hero --> 
   <main id="main">
     

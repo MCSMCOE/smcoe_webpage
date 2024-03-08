@@ -300,7 +300,7 @@ include("conn.php")
               <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                 <div class="icon"><i class="bx bxl-dribbble"></i></div>
                 <h4 class="title"><a href="">VISION</a></h4>
-                <p class="description">To impart nationally and internationally recognized education on Mechanical Engineering, leading to well qualified engineers who are innovative contributors to the profession and successful in advanced studies and research</p>
+                <p class="description text-justify">To impart nationally and internationally recognized education on Mechanical Engineering, leading to well qualified engineers who are innovative contributors to the profession and successful in advanced studies and research</p>
               </div>
             </div>
   <ol></ol>
@@ -308,9 +308,9 @@ include("conn.php")
               <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                 <div class="icon"><i class="bx bx-file"></i></div>
                 <h4 class="title"><a href="">MISSION</a></h4>
-                <li>To provide an international class of education enabling the students to have the ability to design, plan, engineer, administer and manage the latest technologies in the field of Mechanical Engineering.</li>
-                <li>To train students to face the future challenges of industries and society.</li>
-                <li>To equip the students to take leading positions in industry, academia, and PSUs both in India and abroad.</li>
+                <li class="text-justify">To provide an international class of education enabling the students to have the ability to design, plan, engineer, administer and manage the latest technologies in the field of Mechanical Engineering.</li>
+                <li class="text-justify">To train students to face the future challenges of industries and society.</li>
+                <li class="text-justify">To equip the students to take leading positions in industry, academia, and PSUs both in India and abroad.</li>
                 </div>
             </div>
  
@@ -1288,6 +1288,37 @@ include("conn.php")
                               
                                   <div class="section-title" data-aos="fade-up">
                                     <p><strong>Internship</strong></p>
+                                    <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
+                                  </div>
+                          
+                                  <div class="row" data-aos="fade-up" data-aos-delay="300">
+                                    <div class="col-lg-3 col-md-4">
+                                      <div class="icon-box">
+                                        <i class="ri-file-list-3-line" style="color: #ffbb2c;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2017-18.pdf">2017-2018</a></h3>
+                                      </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                                      <div class="icon-box">
+                                        <i class="ri-file-list-3-line" style="color: #5578ff;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2018-19.pdf">2018-2019</a></h3>
+                                      </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                                      <div class="icon-box">
+                                        <i class="ri-database-2-line" style="color: #e80368;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2019-20.pdf">2019-2020</a></h3>
+                                      </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
+                                      <div class="icon-box">
+                                        <i class="ri-database-2-line" style="color: #e361ff;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2020-21.pdf">2020-2021</a></h3>
+                                      </div>
+                                    </div>                                 
+                                  </div>
+                                  <div class="section-title" data-aos="fade-up">
+                                    <p><strong>Memorandum of Understanding</strong></p>
                                     <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
                                   </div>
                           

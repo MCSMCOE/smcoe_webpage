@@ -333,7 +333,7 @@ The faculty members impart knowledge through curriculum based formal education a
   
           <div class="row justify-content-center">
           <?php
-            $sql = "SELECT CONCAT('https://webdocs.pages.dev/assets/img/faculty/',staff_master.staff_id,'.png') imglink,staff_master.staff_id AS staff_id,master_desigination.desigination desigination, GROUP_CONCAT(staff_promotion.md_id), staff_master.legend , CONCAT(staff_master.first_name,' ',staff_master.last_name)first_name , staff_master.department_id,master_department.dept_name , staff_photo.photo ,  staff_promotion.status, staff_qualification.status,staff_promotion.from_date, GROUP_CONCAT(deg_type ORDER BY staff_qualification.yop) deg_type FROM camps.staff_master INNER JOIN camps.master_department ON (staff_master.department_id = master_department.department_id  AND staff_master.sc_id=1) INNER JOIN camps.staff_photo ON (staff_photo.staff_id = staff_master.staff_id) INNER JOIN camps.staff_promotion ON (staff_promotion.staff_id = staff_master.staff_id) INNER JOIN camps.staff_qualification ON (staff_qualification.staff_id = staff_master.staff_id AND staff_qualification.status>0) INNER JOIN camps.master_desigination ON master_desigination.md_id=staff_promotion.md_id INNER JOIN camps.staff_degree_type ON (staff_qualification.degree_id = staff_degree_type.degree_id) WHERE staff_promotion.status=2 AND staff_degree_type.degree_id NOT IN (23,24) AND  staff_master.working_status='working' AND master_department.department_id='1' GROUP BY staff_master.staff_id;";
+            $sql = "SELECT CONCAT('https://webdocs.pages.dev/assets/img/faculty/',staff_master.staff_id,'.png') imglink,staff_master.staff_id AS staff_id,swdo.`major`,master_desigination.desigination desigination, GROUP_CONCAT(staff_promotion.md_id), staff_master.legend , CONCAT(staff_master.first_name,' ',staff_master.last_name)first_name , staff_master.department_id,master_department.dept_name , staff_photo.photo ,  staff_promotion.status, staff_qualification.status,staff_promotion.from_date, GROUP_CONCAT(deg_type ORDER BY staff_qualification.yop) deg_type FROM camps.staff_master INNER JOIN camps.master_department ON (staff_master.department_id = master_department.department_id  AND staff_master.sc_id=1) INNER JOIN camps.staff_photo ON (staff_photo.staff_id = staff_master.staff_id) INNER JOIN camps.staff_promotion ON (staff_promotion.staff_id = staff_master.staff_id) INNER JOIN camps.staff_qualification ON (staff_qualification.staff_id = staff_master.staff_id AND staff_qualification.status>0) INNER JOIN camps.master_desigination ON master_desigination.md_id=staff_promotion.md_id INNER JOIN camps.staff_degree_type ON (staff_qualification.degree_id = staff_degree_type.degree_id) LEFT JOIN documentation.staff_website_display_order swdo ON swdo.staff_id=staff_master.staff_id WHERE staff_promotion.status=2 AND staff_degree_type.degree_id NOT IN (23,24) AND  staff_master.working_status='working' AND master_department.department_id='1' GROUP BY staff_master.staff_id ORDER BY swdo.`order_no`";
             $result = mysqli_query($dbcon, $sql);
             if (mysqli_num_rows($result) > 0) {
                 while($data = mysqli_fetch_assoc($result)) {
@@ -953,24 +953,24 @@ The faculty members impart knowledge through curriculum based formal education a
                               </div>
                               </div>
                               <div class="tab-pane" id="tab-10">
-                        <div class="row">
+                        <div class="row justify-content-center">
                             <section id="features" class="features">
                                 <div class="container">
                          
-                                  <div class="section-title" data-aos="fade-up">
+                                  <div class="section-title justify-content-center" data-aos="fade-up">
                                     <h2>Industry Collaboration</h2>
                                     <p><strong>Value Added Course</strong></p>
                                     <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
                                   </div>
                           
-                                  <div class="row" data-aos="fade-up" data-aos-delay="300">
+                                  <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="300">
                                     <div class="col-lg-3 col-md-4">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #ffbb2c;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2017-18.pdf">2017-2018</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/cse/indus/VAC%20.pdf">Certification</a></h3>
                                       </div>
                                     </div>
-                                    <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                                   <!-- <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #5578ff;"></i>
                                         <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2018-19.pdf">2018-2019</a></h3>
@@ -987,11 +987,43 @@ The faculty members impart knowledge through curriculum based formal education a
                                         <i class="ri-database-2-line" style="color: #e361ff;"></i>
                                         <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2020-21.pdf">2020-2021</a></h3>
                                       </div>
-                                    </div>
+                                    </div>-->
                                   </div>
                               
-                                  <div class="section-title" data-aos="fade-up">
+                                  <div class="section-title justify-content-center" data-aos="fade-up">
                                     <p><strong>Internship</strong></p>
+                                    <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
+                                  </div>
+                          
+                                  <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="300">
+                                    <div class="col-lg-3 col-md-4">
+                                      <div class="icon-box">
+                                        <i class="ri-file-list-3-line" style="color: #ffbb2c;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/cse/indus/Internship.pdf">Internship</a></h3>
+                                      </div>
+                                    </div>
+                                    <!--<div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                                      <div class="icon-box">
+                                        <i class="ri-file-list-3-line" style="color: #5578ff;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2018-19.pdf">2018-2019</a></h3>
+                                      </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                                      <div class="icon-box">
+                                        <i class="ri-database-2-line" style="color: #e80368;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2019-20.pdf">2019-2020</a></h3>
+                                      </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
+                                      <div class="icon-box">
+                                        <i class="ri-database-2-line" style="color: #e361ff;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2020-21.pdf">2020-2021</a></h3>
+                                      </div>
+                                    </div>-->
+                                   
+                                  </div>
+                                  <div class="section-title" data-aos="fade-up">
+                                    <p><strong>Memorandum of Understanding</strong></p>
                                     <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
                                   </div>
                           
