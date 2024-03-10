@@ -246,35 +246,19 @@ if (mysqli_num_rows($result) > 0) {
           <!-- Active Table -->
           <table class="table table-striped text-center table-hover">
             <thead>
-              <tr>
-                <th scope="col">#</th>
-                <th scope="col">Title of paper</th>
-                <th scope="col">Author/s</th>
-                <th scope="col">Department</th>
-                <th scope="col">Journal</th>
-                <th scope="col">Year of Publication</th>
-                <th scope="col">ISSN No</th>
-              </tr>
+            <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Details</th>
+                   
+                  </tr>
             </thead>
             <tbody>
                 <tr>
                   <th scope="row">1</th>
-                  <td>Blockchain based cloud service security architecture with distributed machine learning for smart device traffic record transaction</td>
-                  <td>Dr.Pon.Partheeban</td>
-                  <td>CSE</td>
-                  <td>WILEY Concurrency and Computation - Practice and Experience</td>
-                  <td>2021</td>
-                  <td>1532-0634</td>
+                  <td></td>
+                  
                 </tr>
-                <tr>
-                  <th scope="row">2</th>
-                  <td>Bridie Kessler</td>
-                  <td>Developer</td>
-                  <td>35</td>
-                  <td>2014-12-05</td>
-                  <td>2021</td>
-                  <td>1532-0634</td>
-                </tr>
+                
                
               </tbody>
             </table>
@@ -345,35 +329,17 @@ if (mysqli_num_rows($result) > 0) {
     <!-- Active Table -->
     <table class="table table-striped text-center table-hover">
       <thead>
-        <tr>
-          <th scope="col">#</th>
-          <th scope="col">Title of paper</th>
-          <th scope="col">Author/s</th>
-          <th scope="col">Department</th>
-          <th scope="col">Name of the Conference</th>
-          <th scope="col">Year of Publication</th>
-          <th scope="col">ISSN No</th>
-        </tr>
+      <tr>
+            <th scope="col">#</th>
+            <th scope="col">Details</th>
+          </tr>
       </thead>
       <tbody>
           <tr>
-            <th scope="row">1</th>
-            <td>Blockchain based cloud service security architecture with distributed machine learning for smart device traffic record transaction</td>
-            <td>Dr.Pon.Partheeban</td>
-            <td>CSE</td>
-            <td>WILEY Concurrency and Computation - Practice and Experience</td>
-            <td>2021</td>
-            <td>1532-0634</td>
+            <th scope="row"></th>
+            <td></td>
           </tr>
-          <tr>
-            <th scope="row">2</th>
-            <td>Bridie Kessler</td>
-            <td>Developer</td>
-            <td>35</td>
-            <td>2014-12-05</td>
-            <td>2021</td>
-            <td>1532-0634</td>
-          </tr>
+          
         </tbody>
       </table>
     </div>
@@ -393,8 +359,8 @@ if (mysqli_num_rows($result) > 0) {
           <tr>
             <th scope="col">#</th>
             <th scope="col">Title of patent</th>
-            <th scope="col">File Date</th>
-            <th scope="col">Patent Status</th>
+            <th class="card-text text-justify"scope="col">File Date</th>
+            <th class="card-text text-justify"scope="col">Patent Status</th>
             
           </tr>
         </thead>
@@ -422,9 +388,9 @@ if (mysqli_num_rows($result) > 0) {
         ?>
         <tr>
             <th scope="row"><?php echo $slno; ?></th>
-            <td><?php echo $data["patent_title"]; ?></td>
-            <td><?php echo $data["filing_date"]; ?></td>
-            <td><?php echo $data["patent_status"]; ?></td>
+            <td class="card-text text-justify"><?php echo $data["patent_title"]; ?></td>
+            <td class="card-text text-justify"><?php echo $data["filing_date"]; ?></td>
+            <td class="card-text text-justify"><?php echo $data["patent_status"]; ?></td>
         </tr>
         <?php
         $slno++;
@@ -443,48 +409,33 @@ if (mysqli_num_rows($result) > 0) {
   <!-- Active Table -->
   <table class="table table-striped text-center table-hover">
     <thead>
-      <tr>
-        <th scope="col">#</th>
-        <th scope="col">Title of patent</th>
-        <th scope="col">Author/s</th>
-        <th scope="col">Department</th>
-        <th scope="col">Registration No</th>
-        <th scope="col">Year of Publication</th>
-        <th scope="col">Patent Status</th>
-      </tr>
-    </thead>
+    <tr>
+            <th scope="col">#</th>
+            <th scope="col">Title of patent</th>
+            <th class="card-text text-justify"scope="col">File Date</th>
+            <th class="card-text text-justify"scope="col">Patent Status</th>
+            
+          </tr>
     <tbody>
         <tr>
           <th scope="row">1</th>
-          <td>Blockchain based cloud service security architecture with distributed machine learning for smart device traffic record transaction</td>
-          <td>Dr.Pon.Partheeban</td>
-          <td>CSE</td>
-          <td>WILEY Concurrency and Computation - Practice and Experience</td>
-          <td>2021</td>
-          <td>1532-0634</td>
+          <td></td>
+          
         </tr>
-        <tr>
-          <th scope="row">2</th>
-          <td>Bridie Kessler</td>
-          <td>Developer</td>
-          <td>35</td>
-          <td>2014-12-05</td>
-          <td>2021</td>
-          <td>1532-0634</td>
-        </tr>
+        
       </tbody>
     </table>
   </div>
 </div>
 
 
-<div class="section-title" data-aos="fade-up">
+<!--<div class="section-title" data-aos="fade-up">
   <h2>Funded Projects</h2>
 <div class="card">
   <div class="card-body">
     <h5 class="card-title text-center">Staff Publications</h5>
-    <!--<p>Add <code>.table-borderless</code> for a table without borders.</p>-->
-    <!-- Active Table -->
+    
+   
     <table class="table table-striped text-center table-hover">
       <thead>
         <tr>
@@ -520,7 +471,7 @@ if (mysqli_num_rows($result) > 0) {
         </tbody>
       </table>
     </div>
-</div>
+</div>-->
 
 
 
