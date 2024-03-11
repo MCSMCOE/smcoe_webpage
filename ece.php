@@ -27,6 +27,8 @@ include("conn.php")
   <link href="https://webdocs.pages.dev/assets/vendor/remixicon/remixicon.css" rel="stylesheet">
   <link href="https://webdocs.pages.dev/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
+  
+
   <!-- Template Main CSS File -->
   <link href="https://webdocs.pages.dev/assets/css/style.css" rel="stylesheet">
 
@@ -75,23 +77,25 @@ include("conn.php")
   <header id="header" class="fixed-top d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <div class="logo">
-        <!--<h1><a href="index.html">SMCE</a></h1>-->
-        <!-- Uncomment below if you prefer to use an image logo -->
-        <a href="index.php"><img src="https://9509e6cb.webdocs.pages.dev/SMCE%20ERP.png" alt="" class="img-fluid"></a>
-      </div>
+    <div class="logo">
+    <!--<h1><a href="index.html">SMCE</a></h1>-->
+    <!-- Uncomment below if you prefer to use an image logo -->
+    <a href="index.php"><img src="https://webdocs.pages.dev/assets/img/LOGO%20NEW1.png" alt="" class="img-fluid" style="max-width: 100%; height: auto;"></a>
+</div>
+
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
           <li class="dropdown"><a href="#"><span>About Us</span> <i class="bi bi-chevron-right"></i></a>
             <ul>
               <li><a href="Management.php">Management</a></li>
-              <li><a href="principaldesk.php">Principal's Desk</a></li>
+              <li><a href="principaldesk.php">Admin Desk</a></li>
               <li><a href="oc.php">Organisation Chart</a></li>
               <li><a href="iqac.php">IQAC</a></li>
               <li><a href="strategicplan.php">Strategic Plan</a></li>
               <li><a href="codeofconduct.php">Code of Conduct</a></li>
-              <li><a href="mandatorydisclosure.php">mandatory Disclosure</a></li>
+              <li><a href="mandatorydisclosure.php">Mandatory Disclosure</a></li>
+              <li><a href="facilities.php">Features</a></li>
             </ul>
           <li class="dropdown"><a href="#"><span>Academics</span> <i class="bi bi-chevron-right"></i></a>
             <ul>
@@ -120,16 +124,17 @@ include("conn.php")
                       </ul>  
                   </ul>  
               <li><a href="placement_home.php">Placement</a></li>
-              <li><a href="#">Academic Time-Table</a></li>
+              <!--<li><a href="#">Academic Time-Table</a></li>
               <li><a href="#">Academic Calender</a></li>
-              <li><a href="#">Admission Criteria</a></li>
-              <li><a href="#">LMS</a></li>
+              <li><a href="#">Admission Criteria</a></li>-->
+              <li><a href="https://camps.stellamaryscoe.edu.in/CAMPS/CommonJSP/signin.jsp">CAMPS LOGIN</a></li>
             </ul>
             <li class="dropdown"><a href="#"><span>Research</span> <i class="bi bi-chevron-right"></i></a>
               <ul>
                 <li><a href="research_codeofethics.php">Team & Code of Ethics</a></li>
                 <li><a href="research_publications.php">Publications</a></li>
                 <li><a href="research_seedmoney.php">Stella Mary's Seed Money</a></li>
+                <li><a href="ipr.php">Intellectual Property Rights</a></li>
                 <li class="dropdown"><a href="research_seedmoney.php">Industry Collaboration<i class="bi bi-chevron-right"></i></a>
                 <ul>
                 <li><a href="research_mou.php">Memorandum of Understanding</a></li>
@@ -149,9 +154,9 @@ include("conn.php")
               <li class="dropdown"><a href="#more-services" href="#"><span>Extra Curricular</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                 <li><a href="nss.php">National Service Scheme</a></li>
-                <li><a href="yrc">Yoth Red Cross</a></li>  
+                <li><a href="yrc.php">Youth Red Cross</a></li>  
                 </ul>  
-              <li><a href="#">Institution Innovation Council</a></li>
+                <li><a href="facilities.php">Infrastructure/Gallery</a></li>
                 <li><a href="icc.php">Internal Complaint Cell</a></li>
                 <li><a href="research_codeofethics.php">Research and Development Cell</a></li>
                 <li><a href="placement_home.php">Career Guidance and Placement Training Cell</a></li>
@@ -167,7 +172,7 @@ include("conn.php")
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="mandatorydisclosure.php">Mandatory Disclosure</a></li>
-          <li><a class="getstarted scrollto" href="https://camps.stellamaryscoe.edu.in/CAMPS/CommonJSP/signin.jsp">CAMPS LOGIN</a></li>
+          <li><a class="getstarted scrollto" href="https://camps.stellamaryscoe.edu.in/CAMPS/applications/application_register.jsp">Admission</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -1354,7 +1359,7 @@ include("conn.php")
                 <div class="testimonial-item">
                   <img src="https://webdocs.pages.dev/assets/img/testimonials/Vaishnavi.jpeg" class="testimonial-img" alt="">
                   <h3>Vaishnavi M J</h3>
-                  <h4>ECE - Alumni 2019-23 &amp; Software Developer @ Agile Cyber Solutions</h4>
+                  <h4>Alumni 2019-23 &amp; Software Developer @ Agile Cyber Solutions</h4>
                   <p class ="text-justify">
                     <i class="bx bxs-quote-alt-left quote-icon-left text-justify"></i>
                     infrastructure provided by our institution Stella Mary's College of Engineering and the unwavering support of my teachers have been instrumental in facilitating my achievement. The constant guidance and insightful feedback they have imparted have enriched my learning experience and empowered me to reach new heights. I am forever thankful..
@@ -1367,27 +1372,66 @@ include("conn.php")
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="" class="testimonial-img" alt="">
-                  <h3>Sara Wilsson</h3>
-                  <h4>Designer</h4>
-                  <p>
+                  <img src="https://webdocs.pages.dev/assets/docs/ece/testimonial/lav.png" class="testimonial-img" alt="">
+                  <h3>Lavanya M</h3>
+                  <h4>Alumni 2018-2022</h4>
+                  <p class ="text-justify">
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                    Stella Mary's College of Engineering has been a beacon of opportunity and excellence throughout
+my academic journey from 2018 to 2022. Completing my Bachelor's in Electronics and
+Communication Engineering (ECE) amidst its nurturing environment has been nothing short of
+remarkable.
+I am profoundly grateful for the unwavering support and generosity of Stella Mary's College, which
+provided me with four years of free education based on my academic performance. This remarkable
+initiative not only eased the financial burden but also motivated me to strive for academic
+excellence.
+The dedicated faculty members at Stella Mary's College are the pillars of knowledge and inspiration,
+guiding me through the intricacies of ECE and shaping my intellectual growth. Their mentorship and
+encouragement have been invaluable in preparing me for the challenges of the industry.
+The college's cutting-edge facilities and hands-on learning opportunities have equipped me with
+practical skills and knowledge essential for success in the field. Engaging in extracurricular activities
+and events further enriched my college experience, fostering personal growth and leadership
+development.
+Stella Mary's College cultivates a vibrant and inclusive community where students are encouraged to
+pursue their passions and aspirations. The friendships forged and memories created during my time
+here will forever hold a special place in my heart.
+In conclusion, Stella Mary's College of Engineering has not only provided me with a top-notch
+education but has also instilled in me a sense of gratitude, determination, and resilience. I am
+immensely proud to be a part of this esteemed institution, and I am confident that the values
+imparted here will guide me in my future endeavours.
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                 </div>
               </div>
             </div><!-- End testimonial item -->
-
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="" class="testimonial-img" alt="">
-                  <h3>Jena Karlis</h3>
-                  <h4>Store Owner</h4>
-                  <p>
+                  <img src="https://webdocs.pages.dev/assets/docs/ece/testimonial/subin.png" class="testimonial-img" alt="">
+                  <h3>Subin Raj V</h3>
+                  <h4>Alimni - 2018 – 2022</h4>
+                  <p class ="text-justify">
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                    Attending Stella Mary’s College of Engineering was an enriching experience that laid the foundation
+
+for my career in Electronics and Communication Engineering. The dedicated faculty and state-of-the-
+art facilities provided me with a comprehensive education that prepared me for the challenges of
+
+the industry. The supportive environment fostered both personal and professional growth, enabling
+me to excel academically and develop essential skills. I am grateful for the opportunities and
+resources the college offered, which equipped me to confidently pursue my aspirations in the field.
+Stella Mary’s College of Engineering truly shaped me into a competent and confident engineer.
+Furthermore, the college's emphasis on practical learning through workshops, projects, and
+internships greatly enhanced my understanding and application of concepts. The encouragement
+from mentors and peers alike fueled my passion for innovation and problem-solving, allowing me to
+explore diverse areas within my field. The holistic approach to education instilled in me a sense of
+responsibility towards society, motivating me to contribute positively through my knowledge and
+
+skills. The vibrant campus life enriched with extracurricular activities and events provided a well-
+rounded experience, fostering friendships and memories that I cherish to this day. Overall, my
+
+journey at Stella Mary’s College of Engineering was not just about acquiring knowledge, but also
+about nurturing character and fostering a lifelong love for learning.
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                 </div>

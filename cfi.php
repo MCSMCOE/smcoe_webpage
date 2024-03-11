@@ -27,6 +27,8 @@ include("conn.php")
   <link href="https://webdocs.pages.dev/assets/vendor/remixicon/remixicon.css" rel="stylesheet">
   <link href="https://webdocs.pages.dev/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
+  
+
   <!-- Template Main CSS File -->
   <link href="https://webdocs.pages.dev/assets/css/style.css" rel="stylesheet">
 
@@ -75,23 +77,25 @@ include("conn.php")
   <header id="header" class="fixed-top d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <div class="logo">
-        <!--<h1><a href="index.html">SMCE</a></h1>-->
-        <!-- Uncomment below if you prefer to use an image logo -->
-        <a href="index.php"><img src="https://9509e6cb.webdocs.pages.dev/SMCE%20ERP.png" alt="" class="img-fluid"></a>
-      </div>
+    <div class="logo">
+    <!--<h1><a href="index.html">SMCE</a></h1>-->
+    <!-- Uncomment below if you prefer to use an image logo -->
+    <a href="index.php"><img src="https://webdocs.pages.dev/assets/img/LOGO%20NEW1.png" alt="" class="img-fluid" style="max-width: 100%; height: auto;"></a>
+</div>
+
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
           <li class="dropdown"><a href="#"><span>About Us</span> <i class="bi bi-chevron-right"></i></a>
             <ul>
               <li><a href="Management.php">Management</a></li>
-              <li><a href="principaldesk.php">Principal's Desk</a></li>
+              <li><a href="principaldesk.php">Admin Desk</a></li>
               <li><a href="oc.php">Organisation Chart</a></li>
               <li><a href="iqac.php">IQAC</a></li>
               <li><a href="strategicplan.php">Strategic Plan</a></li>
               <li><a href="codeofconduct.php">Code of Conduct</a></li>
-              <li><a href="mandatorydisclosure.php">mandatory Disclosure</a></li>
+              <li><a href="mandatorydisclosure.php">Mandatory Disclosure</a></li>
+              <li><a href="facilities.php">Features</a></li>
             </ul>
           <li class="dropdown"><a href="#"><span>Academics</span> <i class="bi bi-chevron-right"></i></a>
             <ul>
@@ -120,10 +124,10 @@ include("conn.php")
                       </ul>  
                   </ul>  
               <li><a href="placement_home.php">Placement</a></li>
-              <li><a href="#">Academic Time-Table</a></li>
+              <!--<li><a href="#">Academic Time-Table</a></li>
               <li><a href="#">Academic Calender</a></li>
-              <li><a href="#">Admission Criteria</a></li>
-              <li><a href="#">LMS</a></li>
+              <li><a href="#">Admission Criteria</a></li>-->
+              <li><a href="https://camps.stellamaryscoe.edu.in/CAMPS/CommonJSP/signin.jsp">CAMPS LOGIN</a></li>
             </ul>
             <li class="dropdown"><a href="#"><span>Research</span> <i class="bi bi-chevron-right"></i></a>
               <ul>
@@ -150,9 +154,9 @@ include("conn.php")
               <li class="dropdown"><a href="#more-services" href="#"><span>Extra Curricular</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                 <li><a href="nss.php">National Service Scheme</a></li>
-                <li><a href="yrc">Yoth Red Cross</a></li>  
+                <li><a href="yrc.php">Youth Red Cross</a></li>  
                 </ul>  
-              <li><a href="#">Institution Innovation Council</a></li>
+                <li><a href="facilities.php">Infrastructure/Gallery</a></li>
                 <li><a href="icc.php">Internal Complaint Cell</a></li>
                 <li><a href="research_codeofethics.php">Research and Development Cell</a></li>
                 <li><a href="placement_home.php">Career Guidance and Placement Training Cell</a></li>
@@ -164,11 +168,11 @@ include("conn.php")
               <li><a href="https://nptel.ac.in">NPTEL</a></li>
               <li><a href="https://delnet.in">DELNET</a></li>
               <li><a href="alumni.php">Alumni Association</a></li>
-              <li><a href="https://swayam.gov.in">SWAYAM - MOOC</a></li>
+              <li><a href="https://swayam.gov.in">SWYAM - MOOC</a></li>
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="mandatorydisclosure.php">Mandatory Disclosure</a></li>
-          <li><a class="getstarted scrollto" href="https://camps.stellamaryscoe.edu.in/CAMPS/CommonJSP/signin.jsp">CAMPS LOGIN</a></li>
+          <li><a class="getstarted scrollto" href="https://camps.stellamaryscoe.edu.in/CAMPS/applications/application_register.jsp">Admission</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->

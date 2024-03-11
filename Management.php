@@ -18,14 +18,16 @@ include("conn.php")
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
- <!-- Vendor CSS Files -->
- <link href="https://webdocs.pages.dev/assets/vendor/aos/aos.css" rel="stylesheet">
+  <!-- Vendor CSS Files -->
+  <link href="https://webdocs.pages.dev/assets/vendor/aos/aos.css" rel="stylesheet">
   <link href="https://webdocs.pages.dev/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://webdocs.pages.dev/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
   <link href="https://webdocs.pages.dev/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
   <link href="https://webdocs.pages.dev/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
   <link href="https://webdocs.pages.dev/assets/vendor/remixicon/remixicon.css" rel="stylesheet">
   <link href="https://webdocs.pages.dev/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  
 
   <!-- Template Main CSS File -->
   <link href="https://webdocs.pages.dev/assets/css/style.css" rel="stylesheet">
@@ -75,23 +77,25 @@ include("conn.php")
   <header id="header" class="fixed-top d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <div class="logo">
-        <!--<h1><a href="index.html">SMCE</a></h1>-->
-        <!-- Uncomment below if you prefer to use an image logo -->
-        <a href="index.php"><img src="https://9509e6cb.webdocs.pages.dev/SMCE%20ERP.png" alt="" class="img-fluid"></a>
-      </div>
+    <div class="logo">
+    <!--<h1><a href="index.html">SMCE</a></h1>-->
+    <!-- Uncomment below if you prefer to use an image logo -->
+    <a href="index.php"><img src="https://webdocs.pages.dev/assets/img/LOGO%20NEW1.png" alt="" class="img-fluid" style="max-width: 100%; height: auto;"></a>
+</div>
+
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
           <li class="dropdown"><a href="#"><span>About Us</span> <i class="bi bi-chevron-right"></i></a>
             <ul>
               <li><a href="Management.php">Management</a></li>
-              <li><a href="principaldesk.php">Principal's Desk</a></li>
+              <li><a href="principaldesk.php">Admin Desk</a></li>
               <li><a href="oc.php">Organisation Chart</a></li>
               <li><a href="iqac.php">IQAC</a></li>
               <li><a href="strategicplan.php">Strategic Plan</a></li>
               <li><a href="codeofconduct.php">Code of Conduct</a></li>
-              <li><a href="mandatorydisclosure.php">mandatory Disclosure</a></li>
+              <li><a href="mandatorydisclosure.php">Mandatory Disclosure</a></li>
+              <li><a href="facilities.php">Features</a></li>
             </ul>
           <li class="dropdown"><a href="#"><span>Academics</span> <i class="bi bi-chevron-right"></i></a>
             <ul>
@@ -120,16 +124,17 @@ include("conn.php")
                       </ul>  
                   </ul>  
               <li><a href="placement_home.php">Placement</a></li>
-              <li><a href="#">Academic Time-Table</a></li>
+              <!--<li><a href="#">Academic Time-Table</a></li>
               <li><a href="#">Academic Calender</a></li>
-              <li><a href="#">Admission Criteria</a></li>
-              <li><a href="#">LMS</a></li>
+              <li><a href="#">Admission Criteria</a></li>-->
+              <li><a href="https://camps.stellamaryscoe.edu.in/CAMPS/CommonJSP/signin.jsp">CAMPS LOGIN</a></li>
             </ul>
             <li class="dropdown"><a href="#"><span>Research</span> <i class="bi bi-chevron-right"></i></a>
               <ul>
                 <li><a href="research_codeofethics.php">Team & Code of Ethics</a></li>
                 <li><a href="research_publications.php">Publications</a></li>
                 <li><a href="research_seedmoney.php">Stella Mary's Seed Money</a></li>
+                <li><a href="ipr.php">Intellectual Property Rights</a></li>
                 <li class="dropdown"><a href="research_seedmoney.php">Industry Collaboration<i class="bi bi-chevron-right"></i></a>
                 <ul>
                 <li><a href="research_mou.php">Memorandum of Understanding</a></li>
@@ -149,9 +154,9 @@ include("conn.php")
               <li class="dropdown"><a href="#more-services" href="#"><span>Extra Curricular</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                 <li><a href="nss.php">National Service Scheme</a></li>
-                <li><a href="yrc">Yoth Red Cross</a></li>  
+                <li><a href="yrc.php">Youth Red Cross</a></li>  
                 </ul>  
-              <li><a href="#">Institution Innovation Council</a></li>
+                <li><a href="facilities.php">Infrastructure/Gallery</a></li>
                 <li><a href="icc.php">Internal Complaint Cell</a></li>
                 <li><a href="research_codeofethics.php">Research and Development Cell</a></li>
                 <li><a href="placement_home.php">Career Guidance and Placement Training Cell</a></li>
@@ -167,7 +172,7 @@ include("conn.php")
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="mandatorydisclosure.php">Mandatory Disclosure</a></li>
-          <li><a class="getstarted scrollto" href="https://camps.stellamaryscoe.edu.in/CAMPS/CommonJSP/signin.jsp">CAMPS LOGIN</a></li>
+          <li><a class="getstarted scrollto" href="https://camps.stellamaryscoe.edu.in/CAMPS/applications/application_register.jsp">Admission</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -352,9 +357,9 @@ include("conn.php")
               <li class="text-justify">To provide students with the technical skills necessary for global innovation.</li>
               <li class="text-justify">To cultivate an environment that promotes active learning and innovation.</li>
               <li class="text-justify">To motivate students to transform their ideas into practical solutions.</li>
-              <li class="text-justify">To Form robust partnerships with industries to offer students real-world exposure.</li>
+              <li class="text-justify">To form robust partnerships with industries to offer students real-world exposure.</li>
               <li class="text-justify">To cultivate an entrepreneurial mind-set among students, fostering innovative thinking.</li>
-              <li class="text-justify">To Spark and nurture curiosity to encourage continuous learning among students.</li>
+              <li class="text-justify">To spark and nurture curiosity to encourage continuous learning among students.</li>
               <li class="text-justify">To equip students with the tools and skills necessary to become effective leaders.</li>
               <li class="text-justify">To emphasize ethical considerations in the development and application of technology.</li>
               <li class="text-justify">To cultivate a culture of collaboration and a shared commitment to making a positive impact globally.</li>
@@ -366,7 +371,7 @@ include("conn.php")
             <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
               <div class="icon"><i class="bx bx-receipt"></i></div>
               <h4 class="title"><a href="">Trust</a></h4>
-              <p class="description text-justify">The college is run by nova educational trust started in the year 2007, to provide the highest quality educational and research facilities to the students across the country. </p>
+              <p class="description text-justify">The college is run by Nova Educational Trust started in the year 2007, to provide the highest quality educational and research facilities to students across the country. </p>
             </div>
           </div>
 <ol></ol>
@@ -374,7 +379,7 @@ include("conn.php")
             <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
               <div class="icon"><i class="bx bx-cube-alt"></i></div>
               <h4 class="title"><a href="">Sister Concern</a></h4>
-              <p class="description text-justify">The trust manages the premier educational institutions like Bapuji Memorial higher secondary school, Bapuji Memorial College of Education, Stella Mary’s College of Engineering and Stella Mary's CBSE School.</p>
+              <p class="description text-justify">The trust manages the premier educational institutions like Bapuji Memorial Higher Secondary school, Bapuji Memorial College of Education, Stella Mary’s College of Engineering and Stella Mary's CBSE School.</p>
             </div>
           </div>
 

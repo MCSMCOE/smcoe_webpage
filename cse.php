@@ -27,6 +27,8 @@ include("conn.php")
   <link href="https://webdocs.pages.dev/assets/vendor/remixicon/remixicon.css" rel="stylesheet">
   <link href="https://webdocs.pages.dev/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
+  
+
   <!-- Template Main CSS File -->
   <link href="https://webdocs.pages.dev/assets/css/style.css" rel="stylesheet">
 
@@ -75,23 +77,25 @@ include("conn.php")
   <header id="header" class="fixed-top d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <div class="logo">
-        <!--<h1><a href="index.html">SMCE</a></h1>-->
-        <!-- Uncomment below if you prefer to use an image logo -->
-        <a href="index.php"><img src="https://9509e6cb.webdocs.pages.dev/SMCE%20ERP.png" alt="" class="img-fluid"></a>
-      </div>
+    <div class="logo">
+    <!--<h1><a href="index.html">SMCE</a></h1>-->
+    <!-- Uncomment below if you prefer to use an image logo -->
+    <a href="index.php"><img src="https://webdocs.pages.dev/assets/img/LOGO%20NEW1.png" alt="" class="img-fluid" style="max-width: 100%; height: auto;"></a>
+</div>
+
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
           <li class="dropdown"><a href="#"><span>About Us</span> <i class="bi bi-chevron-right"></i></a>
             <ul>
               <li><a href="Management.php">Management</a></li>
-              <li><a href="principaldesk.php">Principal's Desk</a></li>
+              <li><a href="principaldesk.php">Admin Desk</a></li>
               <li><a href="oc.php">Organisation Chart</a></li>
               <li><a href="iqac.php">IQAC</a></li>
               <li><a href="strategicplan.php">Strategic Plan</a></li>
               <li><a href="codeofconduct.php">Code of Conduct</a></li>
-              <li><a href="mandatorydisclosure.php">mandatory Disclosure</a></li>
+              <li><a href="mandatorydisclosure.php">Mandatory Disclosure</a></li>
+              <li><a href="facilities.php">Features</a></li>
             </ul>
           <li class="dropdown"><a href="#"><span>Academics</span> <i class="bi bi-chevron-right"></i></a>
             <ul>
@@ -120,16 +124,17 @@ include("conn.php")
                       </ul>  
                   </ul>  
               <li><a href="placement_home.php">Placement</a></li>
-              <li><a href="#">Academic Time-Table</a></li>
+              <!--<li><a href="#">Academic Time-Table</a></li>
               <li><a href="#">Academic Calender</a></li>
-              <li><a href="#">Admission Criteria</a></li>
-              <li><a href="#">LMS</a></li>
+              <li><a href="#">Admission Criteria</a></li>-->
+              <li><a href="https://camps.stellamaryscoe.edu.in/CAMPS/CommonJSP/signin.jsp">CAMPS LOGIN</a></li>
             </ul>
             <li class="dropdown"><a href="#"><span>Research</span> <i class="bi bi-chevron-right"></i></a>
               <ul>
                 <li><a href="research_codeofethics.php">Team & Code of Ethics</a></li>
                 <li><a href="research_publications.php">Publications</a></li>
                 <li><a href="research_seedmoney.php">Stella Mary's Seed Money</a></li>
+                <li><a href="ipr.php">Intellectual Property Rights</a></li>
                 <li class="dropdown"><a href="research_seedmoney.php">Industry Collaboration<i class="bi bi-chevron-right"></i></a>
                 <ul>
                 <li><a href="research_mou.php">Memorandum of Understanding</a></li>
@@ -149,9 +154,9 @@ include("conn.php")
               <li class="dropdown"><a href="#more-services" href="#"><span>Extra Curricular</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                 <li><a href="nss.php">National Service Scheme</a></li>
-                <li><a href="yrc">Yoth Red Cross</a></li>  
+                <li><a href="yrc.php">Youth Red Cross</a></li>  
                 </ul>  
-              <li><a href="#">Institution Innovation Council</a></li>
+                <li><a href="facilities.php">Infrastructure/Gallery</a></li>
                 <li><a href="icc.php">Internal Complaint Cell</a></li>
                 <li><a href="research_codeofethics.php">Research and Development Cell</a></li>
                 <li><a href="placement_home.php">Career Guidance and Placement Training Cell</a></li>
@@ -167,7 +172,7 @@ include("conn.php")
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="mandatorydisclosure.php">Mandatory Disclosure</a></li>
-          <li><a class="getstarted scrollto" href="https://camps.stellamaryscoe.edu.in/CAMPS/CommonJSP/signin.jsp">CAMPS LOGIN</a></li>
+          <li><a class="getstarted scrollto" href="https://camps.stellamaryscoe.edu.in/CAMPS/applications/application_register.jsp">Admission</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -221,7 +226,7 @@ include("conn.php")
         </div>
         <h3> Overview</h3>
         <p class="text-justify">
-          The Department of Computer Science and Engineering was started in the year 2013. The strengths of the department include its high faculty-to-student ratio, state of the art facilities, renowned faculty, strong focus on undergraduate education balanced with leading-edge research, and emphasis on leadership, service, community and teamwork.
+          The Department of Computer Science and Engineering was started in the year 2013. The strength of the department includes its high faculty-to-student ratio, state of the art facilities, renowned faculty, strong focus on undergraduate education balanced with leading edge research and emphasis on leadership, service, community and teamwork.
 
 The Department strives with an outlined vision in producing socially responsible and employable engineers. It has a team of well qualified and highly experienced faculty members and technical staff who deliver their skills to the students through 360◦ teaching-learning environment which includes deployment of Module, Video Tutorials from NPTEL.
 
@@ -458,7 +463,7 @@ The faculty members impart knowledge through curriculum based formal education a
                   </h2>
                   <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    <p class="fst-italic text-justify">Big data lab is typically equipped with internet access. Computers in this lab are typically arranged in rows, so that every workstation has a similar view of one end of the room to facilitate lecturing or presentations, to facilitate small group work. The Big Data Lab is equipped with 40 Lenovo Desktop computers with Intel i7 Processor, 64 bit OS, 8GB Ram, on screen projector & centralized AC. Programming and Data Structures, Object Oriented Programming Systems, Operating Systems, Internet Programming, Grid and Cloud Computing Lab practical classes are conducted in this Laboratory.</p>
+                    <p class="fst-italic text-justify">Big data lab is typically equipped with internet access. Computers in this lab are typically arranged in rows, so that every workstation has a similar view of one end of the room to facilitate lecturing or presentations, to engage small group work. The Big Data Lab is equipped with 40 Lenovo Desktop computers with Intel i7 Processor, 64 bit OS, 8GB Ram, on screen projector & centralized AC. Programming and Data Structures, Object Oriented Programming Systems, Operating Systems, Internet Programming, Grid and Cloud Computing Lab practical classes are conducted in this Laboratory.</p>
                     <div class="col-md-6 col-lg-12">
                   <img src="https://webdocs.pages.dev/assets/img/CSE/lab/BD.jpg" alt="" class="img-fluid">
                 </div>
@@ -700,8 +705,8 @@ The faculty members impart knowledge through curriculum based formal education a
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-journal-richtext"></i></div>
                   <h4 class="title"><a href="">Programme Outcomes</a></h4>
-                <li class="text-justify"><strong>Engineering knowledge:</strong> Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.</li>
-                <li class="text-justify"><strong>Problem analysis:</strong> Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of Mathematics, natural sciences, and engineering sciences.</li>
+                <li class="text-justify"><strong>Engineering knowledge:</strong> Apply the knowledge of Mathematics, Science, Engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.</li>
+                <li class="text-justify"><strong>Problem analysis:</strong> Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of Mathematics, Natural sciences and Engineering Sciences.</li>
                 <li class="text-justify"><strong>Design/development of solutions:</strong> Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal and environmental considerations.</li>
                 <li class="text-justify"><strong>Conduct investigations of complex problems:</strong>Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data and synthesis of the information to provide valid conclusions.</li>
                 <li class="text-justify"><strong>Modern tool usage:</strong>Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.</li>

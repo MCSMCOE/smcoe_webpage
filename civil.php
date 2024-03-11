@@ -18,14 +18,16 @@ include("conn.php")
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
- <!-- Vendor CSS Files -->
- <link href="https://webdocs.pages.dev/assets/vendor/aos/aos.css" rel="stylesheet">
+  <!-- Vendor CSS Files -->
+  <link href="https://webdocs.pages.dev/assets/vendor/aos/aos.css" rel="stylesheet">
   <link href="https://webdocs.pages.dev/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://webdocs.pages.dev/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
   <link href="https://webdocs.pages.dev/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
   <link href="https://webdocs.pages.dev/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
   <link href="https://webdocs.pages.dev/assets/vendor/remixicon/remixicon.css" rel="stylesheet">
   <link href="https://webdocs.pages.dev/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  
 
   <!-- Template Main CSS File -->
   <link href="https://webdocs.pages.dev/assets/css/style.css" rel="stylesheet">
@@ -75,23 +77,25 @@ include("conn.php")
   <header id="header" class="fixed-top d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <div class="logo">
-        <!--<h1><a href="index.html">SMCE</a></h1>-->
-        <!-- Uncomment below if you prefer to use an image logo -->
-        <a href="index.php"><img src="https://9509e6cb.webdocs.pages.dev/SMCE%20ERP.png" alt="" class="img-fluid"></a>
-      </div>
+    <div class="logo">
+    <!--<h1><a href="index.html">SMCE</a></h1>-->
+    <!-- Uncomment below if you prefer to use an image logo -->
+    <a href="index.php"><img src="https://webdocs.pages.dev/assets/img/LOGO%20NEW1.png" alt="" class="img-fluid" style="max-width: 100%; height: auto;"></a>
+</div>
+
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
           <li class="dropdown"><a href="#"><span>About Us</span> <i class="bi bi-chevron-right"></i></a>
             <ul>
               <li><a href="Management.php">Management</a></li>
-              <li><a href="principaldesk.php">Principal's Desk</a></li>
+              <li><a href="principaldesk.php">Admin Desk</a></li>
               <li><a href="oc.php">Organisation Chart</a></li>
               <li><a href="iqac.php">IQAC</a></li>
               <li><a href="strategicplan.php">Strategic Plan</a></li>
               <li><a href="codeofconduct.php">Code of Conduct</a></li>
-              <li><a href="mandatorydisclosure.php">mandatory Disclosure</a></li>
+              <li><a href="mandatorydisclosure.php">Mandatory Disclosure</a></li>
+              <li><a href="facilities.php">Features</a></li>
             </ul>
           <li class="dropdown"><a href="#"><span>Academics</span> <i class="bi bi-chevron-right"></i></a>
             <ul>
@@ -120,16 +124,17 @@ include("conn.php")
                       </ul>  
                   </ul>  
               <li><a href="placement_home.php">Placement</a></li>
-              <li><a href="#">Academic Time-Table</a></li>
+              <!--<li><a href="#">Academic Time-Table</a></li>
               <li><a href="#">Academic Calender</a></li>
-              <li><a href="#">Admission Criteria</a></li>
-              <li><a href="#">LMS</a></li>
+              <li><a href="#">Admission Criteria</a></li>-->
+              <li><a href="https://camps.stellamaryscoe.edu.in/CAMPS/CommonJSP/signin.jsp">CAMPS LOGIN</a></li>
             </ul>
             <li class="dropdown"><a href="#"><span>Research</span> <i class="bi bi-chevron-right"></i></a>
               <ul>
                 <li><a href="research_codeofethics.php">Team & Code of Ethics</a></li>
                 <li><a href="research_publications.php">Publications</a></li>
                 <li><a href="research_seedmoney.php">Stella Mary's Seed Money</a></li>
+                <li><a href="ipr.php">Intellectual Property Rights</a></li>
                 <li class="dropdown"><a href="research_seedmoney.php">Industry Collaboration<i class="bi bi-chevron-right"></i></a>
                 <ul>
                 <li><a href="research_mou.php">Memorandum of Understanding</a></li>
@@ -149,9 +154,9 @@ include("conn.php")
               <li class="dropdown"><a href="#more-services" href="#"><span>Extra Curricular</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                 <li><a href="nss.php">National Service Scheme</a></li>
-                <li><a href="yrc">Yoth Red Cross</a></li>  
+                <li><a href="yrc.php">Youth Red Cross</a></li>  
                 </ul>  
-              <li><a href="#">Institution Innovation Council</a></li>
+                <li><a href="facilities.php">Infrastructure/Gallery</a></li>
                 <li><a href="icc.php">Internal Complaint Cell</a></li>
                 <li><a href="research_codeofethics.php">Research and Development Cell</a></li>
                 <li><a href="placement_home.php">Career Guidance and Placement Training Cell</a></li>
@@ -167,7 +172,7 @@ include("conn.php")
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="mandatorydisclosure.php">Mandatory Disclosure</a></li>
-          <li><a class="getstarted scrollto" href="https://camps.stellamaryscoe.edu.in/CAMPS/CommonJSP/signin.jsp">CAMPS LOGIN</a></li>
+          <li><a class="getstarted scrollto" href="https://camps.stellamaryscoe.edu.in/CAMPS/applications/application_register.jsp">Admission</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -183,7 +188,7 @@ include("conn.php")
         <div class="d-flex justify-content-between align-items-center">
           <h2>Civil Engineering</h2>
           </div class="text-justify">
-          <p>Department specializes in the design, construction, and maintenance of physical structures and infrastructure, such as buildings, bridges, roads, and water supply systems </p>
+          <p>Department specializes in the design, construction and maintenance of physical structures and infrastructure such as buildings, bridges, roads, and water supply systems </p>
     
           
         </div>
@@ -232,7 +237,7 @@ include("conn.php")
         </div>
         <h3> Overview</h3>
           <p class="text-justify">
-            Department of Civil Engineering was started in the academic year 2014-2015 with an aim of promoting high quality education in the field of Civil Engineering. The department currently offers Bachelor of Engineering (B.E.) degree program in Civil Engineering with an intake of 60 students. The department has well equipped laboratory facilities and highly qualified faculty members having rich experience in teaching with different specialization. The faculty members have constantly been involving themselves in research in addition to guiding students through innovative teaching learning techniques.  
+            Department of Civil Engineering was started in the academic year 2014-2015 with an aim of promoting high quality education in the field of Civil Engineering. The department currently offers Bachelor of Engineering (B.E) degree program in Civil Engineering with an intake of 60 students. The department has well equipped laboratory facilities and highly qualified faculty members having rich experience in teaching with different specialization. The faculty members have constantly been involving themselves in research in addition to guiding students through innovative teaching learning techniques.  
         </p>
       </div>
 
@@ -446,7 +451,7 @@ include("conn.php")
                   </h2>
                   <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    <p class="fst-italic text-justify">This laboratory offers students an in-depth understanding of survey field techniques, allowing them to proficiently utilize advanced instruments for precision in measurements. Students will develop practical expertise in land surveys, levelling, and contour mapping. The course is structured to instill a comprehensive grasp of surveying principles, equipping students with the skills essential for practical applications in civil engineering and land development projects.</p>
+                    <p class="fst-italic text-justify">This laboratory offers students an in depth understanding of survey field techniques, allowing them to proficiently utilize advanced instruments for precision in measurements. Students will develop practical expertise in land surveys, levelling, and contour mapping. The course is structured to instill a comprehensive grasp of surveying principles, equipping students with the skills essential for practical applications in civil engineering and land development projects.</p>
                     <div class="col-md-6 col-lg-12">
                     <img src="https://webdocs.pages.dev/assets/img/CIVIL/lab/civillab1.png" alt="" class="img-fluid">
                     </div> 
@@ -461,7 +466,7 @@ include("conn.php")
                   </h2>
                   <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    <p class="fst-italic">This laboratory encompasses a series of experiments dedicated to characterizing water and municipal sewage. Upon completing the course, students are anticipated to have gained proficiency in quantifying quality parameters associated with water and sewage. The experiments provided in the laboratory enhances their practical understanding of water and wastewater analysis techniques.</p>
+                    <p class="fst-italic">This laboratory encompass a series of experiments dedicated to characterizing water and municipal sewage. Upon completing the course, students are anticipated to have gained proficiency in quantifying quality parameters associated with water and sewage. The experiments provided in the laboratory enhances their practical understanding of water and wastewater analysis techniques.</p>
                     <div class="col-md-6 col-lg-12">
                     <img src="https://webdocs.pages.dev/assets/img/CIVIL/lab/civillab6.png" alt="" class="img-fluid">
                     </div>
@@ -491,7 +496,7 @@ include("conn.php")
                   </h2>
                   <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    <p class="fst-italic">This laboratory is designed to cultivate skills in testing soils for their index and engineering properties, facilitating the characterization of soil based on these key attributes. Through experimentation, students will gain practical experience in soil testing techniques, aiming to foster a comprehensive understanding of soil behavior and properties. The ultimate goal is to equip students with the expertise needed for effective soil characterization in civil engineering applications.</p>
+                    <p class="fst-italic">This laboratory is designed to cultivate skills in testing soils for their index and engineering properties also facilitating the characterization of soil based on these key attributes. Through experimentation, students will gain practical experience in soil testing techniques, aiming to foster a comprehensive understanding of soil behavior and properties. The ultimate goal is to equip students with the expertise needed for effective soil characterization in civil engineering applications.</p>
                     <div class="col-md-6 col-lg-12">
                     <img src="https://webdocs.pages.dev/assets/img/mech/lab/mechlab5.jpg" alt="" class="img-fluid">
                     </div>
@@ -521,7 +526,7 @@ include("conn.php")
                   </h2>
                   <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    <p class="fst-italic">This laboratory aims to impart knowledge and skills related to building drawing and detailing using computer software. Students will engage in hands-on activities to enhance their proficiency in creating detailed building drawings. The course objective is to equip students with practical skills in utilizing computer software for Structural design and detailing, preparing them for real-world applications in the field of building construction.</p>
+                    <p class="fst-italic">This laboratory aims to impart knowledge and skills related to building drawing and detailing using computer software. Students will engage in hands-on activities to enhance their proficiency in creating detailed building drawings. The course objective is to equip students with practical skills in utilizing computer software for Structural design and detailing, preparing them for real world applications in the field of building construction.</p>
                     <div class="col-md-6 col-lg-12">
                     <img src="https://webdocs.pages.dev/assets/img/mech/lab/mechlab4.jpg" alt="" class="img-fluid">
                     </div>

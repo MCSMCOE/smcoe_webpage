@@ -18,14 +18,16 @@ include("conn.php")
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
- <!-- Vendor CSS Files -->
- <link href="https://webdocs.pages.dev/assets/vendor/aos/aos.css" rel="stylesheet">
+  <!-- Vendor CSS Files -->
+  <link href="https://webdocs.pages.dev/assets/vendor/aos/aos.css" rel="stylesheet">
   <link href="https://webdocs.pages.dev/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://webdocs.pages.dev/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
   <link href="https://webdocs.pages.dev/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
   <link href="https://webdocs.pages.dev/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
   <link href="https://webdocs.pages.dev/assets/vendor/remixicon/remixicon.css" rel="stylesheet">
   <link href="https://webdocs.pages.dev/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  
 
   <!-- Template Main CSS File -->
   <link href="https://webdocs.pages.dev/assets/css/style.css" rel="stylesheet">
@@ -75,23 +77,25 @@ include("conn.php")
   <header id="header" class="fixed-top d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <div class="logo">
-        <!--<h1><a href="index.html">SMCE</a></h1>-->
-        <!-- Uncomment below if you prefer to use an image logo -->
-        <a href="index.php"><img src="https://9509e6cb.webdocs.pages.dev/SMCE%20ERP.png" alt="" class="img-fluid"></a>
-      </div>
+    <div class="logo">
+    <!--<h1><a href="index.html">SMCE</a></h1>-->
+    <!-- Uncomment below if you prefer to use an image logo -->
+    <a href="index.php"><img src="https://webdocs.pages.dev/assets/img/LOGO%20NEW1.png" alt="" class="img-fluid" style="max-width: 100%; height: auto;"></a>
+</div>
+
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
           <li class="dropdown"><a href="#"><span>About Us</span> <i class="bi bi-chevron-right"></i></a>
             <ul>
               <li><a href="Management.php">Management</a></li>
-              <li><a href="principaldesk.php">Principal's Desk</a></li>
+              <li><a href="principaldesk.php">Admin Desk</a></li>
               <li><a href="oc.php">Organisation Chart</a></li>
               <li><a href="iqac.php">IQAC</a></li>
               <li><a href="strategicplan.php">Strategic Plan</a></li>
               <li><a href="codeofconduct.php">Code of Conduct</a></li>
-              <li><a href="mandatorydisclosure.php">mandatory Disclosure</a></li>
+              <li><a href="mandatorydisclosure.php">Mandatory Disclosure</a></li>
+              <li><a href="facilities.php">Features</a></li>
             </ul>
           <li class="dropdown"><a href="#"><span>Academics</span> <i class="bi bi-chevron-right"></i></a>
             <ul>
@@ -120,16 +124,17 @@ include("conn.php")
                       </ul>  
                   </ul>  
               <li><a href="placement_home.php">Placement</a></li>
-              <li><a href="#">Academic Time-Table</a></li>
+              <!--<li><a href="#">Academic Time-Table</a></li>
               <li><a href="#">Academic Calender</a></li>
-              <li><a href="#">Admission Criteria</a></li>
-              <li><a href="#">LMS</a></li>
+              <li><a href="#">Admission Criteria</a></li>-->
+              <li><a href="https://camps.stellamaryscoe.edu.in/CAMPS/CommonJSP/signin.jsp">CAMPS LOGIN</a></li>
             </ul>
             <li class="dropdown"><a href="#"><span>Research</span> <i class="bi bi-chevron-right"></i></a>
               <ul>
                 <li><a href="research_codeofethics.php">Team & Code of Ethics</a></li>
                 <li><a href="research_publications.php">Publications</a></li>
                 <li><a href="research_seedmoney.php">Stella Mary's Seed Money</a></li>
+                <li><a href="ipr.php">Intellectual Property Rights</a></li>
                 <li class="dropdown"><a href="research_seedmoney.php">Industry Collaboration<i class="bi bi-chevron-right"></i></a>
                 <ul>
                 <li><a href="research_mou.php">Memorandum of Understanding</a></li>
@@ -149,9 +154,9 @@ include("conn.php")
               <li class="dropdown"><a href="#more-services" href="#"><span>Extra Curricular</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                 <li><a href="nss.php">National Service Scheme</a></li>
-                <li><a href="yrc">Yoth Red Cross</a></li>  
+                <li><a href="yrc.php">Youth Red Cross</a></li>  
                 </ul>  
-              <li><a href="#">Institution Innovation Council</a></li>
+                <li><a href="facilities.php">Infrastructure/Gallery</a></li>
                 <li><a href="icc.php">Internal Complaint Cell</a></li>
                 <li><a href="research_codeofethics.php">Research and Development Cell</a></li>
                 <li><a href="placement_home.php">Career Guidance and Placement Training Cell</a></li>
@@ -167,7 +172,7 @@ include("conn.php")
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="mandatorydisclosure.php">Mandatory Disclosure</a></li>
-          <li><a class="getstarted scrollto" href="https://camps.stellamaryscoe.edu.in/CAMPS/CommonJSP/signin.jsp">CAMPS LOGIN</a></li>
+          <li><a class="getstarted scrollto" href="https://camps.stellamaryscoe.edu.in/CAMPS/applications/application_register.jsp">Admission</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -204,7 +209,7 @@ include("conn.php")
 
       <div class="row text-justify">
           <h3> Overview</h3>
-          <p class="text-justify">The National Assessment and Accreditation Council (NAAC), Bangalore proposes that every accredited institution should establish an Internal Quality Assurance Cell (IQAC) as a post-accreditation quality sustenance measure, in pursuance of its action plan in terms of performance evaluation, assessment and accreditation and quality up-gradation of institutions of higher education. The IQAC is a part of the institution’s system and work towards realisation of the goals of quality enhancement and sustenance, since quality enhancement is a continuous process. The key task of the IQAC is to evolve a system for conscious, consistent and catalytic improvement in the overall performance of institutions. IQAC will channelize all efforts and measures of the institution towards promoting its holistic academic excellence, during the post-accreditation period.
+          <p class="text-justify">The National Assessment and Accreditation Council (NAAC), Bangalore proposes that every accredited institution should establish an Internal Quality Assurance Cell (IQAC) as a post-accreditation quality sustenance measure, in pursuance of its action plan in terms of performance evaluation, assessment and accreditation and quality up-gradation of institutions of higher education. The IQAC is a part of the institution’s system and works towards the realisation of the goals of quality enhancement and sustenance, since quality enhancement is a continuous process. The key task of the IQAC is to evolve a system for conscious, consistent and catalytic improvement in the overall performance of institutions. IQAC will channelize all efforts and measures of the institution towards promoting its holistic academic excellence, during the post-accreditation period.
           </p>
           <p class="text-justify">The first step towards internalization and institutionalization of quality enhancement initiatives is the work of the IQAC. In all the constituents of the institution, its success depends upon the sense of belongingness and participation that it can implant. The IQAC will be a facilitative and participative voluntary system of the institution and it also has the potential to become a vehicle for steering in quality enhancement in terms of working out planned interventionist strategies thereby removing deficiencies and enhancing quality.</p>
         </div>
@@ -219,7 +224,7 @@ include("conn.php")
         <div class="col-lg-3">
           <ul class="nav nav-tabs flex-column">
             <li class="nav-item">
-              <a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">Vision & MISSION</a>
+              <a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">VISION & MISSION</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" data-bs-toggle="tab" href="#tab-2">People</a>
@@ -231,7 +236,7 @@ include("conn.php")
               <a class="nav-link" data-bs-toggle="tab" href="#tab-4">Gallery</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Functions & Benifits</a>
+              <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Functions & Benefits</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" data-bs-toggle="tab" href="#tab-6">Meeting Minutes</a>
@@ -249,7 +254,7 @@ include("conn.php")
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-10">Annual Report</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-11">institutional Distinctiveness</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-11">Institutional Distinctiveness</a>
             </li>
           </ul>
         </div>
@@ -262,12 +267,12 @@ include("conn.php")
                   <section id="services" class="services">
         <div class="container">
           <div class="row justify-content-center">
-            <div class="col-md-6 col-lg-12 ">
+            <div class="col-md-12 col-lg-12 d-flex align-items-stretch mb-5 mb-lg-0">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                 <div class="icon"><i class="bx bxl-dribbble"></i></div>
                 <h4 class="title"><a href="">VISION</a></h4>
                 <li>To evolve a system to improve the academic and administrative performance of the institution for a conscious, consistent and catalytic action.</li>  
-                <li>To endorse measures essential for the quality enhancement of the institutional functioning through internalization of quality culture and institutionalization of best practices</li>
+                <li>To endorse measures essential for the quality enhancement of institutional functioning through the internalization of quality culture and institutionalization of best practices</li>
               </div>
             </div>
   
@@ -767,9 +772,9 @@ include("conn.php")
           <ul>
             <li> Developing and applying quality benchmarks/parameters for various academic and administrative activities of the institution.</li>
             <li> Making possible the creation of a learner-centric environment favourable for quality education and also the very much needed faculty maturation to take up the required knowledge and technology for participatory teaching and learning process. </li>
-            <li> Making arrangements for feedback response from students and parents on quality-related institutional processes.</li>
+            <li> Making arrangements for feedback responses from students and parents on quality-related institutional processes.</li>
             <li> Disseminating the information on various quality parameters of higher education.</li>
-            <li> Organizing inter and intra institutional workshops, seminars that are focussed on quality based themes and the promotion of quality circles.</li>
+            <li> Organizing inter and intra-institutional workshops and seminars that are focussed on quality-based themes and the promotion of quality circles.</li>
          <li>Documenting the different programmes/activities that lead to quality improvement.</li>
          <li>Acting as a nodal agency of the Institution that coordinates quality-related activities.</li>
          <li>Developing and maintaining the institutional database through MIS for the purpose of keeping up /enhancing the quality of the institution.</li>
@@ -784,9 +789,9 @@ include("conn.php")
           <ul>
             <li>Ensuring a heightened level of clarity and focus in the institutional functioning towards quality enhancement.</li>
             <li>Ensuring internalization of the quality culture.</li>
-            <li>Ensuring improvement and synchronization among various activities of the institution and institutionalize all best practices.</li>
+            <li>Ensuring improvement and synchronization among various activities of the institution and institutionalizing all best practices.</li>
             <li>Providing a strong footing for decision-making to improve institutional functioning.</li>
-            <li>Building an systematic procedure of documentation and internal communication.</li>
+            <li>Building a systematic procedure of documentation and internal communication.</li>
             </ul>
         </div>
         
@@ -1151,7 +1156,7 @@ include("conn.php")
         <div class="resume-item pb-1">
           <h4>Objective</h4>
           <ul>
-            <li>To focus the Students and giving proper guidance to improve the innovative ideas to students through ICT tools</li>
+            <li>To focus the Students and give proper guidance to improve the innovative ideas to students through ICT tools</li>
           </ul>
         
         </div>
@@ -1159,20 +1164,20 @@ include("conn.php")
         <div class="resume-item pb-1">
           <h4>The Context</h4>
           <ul>
-            <li>Faculties interact the students with the help of ICT tools and its an effective way to communicate the students</li>
+            <li>Faculties interact with the students with the help of ICT tools and it's an effective way to communicate with the students</li>
           </ul>
        
         </div>
         <div class="resume-item pb-2">
           <h4>The Practice</h4>
           <ul>
-            <li>Teaching through zoom/Google/zoho meet with power point presentations, videos, animations, etc</li>
+            <li>Teaching through Zoom/Google/Zoho meet with PowerPoint presentations, videos, animations, etc</li>
             <li>Assignments and notes provided through Google classrooms</li>
-            <li>Objective type questions and short answers are uploaded through google class room</li>
+            <li>Objective-type questions and short answers are uploaded through google class room</li>
             <li>Laboratories are conducted through virtually</li>
-            <li>Communication to students through Whatsapp groups</li>
+            <li>Communication with students through Whatsapp groups</li>
             <li>Online feedback</li>
-            <li>Assignment and Exam scripts are evaluated and uploaded to individual students through googleclass rooms</li>
+            <li>Assignments and Exam scripts are evaluated and uploaded to individual students through Coogle classrooms</li>
           </ul>
        
         </div>
@@ -1180,7 +1185,7 @@ include("conn.php")
           <h4>Evidence of success</h4>
           <ul>
             <li>Students are highly attentive in classes</li>
-            <li>Performance of students are improved</li>
+            <li>The performance of students is improved</li>
             <li>Easy way to identify the absentees in class and Examinations</li>
           </ul>
           
@@ -1200,7 +1205,7 @@ include("conn.php")
           <ul>
               <li>Availability of connectivity devices for financially affected students</li>
               <li>Poor Internet connectivity for rural area students</li>
-              <li>Concentration of the students will get diverted by using Electronic Devices</li>
+              <li>The concentration of the students will be diverted by using Electronic Devices</li>
               <li>High power consumption to connectivity devices</li>
               
               </ul>    
@@ -1214,7 +1219,7 @@ include("conn.php")
           <h5>2019 - Present</h5>
           <p><em>Experion, New York, NY </em></p>-->
           <ul>
-            <li>To develop innovative ideas, communication skill, technical skills, leadership quality and entrepreneur skill of the students</li>    
+            <li>To develop innovative ideas, communication skills, technical skills, leadership qualities and entrepreneurial skill in the students</li>    
         </div>
         <div class="resume-item">
           <h4>The Context</h4>
@@ -1229,13 +1234,13 @@ include("conn.php")
           <!--<h5>2017 - 2018</h5>
           <p><em>Stepping Stone Advertising, New York, NY</em></p>-->
           <ul>
-            <li>Displaying list of mini projects</li>
-            <li>Selecting the students based on the interest show towards the projects</li>
+            <li>Displaying a list of mini projects</li>
+            <li>Selecting the students based on the interest shown towards the projects</li>
             <li>Encourage real time innovative projects</li>
             <li>Organized workshops and seminars for better understanding</li>
-            <li>Encourage implant training in every semester end.</li>
+            <li>Encourage implant training at every semester end.</li>
             <li>Encourage NPTEL online courses</li>
-            <li>Placement training are given through experts</li>
+            <li>Placement training is given through experts</li>
             <li>Certificate courses are conducted through MoU with startups</li>
           </ul>
         </div>
@@ -1246,8 +1251,8 @@ include("conn.php")
           <ul>
             <li>Finalist in Smart India Hackathon 2020 – Software Edition</li>
             <li>Finalist in Smart India Hackathon 2022 - Software Edition</li>
-            <li>Students presents papers in journals</li>
-            <li>Online event conducted to bring out students hidden talents</li>
+            <li>Students present papers in journals</li>
+            <li>Online event are conducted to bring out student's hidden talents</li>
           </ul>
         </div>
         <div class="resume-item">
@@ -1373,7 +1378,7 @@ include("conn.php")
                                 <div class="container">
                           
                                   <div class="section-title" data-aos="fade-up">
-                                    <h2>institutional Distinctiveness</h2>
+                                    <h2>Institutional Distinctiveness</h2>
                                     <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
                                   </div>
                           
@@ -1403,17 +1408,17 @@ include("conn.php")
           
           <ul>
             <li>Communication training programs to improve the communication skills and the English fluency in students.</li>
-            <li>Campus training programs that help to impart a sound knowledge of technical skills in students.</li>
-            <li>Training on soft skills, resume preparation, personal interviews, group discussions, through our Corporate Relations department.</li>
+            <li>Campus training programs that help to impart a sound knowledge of technical skills to students.</li>
+            <li>Training on soft skills, resume preparation, personal interviews and group discussions, through our Corporate Relations department.</li>
             </ul>
-            <p><em>The Corporate Relations cell is an integral part of our institution, which ensures that the students are well trained and motivated to face campus interviews efficiently. The placement support teams take effort to organize trainings related to aptitude, soft skills, technical skills and corporate expectations to groom the students well for the interview process.</em></p>
+            <p><em>The Corporate Relations cell is an integral part of our institution, which ensures that the students are well trained and motivated to face campus interviews efficiently. The placement support teams make an effort to organize training related to aptitude, soft skills, technical skills and corporate expectations to groom the students well for the interview process.</em></p>
            
         </div>
         <div class="resume-item pb-2">
           <h4>National and International Placement</h4>
           <ul>
             <li>It is our institute’s distinctiveness in bringing in recruiters from reputed companies from India and abroad placement.</li>
-            <li>Performance of students are improved</li>
+            <li>The performance of students is improved</li>
             <li>Easy way to identify the absentees in class and Examinations</li>
           </ul>
          <br> 
@@ -1421,8 +1426,8 @@ include("conn.php")
         <div class="resume-item pb-2 text-justify">
           <h4>Memorandum of understanding</h4>
           <ul>
-            <li>We had MoU with S’Hail Metals and Rassas Battery Recycling battery for recruiting our students.</li>
-            <p><em>S’Hail Metals and Rassas Battery Recycling Factory are our abroad recruiters who would identify the best candidates who would be presented to them on the day of the interview process. This abroad placement has also been a source of motivation for the students who aim to get placed and the expenditure for their travel and visa is also borne by the institution. Being located in a rural area and grooming the rural students technically and skillfully to take part in international placement drives is a real challenge to the faculty involved in the research, centre for innovation and the corporate relations departments. It’s all possible through the constant motivation and support from the authorities from top order at every level. Abroad placement is a pride for the institution and a spotlight for progress towards the goal to be achieved by every student who does justice in making the best use of the study environment provided by Stella Mary’s College of Engineering.</em></p>
+            <li>We had a MoU with S’Hail Metals and Rassas Battery Recycling battery for recruiting our students.</li>
+            <p><em>S’Hail Metals and Rassas Battery Recycling Factory are our abroad recruiters who would identify the best candidates who would be presented to them on the day of the interview process. This abroad placement has also been a source of motivation for the students who aim to get placed and the expenditure for their travel and visa is also borne by the institution. Being located in a rural area and grooming the rural students technically and skillfully to take part in international placement drives is a real challenge to the faculty involved in the research, centre for innovation and the corporate relations departments. It’s all possible through the constant motivation and support from the authorities from the top order at every level. Abroad placement is a pride for the institution and a spotlight for progress towards the goal to be achieved by every student who does justice in making the best use of the study environment provided by Stella Mary’s College of Engineering.</em></p>
            </ul>
          <br> 
         </div>

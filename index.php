@@ -124,9 +124,9 @@ include("conn.php")
                       </ul>  
                   </ul>  
               <li><a href="placement_home.php">Placement</a></li>
-              <li><a href="#">Academic Time-Table</a></li>
+              <!--<li><a href="#">Academic Time-Table</a></li>
               <li><a href="#">Academic Calender</a></li>
-              <li><a href="#">Admission Criteria</a></li>
+              <li><a href="#">Admission Criteria</a></li>-->
               <li><a href="https://camps.stellamaryscoe.edu.in/CAMPS/CommonJSP/signin.jsp">CAMPS LOGIN</a></li>
             </ul>
             <li class="dropdown"><a href="#"><span>Research</span> <i class="bi bi-chevron-right"></i></a>
@@ -156,7 +156,7 @@ include("conn.php")
                 <li><a href="nss.php">National Service Scheme</a></li>
                 <li><a href="yrc.php">Youth Red Cross</a></li>  
                 </ul>  
-              <li><a href="#">Institution Innovation Council</a></li>
+                <li><a href="facilities.php">Infrastructure/Gallery</a></li>
                 <li><a href="icc.php">Internal Complaint Cell</a></li>
                 <li><a href="research_codeofethics.php">Research and Development Cell</a></li>
                 <li><a href="placement_home.php">Career Guidance and Placement Training Cell</a></li>
@@ -932,7 +932,7 @@ pagination: {
                 <div class="col-md-6 d-md-flex align-items-md-stretch">
                   <div class="count-box">
                     <i class="bi bi-emoji-smile"></i>
-                    <span data-purecounter-start="0" data-purecounter-end="991" data-purecounter-duration="1" class="purecounter"></span>
+                    <span data-purecounter-start="0" data-purecounter-end="1290" data-purecounter-duration="1" class="purecounter"></span>
                     <p><strong>Budding Engineers</strong> - Empowering education, inspiring faculty, supportive community</p>
                   </div>
                 </div>
@@ -946,14 +946,14 @@ pagination: {
                 <div class="col-md-6 d-md-flex align-items-md-stretch">
                   <div class="count-box">
                     <i class="bi bi-emoji-smile"></i>
-                    <span data-purecounter-start="0" data-purecounter-end="993" data-purecounter-duration="1" class="purecounter"></span>
+                    <span data-purecounter-start="0" data-purecounter-end="" data-purecounter-duration="1" class="purecounter"></span>
                     <p><strong>Proud Alumni</strong> Accomplished, successful, impactful - our proud alumni make a difference!</p>
                   </div>
                 </div>
                 <div class="col-md-6 d-md-flex align-items-md-stretch">
                   <div class="count-box">
                     <i class="bi bi-award"></i>
-                    <span data-purecounter-start="0" data-purecounter-end="114" data-purecounter-duration="1" class="purecounter"></span>
+                    <span data-purecounter-start="0" data-purecounter-end="93" data-purecounter-duration="1" class="purecounter"></span>
                     <p><strong>Staff</strong> Dedicated, talented, valued - our staff drives excellence and success!</p>
                   </div>
                 </div>
@@ -1312,7 +1312,7 @@ pagination: {
             <div class="col-lg-3 col-md-6 footer-links">
               <h4>QUICK LINKS 1</h4>
               <ul>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">NIRF</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="https://webdocs.pages.dev/assets/docs/iqac/nirf/SMCE2024.pdf">NIRF</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="#">ANTI RAGGING CELL</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="#">GRIEVANCE REDRESSAL CELL</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="#">INTERNAL COMPLIANCE CELL</a></li>
@@ -1323,7 +1323,7 @@ pagination: {
             <div class="col-lg-3 col-md-6 footer-links">
               <h4>QUICK LINKS 2</h4>
               <ul>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">ONLINE ADMISSION</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="https://camps.stellamaryscoe.edu.in/CAMPS/applications/application_register.jsp">ONLINE ADMISSION</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="https://webdocs.pages.dev/assets/docs/iqac/naac/NAAC%20CERTIFICATION%20-%20CYCLE%201.pdf">NAAC CERTIFICATE</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="https://webdocs.pages.dev/assets/docs/iqac/naac/NAAC%20SSR%20REPORT-CYCLE%201.pdf">NAAC SSR</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="https://css.aicte-india.org/login">AICTE Centralised Support System</a></li>
