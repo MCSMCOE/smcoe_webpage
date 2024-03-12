@@ -205,7 +205,7 @@ include("conn.php")
 
       <div class="row text-justify">
           <h3> Overview</h3>
-          <p class="text-justify">An Alumni association is an association of graduates or more broadly, former students. There associations often organize social events, publish newsletters or magazine. Many provide a variety of benefits and services that help alumni maintain connections to their educational institution and fellow graduates. Today alumni associations involves graduate of all age groups and demographics.</p>
+          <p class="text-justify">An Alumni association is an association of graduates or more broadly, former students. These associations often organize social events and publish newsletters or magazines. Many provide a variety of benefits and services that help alumni maintain connections to their educational institution and fellow graduates. Today alumni associations involve graduates of all age groups and demographics.</p>
           </div>
         
   </section><!-- End Cource Details Section -->
@@ -330,8 +330,8 @@ include("conn.php")
                             <div class="icon"><i class="bx bxl-dribbble"></i></div>
                             <h4 class="title"><a href="">Activities</a></h4>
                             <li>Platform for meeting and exchange of ideas among the alumni.</li>  
-                            <li>Assist students for career guidance program.</li>
-                            <li>Technical seminars by alumni in reputed organization.</li>
+                            <li>Assist students for the career guidance program.</li>
+                            <li>Technical seminars by alumni in reputed organizations.</li>
                             <li>Keep alumni posted through the website.</li>
                             <li>Getting feedback for constant improvisation.</li>
                           </div>

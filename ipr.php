@@ -242,7 +242,7 @@ include("conn.php")
       <section id="services" class="services">
           <div class="container">
             <div class="row">
-              <p class="col-lg-12 mt-4 mt-lg-0 fst-italic text-justify"><strong>Intellectual property</strong> plays an important role in providing a competitive edge to any Institution. The Stella Mary’s College of Engineering recognizes the importance of generation of intellectual property by its teachers and students. The college is committed to do all that is within its powers and obligations to encourage the creativity and innovation of its people, which can lead to generation of intellectual property (IP). This cell provides support and guidance to the engineering students and staff in protecting their inventions and creations.</p>
+              <p class="col-lg-12 mt-4 mt-lg-0 fst-italic text-justify"><strong>Intellectual property</strong> plays an important role in providing a competitive edge to any Institution. The Stella Mary’s College of Engineering recognizes the importance of generation of intellectual property by its teachers and students. The college is committed to do all that is within its powers and obligations to encourage the creativity and innovation of its people, which can lead to the generation of intellectual property (IP). This cell provides support and guidance to the engineering students and staff in protecting their inventions and creations.</p>
                   
               <div class="col-md-12 col-lg-12 d-flex align-items-stretch mb-5 mb-lg-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">

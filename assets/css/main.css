@@ -1169,6 +1169,7 @@
   
   .footer .credits a {
     color: var(--color-primary);
+<<<<<<< HEAD
   }
 
   *--------------------------------------------------------------
@@ -1254,3 +1255,6 @@
 .testimonials1 .swiper-pagination .swiper-pagination-bullet-active {
   background-color: var(--color-primary);
 }
+=======
+  }
+>>>>>>> 9136cf3 (update)

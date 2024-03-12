@@ -214,7 +214,7 @@ include("conn.php")
           <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
-                <img src="https://webdocs.pages.dev/assets/img/CSE/teaching/PARTHEBAN.png" class="img-fluid" alt="">
+                <img src="https://webdocs.pages.dev/assets/img/faculty/Johnson.png" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -232,7 +232,7 @@ include("conn.php")
           <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
               <div class="member" data-aos="fade-up" data-aos-delay="100">
                 <div class="member-img">
-                  <img src="https://webdocs.pages.dev/assets/img/CSE/teaching/PARTHEBAN.png" class="img-fluid" alt="">
+                  <img src="https://webdocs.pages.dev/assets/img/faculty/1291.png" class="img-fluid" alt="">
                   <div class="social">
                     <a href=""><i class="bi bi-instagram"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -396,7 +396,7 @@ include("conn.php")
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="course-item">
-              <img src="https://422ad05a.webdocs.pages.dev/badminton.png" class="img-fluid" alt="...">
+              <img src="https://webdocs.pages.dev/assets/img/sports/badminton.png" class="img-fluid" alt="...">
               <div class="course-content">
                 <div class="d-flex justify-content-between align-items-center mb-3">
                   <h4>Men | Women</h4>
@@ -405,7 +405,7 @@ include("conn.php")
                 <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
-                    <img src="assets/img/trainers/trainer-1.jpg" class="img-fluid" alt="">
+                    <img src="https://webdocs.pages.dev/assets/img/sports/badminton.png" class="img-fluid" alt="">
                   </div>
                   <div class="trainer-rank d-flex align-items-center">
                   </div>
@@ -416,7 +416,7 @@ include("conn.php")
           <!-- End Course Item-->
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="course-item">
-              <img src="assets/img/sports/ballbadminton.jpeg" class="img-fluid" alt="...">
+              <img src="https://webdocs.pages.dev/assets/img/sports/ballbadminton.jpeg" class="img-fluid" alt="...">
               <div class="course-content">
                 <div class="d-flex justify-content-between align-items-center mb-3">
                   <h4>Men | Women</h4>
@@ -425,7 +425,7 @@ include("conn.php")
                 <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
-                    <img src="assets/img/trainers/trainer-1.jpg" class="img-fluid" alt="">
+                    <img src="https://webdocs.pages.dev/assets/img/sports/ballbadminton.jpeg" class="img-fluid" alt="">
                   </div>
                   <div class="trainer-rank d-flex align-items-center">
                   </div>
@@ -436,7 +436,7 @@ include("conn.php")
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="course-item">
-              <img src="assets/img/sports/tabletennis.webp" class="img-fluid" alt="...">
+              <img src="https://webdocs.pages.dev/assets/img/sports/tt.png" class="img-fluid" alt="...">
               <div class="course-content">
                 <div class="d-flex justify-content-between align-items-center mb-3">
                   <h4>Men | Women</h4>
@@ -445,7 +445,7 @@ include("conn.php")
                 <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
-                    <img src="assets/img/sports/tabletennis.webp" class="img-fluid" alt="">
+                    <img src="https://webdocs.pages.dev/assets/img/sports/tt.png" class="img-fluid" alt="">
                   </div>
                   <div class="trainer-rank d-flex align-items-center">
                   </div>
@@ -455,7 +455,7 @@ include("conn.php")
           </div>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="course-item">
-              <img src="assets/img/sports/basketball.jpeg" class="img-fluid" alt="...">
+              <img src="https://webdocs.pages.dev/assets/img/sports/basketball.jpeg" class="img-fluid" alt="...">
               <div class="course-content">
                 <div class="d-flex justify-content-between align-items-center mb-3">
                   <h4>Men | Women</h4>
@@ -464,7 +464,7 @@ include("conn.php")
                 <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
-                    <img src="assets/img/trainers/trainer-1.jpg" class="img-fluid" alt="">
+                    <img src="https://webdocs.pages.dev/assets/img/sports/basketball.jpeg" class="img-fluid" alt="">
                   </div>
                   <div class="trainer-rank d-flex align-items-center">
                   </div>
@@ -474,7 +474,7 @@ include("conn.php")
           </div>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="course-item">
-              <img src="https://cb0826f4.webdocs.pages.dev/cricket.png" class="img-fluid" alt="...">
+              <img src="https://webdocs.pages.dev/assets/img/sports/cricket.png" class="img-fluid" alt="...">
               <div class="course-content">
                 <div class="d-flex justify-content-between align-items-center mb-3">
                   <h4>Men
@@ -484,7 +484,7 @@ include("conn.php")
                 <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
-                    <img src="https://cb0826f4.webdocs.pages.dev/cricket.png" class="img-fluid" alt="">
+                    <img src="https://webdocs.pages.dev/assets/img/sports/cricket.png" class="img-fluid" alt="">
                   </div>
                   <div class="trainer-rank d-flex align-items-center">
                   </div>
@@ -494,7 +494,7 @@ include("conn.php")
           </div>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="course-item">
-              <img src="assets/img/sports/football.jpeg" class="img-fluid" alt="...">
+              <img src="https://webdocs.pages.dev/assets/img/sports/football.jpeg" class="img-fluid" alt="...">
               <div class="course-content">
                 <div class="d-flex justify-content-between align-items-center mb-3">
                   <h4>Men</h4>
@@ -503,7 +503,7 @@ include("conn.php")
                 <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
-                    <img src="assets/img/trainers/trainer-1.jpg" class="img-fluid" alt="">
+                    <img src="https://webdocs.pages.dev/assets/img/sports/football.jpeg" class="img-fluid" alt="">
                   </div>
                   <div class="trainer-rank d-flex align-items-center">
                   </div>
@@ -513,7 +513,7 @@ include("conn.php")
           </div>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="course-item">
-              <img src="assets/img/sports/swimming.png" class="img-fluid" alt="...">
+              <img src="https://webdocs.pages.dev/assets/img/sports/swimming.png" class="img-fluid" alt="...">
               <div class="course-content">
                 <div class="d-flex justify-content-between align-items-center mb-3">
                   <h4>Men | Women</h4>
@@ -522,7 +522,7 @@ include("conn.php")
                 <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
-                    <img src="assets/img/trainers/trainer-1.jpg" class="img-fluid" alt="">
+                    <img src="https://webdocs.pages.dev/assets/img/sports/swimming.png" class="img-fluid" alt="">
                   </div>
                   <div class="trainer-rank d-flex align-items-center">
                   </div>
@@ -532,7 +532,7 @@ include("conn.php")
           </div>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="course-item">
-              <img src="https://422ad05a.webdocs.pages.dev//hockey.webp" class="img-fluid" alt="...">
+              <img src="https://webdocs.pages.dev/assets/img/sports/kabaddi.png" class="img-fluid" alt="...">
               <div class="course-content">
                 <div class="d-flex justify-content-between align-items-center mb-3">
                   <h4>Men | Women</h4>
@@ -541,7 +541,7 @@ include("conn.php")
                 <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
-                    <img src="https://422ad05a.webdocs.pages.dev//hockey.webp" class="img-fluid" alt="">
+                    <img src="https://webdocs.pages.dev/assets/img/sports/kabaddi.png" class="img-fluid" alt="">
                   </div>
                   <div class="trainer-rank d-flex align-items-center">
                   </div>
@@ -551,7 +551,7 @@ include("conn.php")
           </div>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="course-item">
-              <img src="https://422ad05a.webdocs.pages.dev//hockey.webp" class="img-fluid" alt="...">
+              <img src="https://webdocs.pages.dev/assets/img/sports/hockey.png" class="img-fluid" alt="...">
               <div class="course-content">
                 <div class="d-flex justify-content-between align-items-center mb-3">
                   <h4>Men</h4>
@@ -560,7 +560,7 @@ include("conn.php")
                 <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
-                    <img src="https://422ad05a.webdocs.pages.dev//hockey.webp" class="img-fluid" alt="">
+                    <img src="https://webdocs.pages.dev/assets/img/sports/hockey.png" class="img-fluid" alt="">
                   </div>
                   <div class="trainer-rank d-flex align-items-center">
                   </div>
@@ -642,13 +642,13 @@ include("conn.php")
         <div class="row justify-content-center" data-aos="zoom-in" data-aos-delay="100">
           <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
             <div class="member">
-              <img src="https://webdocs.pages.dev/assets/img/CSE/teaching/PARTHEBAN.png" class="img-fluid" alt="">
+              <img src="https://webdocs.pages.dev/assets/img/sports/formIII/jeswin.png" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Mr.Jeshwin Arul</h4>
                 <h6>Badminton</h6>
                 <span>Department of Mechanical Engineering</span>
                 <p>
-                  2022,2023 - Form III holder & Anna University team Member
+                  2019-20,2021-22,2022-23,2023-24 - Form III holder & Anna University team Member
                 </p>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
@@ -661,7 +661,7 @@ include("conn.php")
           </div>
           <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
             <div class="member">
-              <img src="https://webdocs.pages.dev/assets/img/CSE/teaching/PARTHEBAN.png" class="img-fluid" alt="">
+              <img src="https://webdocs.pages.dev/assets/img/sports/formIII/kiruthick.png" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Mr.Khiruthick</h4>
                 <h6>Badminton</h6>
@@ -680,13 +680,13 @@ include("conn.php")
           </div>
           <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
             <div class="member">
-              <img src="https://webdocs.pages.dev/assets/img/CSE/teaching/PARTHEBAN.png" class="img-fluid" alt="">
+              <img src="https://webdocs.pages.dev/assets/img/sports/formIII/vishal.png" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Mr.Vishal Aravind</h4>
                 <h6>Badminton</h6>
                 <span>Department of Civil Engineering</span>
                 <p>
-                  2022,2023 - Form III holder & Anna University team Member
+                  2021-22,2022-23, 2023-24 - Form III holder & Anna University team Member
                 </p>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
@@ -699,13 +699,13 @@ include("conn.php")
           </div>
           <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
             <div class="member">
-              <img src="https://webdocs.pages.dev/assets/img/CSE/teaching/PARTHEBAN.png" class="img-fluid" alt="">
+              <img src="https://webdocs.pages.dev/assets/img/sports/formIII/shifra.png" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Ms.Shifra John</h4>
                 <h6>Badminton</h6>
                 <span>Department of M.E Industrial Safety Engineering</span>
                 <p>
-                  2023 - Form III holder & Anna University team Member
+                  2022-23 - Form III holder & Anna University team Member
                 </p>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
@@ -718,13 +718,13 @@ include("conn.php")
           </div>
           <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
             <div class="member">
-              <img src="https://webdocs.pages.dev/assets/img/CSE/teaching/PARTHEBAN.png" class="img-fluid" alt="">
+              <img src="https://webdocs.pages.dev/assets/img/sports/formIII/jeswin.png" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Mr.Jeswin Arul</h4>
                 <h6>Fencing</h6>
                 <span>Department of M.E Industrial Safety Engineering</span>
                 <p>
-                  2023 - Form III holder 
+                2022-23, 2023-24 - Form III holder 
                 </p>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
@@ -737,13 +737,13 @@ include("conn.php")
           </div>
           <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
             <div class="member">
-              <img src="https://webdocs.pages.dev/assets/img/CSE/teaching/PARTHEBAN.png" class="img-fluid" alt="">
+              <img src="https://webdocs.pages.dev/assets/img/sports/formIII/dhar.png" class="img-fluid" alt="">
               <div class="member-content">
-                <h4>Ms.Bhavithra</h4>
-                <h6>Swimming</h6>
-                <span>Department of Electronics and Communication Engineering</span>
+                <h4>Mr.Dharmendra Vijayaraj</h4>
+                <h6>Badminton</h6>
+                <span>Department of Master of Business Administration</span>
                 <p>
-                  2022,2023 - Form III holder
+                  2023-24 - Form III holder
                 </p>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>

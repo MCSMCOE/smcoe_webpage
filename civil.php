@@ -85,7 +85,7 @@ include("conn.php")
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
+          <li><a href="index.php">Home</a></li>
           <li class="dropdown"><a href="#"><span>About Us</span> <i class="bi bi-chevron-right"></i></a>
             <ul>
               <li><a href="Management.php">Management</a></li>
@@ -101,7 +101,7 @@ include("conn.php")
             <ul>
               <li class="dropdown"><a href="#more-services" href="#"><span>Department - Under Graduate</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
-                  <li><a href="civil.php">Civil Engineering</a></li>
+                  <li><a class="nav-link scrollto active" href="civil.php">Civil Engineering</a></li>
                   <li><a href="cse.php">Computer Science and Engineering</a></li>
                   <li><a href="ece.php">Electronics and Communication Engineering</a></li>
                   <li><a href="eee.php">Electrical and Electronics Engineering</a></li>

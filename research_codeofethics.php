@@ -262,11 +262,11 @@ include("conn.php")
                 <h4>The institution has a stated code of ethics to check malpractices and plagiarism in Research</h4>
                 <p><em>The institution has a stated code of ethics to check malpractices and plagiarism in Research which states:</em></p>
                 <ul>
-                  <strong>Integrity:</strong><li>The researcher is responsible for the trustworthiness of his or her own research. Fabrication, falsification, plagiarism and similar serious violations of good academic practice are incommensurate with such trustworthiness.</li>
+                  <strong>Integrity:</strong><li>The researcher is responsible for the trustworthiness of his or her research. Fabrication, falsification, plagiarism and similar serious violations of good academic practice are incommensurate with such trustworthiness.</li>
                   <strong>Respect:</strong><li>People who participate in research, as informants or otherwise, shall be treated with respect.</li>
                   <strong>Fairness:</strong><li>All research projects shall be designed and implemented fairly.</li>
                   <strong>Quest for Truth:</strong><li>Research activity is a quest for new knowledge, with critical and systematic verification and peer review.</li>
-                  <strong>Academic freedom:</strong><li>Institution shall assist in ensuring the researchers’ freedom in their choice of topic and methodology, implementation of research and publication of results.</li>
+                  <strong>Academic freedom:</strong><li>The institution shall assist in ensuring the researchers’ freedom in their choice of topic and methodology, implementation of research and publication of results.</li>
                   <strong>Quality:</strong><li>Research should be of high academic quality. The researcher and institution are required to possess the necessary competence, design relevant research questions, undertake suitable choices of methodology and ensure sound and appropriate project implementation in terms of data collection, data processing and safekeeping/storage of the material.</li>
                   <strong>Voluntary informed Consent:</strong><li>Consent is the main rule in research on individuals or on information and material that can be linked to individuals. This consent should be informed, explicit, voluntary and documentable.</li>
                   <strong>Confidentiality:</strong><li>As a general principle, those who are made the subjects of research are entitled to have their personal information treated confidentially. The researcher must prevent any use and communication of information that might inflict damage on individuals who are the subjects of research.</li>

@@ -202,7 +202,11 @@ include("conn.php")
           <div class="col-lg-3 order-1 order-lg-6" data-aos="fade-right" data-aos-delay="100">
             <img src="https://webdocs.pages.dev/assets/img/team/D.jpg" class="img-fluid" alt="">
           </div>
+<<<<<<< HEAD
           <div class="col-lg-7 pt-4 pt-lg-0 order-2 order-lg-1 justify-content-xl-start">
+=======
+          <div class="col-md-9 pt-4 pt-lg-0 order-2 order-lg-1 justify-content-xl-start">
+>>>>>>> 9136cf3 (update)
             <span class="h3 d-inline-block">
               <b class="font-weight-bold">Dr.J.Jenix Rino</b>
               <small class="h6 text-secondary">M.E.,M.B.A.,Ph.D</small>
@@ -240,7 +244,11 @@ Stella Mary’s College of Engineering is one of the best institutes in Kanyakum
           <div class="col-lg-3 order-1 order-lg-6" data-aos="fade-right" data-aos-delay="100">
             <img src="https://webdocs.pages.dev/assets/img/faculty/1278.png" class="img-fluid" alt="">
           </div>
+<<<<<<< HEAD
           <div class="col-lg-7 pt-4 pt-lg-0 order-2 order-lg-1 justify-content-xl-start">
+=======
+          <div class="col-md-9 pt-4 pt-lg-0 order-2 order-lg-1 justify-content-xl-start">
+>>>>>>> 9136cf3 (update)
             <span class="h3 d-inline-block">
               <b class="font-weight-bold">Dr.R.SURESH PREMIL KUMAR</b>
               <small class="h6 text-secondary">M.E.,Ph.D</small>
@@ -276,7 +284,11 @@ Stella Mary’s College of Engineering is one of the best institutes in Kanyakum
           <div class="col-lg-3 order-1 order-lg-6" data-aos="fade-right" data-aos-delay="100">
             <img src="https://webdocs.pages.dev/assets/img/faculty/1131.png" class="img-fluid" alt="">
           </div>
+<<<<<<< HEAD
           <div class="col-lg-7 pt-4 pt-lg-0 order-2 order-lg-1 justify-content-xl-start">
+=======
+          <div class="col-md-9 pt-4 pt-lg-0 order-2 order-lg-1 justify-content-xl-start">
+>>>>>>> 9136cf3 (update)
             <span class="h3 d-inline-block">
               <b class="font-weight-bold">Dr.R.K.Madhumathi</b>
               <small class="h6 text-secondary">M.E, Ph.D</small>
@@ -312,7 +324,11 @@ Stella Mary’s College of Engineering is one of the best institutes in Kanyakum
           <div class="col-lg-3 order-1 order-lg-6" data-aos="fade-right" data-aos-delay="100">
             <img src="https://webdocs.pages.dev/assets/img/faculty/1294.png" class="img-fluid" alt="">
           </div>
+<<<<<<< HEAD
           <div class="col-lg-7 pt-4 pt-lg-0 order-2 order-lg-1 justify-content-xl-start">
+=======
+          <div class="col-md-9 pt-4 pt-lg-0 order-2 order-lg-1 justify-content-xl-start">
+>>>>>>> 9136cf3 (update)
             <span class="h3 d-inline-block">
               <b class="font-weight-bold">Mrs.Melba Heni</b>
               <small class="h6 text-secondary">M.B.A.,M.Phil</small>

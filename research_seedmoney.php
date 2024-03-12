@@ -215,10 +215,10 @@ include("conn.php")
             </ul>
             <ul></ul>
             <p><strong>ELIGIBILITY CRITERIA</strong></p>       
-              <ul><i class="bi bi-check-circle "></i> Regular faculty members along with maximum of four students are eligible to apply under the scheme. The Principal Investigator must be the supervisor guiding the project.</ul>
+              <ul><i class="bi bi-check-circle "></i> Regular faculty members along with a maximum of four students are eligible to apply under the scheme. The Principal Investigator must be the supervisor guiding the project.</ul>
               <ul><i class="bi bi-check-circle"></i> Students and supervisors should establish clear project milestones. Progress report should be submitted every month end to track the project's development.</ul>
               <ul><i class="bi bi-check-circle"></i> If a proposal is turned down by the Seed Grant approval committee, the PI is allowed to submit a new proposal in the next semester.</ul>
-              <ul><i class="bi bi-check-circle"></i> In case of resignation before completion of SM-SMS, the departing PI must transfer their responsibilities to another faculty member, who will assume full responsibility and ensure that he/she will submit appropriate report in time.</ul>
+              <ul><i class="bi bi-check-circle"></i> In case of resignation before completion of SM-SMS, the departing PI must transfer their responsibilities to another faculty member, who will assume full responsibility and ensure that he/she will submit an appropriate report in time.</ul>
               <ul><i class="bi bi-check-circle"></i> After project completion, the Principal Investigator (PI) is required to provide a detailed report detailing the accomplishments of the project. Additionally, the PI is expected to deliver a formal presentation within the relevant department, addressing the committee. Subsequently, the PI must submit a utilization certificate in accordance with the provided format.</ul>
             </ul>
             <p><strong>SUBMISSION OF PROPOSAL</strong></p>
