@@ -359,6 +359,9 @@ The faculty members are highly motivated and devoted in delivering the high qual
                   <div class="member-info">
                   <h4 class="title"><a href="faculty.php?staff_id=<?= $data['staff_id']?>">
                     <?php 
+                    printf("%s", $data["legend"]);
+                    ?>.
+                    <?php 
                     printf("%s", $data["first_name"]);
                     ?>
                     </a></h4>
