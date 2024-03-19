@@ -361,7 +361,7 @@ include("conn.php")
                         <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                           <div class="member" data-aos="fade-up" data-aos-delay="100">
                             <div class="member-img">
-                              <img src="https://webdocs.pages.dev/assets/img/CIVIL/teaching/MADHUMATHI.png" class="img-fluid" alt="">
+                              <img src="https://webdocs.pages.dev/assets/img/admin/chairman1.png" class="img-fluid" alt="">
                               <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -370,7 +370,7 @@ include("conn.php")
                               </div>
                             </div>
                             <div class="member-info">
-                              <h4 class="title"><a href="">Dr.Nazarth Charles</a></h4>
+                              <h4 class="title"><a href="">Dr.Nazerath Charles</a></h4>
                               <h4>Chairman</h4>
                               <span></span>
                             </div>
@@ -380,7 +380,7 @@ include("conn.php")
                         <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                           <div class="member" data-aos="fade-up" data-aos-delay="100">
                             <div class="member-img">
-                              <img src="https://webdocs.pages.dev/assets/img/CIVIL/teaching/MADHUMATHI.png" class="img-fluid" alt="">
+                              <img src="https://webdocs.pages.dev/assets/img/faculty/1278.png" class="img-fluid" alt="">
                               <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -404,7 +404,7 @@ include("conn.php")
                         <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                           <div class="member" data-aos="fade-up" data-aos-delay="100">
                             <div class="member-img">
-                              <img src="https://webdocs.pages.dev/assets/img/CIVIL/teaching/MADHUMATHI.png" class="img-fluid" alt="">
+                              <img src="https://webdocs.pages.dev/assets/img/faculty/1019.png" class="img-fluid" alt="">
                               <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -422,7 +422,7 @@ include("conn.php")
                         <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                           <div class="member" data-aos="fade-up" data-aos-delay="100">
                             <div class="member-img">
-                              <img src="https://webdocs.pages.dev/assets/img/CIVIL/teaching/MADHUMATHI.png" class="img-fluid" alt="">
+                              <img src="https://webdocs.pages.dev/assets/img/faculty/1049.png" class="img-fluid" alt="">
                               <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -440,7 +440,7 @@ include("conn.php")
                         <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                             <div class="member" data-aos="fade-up" data-aos-delay="100">
                               <div class="member-img">
-                                <img src="https://webdocs.pages.dev/assets/img/CIVIL/teaching/MADHUMATHI.png" class="img-fluid" alt="">
+                                <img src="https://webdocs.pages.dev/assets/img/faculty/1287.png" class="img-fluid" alt="">
                                 <div class="social">
                                   <a href=""><i class="bi bi-instagram"></i></a>
                                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -458,7 +458,7 @@ include("conn.php")
                         <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                             <div class="member" data-aos="fade-up" data-aos-delay="100">
                               <div class="member-img">
-                                <img src="https://webdocs.pages.dev/assets/img/CIVIL/teaching/MADHUMATHI.png" class="img-fluid" alt="">
+                                <img src="https://webdocs.pages.dev/assets/img/faculty/1112.png" class="img-fluid" alt="">
                                 <div class="social">
                                   <a href=""><i class="bi bi-instagram"></i></a>
                                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -475,7 +475,7 @@ include("conn.php")
                           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                             <div class="member" data-aos="fade-up" data-aos-delay="100">
                               <div class="member-img">
-                                <img src="https://webdocs.pages.dev/assets/img/CIVIL/teaching/MADHUMATHI.png" class="img-fluid" alt="">
+                                <img src="https://webdocs.pages.dev/assets/img/faculty/1270.png" class="img-fluid" alt="">
                                 <div class="social">
                                   <a href=""><i class="bi bi-instagram"></i></a>
                                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -522,7 +522,7 @@ include("conn.php")
                           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                             <div class="member" data-aos="fade-up" data-aos-delay="100">
                               <div class="member-img">
-                                <img src="https://webdocs.pages.dev/assets/img/CIVIL/teaching/MADHUMATHI.png" class="img-fluid" alt="">
+                                <img src="" class="img-fluid" alt="">
                                 <div class="social">
                                   <a href=""><i class="bi bi-instagram"></i></a>
                                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -539,7 +539,7 @@ include("conn.php")
                           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                             <div class="member" data-aos="fade-up" data-aos-delay="100">
                               <div class="member-img">
-                                <img src="https://webdocs.pages.dev/assets/img/CIVIL/teaching/MADHUMATHI.png" class="img-fluid" alt="">
+                                <img src="" class="img-fluid" alt="">
                                 <div class="social">
                                   <a href=""><i class="bi bi-instagram"></i></a>
                                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -556,7 +556,7 @@ include("conn.php")
                           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                             <div class="member" data-aos="fade-up" data-aos-delay="100">
                               <div class="member-img">
-                                <img src="https://webdocs.pages.dev/assets/img/CIVIL/teaching/MADHUMATHI.png" class="img-fluid" alt="">
+                                <img src="" class="img-fluid" alt="">
                                 <div class="social">
                                   <a href=""><i class="bi bi-instagram"></i></a>
                                   <a href=""><i class="bi bi-facebook"></i></a>
