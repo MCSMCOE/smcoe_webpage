@@ -46,7 +46,7 @@ include("conn.php")
   <!-- Preloader -->
 
   <div class="preloader">
-    <img src="https://webdocs.pages.dev/assets/img/smce%20Intro.gif" alt="Loading...">
+    <img src="https://webdocs.pages.dev/assets/img/smce%20Intro%20Logo.gif" alt="Loading...">
   </div>
 
   <style>
@@ -209,7 +209,7 @@ include("conn.php")
       </div>
     </div>
   </div>
-  <div class="swiper-slide carousel-item-a intro-item bg-image" style='background-image: url("https://webdocs.pages.dev/assets/img/carousel/CGPTC.jpeg");' >
+  <div class="swiper-slide carousel-item-a intro-item bg-image" style='background-image: url("https://webdocs.pages.dev/assets/img/carousel/place.jpg");' >
     <div class="overlay overlay-a"></div>
     <div class="intro-content display-table">
       <div class="table-cell">
@@ -220,7 +220,7 @@ include("conn.php")
                 <p class="intro-title-top">
                   <br> 
                 </p>
-                <h1 class="intro-title mb-6 "><span class="color-b">CAREER GUIDANCE AND PLACEMENT TRAINING</span> </h1>
+                <h1 class="intro-title mb-6 "><span class="color-b">CAREER GUIDANCE AND PLACEMENT TRAINING - TALENT ACQUISITION</span> </h1>
                   <h3 class=" "><span class="">"Charting Paths, Building Futures: Your Career Compass"</span> </h3>
                 <p class="intro-subtitle intro-price">
                 <a href="placement_home.php"><span class="price-a">EXPLORE CGPTC</span></a>
@@ -273,8 +273,8 @@ include("conn.php")
               <h1 class="intro-title mb-6 ">
                 <span class="color-b">Play Hard, <br>
                 </span>Lead Tomorrow </h1>
-                <h3 class=" ">
-                  <span class="">"We are team of talented sportsman with diginity"</span> </h3>
+                <h3 class=" "><span class="">(2020-21,2021-22,2022-23 - Anna University Zonal winners)</span></h3>
+                <h3 class=" "><span class="">"We are team of talented sportsman with diginity"</span></h3>
               <p class="intro-subtitle intro-price">
                 <a href="Sports.php"><span class="price-a">PLAY WITH US</span></a>
                 </p>

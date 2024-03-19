@@ -194,16 +194,16 @@ include("conn.php")
     <section id="events" class="events">
         <div class="container" data-aos="fade-up">
   
-          <div class="row">
+          <div class="row text-justify">
             <div class="col-md-6 d-flex align-items-stretch">
               <div class="card">
                 <div class="card-img">
-                  <img src="https://webdocs.pages.dev/assets/img/facilities/events-1.jpg" alt="...">
+                  <img src="https://webdocs.pages.dev/assets/img/facilities/ict.jpeg" alt="...">
                 </div>
                 <div class="card-body">
                   <h5 class="card-title"><a href="">ICT Class Room</a></h5>
                   <p class="fst-italic text-center">All Classrooms are equiped with ICT</p>
-                  <p class="card-text">Classrooms are one of the main platforms where effective learning takes place. Special attention is given in designing the classrooms so that our students get effective learning from our teachers and facilitate participative learning. The Class rooms are well ventilated spacious and are technology enhanced classrooms referred to as "smart" classrooms. The classrooms are augmented with a variety of technological tools that can enhance the learning environment. These classrooms offer an enhancement to: an Extron Touch-Panel Control System (attached to the instructor's desk); a PC; a Data Projector; a DVD/VHS combo unit; and an incorporated audio system. They also have an interactive whiteboard or tablet powered by SMART technologies. The furniture used in classrooms is of un-compromised international quality to enable students for 8 hours of comfortable and continues learning.</p>
+                  <p class="card-text ">Classrooms are one of the main platforms where effective learning takes place. Special attention is given in designing the classrooms so that our students get effective learning from our teachers and facilitate participative learning. The Class rooms are well ventilated spacious and are technology enhanced classrooms referred to as "smart" classrooms. The classrooms are augmented with a variety of technological tools that can enhance the learning environment. These classrooms offer an enhancement to: an Extron Touch-Panel Control System (attached to the instructor's desk), a PC, a Data Projector, a DVD/VHS combo unit and an incorporated audio system. They also have an interactive whiteboard or tablet powered by SMART technologies. The furniture used in classrooms is of un-compromised international quality to enable students for 8 hours of comfortable and continues learning.</p>
                 </div>
               </div>
             </div>
@@ -222,7 +222,7 @@ include("conn.php")
               <div class="col-md-6 d-flex align-items-stretch">
                 <div class="card">
                   <div class="card-img">
-                    <img src="https://webdocs.pages.dev/assets/img/facilities/events-2.jpg" alt="...">
+                    <img src="https://webdocs.pages.dev/assets/img/facilities/bus.jpg" alt="...">
                   </div>
                   <div class="card-body">
                     <h5 class="card-title"><a href="">Transport</a></h5>
@@ -270,7 +270,7 @@ include("conn.php")
               <div class="col-md-6 d-flex align-items-stretch">
                 <div class="card">
                   <div class="card-img">
-                    <img src="https://webdocs.pages.dev/assets/img/facilities/events-1.jpg" alt="...">
+                    <img src="https://webdocs.pages.dev/assets/img/facilities/sports.jpeg" alt="...">
                   </div>
                   <div class="card-body">
                     <h5 class="card-title"><a href="">Sports</a></h5>
@@ -306,7 +306,7 @@ include("conn.php")
               <div class="col-md-6 d-flex align-items-stretch">
                 <div class="card">
                   <div class="card-img">
-                    <img src="https://webdocs.pages.dev/assets/img/facilities/events-1.jpg" alt="...">
+                    <img src="https://webdocs.pages.dev/assets/img/facilities/bigdata.jpg" alt="...">
                   </div>
                   <div class="card-body">
                     <h5 class="card-title"><a href="">BigData Laboratory</a></h5>
@@ -318,7 +318,7 @@ include("conn.php")
               <div class="col-md-6 d-flex align-items-stretch">
                 <div class="card">
                   <div class="card-img">
-                    <img src="https://webdocs.pages.dev/assets/img/facilities/events-1.jpg" alt="...">
+                    <img src="https://webdocs.pages.dev/assets/img/facilities/ca.jpg" alt="...">
                   </div>
                   <div class="card-body">
                     <h5 class="card-title"><a href="">Campus Activities</a></h5>
@@ -330,7 +330,7 @@ include("conn.php")
             <div class="col-md-6 d-flex align-items-stretch">
               <div class="card">
                 <div class="card-img">
-                  <img src="https://webdocs.pages.dev/assets/img/facilities/events-2.jpg" alt="...">
+                  <img src="https://webdocs.pages.dev/assets/img/facilities/sz.jpeg" alt="...">
                 </div>
                 <div class="card-body">
                   <h5 class="card-title"><a href="">Student Zone</a></h5>

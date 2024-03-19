@@ -392,7 +392,7 @@ include("conn.php")
           <p>Popular Sports of Stella Mary's</p>
         </div>
 
-        <div class="row" data-aos="zoom-in" data-aos-delay="100">
+        <div class="row text-justify" data-aos="zoom-in" data-aos-delay="100">
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="course-item">
@@ -402,7 +402,7 @@ include("conn.php")
                   <h4>Men | Women</h4>
                 </div>
                 <h3><a href="course-details.html">Badminton</a></h3>
-                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
+                <p>Elevate your game with our vibrant badminton community, where every smash and rally creates lasting memories on and off the court.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
                     <img src="https://webdocs.pages.dev/assets/img/sports/badminton.png" class="img-fluid" alt="">
@@ -422,7 +422,7 @@ include("conn.php")
                   <h4>Men | Women</h4>
                 </div>
                 <h3><a href="course-details.html">Ball Badminton</a></h3>
-                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
+                <p>Dive into the fast-paced excitement of ball badminton, where precision, agility, and teamwork collide for an exhilarating sporting experience like no other.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
                     <img src="https://webdocs.pages.dev/assets/img/sports/ballbadminton.jpeg" class="img-fluid" alt="">
@@ -442,7 +442,7 @@ include("conn.php")
                   <h4>Men | Women</h4>
                 </div>
                 <h3><a href="course-details.html">Table Tennis</a></h3>
-                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
+                <p>Serve up some fun and unleash your competitive spirit with our dynamic table tennis community, where every rally is a thrilling test of skill and strategy.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
                     <img src="https://webdocs.pages.dev/assets/img/sports/tt.png" class="img-fluid" alt="">
@@ -461,7 +461,7 @@ include("conn.php")
                   <h4>Men | Women</h4>
                 </div>
                 <h3><a href="course-details.html">Basketball</a></h3>
-                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
+                <p>Dribble, shoot, and score your way to victory with our spirited basketball community, where teamwork and dedication fuel the pursuit of athletic excellence both on and off the court.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
                     <img src="https://webdocs.pages.dev/assets/img/sports/basketball.jpeg" class="img-fluid" alt="">
@@ -481,7 +481,7 @@ include("conn.php")
                   </h4>
                 </div>
                 <h3><a href="course-details.html">cricket</a></h3>
-                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
+                <p>Join our cricket enthusiasts and experience the thrill of the pitch, as we bat, bowl, and field our way through camaraderie and competition, celebrating the rich heritage of this beloved sport.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
                     <img src="https://webdocs.pages.dev/assets/img/sports/cricket.png" class="img-fluid" alt="">
@@ -500,7 +500,7 @@ include("conn.php")
                   <h4>Men</h4>
                 </div>
                 <h3><a href="course-details.html">Football</a></h3>
-                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
+                <p>Step onto the field and feel the adrenaline rush as our football community brings together skill, strategy, and passion, forging lifelong friendships and unforgettable moments in the pursuit of victory.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
                     <img src="https://webdocs.pages.dev/assets/img/sports/football.jpeg" class="img-fluid" alt="">
@@ -518,8 +518,8 @@ include("conn.php")
                 <div class="d-flex justify-content-between align-items-center mb-3">
                   <h4>Men | Women</h4>
                 </div>
-                <h3><a href="course-details.html">Swiming</a></h3>
-                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
+                <h3><a href="course-details.html">Swimming</a></h3>
+                <p>Dive into excellence with our vibrant swimming community, where strokes of determination propel us towards personal growth, fitness, and the thrill of breaking new boundaries in the refreshing embrace of the water.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
                     <img src="https://webdocs.pages.dev/assets/img/sports/swimming.png" class="img-fluid" alt="">
@@ -538,7 +538,7 @@ include("conn.php")
                   <h4>Men | Women</h4>
                 </div>
                 <h3><a href="course-details.html">Kabaddi</a></h3>
-                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
+                <p>Embrace the ancient art of Kabaddi with our dynamic community, where strength, agility, and strategic prowess intertwine in a thrilling display of teamwork and tradition, fostering a spirited environment of competition and camaraderie.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
                     <img src="https://webdocs.pages.dev/assets/img/sports/kabaddi.png" class="img-fluid" alt="">
@@ -557,7 +557,7 @@ include("conn.php")
                   <h4>Men</h4>
                 </div>
                 <h3><a href="course-details.html">Hockey</a></h3>
-                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
+                <p>Experience the adrenaline-fueled excitement of hockey with our passionate community, where every flick of the stick and lightning-fast sprint on the field ignites a sense of teamwork, determination, and sporting excellence, shaping unforgettable memories both on and off the turf.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
                     <img src="https://webdocs.pages.dev/assets/img/sports/hockey.png" class="img-fluid" alt="">
