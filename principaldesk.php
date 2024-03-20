@@ -281,7 +281,7 @@ Stella Mary’s College of Engineering is one of the best institutes in Kanyakum
           <div class="col-md-9 pt-4 pt-lg-0 order-2 order-lg-1 justify-content-xl-start">
             <span class="h3 d-inline-block">
               <b class="font-weight-bold">Dr.R.K.Madhumathi</b>
-              <small class="h6 text-secondary">M.E, Ph.D</small>
+              <small class="h6 text-secondary">M.E.,Ph.D</small>
             </span>
     
             <p class="p-8 fst-italic text-justify" style="line-height: 3;"  >
@@ -357,7 +357,7 @@ Stella Mary’s College of Engineering is one of the best institutes in Kanyakum
 
             <span class="h3 d-inline-block">
               <b class="font-weight-bold">Dr.Pon.Partheeban</b>
-              <small class="h6 text-secondary">M.E, Ph.D</small>
+              <small class="h6 text-secondary">M.E.,Ph.D</small>
             </span>
     
             <p class="p-8 fst-italic text-justify" style="line-height: 3;"  >
@@ -375,6 +375,49 @@ Join us in shaping the future of engineering education and research. Explore the
         </div>
 
       </div>
+      <section class="breadcrumbs">
+      <div class="container">
+        <div class="d-flex justify-content-between align-items-center">
+          <h2>Public Relations Officer's Desk</h2>
+        </div>
+
+      </div>
+    </section>
+    <section class="principaldesk" data-aos="fade-in">
+      <div class="container">
+       
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about shadow p-4">
+      <div class="container" data-aos="fade-up">
+        <div class="row align-items-start">
+          <div class="col-lg-3 order-1 order-lg-6" data-aos="fade-right" data-aos-delay="100">
+            <img src="https://webdocs.pages.dev/assets/img/faculty/1094.png" class="img-fluid" alt="">
+          </div>
+
+
+          <div class="col-md-9 pt-4 pt-lg-0 order-2 order-lg-1 justify-content-xl-start">
+
+            <span class="h3 d-inline-block">
+              <b class="font-weight-bold">Mrs.Arokia Latha</b>
+              <small class="h6 text-secondary">M.Sc.,M.Phil</small>
+            </span>
+    
+            <p class="p-8 fst-italic text-justify" style="line-height: 3;"  >
+              <i class="bx bxs-quote-alt-left quote-icon-left text-secondary h4 mr-6"></i>
+              Welcome to Stella Mary's College of Engineering's <strong>Public Relations Department</Strong>
+
+As the Public Relations Officer, it's my pleasure to welcome you to our vibrant community. At Stella Mary's, we are dedicated to fostering meaningful connections and sharing the inspiring stories that shape our institution's identity.
+
+Through strategic communication initiatives, we aim to highlight the achievements, events, and innovations that make Stella Mary's a dynamic hub of learning and growth. Whether you're a prospective student, alumni, industry partner, or member of the wider community, we invite you to engage with us and be part of our journey.
+
+Explore our website to discover the latest news, upcoming events, and opportunities to connect with us. Together, let's build bridges, forge partnerships, and create a brighter future for Stella Mary's College of Engineering.
+              <i class="bx bxs-quote-alt-right quote-icon-right text-secondary h4 ml-3"></i>
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </section>
     </section>
     <section class="breadcrumbs">
       <div class="container">
@@ -400,7 +443,7 @@ Join us in shaping the future of engineering education and research. Explore the
 
             <span class="h3 d-inline-block">
               <b class="font-weight-bold">Dr.K.Ezhil Vignesh</b>
-              <small class="h6 text-secondary">M.E, Ph.D</small>
+              <small class="h6 text-secondary">M.E.,Ph.D</small>
             </span>
     
             <p class="p-8 fst-italic text-justify" style="line-height: 3;"  >
@@ -419,49 +462,7 @@ Together, let's uphold the values of integrity, transparency, and academic rigor
 
       </div>
     </section>
-    <section class="breadcrumbs">
-      <div class="container">
-        <div class="d-flex justify-content-between align-items-center">
-          <h2>Public Relations Officer's Desk</h2>
-        </div>
-
-      </div>
-    </section>
-    <section class="principaldesk" data-aos="fade-in">
-      <div class="container">
-       
-    <!-- ======= About Section ======= -->
-    <section id="about" class="about shadow p-4">
-      <div class="container" data-aos="fade-up">
-        <div class="row align-items-start">
-          <div class="col-lg-3 order-1 order-lg-6" data-aos="fade-right" data-aos-delay="100">
-            <img src="https://webdocs.pages.dev/assets/img/faculty/1094.png" class="img-fluid" alt="">
-          </div>
-
-
-          <div class="col-md-9 pt-4 pt-lg-0 order-2 order-lg-1 justify-content-xl-start">
-
-            <span class="h3 d-inline-block">
-              <b class="font-weight-bold">Mrs.Arokia Latha</b>
-              <small class="h6 text-secondary">M.A.,M.Phil</small>
-            </span>
-    
-            <p class="p-8 fst-italic text-justify" style="line-height: 3;"  >
-              <i class="bx bxs-quote-alt-left quote-icon-left text-secondary h4 mr-6"></i>
-              Welcome to Stella Mary's College of Engineering's <strong>Public Relations Department</Strong>
-
-As the Public Relations Officer, it's my pleasure to welcome you to our vibrant community. At Stella Mary's, we are dedicated to fostering meaningful connections and sharing the inspiring stories that shape our institution's identity.
-
-Through strategic communication initiatives, we aim to highlight the achievements, events, and innovations that make Stella Mary's a dynamic hub of learning and growth. Whether you're a prospective student, alumni, industry partner, or member of the wider community, we invite you to engage with us and be part of our journey.
-
-Explore our website to discover the latest news, upcoming events, and opportunities to connect with us. Together, let's build bridges, forge partnerships, and create a brighter future for Stella Mary's College of Engineering.
-              <i class="bx bxs-quote-alt-right quote-icon-right text-secondary h4 ml-3"></i>
-            </p>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End About Section -->
+    <!-- End About Section -->
       </div>
     </section>
 
