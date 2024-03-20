@@ -320,7 +320,7 @@ Stella Mary’s College of Engineering is one of the best institutes in Kanyakum
 
             <span class="h3 d-inline-block">
               <b class="font-weight-bold">Mrs.Melba Heni</b>
-              <small class="h6 text-secondary">M.B.A.,</small>
+              <small class="h6 text-secondary">MBA.,</small>
             </span>
     
             <p class="p-8 fst-italic text-justify" style="line-height: 3;"  >
@@ -373,7 +373,7 @@ Join us in shaping the future of engineering education and research. Explore the
             </p>
           </div>
         </div>
-
+  </section>
       </div>
       <section class="breadcrumbs">
       <div class="container">

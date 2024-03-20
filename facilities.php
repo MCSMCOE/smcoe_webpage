@@ -268,30 +268,7 @@ include("conn.php")
                 </div>
               </div>
               
-              <div class="col-md-6 d-flex align-items-stretch">
-                <div class="card">
-                  <div class="card-img">
-                    <img src="https://webdocs.pages.dev/assets/img/facilities/bus.jpg" alt="...">
-                  </div>
-                  <div class="card-body">
-                    <h5 class="card-title"><a href="">Transport</a></h5>
-                    <p class="fst-italic text-center">"Connecting Journeys, Safely and Seamlessly"</p>
-                    <p class="card-text">The college has its own fleet of Buses in all possible routes making transportation easy for the staff and students from all areas and colonies of the city.In addition city bus facility is also available.</p>
-                  </div>
-                </div>
-              </div>
-              <div id="" class="col-md-6 d-flex align-items-stretch">
-                <div class="card">
-                  <div class="card-img">
-                    <img src="https://webdocs.pages.dev/assets/img/facilities/bhostel.jpeg" alt="...">
-                  </div>
-                  <div class="card-body">
-                    <h5 class="card-title"><a href="">Boys Hostel</a></h5>
-                    <p class="fst-italic text-center">"Your Home Away from Home: Where Brotherhood Flourishes"</p>
-                    <p class="card-text">Boys hostels strategically situated for convenience and tranquility, each room accommodating 3 to 4 students with individual beds and clean restrooms. Surrounded by lush greenery, our hostels offer a serene atmosphere. Enjoy diverse cuisines at the hostel mess and facilities including open playgrounds, private canteens, Internet cafes, gyms, music rooms, indoor game areas, TV rooms, STD booths, and general/grocery shops. With recreation halls and study spaces, our hostels provide a nurturing "home away from home" for students.</p>
-                  </div>
-                </div>
-              </div>
+              
               <div class="col-md-6 d-flex align-items-stretch">
                 <div class="card">
                   <div class="card-img">
@@ -317,6 +294,18 @@ include("conn.php")
                 </div>
               </div>
               <div class="col-md-6 d-flex align-items-stretch">
+              <div class="card">
+                <div class="card-img">
+                  <img src="https://webdocs.pages.dev/assets/img/facilities/sz.jpeg" alt="...">
+                </div>
+                <div class="card-body">
+                  <h5 class="card-title"><a href="">Student Zone</a></h5>
+                  <p class="fst-italic text-center">"Empowering Student Success, One Zone at a Time!"</p>
+                  <p class="card-text">Dive into a world of opportunities, from student clubs to leadership development programs. Stay updated on campus events, connect with peers, and access resources to enhance your academic journey. This is your space to thrive, grow, and make unforgettable memories.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 d-flex align-items-stretch">
                 <div class="card">
                   <div class="card-img">
                     <img src="https://webdocs.pages.dev/assets/img/facilities/ca.jpg" alt="...">
@@ -328,21 +317,33 @@ include("conn.php")
                   </div>
                 </div>
               </div>
-            <div class="col-md-6 d-flex align-items-stretch">
-              <div class="card">
-                <div class="card-img">
-                  <img src="https://webdocs.pages.dev/assets/img/facilities/sz.jpeg" alt="...">
-                </div>
-                <div class="card-body">
-                  <h5 class="card-title"><a href="">Student Zone</a></h5>
-                  <p class="fst-italic text-center">"Empowering Student Success, One Zone at a Time!"</p>
-                  <p class="card-text">Dive into a world of opportunities, from student clubs to leadership development programs. Stay updated on campus events, connect with peers, and access resources to enhance your academic journey. This is your space to thrive, grow, and make unforgettable memories.</p>
+              <div id="" class="col-md-6 d-flex align-items-stretch">
+                <div class="card">
+                  <div class="card-img">
+                    <img src="https://webdocs.pages.dev/assets/img/facilities/bhostel.jpeg" alt="...">
+                  </div>
+                  <div class="card-body">
+                    <h5 class="card-title"><a href="">Boys Hostel</a></h5>
+                    <p class="fst-italic text-center">"Your Home Away from Home: Where Brotherhood Flourishes"</p>
+                    <p class="card-text">Boys hostels strategically situated for convenience and tranquility, each room accommodating 3 to 4 students with individual beds and clean restrooms. Surrounded by lush greenery, our hostels offer a serene atmosphere. Enjoy diverse cuisines at the hostel mess and facilities including open playgrounds, private canteens, Internet cafes, gyms, music rooms, indoor game areas, TV rooms, STD booths, and general/grocery shops. With recreation halls and study spaces, our hostels provide a nurturing "home away from home" for students.</p>
+                  </div>
                 </div>
               </div>
-  
-            </div>
+            
+              <div class="col-md-6 d-flex align-items-stretch">
+                <div class="card">
+                  <div class="card-img">
+                    <img src="https://webdocs.pages.dev/assets/img/facilities/bus.jpg" alt="...">
+                  </div>
+                  <div class="card-body">
+                    <h5 class="card-title"><a href="">Transport</a></h5>
+                    <p class="fst-italic text-center">"Connecting Journeys, Safely and Seamlessly"</p>
+                    <p class="card-text">The college has its own fleet of Buses in all possible routes making transportation easy for the staff and students from all areas and colonies of the city.In addition city bus facility is also available.</p>
+                  </div>
+                </div>
+              </div>
+        
           </div>
-  
         </div>
       </section><!-- End Events Section -->
   
