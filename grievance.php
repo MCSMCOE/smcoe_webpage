@@ -207,7 +207,7 @@ include("conn.php")
               <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-2">Faculty Members</a>
               </li>
-              <li class="nav-item">
+              <!--<li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-3">Student Members</a>
               </li>
               <li class="nav-item">
@@ -227,7 +227,7 @@ include("conn.php")
               </li>
               <li class="nav-item">
                   <a class="nav-link" data-bs-toggle="tab" href="#tab-9">Action Plan</a>
-              </li>
+              </li>-->
               <li class="nav-item">
                   <a class="nav-link" data-bs-toggle="tab" href="#tab-10">Report</a>
               </li>
