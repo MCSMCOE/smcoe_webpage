@@ -207,7 +207,7 @@ include("conn.php")
               <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-2">Faculty Members</a>
               </li>
-              <li class="nav-item">
+              <!--<li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-3">Student Members</a>
               </li>
               <li class="nav-item">
@@ -216,7 +216,7 @@ include("conn.php")
               <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-5">FINE ARTS</a>
               </li>
-              <!--<li class="nav-item">
+              <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-6">Syllabus</a>
               </li>
               <li class="nav-item">
@@ -237,14 +237,14 @@ include("conn.php")
             <div class="tab-content">
               <div class="tab-pane active show" id="tab-1">
                 <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
+                  <div class="col-md-6 col-lg-12 ">
                     <!-- ======= Services Section ======= -->
       <section id="services" class="services">
           <div class="container">
             <div class="row">
               <p class="fst-italic text-justify">The Cultural Club of Stella Mary's College of Engineering aims at helping the students to understand and accept themselves 'as they are' and helps the students to help themselves. The main objective of the club is to bring about a voluntary change in the students. For this purpose, the teachers and management provide facilities to achieve the desired changes or to make the suitable choices.</p>
                   
-              <div class="col-md-12 col-lg-12 d-flex align-items-stretch mb-5 mb-lg-0">
+              <div class="col-md-6 col-lg-12 ">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bxl-dribbble"></i></div>
                   <h4 class="title"><a href="">Objective</a></h4>
@@ -256,8 +256,8 @@ include("conn.php")
                   
                 </div>
               </div>
-  
-              <div class="col-md-12 col-lg-12 d-flex align-items-stretch mb-5 mb-lg-0">
+  <ol></ol>
+              <div class="col-md-6 col-lg-12">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                   <div class="icon"><i class="bx bx-file"></i></div>
                   <h4 class="title"><a href="">Purpose</a></h4>

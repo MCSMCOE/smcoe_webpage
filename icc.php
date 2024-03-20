@@ -207,9 +207,9 @@ include("conn.php")
               <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-2">Faculty Members</a>
               </li>
-              <li class="nav-item">
+              <!--<li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-3">Student Members</a>
-              </li>
+              </li>-->
               <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-4">Smart India Hackathon</a>
               </li>
