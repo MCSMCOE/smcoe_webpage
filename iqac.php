@@ -316,7 +316,7 @@ include("conn.php")
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member" data-aos="fade-up" data-aos-delay="100">
                 <div class="member-img">
-                  <img src="https://webdocs.pages.dev/assets/img/faculty/1278.png" class="img-fluid" alt="">
+                  <img src="https://webdocs.pages.dev/assets/img/faculty/1278.png" class="img-fluid" alt="" style="width: 200px; height: 260px;">
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -335,7 +335,7 @@ include("conn.php")
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member" data-aos="fade-up" data-aos-delay="100">
                 <div class="member-img">
-                  <img src="https://webdocs.pages.dev/assets/img/faculty/1271.png" class="img-fluid" alt="">
+                  <img src="https://webdocs.pages.dev/assets/img/faculty/1271.png" class="img-fluid" alt="" style="width: 200px; height: 260px;">
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -354,7 +354,7 @@ include("conn.php")
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member" data-aos="fade-up" data-aos-delay="100">
                 <div class="member-img">
-                  <img src="https://webdocs.pages.dev/assets/img/faculty/1054.png" class="img-fluid" alt="">
+                  <img src="https://webdocs.pages.dev/assets/img/faculty/1054.png" class="img-fluid" alt="" style="width: 200px; height: 260px;">
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -373,7 +373,7 @@ include("conn.php")
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member" data-aos="fade-up" data-aos-delay="100">
                 <div class="member-img">
-                  <img src="https://webdocs.pages.dev/assets/img/faculty/1131.png" class="img-fluid" alt="">
+                  <img src="https://webdocs.pages.dev/assets/img/faculty/1131.png" class="img-fluid" alt="" style="width: 200px; height: 260px;">
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -396,7 +396,7 @@ include("conn.php")
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member" data-aos="fade-up" data-aos-delay="100">
                 <div class="member-img">
-                  <img src="https://webdocs.pages.dev/assets/img/faculty/1079.png" class="img-fluid" alt="">
+                  <img src="https://webdocs.pages.dev/assets/img/faculty/1079.png" class="img-fluid" alt="" style="width: 200px; height: 260px;">
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -414,7 +414,7 @@ include("conn.php")
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member" data-aos="fade-up" data-aos-delay="100">
                 <div class="member-img">
-                  <img src="https://webdocs.pages.dev/assets/img/faculty/1002.png" class="img-fluid" alt="">
+                  <img src="https://webdocs.pages.dev/assets/img/faculty/1002.png" class="img-fluid" alt="" style="width: 200px; height: 260px;">
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -432,7 +432,7 @@ include("conn.php")
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                 <div class="member" data-aos="fade-up" data-aos-delay="100">
                   <div class="member-img">
-                    <img src="https://webdocs.pages.dev/assets/img/faculty/1035.png" class="img-fluid" alt="">
+                    <img src="https://webdocs.pages.dev/assets/img/faculty/1035.png" class="img-fluid" alt="" style="width: 200px; height: 260px;">
                     <div class="social">
                       <a href=""><i class="bi bi-instagram"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
@@ -450,7 +450,7 @@ include("conn.php")
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                 <div class="member" data-aos="fade-up" data-aos-delay="100">
                   <div class="member-img">
-                    <img src="https://webdocs.pages.dev/assets/img/faculty/1267.png" class="img-fluid" alt="">
+                    <img src="https://webdocs.pages.dev/assets/img/faculty/1267.png" class="img-fluid" alt="" style="width: 200px; height: 260px;">
                     <div class="social">
                       <a href=""><i class="bi bi-instagram"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
@@ -467,7 +467,7 @@ include("conn.php")
               <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                 <div class="member" data-aos="fade-up" data-aos-delay="100">
                   <div class="member-img">
-                    <img src="https://webdocs.pages.dev/assets/img/faculty/1093.png" class="img-fluid" alt="">
+                    <img src="https://webdocs.pages.dev/assets/img/faculty/1093.png" class="img-fluid" alt="" style="width: 200px; height: 260px;">
                     <div class="social">
                       <a href=""><i class="bi bi-instagram"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
@@ -484,7 +484,7 @@ include("conn.php")
               <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                 <div class="member" data-aos="fade-up" data-aos-delay="100">
                   <div class="member-img">
-                    <img src="https://webdocs.pages.dev/assets/img/faculty/1388.png" class="img-fluid" alt="">
+                    <img src="https://webdocs.pages.dev/assets/img/faculty/1388.png" class="img-fluid" alt="" style="width: 200px; height: 260px;">
                     <div class="social">
                       <a href=""><i class="bi bi-instagram"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
@@ -501,7 +501,7 @@ include("conn.php")
               <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                 <div class="member" data-aos="fade-up" data-aos-delay="100">
                   <div class="member-img">
-                    <img src="https://webdocs.pages.dev/assets/img/faculty/1403.png" class="img-fluid" alt="">
+                    <img src="https://webdocs.pages.dev/assets/img/faculty/1403.png" class="img-fluid" alt="" style="width: 200px; height: 260px;">
                     <div class="social">
                       <a href=""><i class="bi bi-instagram"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
@@ -518,7 +518,7 @@ include("conn.php")
               <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                 <div class="member" data-aos="fade-up" data-aos-delay="100">
                   <div class="member-img">
-                    <img src="https://webdocs.pages.dev/assets/img/faculty/1130.png" class="img-fluid" alt="">
+                    <img src="https://webdocs.pages.dev/assets/img/faculty/1130.png" class="img-fluid" alt="" style="width: 200px; height: 260px;">
                     <div class="social">
                       <a href=""><i class="bi bi-instagram"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
@@ -542,7 +542,7 @@ include("conn.php")
               <div class="col-lg-3 col-md-4 d-flex align-items-stretch">
                 <div class="member" data-aos="fade-up" data-aos-delay="100">
                   <div class="member-img">
-                    <img src="" class="img-fluid" alt="">
+                    <img src="" class="img-fluid" alt="" style="width: 200px; height: 260px;">
                     <div class="social">
                       <a href=""><i class="bi bi-instagram"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
@@ -565,7 +565,7 @@ include("conn.php")
               <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                 <div class="member" data-aos="fade-up" data-aos-delay="100">
                   <div class="member-img">
-                    <img src="" class="img-fluid" alt="">
+                    <img src="" class="img-fluid" alt="" style="width: 200px; height: 260px;">
                     <div class="social">
                       <a href=""><i class="bi bi-instagram"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
@@ -592,7 +592,7 @@ include("conn.php")
               <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                 <div class="member" data-aos="fade-up" data-aos-delay="100">
                   <div class="member-img align-items-center">
-                    <img src="" class="img-fluid" alt="">
+                    <img src="" class="img-fluid" alt="" style="width: 200px; height: 260px;">
                     <div class="social">
                       <a href=""><i class="bi bi-instagram"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
@@ -609,7 +609,7 @@ include("conn.php")
               <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                 <div class="member" data-aos="fade-up" data-aos-delay="100">
                   <div class="member-img">
-                    <img src="" class="img-fluid" alt="">
+                    <img src="" class="img-fluid" alt="" style="width: 200px; height: 260px;">
                     <div class="social">
                       <a href=""><i class="bi bi-instagram"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
@@ -634,7 +634,7 @@ include("conn.php")
               <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                 <div class="member" data-aos="fade-up" data-aos-delay="100">
                   <div class="member-img">
-                    <img src="" class="img-fluid" alt="">
+                    <img src="" class="img-fluid" alt="" style="width: 200px; height: 260px;">
                     <div class="social">
                       <a href=""><i class="bi bi-instagram"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
@@ -651,7 +651,7 @@ include("conn.php")
               <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
                 <div class="member" data-aos="fade-up" data-aos-delay="100">
                   <div class="member-img">
-                    <img src="" class="img-fluid" alt="">
+                    <img src="" class="img-fluid" alt="" style="width: 200px; height: 260px;">
                     <div class="social">
                       <a href=""><i class="bi bi-instagram"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
@@ -689,7 +689,7 @@ include("conn.php")
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member" data-aos="fade-up" data-aos-delay="100">
                 <div class="member-img">
-                  <img src="https://webdocs.pages.dev/assets/img/faculty/1054.png" class="img-fluid" alt="">
+                  <img src="https://webdocs.pages.dev/assets/img/faculty/1054.png" class="img-fluid" alt="" style="width: 200px; height: 260px;">
                   <div class="social">
                     <a href="tel:+916382490019"><i  class="ri-phone-line"></i></a>
                     <a href="mailto:iqac@stellamaryscoe.edu.in"><i class="ri-mail-send-line"></i></a>

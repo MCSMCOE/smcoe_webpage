@@ -290,7 +290,7 @@ include("conn.php")
     <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-          <img src="<?php printf("%s", $data['imglink']);?>" class="img-fluid" alt="">
+          <img src="<?php printf("%s", $data['imglink']);?>" class="img-fluid" alt="" style="width: 200px; height: 260px;">
             <div class="social">
               <a href=""><i class="bi bi-file-earmark-bar-graph"></i></a>
               <a href=""><i class="bi bi-facebook"></i></a>

@@ -214,7 +214,7 @@ include("conn.php")
           <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
-                <img src="https://webdocs.pages.dev/assets/img/faculty/Johnson.png" class="img-fluid" alt="">
+                <img src="https://webdocs.pages.dev/assets/img/faculty/Johnson.png" class="img-fluid" alt="" style="width: 200px; height: 260px;">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -232,7 +232,7 @@ include("conn.php")
           <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
               <div class="member" data-aos="fade-up" data-aos-delay="100">
                 <div class="member-img">
-                  <img src="https://webdocs.pages.dev/assets/img/faculty/1291.png" class="img-fluid" alt="">
+                  <img src="https://webdocs.pages.dev/assets/img/faculty/1291.png" class="img-fluid" alt="" style="width: 200px; height: 260px;">
                   <div class="social">
                     <a href=""><i class="bi bi-instagram"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -642,7 +642,7 @@ include("conn.php")
         <div class="row justify-content-center" data-aos="zoom-in" data-aos-delay="100">
           <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
             <div class="member">
-              <img src="https://webdocs.pages.dev/assets/img/sports/formIII/jeswin.png" class="img-fluid" alt="">
+              <img src="https://webdocs.pages.dev/assets/img/sports/formIII/jeswin.png" class="img-fluid" alt="" style="width: 200px; height: 260px;">
               <div class="member-content">
                 <h4>Mr.Jeshwin Arul</h4>
                 <h6>Badminton</h6>
@@ -661,7 +661,7 @@ include("conn.php")
           </div>
           <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
             <div class="member">
-              <img src="https://webdocs.pages.dev/assets/img/sports/formIII/kiruthick.png" class="img-fluid" alt="">
+              <img src="https://webdocs.pages.dev/assets/img/sports/formIII/kiruthick.png" class="img-fluid" alt="" style="width: 200px; height: 260px;">
               <div class="member-content">
                 <h4>Mr.Khiruthick</h4>
                 <h6>Badminton</h6>
@@ -680,7 +680,7 @@ include("conn.php")
           </div>
           <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
             <div class="member">
-              <img src="https://webdocs.pages.dev/assets/img/sports/formIII/vishal.png" class="img-fluid" alt="">
+              <img src="https://webdocs.pages.dev/assets/img/sports/formIII/vishal.png" class="img-fluid" alt="" style="width: 200px; height: 260px;">
               <div class="member-content">
                 <h4>Mr.Vishal Aravind</h4>
                 <h6>Badminton</h6>
@@ -699,7 +699,7 @@ include("conn.php")
           </div>
           <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
             <div class="member">
-              <img src="https://webdocs.pages.dev/assets/img/sports/formIII/shifra.png" class="img-fluid" alt="">
+              <img src="https://webdocs.pages.dev/assets/img/sports/formIII/shifra.png" class="img-fluid" alt="" style="width: 200px; height: 260px;">
               <div class="member-content">
                 <h4>Ms.Shifra John</h4>
                 <h6>Badminton</h6>
@@ -718,7 +718,7 @@ include("conn.php")
           </div>
           <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
             <div class="member">
-              <img src="https://webdocs.pages.dev/assets/img/sports/formIII/jeswin.png" class="img-fluid" alt="">
+              <img src="https://webdocs.pages.dev/assets/img/sports/formIII/jeswin.png" class="img-fluid" alt="" style="width: 200px; height: 260px;">
               <div class="member-content">
                 <h4>Mr.Jeswin Arul</h4>
                 <h6>Fencing</h6>
@@ -737,7 +737,7 @@ include("conn.php")
           </div>
           <div class="col-lg-2 col-md-4 d-flex align-items-stretch">
             <div class="member">
-              <img src="https://webdocs.pages.dev/assets/img/sports/formIII/dhar.png" class="img-fluid" alt="">
+              <img src="https://webdocs.pages.dev/assets/img/sports/formIII/dhar.png" class="img-fluid" alt="" style="width: 200px; height: 260px;">
               <div class="member-content">
                 <h4>Mr.Dharmendra Vijayaraj</h4>
                 <h6>Badminton</h6>

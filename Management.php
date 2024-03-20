@@ -231,12 +231,7 @@ include("conn.php")
               <div class="member" data-aos="fade-up" data-aos-delay="200">
                 <div class="member-img">
                   <img src="https://webdocs.pages.dev/assets/img/admin/marystella.png" class="img-fluid" alt="">
-                  <div class="social">
-                    <!--<a href=""><i class="bi bi-twitter"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>-->
-                  </div>
+                  
                 </div>
                 <div class="member-info">
                   <h4>Late.Mrs.Mary Stella Charles</h4>
