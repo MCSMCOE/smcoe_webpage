@@ -439,7 +439,7 @@ pagination: {
 
         <div class="section-title" data-aos="fade-up">
           <h2>STELLA MARY'S COLLEGE OF ENGINEERING</h2>
-          <p>EXPERIENCE EXECLLENCE</p>
+          <p>EXPERIENCE EXCELLENCE</p>
         </div>
 
         <div class="row justify-content-center">
@@ -671,7 +671,7 @@ pagination: {
       <div class="container">
       <div class="section-title" data-aos="fade-up">
               <h2>PLACEMENT PARTNERS</h2>
-              <p>Places where our alumins showing their skills</p>
+              <p>Places where our alumni showing their skills</p>
             </div>
         <div class="row no-gutters clients-wrap clearfix wow fadeInUp">
 
@@ -771,21 +771,21 @@ pagination: {
                   <div class="count-box">
                     <i class="bi bi-clock"></i>
                     <span data-purecounter-start="0" data-purecounter-end="90" data-purecounter-duration="1" class="purecounter"></span>
-                    <p><strong>Working Days</strong> Productivity, collaboration, growth - making the most of working days!</p>
+                    <p><strong>Working Days</strong>- Productivity, collaboration, growth - making the most of working days!</p>
                   </div>
                 </div>
                 <div class="col-md-6 d-md-flex align-items-md-stretch">
                   <div class="count-box">
                     <i class="bi bi-emoji-smile"></i>
                     <span data-purecounter-start="0" data-purecounter-end="1334" data-purecounter-duration="1" class="purecounter"></span>
-                    <p><strong>Proud Alumni</strong> Accomplished, successful, impactful - our proud alumni make a difference!</p>
+                    <p><strong>Proud Alumni</strong>- Accomplished, successful, impactful - our proud alumni make a difference!</p>
                   </div>
                 </div>
                 <div class="col-md-6 d-md-flex align-items-md-stretch">
                   <div class="count-box">
                     <i class="bi bi-award"></i>
                     <span data-purecounter-start="0" data-purecounter-end="93" data-purecounter-duration="1" class="purecounter"></span>
-                    <p><strong>Staff</strong> Dedicated, talented, valued - our staff drives excellence and success!</p>
+                    <p><strong>Staff</strong>- Dedicated, talented, valued - our staff drives excellence and success!</p>
                   </div>
                 </div>
               </div>
