@@ -200,7 +200,7 @@ include("conn.php")
       <div class="container" data-aos="fade-up">
         <div class="row align-items-start">
           <div class="col-lg-3 order-1 order-lg-6" data-aos="fade-right" data-aos-delay="100">
-            <img src="https://webdocs.pages.dev/assets/img/team/D.jpg" class="img-fluid" alt="">
+            <img src="https://webdocs.pages.dev/assets/img/admin/jenixr.png" class="img-fluid" alt="">
           </div>
           <div class="col-md-9 pt-4 pt-lg-0 order-2 order-lg-1 justify-content-xl-start">
 
@@ -209,7 +209,7 @@ include("conn.php")
               <small class="h6 text-secondary">M.E.,M.B.A.,Ph.D</small>
             </span>
     
-            <p class=" col-md-6 col-lg-12 p-6 fst-italic text-justify" style="line-height:1.5;"  >
+            <p class=" col-md-6 col-lg-12 p-6 fst-italic text-justify" style="line-height:2;"  >
               <i class="bx bxs-quote-alt-left quote-icon-left text-secondary h4 mr-6 "></i>
               I am delighted to welcome you to <strong>Stella Mary’s College of Engineering.</Strong>
 Stella Mary’s College of Engineering is one of the best institutes in Kanyakumari District, Tamilnadu.  It is a decade-old institute with well-experienced and qualified faculties. It has world-class infrastructure, lab facilities, and spacious indoor and outdoor sporting facilities. Our core aspiration is to get established as a center of technical excellence. Developing the student community technically strong, with professional ethics, moral values, leadership skills,  and social responsibility are our priorities. 
@@ -312,7 +312,7 @@ Stella Mary’s College of Engineering is one of the best institutes in Kanyakum
       <div class="container" data-aos="fade-up">
         <div class="row align-items-start">
           <div class="col-lg-3 order-1 order-lg-6" data-aos="fade-right" data-aos-delay="100">
-            <img src="https://webdocs.pages.dev/assets/img/faculty/1294.png" class="img-fluid" alt="">
+            <img src="https://webdocs.pages.dev/assets/img//admin/melba.png" class="img-fluid" alt="">
           </div>
 
 
@@ -391,7 +391,7 @@ Join us in shaping the future of engineering education and research. Explore the
       <div class="container" data-aos="fade-up">
         <div class="row align-items-start">
           <div class="col-lg-3 order-1 order-lg-6" data-aos="fade-right" data-aos-delay="100">
-            <img src="https://webdocs.pages.dev/assets/img/faculty/1094.png" class="img-fluid" alt="">
+            <img src="https://webdocs.pages.dev/assets/img/admin/al.png" class="img-fluid" alt="">
           </div>
 
 

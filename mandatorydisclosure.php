@@ -252,20 +252,20 @@ include("conn.php")
           <div class="tab-content">
             <div class="tab-pane active show" id="tab-1">
               <div class="row">
-                <div class="col-lg-8 details order-2 order-lg-1">
+                <div class="col-md-6 col-lg-12">
                   <!-- ======= Services Section ======= -->
     <section id="services" class="services">
         <div class="container">
           <div class="row">
-            <div class="col-md-6 col-lg-10 d-flex align-items-stretch mb-5 mb-lg-0">
+            <div class="col-md-6 col-lg-12">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                 <div class="icon"><i class="bx bxl-dribbble"></i></div>
                 <h4 class="title"><a href="">VISION</a></h4>
                 <p class="description text-justify">To produce Computer Science professionals who can accomplish path-breaking solutions for a better society, through quality technical education, on gaining the required inter- personal, entrepreneurial and computing skills.</p>
               </div>
             </div>
-  
-            <div class="col-md-6 col-lg-10 text-justify d-flex align-items-stretch mb-5 mb-lg-0">
+  <ol></ol>
+            <div class="col-md-6 col-lg-12">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                 <div class="icon"><i class="bx bx-file"></i></div>
                 <h4 class="title"><a href="">MISSION</a></h4>
@@ -435,7 +435,7 @@ include("conn.php")
                 <div class="row">
                   <div class="col-lg-8 details order-2 order-lg-1">
                     <!-- ======= Services Section ======= -->
-      <section id="services" class="services">
+      <!--<section id="services" class="services">
           <div class="container">
             <div class="row">
               <div class="col-md-6 col-lg-4 d-flex align-items-center mb-5 mb-lg-0">
@@ -452,16 +452,16 @@ include("conn.php")
                 </div>
             </div>
           </div>
-        </section><!-- End Services Section --></div>
+        </section>--><!-- End Services Section --></div>
                 </div>
               </div>
               <div class="tab-pane" id="tab-12">
-                <div class="row">
+                <div class="row justify-content-center">
                   <div class="col-lg-8 details order-2 order-lg-1">
                     <!-- ======= Services Section ======= -->
       <section id="services" class="services">
           <div class="container">
-            <div class="row">
+            <div class="row justify-content-center">
               <div class="col-md-7 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-journal-richtext"></i></div>
@@ -473,12 +473,12 @@ include("conn.php")
                 </div>
               </div>
               <div class="tab-pane" id="tab-13">
-                <div class="row">
+                <div class="row justify-content-center">
                   <div class="col-lg-8 details order-2 order-lg-1">
                     <!-- ======= Services Section ======= -->
       <section id="services" class="services">
-          <div class="container">
-            <div class="row">
+          <div class="container justify-content-center">
+            <div class="row justify-content-center">
               <div class="col-md-7 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-journal-richtext"></i></div>
@@ -491,12 +491,12 @@ include("conn.php")
                 </div>
               </div>
               <div class="tab-pane" id="tab-14">
-                <div class="row">
+                <div class="row justify-content-center">
                   <div class="col-lg-8 details order-2 order-lg-1">
                     <!-- ======= Services Section ======= -->
       <section id="services" class="services">
           <div class="container">
-            <div class="row">
+            <div class="row justify-content-center">
               <div class="col-md-7 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-journal-richtext"></i></div>
@@ -514,7 +514,7 @@ include("conn.php")
                     <!-- ======= Services Section ======= -->
       <section id="services" class="services">
           <div class="container">
-            <div class="row">
+            <div class="row ">
               <div class="col-md-6 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
@@ -606,75 +606,75 @@ include("conn.php")
                             <div class="col-lg-3 col-md-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #ffbb2c;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2020-2021.pdf">Affiliarion Order 2020-21</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2023-24.pdf">Affiliarion Order 2023-24</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #5578ff;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2019-20.pdf">Affiliarion Order 2019-20</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2022-23.pdf">Affiliarion Order 2022-23</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #e80368;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2018-19.pdf">Affiliarion Order 2018-19</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2021-22.pdf">Affiliarion Order 2021-22</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #e361ff;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2017-18.pdf">Affiliarion Order 2017-18</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2020-21.pdf">Affiliarion Order 2020-21</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #47aeff;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2016-17.pdf">Affiliarion Order 2016-17</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2019-20.pdf">Affiliarion Order 2019-20</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #ffa76e;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2015-16.pdf">Affiliarion Order 2015-16</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2018-19.pdf">Affiliarion Order 2018-19</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #11dbcf;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2014-15.pdf">Affiliarion Order 2014-15</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2017-18.pdf">Affiliarion Order 2017-18</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #4233ff;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2013-14.pdf">Affiliarion Order 2013-14</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2016-17.pdf">Affiliarion Order 2016-17</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #b2904f;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2012-13.pdf">Affiliarion Order 2012-13</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2015-16.pdf">Affiliarion Order 2015-16</a></h3>
                               </div>
                             </div>
-                            <!--<div class="col-lg-3 col-md-4 mt-4">
+                            <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #b20969;"></i>
-                                <h3><a href="">NOVEMBER 2020</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2014-15.pdf">Affiliarion Order 2014-15</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #ff5828;"></i>
-                                <h3><a href="">APRIL 2021</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2013-14.pdf">Affiliarion Order 2013-14</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #29cc61;"></i>
-                                <h3><a href="">NOVEMBER 2021</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2012-13.pdf">Affiliarion Order 2012-13</a></h3>
                               </div>
-                            </div>-->
+                            </div>
                           </div>
                   
                         </div>
@@ -695,49 +695,50 @@ include("conn.php")
                                     <div class="col-lg-3 col-md-4">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #ffbb2c;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2019-20.pdf">AICTE Approval Order 2019-20</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2023-24.PDF">AICTE Approval Order 2023-24</a></h3>
                                       </div>
                                     </div>
+                                    
                                     <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #5578ff;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2018-19.pdf">AICTE Approval Order 2018-19</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2022-23.PDF">AICTE Approval Order 2022-23</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #e80368;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2017-18.pdf">AICTE Approval Order 2017-18</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2021-22.PDF">AICTE Approval Order 2021-22</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #e361ff;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2016-17.pdf">AICTE Approval Order 2016-17</a></h3>
+                                        <h3><a href="">AICTE Approval Order 2020-21</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #47aeff;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2015-16.pdf">AICTE Approval Order 2015-16</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2019-20.pdf">AICTE Approval Order 2019-20</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #ffa76e;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2014-15.pdf">AICTE Approval Order 2014-15</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2018-19.pdf">AICTE Approval Order 2018-19</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #11dbcf;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2013-14.pdf">AICTE Approval Order 2013-14</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2017-18.pdf">AICTE Approval Order 2017-18</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #4233ff;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2012-13.pdf">AICTE Approval Order 2012-13</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2016-17.pdf">AICTE Approval Order 2016-17</a></h3>
                                       </div>
                                     </div>
                                   </div>
@@ -803,7 +804,7 @@ include("conn.php")
                 <div class="row">
                   <div class="col-lg-8 details order-2 order-lg-1">
                     <!-- ======= Services Section ======= -->
-      <section id="services" class="services">
+      <!--<section id="services" class="services">
           <div class="container">
             <div class="row">
               <div class="col-md-6 col-lg-4 d-flex align-items-center mb-5 mb-lg-0">
@@ -820,7 +821,7 @@ include("conn.php")
                 </div>
             </div>
           </div>
-        </section><!-- End Services Section --></div>
+        </section>--><!-- End Services Section --></div>
                 </div>
               </div>
     </section>
