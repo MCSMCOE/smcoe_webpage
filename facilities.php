@@ -150,7 +150,7 @@
               <div id="" class="col-md-6 d-flex align-items-stretch">
                 <div class="card">
                   <div class="card-img">
-                    <img src="https://webdocs.pages.dev/assets/img/facilities/bhostel.jpeg" alt="...">
+                    <img src="https://webdocs.pages.dev/assets/img/facilities/boysh.jpg" alt="...">
                   </div>
                   <div class="card-body">
                     <h5 class="card-title"><a href="">Boys Hostel</a></h5>

@@ -544,7 +544,7 @@
                                     <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #e361ff;"></i>
-                                        <h3><a href="">AICTE Approval Order 2020-21</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2020-21.PDF">AICTE Approval Order 2020-21</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4">
