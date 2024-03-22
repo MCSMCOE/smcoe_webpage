@@ -177,7 +177,7 @@
           <div class="col-md-6 col-lg-12 ">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class="bi-binoculars"></i></div>
-              <h4 class="title"><a href="">OJECTIVES</a></h4>
+              <h4 class="title"><a href="">OBJECTIVES</a></h4>
               <li class="text-justify">To ensure the continual maintenance of elevated academic standards across all programs.</li>
               <li class="text-justify">To provide students with the technical skills necessary for global innovation.</li>
               <li class="text-justify">To cultivate an environment that promotes active learning and innovation.</li>
@@ -204,7 +204,7 @@
             <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
               <div class="icon"><i class="bx bx-cube-alt"></i></div>
               <h4 class="title"><a href="">Sister Concern</a></h4>
-              <p class="description text-justify">The trust manages the premier educational institutions like Bapuji Memorial Higher Secondary school,<a href="https://www.bapujiedu.in/"> Bapuji Memorial College of Education</a>, Stella Mary’s College of Engineering and <a href="http://www.stellamarysschool.edu.in">Stella Mary's CBSE School.</a></p>
+              <p class="description text-justify">The trust manages the premier educational institutions like Bapuji Memorial Higher Secondary school,<a href="https://www.bapujiedu.in/"> Bapuji Memorial College of Education</a> and <a href="http://www.stellamarysschool.edu.in">Stella Mary's CBSE School.</a></p>
             </div>
           </div>
 
