@@ -380,7 +380,7 @@ pagination: {
           <div class="col-md-4">
             <div class="item">
               <div class="img">
-              <img src= <?php echo $data["e_img"]; ?>  class="img-fluid" alt="">  
+              <img src= <?php echo $data["e_img"]; ?>  class="img-fluid" alt="" style="width: 500px; height: 380px;">  
               </div>
               <div class="info">
                 <div class="date">

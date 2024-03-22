@@ -18,10 +18,10 @@
             <div class="col-lg-3 col-md-6 footer-links">
               <h4>QUICK LINKS 1</h4>
               <ul>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">NIRF</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">ANTI RAGGING CELL</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="https://webdocs.pages.dev/assets/docs/iqac/nirf/SMCE2024.pdf">NIRF</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="#">ANTI RAGGING COMMITTEE</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="#">GRIEVANCE REDRESSAL CELL</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">INTERNAL COMPLIANCE CELL</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="icc.php">INTERNAL COMPLIANCE COMMITTEE</a></li>
                 <li><i class="bx bx-chevron-right "></i> <a href="mandatorydisclosure.php">MANDATORY DISCLOSURE</a></li>
               </ul>
             </div>
