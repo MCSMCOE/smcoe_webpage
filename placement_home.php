@@ -241,28 +241,28 @@
       <div class="col-lg-3 col-md-4">
         <div class="icon-box">
           <i class="ri-check-double-line" style="color: #ffbb2c;"></i>
-          <h3><a href="">2022-23</a></h3>
+          <h3><a href="https://webdocs.pages.dev/assets/docs/cgptc/report/2023.pdf">2022-23</a></h3>
         </div>
       </div>
       <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
         <div class="icon-box">
           <i class="ri-check-double-line" style="color: #5578ff;"></i>
-          <h3><a href="">2021-22</a></h3>
+          <h3><a href="https://webdocs.pages.dev/assets/docs/cgptc/report/2022.pdf">2021-22</a></h3>
         </div>
       </div>
       <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
         <div class="icon-box">
           <i class="ri-check-double-line" style="color: #e80368;"></i>
-          <h3><a href="">2020-21</a></h3>
+          <h3><a href="https://webdocs.pages.dev/assets/docs/cgptc/report/2021.pdf">2020-21</a></h3>
         </div>
       </div>
       <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
         <div class="icon-box">
           <i class="ri-check-double-line" style="color: #e361ff;"></i>
-          <h3><a href="">2019-20</a></h3>
+          <h3><a href="https://webdocs.pages.dev/assets/docs/cgptc/report/2020.pdf">2019-20</a></h3>
         </div>
       </div>
-      <div class="col-lg-3 col-md-4 mt-4">
+     <!-- <div class="col-lg-3 col-md-4 mt-4">
         <div class="icon-box">
           <i class="ri-check-double-line" style="color: #47aeff;"></i>
           <h3><a href="">2018-19</a></h3>
@@ -274,7 +274,7 @@
           <h3><a href="">2017-18</a></h3>
         </div>
       </div>
-      <!--<div class="col-lg-3 col-md-4 mt-4">
+      <div class="col-lg-3 col-md-4 mt-4">
         <div class="icon-box">
           <i class="ri-check-double-line" style="color: #11dbcf;"></i>
           <h3><a href="">Girls Hostel</a></h3>
@@ -313,12 +313,12 @@
     </div>
 
 <!-- ======= Features Section ======= -->
-<section id="features" class="features">
+<!--<section id="features" class="features">
   <div class="container">
 
     <div class="section-title" data-aos="fade-up">
       <h2>Abroad Placement</h2>
-      <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
+      <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>
     </div>
 
     <div class="row" data-aos="fade-up" data-aos-delay="300">
@@ -358,7 +358,7 @@
           <h3><a href="">2017-18</a></h3>
         </div>
       </div>
-      <!--<div class="col-lg-3 col-md-4 mt-4">
+      <div class="col-lg-3 col-md-4 mt-4">
         <div class="icon-box">
           <i class="ri-check-double-line" style="color: #11dbcf;"></i>
           <h3><a href="">Girls Hostel</a></h3>
@@ -393,15 +393,15 @@
           <i class="ri-check-double-line" style="color: #29cc61;"></i>
           <h3><a href="">Student Zone</a></h3>
         </div>
-      </div>-->
+      </div>
     </div>
 
   </div>
-</section><!-- End Features Section -->
+</section>--><!-- End Features Section -->
 
 
     <!-- ======= Testimonials Section ======= -->
-    <section id="testimonials" class="testimonials section-bg">
+    <!--<section id="testimonials" class="testimonials section-bg">
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
@@ -427,7 +427,7 @@ Moreover, it is worth acknowledging that the exceptional educational infrastruct
                   </p>
                 </div>
               </div>
-            </div><!-- End testimonial item -->
+            </div>
 
             <div class="swiper-slide">
               <div class="testimonial-wrap">
@@ -442,7 +442,7 @@ Moreover, it is worth acknowledging that the exceptional educational infrastruct
                   </p>
                 </div>
               </div>
-            </div><!-- End testimonial item -->
+            </div>
 
             <div class="swiper-slide">
               <div class="testimonial-wrap">
@@ -457,7 +457,7 @@ Moreover, it is worth acknowledging that the exceptional educational infrastruct
                   </p>
                 </div>
               </div>
-            </div><!-- End testimonial item -->
+            </div>
 
             <div class="swiper-slide">
               <div class="testimonial-wrap">
@@ -472,7 +472,7 @@ Moreover, it is worth acknowledging that the exceptional educational infrastruct
                   </p>
                 </div>
               </div>
-            </div><!-- End testimonial item -->
+            </div>
 
             <div class="swiper-slide">
               <div class="testimonial-wrap">
@@ -487,16 +487,59 @@ Moreover, it is worth acknowledging that the exceptional educational infrastruct
                   </p>
                 </div>
               </div>
-            </div><!-- End testimonial item -->
+            </div>
 
           </div>
           <div class="swiper-pagination"></div>
         </div>
 
       </div>
-    </section><!-- End Testimonials Section -->
+    </section>--><!-- End Testimonials Section -->
 
+<section>
+<div class="section-title" data-aos="fade-up">
+      <h2>Gallery</h2>
+      <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
+    </div>
+<div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="4000"> <!-- Change the data-bs-interval value as needed -->
+                                <div class="carousel-indicators">
+                                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+                                </div>
+                                <div class="carousel-inner">
+                                  <div class="carousel-item active">
+                                    <img src="https://webdocs.pages.dev/assets/docs/cgptc/gallery/g1.jpg" class="d-block w-100" alt="...">
+                                  </div>
+                                  <div class="carousel-item">
+                                    <img src="https://webdocs.pages.dev/assets/docs/cgptc/gallery/g2.jpg" class="d-block w-100" alt="...">
+                                  </div>
+                                  <div class="carousel-item">
+                                    <img src="https://webdocs.pages.dev/assets/docs/cgptc/gallery/g3.jpg" class="d-block w-100" alt="...">
+                                  </div>
+                                  <div class="carousel-item">
+                                    <img src="https://webdocs.pages.dev/assets/docs/cgptc/gallery/g4.jpg" class="d-block w-100" alt="...">
+                                  </div>
+                                  
+                                </div>
+                                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                  <span class="visually-hidden">Previous</span>
+                                </button>
+                                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                  <span class="visually-hidden">Next</span>
+                                </button>
+                              </div>
+                                <!--end here-->
+                            </div>
+                            <!-- End Features Section -->
+                                </div>
 
+                                </div>
+
+</section>
 
 
   </div>

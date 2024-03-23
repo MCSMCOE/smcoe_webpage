@@ -40,9 +40,8 @@
             <div class="col-lg-3 col-md-6 footer-links">
               <h4>Downloads</h4>
               <ul>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">Student Undertaking form</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="https://webdocs.pages.dev/assets/docs/footer/Student%20undertaking.pdf">Student Undertaking form</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="https://webdocs.pages.dev/assets/docs/cgptc/PlacementUndertaking.pdf">Placement Undertaking form</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">Faculty Undertaking form</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="https://webdocs.pages.dev/assets/docs/r&d/Proposal-Format-SM-SMS.docx">Stella Mary's Seed Money (Doc)</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="https://webdocs.pages.dev/assets/docs/r&d/Proposal-Format-SM-SMS.pdf">Stella Mary's Seed Money (Pdf)</a></li>
               </ul>

@@ -845,7 +845,7 @@
                 </div>
               </div>
               <div class="tab-pane" id="tab-8">
-                <div class="row">
+                <div class="row justify-content-center">
                     <section id="features" class="features">
                         <div class="container">
                   
@@ -854,7 +854,7 @@
                             <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
                           </div>
                   
-                          <div class="row" data-aos="fade-up" data-aos-delay="300">
+                          <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="300">
                             <div class="col-lg-3 col-md-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #ffbb2c;"></i>

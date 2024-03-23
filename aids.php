@@ -104,12 +104,12 @@ The faculty members are highly motivated and devoted in delivering the high qual
             <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-8">Academic Calender</a>
             </li>
-            <li class="nav-item">
+            <!--<li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-9">Newsletter</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-10">Brochure</a>
-            </li>
+            </li>-->
             <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-10">Gallery</a>
             </li>
@@ -719,7 +719,7 @@ Database Design, Cyber Security and AI, Computer Vision, and Artificial Intellig
                 </div>
               </div>
               <div class="tab-pane" id="tab-7">
-              <div class="row row justify-content-center">
+              <div class="row justify-content-center">
                   <div class="">
                     <!-- ======= Services Section ======= -->
                     <section id="services" class="services">
@@ -766,12 +766,12 @@ Database Design, Cyber Security and AI, Computer Vision, and Artificial Intellig
                 </div>
                 </div>
                 <div class="tab-pane" id="tab-8">
-                <div class="row">
+                <div class="row justify-content-center">
                 <div class="">
                     <!-- ======= Services Section ======= -->
       <section id="services" class="services">
           <div class="container">
-            <div class="row">
+            <div class="row justify-content-center">
             <div class="section-title" data-aos="fade-up">
                             <h2>Academic Calender</h2>
                             <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
@@ -789,7 +789,7 @@ Database Design, Cyber Security and AI, Computer Vision, and Artificial Intellig
                   <h4 class="title"><a href="">2023-24 ODD</a></h4>
                 </div>
               </div>
-              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+              <!--<div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
                   <h4 class="title"><a href="">2022-23 EVEN</a></h4>
@@ -849,7 +849,7 @@ Database Design, Cyber Security and AI, Computer Vision, and Artificial Intellig
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
                   <h4 class="title"><a href="">2018-19 EVEN</a></h4>
                 </div>
-              </div>
+              </div>-->
             </div>
           </div>
         </section><!-- End Services Section --></div>
