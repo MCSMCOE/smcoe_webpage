@@ -275,31 +275,42 @@ The faculty members are highly motivated and devoted in delivering the high qual
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingOne">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                    <strong>Communication Systems</strong>
+                    <strong>Artificial Intelligence Lab</strong>
                     </button>
                     </h2>
                     <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
                     <strong>Experiments</strong> 
-                    <li>To visualize the effects of sampling and TDM</li>
-                    <li>To Implement AM & FM modulation and demodulation</li>
-                    <li>To implement PCM & DM, To implement FSK, PSK and DPSK schemes</li>
-                    <li>To implement Equalization algorithms</li>
-                    <li>To implement Error control coding schemes</li>
-                    <strong>Equipments</strong> 
-                    <li>AM & FM modulation and demodulation Kit</li>
-                    <li>Time Division Multiplexing Kit</li>
-                    <li>Pulse Code Modulation & Delta Modulation Kit</li>
-                    <li>Frequency Shift Keying, Phase Shift keying Kit</li>
-                    <li>Frequency Division Multiplexing Kit</li>
-                    <li>Sampling Kit</li>
+                    <p class="text-justify">Students in the AI Lab at SMCE can develop a well-rounded skill set and gain practical
+experience in applying AI technologies to diverse domains. The guidance provided by faculty
+members ensures that students receive mentorship and support as they explore and apply their
+knowledge in various AI-related projects and applications. This lab enables students to learn
+artificial Intelligence (AI) technologies. Guided by our faculty members, the students apply
+their knowledge in algorithms, Data Science and analytics, Natural Language Processing,
+Database Design, Cyber Security and AI, Computer Vision, and Artificial Intelligence.</p>
+                    <strong>LIST OF APPLICATION SOFTWARE:</strong> 
+                    <li>Anaconda Jupyter Notebook</li>
+                    <li>Eclipse</li>
+                    <li>MySQL</li>
+                    <li>Oracle11g</li>
+                    <li>Android Studio</li>
+                    <li>Adobe Master Collection</li>
+                    <li>Rational Suit</li>
+                    <li>XAMPP, WAMP</li>
+                    <li>Network Simulator NS2</li>
+                    <li>Virtual BoX</li>
+                    <li>Openstack, Hadoop, Coludism</li>
+                    <li>Anaconda Navigator</li>
+                    <li>MS Office 2007</li>
+                    <li>R-Studio</li>
+                    <li>dobe Dreamweaver</li>
                     <div class="col-md-6 col-lg-12">
-                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/CM.png" alt="" class="img-fluid">
+                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/BD.jpg" alt="" class="img-fluid">
                     </div>
                   </div>
                 </div>
               </div>
-              <div class="accordion-item">
+              <!--<div class="accordion-item">
                 <h2 class="accordion-header" id="headingTwo">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                     <strong>Linear Integrated Circuits</strong>
@@ -503,7 +514,7 @@ The faculty members are highly motivated and devoted in delivering the high qual
                     </div>
                   </div>
                 </div>
-              </div>
+              </div>-->
 
 
 
