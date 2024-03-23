@@ -53,7 +53,7 @@
 
           <div class="course-info d-flex justify-content-between align-items-center">
             <h5>Budding Engineers</h5>
-            <p>412</p>
+            <p>406</p>
           </div>
 
           <div class="course-info d-flex justify-content-between align-items-center">
@@ -108,15 +108,15 @@
             <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-8">Newsletter</a>
             </li>
-            <li class="nav-item">
+            <!--<li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-9">Brochure</a>
-            </li>
+            </li>-->
             <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-10">Gallery</a>
             </li>
-            <li class="nav-item">
+            <!--<li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-11">Testimonial</a>
-            </li>
+            </li>-->
           </ul>
         </div>
         <div class="col-lg-9 mt-4 mt-lg-0">
@@ -858,10 +858,10 @@
                             <div class="col-lg-3 col-md-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #ffbb2c;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume1issue1.pdf">Volume I, Issue 1 : Dec 2017</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/sh/report/NEWSLETTER.pdf">2022-23</a></h3>
                               </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                            <!--<div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #5578ff;"></i>
                                 <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume1issue2.pdf">Volume I, Issue 2 : April 2018</a></h3>
@@ -902,7 +902,7 @@
                                 <i class="ri-calendar-todo-line" style="color: #4233ff;"></i>
                                 <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume4issue2.pdf">Volume IV, Issue 2 : April 2021</a></h3>
                               </div>
-                            </div>
+                            </div>-->
                             <!--<div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #b2904f;"></i>
@@ -990,16 +990,16 @@
                                 </div>
                                 <div class="carousel-inner">
                                   <div class="carousel-item active">
-                                    <img src="https://webdocs.pages.dev/assets/docs/cfi/sih2022/3.jpg" class="d-block w-100" alt="...">
+                                    <img src="https://webdocs.pages.dev/assets/docs/sh/gallery/g1.jpg" class="d-block w-100" alt="...">
                                   </div>
                                   <div class="carousel-item">
-                                    <img src="https://webdocs.pages.dev/assets/docs/cfi/sih2022/2.jpg" class="d-block w-100" alt="...">
+                                    <img src="https://webdocs.pages.dev/assets/docs/sh/gallery/g2.jpg" class="d-block w-100" alt="...">
                                   </div>
                                   <div class="carousel-item">
-                                    <img src="https://webdocs.pages.dev/assets/docs/cfi/sih2022/1.jpg" class="d-block w-100" alt="...">
+                                    <img src="https://webdocs.pages.dev/assets/docs/sh/gallery/g3.jpg" class="d-block w-100" alt="...">
                                   </div>
                                   <div class="carousel-item">
-                                    <img src="https://webdocs.pages.dev/assets/docs/cfi/sih2022/4.jpg" class="d-block w-100" alt="...">
+                                    <img src="https://webdocs.pages.dev/assets/docs/sh/gallery/g4.jpg" class="d-block w-100" alt="...">
                                   </div>
                                   
                                 </div>

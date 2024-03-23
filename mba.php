@@ -279,26 +279,37 @@
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingOne">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                    <strong>Communication Systems</strong>
+                    <strong>Business Communication Laboratory</strong>
                     </button>
                     </h2>
                     <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    <strong>Experiments</strong> 
-                    <li>To visualize the effects of sampling and TDM</li>
-                    <li>To Implement AM & FM modulation and demodulation</li>
-                    <li>To implement PCM & DM, To implement FSK, PSK and DPSK schemes</li>
-                    <li>To implement Equalization algorithms</li>
-                    <li>To implement Error control coding schemes</li>
-                    <strong>Equipments</strong> 
-                    <li>AM & FM modulation and demodulation Kit</li>
-                    <li>Time Division Multiplexing Kit</li>
-                    <li>Pulse Code Modulation & Delta Modulation Kit</li>
-                    <li>Frequency Shift Keying, Phase Shift keying Kit</li>
-                    <li>Frequency Division Multiplexing Kit</li>
-                    <li>Sampling Kit</li>
+                    <strong>Practical: Module 1</strong> 
+                    <p class ="text-justify"> This module introduces both written and spoken communication skills to
+students to build their confidence in delivering clear and logical messages to their audience. They
+will develop written communication skills through crafting business messages such as business
+letters, emails, and meeting minutes. In addition, students will work through presentations and
+simulated meetings to refine their spoken communication skills, discussion techniques and people
+skills.</P>
+                
+                    <strong>Practical - Module 2-This</strong> 
+                    <p class ="text-justify">This module builds on the foundation of Business Communication 1 and
+creates opportunities for students to strengthen their oral and written communication. Students will
+be required to enhance their presentation skills through impromptu speeches. Students will also
+learn how to prepare a formal business report. Job hunting and employment skills will be
+introduced to prepare students for a positive start to their careers. Students will be taught to write
+application letters and resumes. Additionally, students will learn job interview techniques through
+role-plays and simulations</p>
+
+<strong>Practical - Module 3</strong> 
+                    <p class ="text-justify">This practical module aims to help students be persuasive in the business
+world. Students will learn listening and data gathering skills to better understand their target
+audience’s needs and requirements and persuasive skills to convince the audience to accept a new
+policy/suggestion/product through role-playing a boardroom presentation. Students will also be
+taught business networking skills including conversation techniques, dining etiquette and personal
+branding through role-plays and simulations.</p>
                     <div class="col-md-6 col-lg-12">
-                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/CM.png" alt="" class="img-fluid">
+                    <img src="https://webdocs.pages.dev/assets/img/mba/lab/l1.png" alt="" class="img-fluid">
                     </div>
                   </div>
                 </div>
@@ -306,29 +317,52 @@
               <div class="accordion-item">
                 <h2 class="accordion-header" id="headingTwo">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                    <strong>Linear Integrated Circuits</strong>
+                    <strong>Data Analysis and Business Modelling laboratory</strong>
                     </button>
                     </h2>
                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                    <strong>Experiments</strong> 
-                    <li>To expose the students to linear and integrated circuits</li>
-                    <li>To understand the basics of linear integrated circuits and available ICs</li>
-                    <li>To understand and apply operational amplifiers in linear and nonlinear applications</li>
-                    <li>To acquire the basic knowledge of special function IC</li>
-                    <li>To use P-SPICE software for circuit design.</li>
+                    <strong>SPSS</strong> 
+                    <li>Descriptive Statistics</li>
+                    <li>Independent Sample t-Test</li>
+                    <li>One Sample t- Test</li>
+                    <li>Paired Sample t-Test</li>
+                    <li>One way ANOVA</li>
+                    <li>Two way ANOVA</li>
+                    <li>Chi-square Test</li>
+                    <li>Mann-Whitney U Test</li>
+                    <li>Kruskal-Wallis H Test</li>
+                    <li>Wilcoxon Signed Rank Test</li>
+                    <li>Spearman Rank Correlation</li>
+                    <li>Correlation: Bivariate Analysis</li>
+                    <li>Regression</li>
                     <strong>Equipments</strong> 
                     <li>Function Generator</li>
                     <li>Cathode Ray Oscilloscope</li>
                     <li>Digital Storage Oscilloscope</li>
                     <li>P-SPICE software</li>
+                    <strong>MS EXCEL</strong> 
+                    <li>Financial Management</li>
+                    <li>Inventory Analysis</li>
+                    <li>Investment Appraisal</li>
+                    <li>Ratio Analysis</li>
+                    <li>Portfolio Management</li>
+                    <li>Revenue Management</li>
+                    <strong>POM</strong> 
+                    <li>Transportation</li>
+                    <li>Assignment</li>
+                    <li>Economic Order Quantity</li>
+                    <li>Forecasting Trend</li>
+                    <strong>TORA</strong> 
+                    <li>Linear Programming</li>
+                    <li>Transportation</li>
                     <div class="col-md-6 col-lg-12">
-                    <img src="https://webdocs.pages.dev/assets/img/CSE/lab/BD.jpg" alt="" class="img-fluid">
+                    <img src="https://webdocs.pages.dev/assets/img/mba/lab/l1.png" alt="" class="img-fluid">
                     </div>
                   </div>
                 </div>
               </div>
-              <div class="accordion-item">
+             <!-- <div class="accordion-item">
                 <h2 class="accordion-header" id="headingThree">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                     <strong>Electron Device And Circuits</strong>
@@ -507,7 +541,7 @@
                     </div>
                   </div>
                 </div>
-              </div>
+              </div>-->
 
 
 
@@ -703,15 +737,15 @@
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bx-world"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/civil/syllabus/2021.pdf">Regulation 2021</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/mba/syllabus/M.B.A.pdf">Regulation 2021</a></h4>
                   </div>
               </div>
-              <div class="col-lg-3 col-md-4">
+              <!--<div class="col-lg-3 col-md-4">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bx-world"></i></div>
                   <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/civil/syllabus/2017.pdf">Regulation 2017</a></h4>
                   </div>
-                </div>
+                </div>-->
             </div>
           </div>
         </section><!-- End Services Section --></div>

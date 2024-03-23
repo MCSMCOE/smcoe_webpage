@@ -17,7 +17,7 @@
 
         <div class="container">
           <h2>Electronics and Communication Engineering</h2>
-        <p>Department specializes in the design, development, and implementation of electronic systems, communication networks, and signal processing technologies to enable efficient information transmission and exchange.</p>
+        <p>Department of Electronics and Communication Engineering specializes in creating, advancing, and integrating electronic systems, communication networks and signal processing technologies to facilitate smooth and effective transmission and exchange of information.</p>
       </div>
 
       </div>
@@ -57,14 +57,13 @@
 
           <div class="course-info d-flex justify-content-between align-items-center">
             <h5>Proud Alumni</h5>
-            <p>250</p>
+            <p>209</p>
           </div>
 
         </div>
         <h3> Overview</h3>
-          <p>
-            Electronics and Communications Engineering (ECE) is the application of science and mathematics to practical problems in the electronics and communications field. Electronics and communications engineers engage in research, design, development and testing of the electronic equipment used in various systems. This field is closely aligned with Computer Science and Engineering (CSE) and the advances in CSE play a significant role in the advancement of ECE. This is why a degree in ECE is always in high demand.  
-          </p>
+          <p class="text-justify">The Department of Electronics and Communication Engineering was established in 2013 with a vision to cultivate competent professionals capable of meeting the global challenges in modern engineering society. Currently, it offers a 4-year B.E. Electronics and Communication Engineering program with an intake capacity of 60 students. The laboratories are equipped with state-of-the-art technology in various fields including Electronic Devices and Circuits, Digital Electronics, Linear Integrated Circuits, Microprocessors and Microcontrollers, Digital Signal Processing, Communication Systems, VLSI, Optical & Microwave, and Embedded Systems. These facilities provide students with opportunities to work with a wide range of hardware and advanced software packages.</p>
+          <p class="text-justify"> The department boasts a team of dedicated faculty members who possess expertise in areas such as Applied Electronics, Communication Systems, Embedded Systems, Electronics and Control Engineering, Power Electronics and Drives. Additionally, the department hosts professional associations like the Students Technical Association ELECTAS.</p>
       </div>
 
     </div>
@@ -687,7 +686,7 @@
               </div>
             </div>
             <div class="tab-pane" id="tab-5">
-            <div class="row row justify-content-center">
+            <div class="row justify-content-center">
                   <div class="">
                     <!-- ======= Services Section ======= -->
       <section id="services" class="services">
@@ -864,34 +863,34 @@
                             <div class="col-lg-3 col-md-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #ffbb2c;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume1issue1.pdf">Volume I, Issue 1 : Dec 2017</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/ece/newsletter/august16.pdf">Auguest 2016</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #5578ff;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume1issue2.pdf">Volume I, Issue 2 : April 2018</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/ece/newsletter/Nov2015.pdf">November 2015</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #e80368;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume2issue1.pdf">Volume II, Issue 1 : Dec 2018</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/ece/newsletter/May2015.pdf">May 2015</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #e361ff;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume2issue2.pdf">Volume II, Issue 2 : April 2019</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/ece/newsletter/May2014.pdf">May 2014</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #47aeff;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume3issue1.pdf">Volume III, Issue 1 : Dec 2019</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/ece/newsletter/Dec2013.pdf">December 2013</a></h3>
                               </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 mt-4">
+                            <!--<div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #ffa76e;"></i>
                                 <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume3issue2.pdf">Volume III, Issue 2 : April 2020</a></h3>
@@ -908,7 +907,7 @@
                                 <i class="ri-calendar-todo-line" style="color: #4233ff;"></i>
                                 <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume4issue2.pdf">Volume IV, Issue 2 : April 2021</a></h3>
                               </div>
-                            </div>
+                            </div>-->
                             <!--<div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #b2904f;"></i>
@@ -1143,16 +1142,16 @@
                                 </div>
                                 <div class="carousel-inner">
                                   <div class="carousel-item active">
-                                    <img src="https://webdocs.pages.dev/assets/docs/cfi/sih2022/3.jpg" class="d-block w-100" alt="...">
+                                    <img src="https://webdocs.pages.dev/assets/docs/ece/gallery/g1.jpg" class="d-block w-100" alt="...">
                                   </div>
                                   <div class="carousel-item">
-                                    <img src="https://webdocs.pages.dev/assets/docs/cfi/sih2022/2.jpg" class="d-block w-100" alt="...">
+                                    <img src="https://webdocs.pages.dev/assets/docs/ece/gallery/g2.jpg" class="d-block w-100" alt="...">
                                   </div>
                                   <div class="carousel-item">
-                                    <img src="https://webdocs.pages.dev/assets/docs/cfi/sih2022/1.jpg" class="d-block w-100" alt="...">
+                                    <img src="https://webdocs.pages.dev/assets/docs/ece/gallery/g1.jpg" class="d-block w-100" alt="...">
                                   </div>
                                   <div class="carousel-item">
-                                    <img src="https://webdocs.pages.dev/assets/docs/cfi/sih2022/4.jpg" class="d-block w-100" alt="...">
+                                    <img src="https://webdocs.pages.dev/assets/docs/ece/gallery/g2.jpg" class="d-block w-100" alt="...">
                                   </div>
                                   
                                 </div>
@@ -1274,7 +1273,7 @@ about nurturing character and fostering a lifelong love for learning.
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="" class="https://webdocs.pages.dev/assets/docs/ece/testimonial/bhadri.png" alt="">
+                  <img src="https://webdocs.pages.dev/assets/docs/ece/testimonial/bhadri.png" class="testimonial-img" alt="">
                   <h3>Bhadri R</h3>
                   <h4>Alumni - 2018-2022  &amp; Web Developer and Trainer</h4>
                   <p p class ="text-justify">
