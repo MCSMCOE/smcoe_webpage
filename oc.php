@@ -12,19 +12,19 @@
   <main id="main">
 
     <!-- ======= Breadcrumbs Section ======= -->
-    <section class="breadcrumbs">
+   <!-- <section class="breadcrumbs">
       <div class="container">
 
-        <div class="d-flex justify-content-between align-items-center">
+       <!-- <div class="d-flex justify-content-between align-items-center">
           <h2>Organisation Chart</h2>
           <ol>
             <li><a href="index.html">Home</a></li>
             <li>Organisation Chart</li>
           </ol>
-        </div>
+        </div>-->
 
       </div>
-    </section><!-- End Breadcrumbs Section -->
+    </section>--><!-- End Breadcrumbs Section -->
 
     <section class="oc">
       <div class="container">
@@ -41,11 +41,16 @@
   
             <div class="col-lg-12 col-md-6 align-items-md-stretch">
               <div class="member" data-aos="fade-up" data-aos-delay="100">
-                <div class="member-img">
-                  <img src="assets/img/oc.jpg" class="img-fluid" alt="">
+                
+        <section id="about" class="about shadow p-4">
+      <div class="container" data-aos="fade-up">
+        <div class="row align-items-start">
+          <div class="col-lg-12 order-1 order-lg-6" data-aos="fade-right" data-aos-delay="100">
+            <img src="https://webdocs.pages.dev/assets/docs/office/PolicyDoc/OrgChart.jpg" class="img-fluid" alt="">
+          </div>
+          
         </div>
-      </section><!-- End Team Section -->
-  
+
       </div>
     </section>
     

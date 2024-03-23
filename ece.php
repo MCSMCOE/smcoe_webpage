@@ -982,24 +982,24 @@
                               </div>
                               </div>
                               <div class="tab-pane" id="tab-10">
-                        <div class="row">
+                        <div class="row justify-content-center">
                             <section id="features" class="features">
                                 <div class="container">
                          
-                                  <div class="section-title" data-aos="fade-up">
+                                  <div class="section-title justify-content-center" data-aos="fade-up">
                                     <h2>Industry Collaboration</h2>
                                     <p><strong>Value Added Course</strong></p>
                                     <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
                                   </div>
                           
-                                  <div class="row" data-aos="fade-up" data-aos-delay="300">
-                                    <div class="col-lg-3 col-md-4">
+                                  <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="300">
+                                    <div class="col-lg-4 col-md-4">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #ffbb2c;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2017-18.pdf">2017-2018</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/ece/vac/VAC-ECE.pdf">Value Added Course</a></h3>
                                       </div>
                                     </div>
-                                    <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                                    <!--<div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #5578ff;"></i>
                                         <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2018-19.pdf">2018-2019</a></h3>
@@ -1016,22 +1016,22 @@
                                         <i class="ri-database-2-line" style="color: #e361ff;"></i>
                                         <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2020-21.pdf">2020-2021</a></h3>
                                       </div>
-                                    </div>
+                                    </div>-->
                                   </div>
                               
-                                  <div class="section-title" data-aos="fade-up">
+                                  <div class="section-title justify-content-center" data-aos="fade-up">
                                     <p><strong>Internship</strong></p>
                                     <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
                                   </div>
                           
-                                  <div class="row" data-aos="fade-up" data-aos-delay="300">
+                                  <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="300">
                                     <div class="col-lg-3 col-md-4">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #ffbb2c;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2017-18.pdf">2017-2018</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/ece/internship/Internship.pdf">Internship</a></h3>
                                       </div>
                                     </div>
-                                    <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                                    <!--<div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #5578ff;"></i>
                                         <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2018-19.pdf">2018-2019</a></h3>
@@ -1048,7 +1048,7 @@
                                         <i class="ri-database-2-line" style="color: #e361ff;"></i>
                                         <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2020-21.pdf">2020-2021</a></h3>
                                       </div>
-                                    </div>
+                                    </div>-->
                                   </div>
                                   <div class="section-title" data-aos="fade-up">
                                     <p><strong>Memorandum of Understanding</strong></p>
@@ -1274,12 +1274,30 @@ about nurturing character and fostering a lifelong love for learning.
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="" class="testimonial-img" alt="">
-                  <h3>Matt Brandon</h3>
-                  <h4>Freelancer</h4>
-                  <p>
+                  <img src="" class="https://webdocs.pages.dev/assets/docs/ece/testimonial/bhadri.png" alt="">
+                  <h3>Bhadri R</h3>
+                  <h4>Alumni - 2018-2022  &amp; Web Developer and Trainer</h4>
+                  <p p class ="text-justify">
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                    As a proud graduate of Stella Mary’s, I reflect on my journey studying Electronics and Communication
+Engineering (ECE) from 2018 to 2022 with immense gratitude and satisfaction. The comprehensive
+curriculum, meticulously designed by the college, not only imparted essential theoretical knowledge but
+also encouraged exploration of emerging technologies. The dedicated faculty members at Stella Mary’s
+went beyond traditional teaching roles, serving as mentors who were genuinely invested in our growth
+and success. Their guidance and encouragement were instrumental in shaping my academic path and
+preparing me for the dynamic landscape of the industry. A standout feature of my time at Stella Mary’s was the emphasis on practical learning. The college's
+modern labs and workshops provided hands-on experience with state-of-the-art equipment, fostering a
+deeper understanding of theoretical concepts and enhancing problem-solving abilities. Moreover, regular
+industry visits, seminars, and workshops offered invaluable insights into real-world applications and
+industry trends, further enriching our learning experience. Beyond academics, Stella Mary’s nurtured a
+vibrant community where students were encouraged to explore diverse interests and talents. From
+technical competitions to cultural events, the college provided ample opportunities for holistic
+development, fostering leadership, teamwork, and creativity.
+
+In conclusion, my journey at Stella Mary’s has been truly transformative, equipping me with the
+knowledge, skills, and confidence to excel in my career as a web developer and trainer. I am deeply
+grateful for the unwavering support of the faculty, the enriching learning environment, and the lifelong
+friendships cultivated during my time at the college.
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                 </div>

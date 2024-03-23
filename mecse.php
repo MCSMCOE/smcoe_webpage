@@ -510,15 +510,10 @@ The faculty members impart knowledge through curriculum based formal education a
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bx-world"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/cse/syllabus/2021.pdf">Regulation 2021</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/mecse/syllabus/MECSE2021.pdf">Regulation 2021</a></h4>
                   </div>
               </div>
-              <div class="col-lg-3 col-md-4">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bx-world"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/cse/syllabus/2017.pdf">Regulation 2017</a></h4>
-                  </div>
-                </div>
+              
             </div>
           </div>
         </section><!-- End Services Section --></div>

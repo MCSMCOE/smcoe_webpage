@@ -117,7 +117,7 @@
           <div class="tab-content">
             <div class="tab-pane active show" id="tab-1">
               <div class="row justify-content-center">
-                <div class="col-lg-8 details order-2 order-lg-1">
+                <div class="col-md-6 col-lg-12">
                   <!-- ======= Services Section ======= -->
     <section id="services" class="services">
         <div class="container">
@@ -129,7 +129,7 @@
                 <p class="description">To impart nationally and internationally recognized education on Mechanical Engineering, leading to well qualified engineers who are innovative contributors to the profession and successful in advanced studies and research</p>
               </div>
             </div>
-  
+  <ol></ol>
             <div class="col-md-6 col-lg-12">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                 <div class="icon"><i class="bx bx-file"></i></div>
@@ -696,15 +696,10 @@
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bx-world"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/civil/syllabus/2021.pdf">Regulation 2021</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/meise/syllabus/MEISE2021.pdf">Regulation 2021</a></h4>
                   </div>
               </div>
-              <div class="col-lg-3 col-md-4">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bx-world"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/civil/syllabus/2017.pdf">Regulation 2017</a></h4>
-                  </div>
-                </div>
+              
             </div>
           </div>
         </section><!-- End Services Section --></div>

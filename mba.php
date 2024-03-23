@@ -1002,13 +1002,13 @@
                                 </div>
                                 <div class="carousel-inner">
                                   <div class="carousel-item active">
-                                    <img src="https://webdocs.pages.dev/assets/docs/cfi/sih2022/3.jpg" class="d-block w-100" alt="...">
+                                    <img src="https://webdocs.pages.dev/assets/img/mba/testimonial/t1.jpg" class="d-block w-100" alt="...">
                                   </div>
                                   <div class="carousel-item">
-                                    <img src="https://webdocs.pages.dev/assets/docs/cfi/sih2022/2.jpg" class="d-block w-100" alt="...">
+                                    <img src="https://webdocs.pages.dev/assets/img/mba/testimonial/t2.jpg" class="d-block w-100" alt="...">
                                   </div>
                                   <div class="carousel-item">
-                                    <img src="https://webdocs.pages.dev/assets/docs/cfi/sih2022/1.jpg" class="d-block w-100" alt="...">
+                                    <img src="https://webdocs.pages.dev/assets/img/mba/testimonial/t3.jpg" class="d-block w-100" alt="...">
                                   </div>
                                   <div class="carousel-item">
                                     <img src="https://webdocs.pages.dev/assets/docs/cfi/sih2022/4.jpg" class="d-block w-100" alt="...">
