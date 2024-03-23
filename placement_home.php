@@ -68,7 +68,7 @@
 
       <section id="services" class="services">
         <div class="container">
-          <div class="row">
+          <div class="row text-justify">
             <div class="col-md-6  d-flex align-items-stretch mb-5 mb-lg-0">
               <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                 <div class="icon"><i class="bx bxl-dribbble"></i></div>

@@ -868,17 +868,17 @@
                 </div>
               </div>
               <div class="tab-pane" id="tab-7">
-                <div class="row">
+                <div class="row ">
                   <div class="">
                     <!-- ======= Services Section ======= -->
       <section id="services" class="services">
           <div class="container">
-            <div class="row">
+            <div class="row justify-content-center">
             <div class="section-title" data-aos="fade-up">
                             <h2>Academic Calender</h2>
                             <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
                           </div>
-              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+              <!--<div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
                   <h4 class="title"><a href="">2023-24 EVEN</a></h4>
@@ -896,48 +896,54 @@
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
                   <h4 class="title"><a href="">2022-23 EVEN</a></h4>
                 </div>
-              </div>
+              </div>-->
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2022-23 ODD</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/mech/acc%20cal/22-23%20Odd.pdf">2022-23 ODD</a></h4>
                 </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2021-22 EVEN</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/mech/acc%20cal/21-22%20Even.pdf">2021-22 EVEN</a></h4>
                 </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2021-22 ODD</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/mech/acc%20cal/21-22%20ODD.pdf">2021-22 ODD</a></h4>
                 </div>
                 <ol></ol>
               </div>
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2020-21 EVEN</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/mech/acc%20cal/20-21%20Even.pdf">2020-21 EVEN</a></h4>
                 </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2020-21 ODD</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/mech/acc%20cal/20-21%20ODD.pdf">2020-21 ODD</a></h4>
                 </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2019-20 EVEN</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/mech/acc%20cal/19-20%20Even.pdf">2019-20 EVEN</a></h4>
                 </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2019-20 ODD</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/mech/acc%20cal/19-20%20ODD.pdf">2019-20 ODD</a></h4>
+                </div>
+              </div>
+              <!--<div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
+                  <h4 class="title"><a href="">2018-19 EVEN</a></h4>
                 </div>
               </div>
               <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
@@ -945,13 +951,7 @@
                   <div class="icon"><i class="bx bi-calendar4-week"></i></div>
                   <h4 class="title"><a href="">2018-19 EVEN</a></h4>
                 </div>
-              </div>
-              <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
-                <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon"><i class="bx bi-calendar4-week"></i></div>
-                  <h4 class="title"><a href="">2018-19 EVEN</a></h4>
-                </div>
-              </div>
+              </div>-->
             </div>
           </div>
         </section><!-- End Services Section --></div>
@@ -995,25 +995,25 @@
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #47aeff;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume3issue1.pdf">Volume III, Issue 1 : Dec 2019</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/mech/newsletter/may20.pdf">May 2020</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #ffa76e;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume3issue2.pdf">Volume III, Issue 2 : April 2020</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/mech/newsletter/dec19.pdf">December 2019</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #11dbcf;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume4issue1.pdf">Volume IV, Issue 1 : Dec 2020</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/mech/newsletter/dec18.pdf">December 2018</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #4233ff;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/civil/newsletter/Civolume4issue2.pdf">Volume IV, Issue 2 : April 2021</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/mech/newsletter/dec17.pdf">December 2017</a></h3>
                               </div>
                             </div>
                             <!--<div class="col-lg-3 col-md-4 mt-4">
@@ -1207,25 +1207,32 @@
                                     <div class="col-lg-3 col-md-4">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #ffbb2c;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2017-18.pdf">2017-2018</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/mech/placement/Placement%202022-2023.pdf">2022-23</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #5578ff;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2018-19.pdf">2018-2019</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/mech/placement/Placement%202021-2022.pdf">2021-22</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                                       <div class="icon-box">
-                                        <i class="ri-database-2-line" style="color: #e80368;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2019-20.pdf">2019-2020</a></h3>
+                                        <i class="ri-file-list-3-line" style="color: #e80368;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/mech/placement/Placement%202020-2021.pdf">2020-21</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
                                       <div class="icon-box">
-                                        <i class="ri-database-2-line" style="color: #e361ff;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2020-21.pdf">2020-2021</a></h3>
+                                        <i class="ri-file-list-3-line" style="color: #e361ff;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/mech/placement/Placement%202019-2020.pdf">2019-20</a></h3>
+                                      </div>
+                                    </div>
+                                    <ol></ol>
+                                    <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
+                                      <div class="icon-box">
+                                        <i class="ri-file-list-3-line" style="color: #e361ff;"></i>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/mech/placement/Placement%202018-2019.pdf">2018-19</a></h3>
                                       </div>
                                     </div>
                                    

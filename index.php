@@ -1091,7 +1091,7 @@ pagination: {
           </div>
 
           <div class="col-lg-5 col-md-12" data-aos="fade-up" data-aos-delay="300">
-          <form action="contact.php" method="post" role="form" class="php-email-form">
+          <form action="email.php" method="post" role="form" class="php-email-form">
               <div class="form-group">
                 <input type="text" maxlength ="25" name="name" class="form-control" id="name" placeholder="Your Name" required>
               </div>
@@ -1105,7 +1105,7 @@ pagination: {
                 <textarea class="form-control" maxlength ="200" name="message" rows="5" placeholder="Message" required></textarea>
               </div>
               <div class="my-3">
-                <div class="loading">Loading</div>
+                <div class="loading">Loading...</div>
                 <div class="error-message"></div>
                 <div class="sent-message">Your message has been sent. Thank you!</div>
               </div>
