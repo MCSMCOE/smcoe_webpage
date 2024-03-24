@@ -41,3 +41,6 @@ scp sports_19-20.php root@109.205.183.103:/home/campusstack/deployment/config/ph
 scp sports_20-21.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb/stellamaryscoe.edu.in/php_files_dir/sports_20-21.php
 scp sports_21-22.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb/stellamaryscoe.edu.in/php_files_dir/sports_21-22.php
 scp strategicplan.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb/stellamaryscoe.edu.in/php_files_dir/strategicplan.php
+scp mediacell.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb/stellamaryscoe.edu.in/php_files_dir/mediacell.php
+scp header.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb/stellamaryscoe.edu.in/php_files_dir/header.php
+scp footer.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb/stellamaryscoe.edu.in/php_files_dir/footer.php
