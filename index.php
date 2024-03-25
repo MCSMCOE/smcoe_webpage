@@ -809,25 +809,12 @@ pagination: {
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="https://webdocs.pages.dev/assets/img/testimonials/Vaishnavi.jpeg" class="testimonial-img" alt="">
+                  <img src="https://webdocs.pages.dev/assets/img/testimonials/nambi.jpg" class="testimonial-img" alt="">
                   <h3>Mr. Nambi Narayanan</h3>
-                  <h4>ECE - Alumni 2019-23 &amp; Software Developer @ Agile Cyber Solutions</h4>
-                  <p>
-                    <i class="bx bxs-quote-alt-left quote-icon-left text-justify"></i>
-        
-I am privileged to extend my heartfelt appreciation for Stella Mary's College of Engineering. Having had the opportunity to interact closely with the institution and witness its commitment to excellence, I can confidently say that it stands as a beacon of innovation and academic brilliance.
-
-Stella Mary's College of Engineering embodies a unique blend of tradition and modernity, fostering an environment where students are encouraged to push the boundaries of their knowledge and embrace creativity. The faculty members, with their profound expertise and unwavering dedication, not only impart knowledge but also nurture the intellectual curiosity of students, empowering them to become leaders in their respective fields.
-
-One of the hallmarks of Stella Mary's College of Engineering is its emphasis on interdisciplinary learning, which equips students with a holistic understanding of complex problems and prepares them to tackle real-world challenges with confidence. The state-of-the-art infrastructure and cutting-edge research facilities further enhance the learning experience, providing students with the resources they need to thrive in an ever-evolving technological landscape.
-
-Beyond academics, Stella Mary's College of Engineering instills in its students the values of integrity, professionalism, and social responsibility. Through various extracurricular activities and community engagement initiatives, students are encouraged to develop not only as competent professionals but also as compassionate individuals who are committed to making a positive impact on society.
-
-In conclusion, I commend Stella Mary's College of Engineering for its unwavering commitment to academic excellence, innovation, and holistic development. It is truly a nurturing ground for future leaders and innovators, and I am confident that its graduates will continue to make significant contributions to the advancement of science and technology, both nationally and globally.
-
-Sincerely,
-
-Mr. Nambi Narayanan
+                  <h4>Former scientist @ Indian Space Research Organisation (ISRO)</h4>
+                  <p class ="text-justify">
+                    <i class="bx bxs-quote-alt-left quote-icon-left "></i>
+                    Stella Mary's College of Engineering has been instrumental in shaping young minds with a blend of academic excellence and practical learning. The institution's commitment to innovation and holistic development truly sets it apart
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                 </div>
@@ -838,11 +825,11 @@ Mr. Nambi Narayanan
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
                   <img src="" class="testimonial-img" alt="">
-                  <h3>Sara Wilsson</h3>
+                  <h3>Dr.Dillibabu </h3>
                   <h4>Designer</h4>
-                  <p>
+                  <p class ="text-justify">
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                    Stella Mary's College of Engineering fosters an environment where students are encouraged to explore their potential and excel in their chosen fields. The faculty's dedication to nurturing talent and imparting relevant skills equips graduates for success in the competitive world of engineering. It's a privilege to endorse such a forward-thinking institution
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                 </div>
