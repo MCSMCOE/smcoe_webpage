@@ -44,3 +44,5 @@ scp strategicplan.php root@109.205.183.103:/home/campusstack/deployment/config/p
 scp mediacell.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb/stellamaryscoe.edu.in/php_files_dir/mediacell.php
 scp header.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb/stellamaryscoe.edu.in/php_files_dir/header.php
 scp footer.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb/stellamaryscoe.edu.in/php_files_dir/footer.php
+scp ipr.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb/stellamaryscoe.edu.in/php_files_dir/ipr.php
+scp oc.php root@109.205.183.103:/home/campusstack/deployment/config/phpmariadb/stellamaryscoe.edu.in/php_files_dir/oc.php
