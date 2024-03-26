@@ -50,7 +50,7 @@
       <div class="row d-flex align-items-center">
         <div class="col-lg-6 text-lg-left text-center">
           <div class="copyright">
-            &copy; Copyright <strong>Stella Mary's College of Engineering</strong>.(BETA VERSION) All Rights Reserved
+            &copy; Copyright <strong>Stella Mary's College of Engineering</strong>.<a href ="">(BETA VERSION)</a> All Rights Reserved
           </div>
           <div class="credits">
             <!-- All the links in the footer should remain intact. -->

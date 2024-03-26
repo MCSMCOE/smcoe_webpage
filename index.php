@@ -824,9 +824,9 @@ pagination: {
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="" class="testimonial-img" alt="">
-                  <h3>Dr.Dillibabu </h3>
-                  <h4>Designer</h4>
+                  <img src="https://webdocs.pages.dev/assets/img/testimonials/dilli.jpeg" class="testimonial-img" alt="">
+                  <h3>Dr.Dillibabu Vijayakumar</h3>
+                  <h4>Scientist @ Defence Research & Development Organisation</h4>
                   <p class ="text-justify">
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
                     Stella Mary's College of Engineering fosters an environment where students are encouraged to explore their potential and excel in their chosen fields. The faculty's dedication to nurturing talent and imparting relevant skills equips graduates for success in the competitive world of engineering. It's a privilege to endorse such a forward-thinking institution
@@ -839,12 +839,12 @@ pagination: {
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="" class="testimonial-img" alt="">
-                  <h3>Jena Karlis</h3>
-                  <h4>Store Owner</h4>
+                  <img src="https://webdocs.pages.dev/assets/img/testimonials/nabil.png" class="testimonial-img" alt="">
+                  <h3>Mr.Nabil Hallak</h3>
+                  <h4>Operations Manager @ SHAIL HOLDING - Suhail Metals Factory, QATAR </h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                    Stella Mary's College of Engineering consistently produces graduates who are well-prepared and equipped with practical skills essential for today's industry demands. Their commitment to academic rigor coupled with hands-on experience ensures that students are ready to hit the ground running in their careers. It's been a pleasure collaborating with such a reputable institution.
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                 </div>

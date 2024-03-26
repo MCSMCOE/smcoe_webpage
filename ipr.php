@@ -67,14 +67,14 @@
             <div class="tab-content">
               <div class="tab-pane active show" id="tab-1">
                 <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
+                  <div class="col-md-6 col-lg-12">
                     <!-- ======= Services Section ======= -->
       <section id="services" class="services">
           <div class="container">
             <div class="row">
-              <p class="col-lg-12 mt-4 mt-lg-0 fst-italic text-justify"><strong>Intellectual property</strong> plays an important role in providing a competitive edge to any Institution. The Stella Mary’s College of Engineering recognizes the importance of generation of intellectual property by its teachers and students. The college is committed to do all that is within its powers and obligations to encourage the creativity and innovation of its people, which can lead to the generation of intellectual property (IP). This cell provides support and guidance to the engineering students and staff in protecting their inventions and creations.</p>
+              <p class="col-md-6 col-lg-12 fst-italic text-justify"><strong>Intellectual property</strong> plays an important role in providing a competitive edge to any Institution. The Stella Mary’s College of Engineering recognizes the importance of generation of intellectual property by its teachers and students. The college is committed to do all that is within its powers and obligations to encourage the creativity and innovation of its people, which can lead to the generation of intellectual property (IP). This cell provides support and guidance to the engineering students and staff in protecting their inventions and creations.</p>
                   
-              <div class="col-md-12 col-lg-12 d-flex align-items-stretch mb-5 mb-lg-0">
+              <div class="col-md-6 col-lg-12 d-flex align-items-stretch mb-5 mb-lg-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bxl-dribbble"></i></div>
                   <h4 class="title"><a href="">Objective</a></h4>
@@ -108,7 +108,7 @@
   <div class="row justify-content-center">
   
   <?php
-    $sql = "SELECT CONCAT('https://webdocs.pages.dev/assets/img/faculty/',sm.staff_id,'.png') imglink,sm.staff_id,TRIM(CONCAT(sm.`legend`,' ',IFNULL(sm.first_name,''),' ',IFNULL(sm.middle_name,''),' ',IFNULL(sm.last_name,''),' ')) staff_name, md.dept_name,cd.desg_name FROM `documentation`.`club_master` cm INNER JOIN documentation.`club_membership` cms ON cms.`cm_id`=cm.cm_id AND cms.staff_id IS NOT NULL AND cms.status>0 INNER JOIN camps.staff_master sm ON sm.staff_id=cms.staff_id INNER JOIN camps.master_department md ON md.department_id=sm.department_id INNER JOIN documentation.club_desg cd ON cd.cd_id=cms.cd_id INNER JOIN camps.master_academic_year may ON may.ay_id=cms.ay_id AND may.cur_year=1 WHERE cm.cm_id=11 order by cd.order, dept_name";
+    $sql = "SELECT CONCAT('https://webdocs.pages.dev/assets/img/faculty/',sm.staff_id,'.png') imglink,sm.staff_id,TRIM(CONCAT(sm.`legend`,' ',IFNULL(sm.first_name,''),' ',IFNULL(sm.middle_name,''),' ',IFNULL(sm.last_name,''),' ')) staff_name, md.dept_name,cd.desg_name FROM `documentation`.`club_master` cm INNER JOIN documentation.`club_membership` cms ON cms.`cm_id`=cm.cm_id AND cms.staff_id IS NOT NULL AND cms.status>0 INNER JOIN camps.staff_master sm ON sm.staff_id=cms.staff_id INNER JOIN camps.master_department md ON md.department_id=sm.department_id INNER JOIN documentation.club_desg cd ON cd.cd_id=cms.cd_id INNER JOIN camps.master_academic_year may ON may.ay_id=cms.ay_id AND may.cur_year=1 WHERE cm.cm_id=18 order by cd.order, dept_name, staff_name";
     $result = mysqli_query($dbcon, $sql);
     if (mysqli_num_rows($result) > 0) {
         while($data = mysqli_fetch_assoc($result)) {

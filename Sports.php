@@ -173,37 +173,37 @@
           <div class="col-lg-3 col-md-4">
             <div class="icon-box">
               <i class="bi-check-circle" style="color: #ffbb2c;"></i>
-              <h3><a href="">2022-2023</a></h3>
+              <h3><a href="sports_2022-23.php">2022-2023</a></h3>
             </div>
           </div>
           <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
             <div class="icon-box">
               <i class="bi-check-circle" style="color: #5578ff;"></i>
-              <h3><a href="sports_21-22.html">2021-2022</a></h3>
+              <h3><a href="sports_21-22.php">2021-2022</a></h3>
             </div>
           </div>
           <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
             <div class="icon-box">
               <i class="bi-check-circle" style="color: #e80368;"></i>
-              <h3><a href="sports_20-21.html">2020-2021</a></h3>
+              <h3><a href="sports_20-21.php">2020-2021</a></h3>
             </div>
           </div>
           <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
             <div class="icon-box">
               <i class="bi-check-circle" style="color: #e361ff;"></i>
-              <h3><a href="sports_19-20.html">2019-2020</a></h3>
+              <h3><a href="sports_19-20.php">2019-2020</a></h3>
             </div>
           </div>
           <div class="col-lg-3 col-md-4 mt-4">
             <div class="icon-box">
               <i class="bi-check-circle" style="color: #47aeff;"></i>
-              <h3><a href="sports_18-19.html">2018-2019</a></h3>
+              <h3><a href="sports_18-19.php">2018-2019</a></h3>
             </div>
           </div>
           <div class="col-lg-3 col-md-4 mt-4">
             <div class="icon-box">
               <i class="bi-check-circle" style="color: #ffa76e;"></i>
-              <h3><a href="sports_17-18.html">2017-2018</a></h3>
+              <h3><a href="sports_17-18.php">2017-2018</a></h3>
             </div>
           </div>
           
@@ -310,7 +310,7 @@
                   <h4>Men
                   </h4>
                 </div>
-                <h3><a href="course-details.html">cricket</a></h3>
+                <h3><a href="course-details.html">Cricket</a></h3>
                 <p>Join our cricket enthusiasts and experience the thrill of the pitch, as we bat, bowl, and field our way through camaraderie and competition, celebrating the rich heritage of this beloved sport.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
@@ -550,11 +550,11 @@
             <div class="member">
               <img src="https://webdocs.pages.dev/assets/img/sports/formIII/jeswin.png" class="img-fluid" alt="" style="width: 200px; height: 260px;">
               <div class="member-content">
-                <h4>Mr.Jeswin Arul</h4>
+                <h4>Mr.Jebin Moses</h4>
                 <h6>Fencing</h6>
                 <span>Department of M.E Industrial Safety Engineering</span>
                 <p>
-                2022-23, 2023-24 - Form III holder 
+                2022-23 - Form III holder 
                 </p>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>

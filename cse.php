@@ -910,25 +910,25 @@ The faculty members impart knowledge through curriculum based formal education a
                                     <div class="col-lg-3 col-md-4">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #ffbb2c;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2017-18.pdf">2017-2018</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/cse/placement/CSE%20-%20Placement%20-%202023.pdf">2022-23</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #5578ff;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2018-19.pdf">2018-2019</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/cse/placement/CSE%20-%20Placement%20-%202022.pdf">2021-22</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                                       <div class="icon-box">
                                         <i class="ri-database-2-line" style="color: #e80368;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2019-20.pdf">2019-2020</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/cse/placement/CSE%20-%20Placement%20-%202021.pdf">2020-21</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
                                       <div class="icon-box">
                                         <i class="ri-database-2-line" style="color: #e361ff;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/civil/magazine/2020-21.pdf">2020-2021</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/cse/placement/CSE%20-%20Placement%20-%202020.pdf">2019-20</a></h3>
                                       </div>
                                     </div>
                                    
