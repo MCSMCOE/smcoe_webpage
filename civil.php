@@ -245,7 +245,7 @@
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member" data-aos="fade-up" data-aos-delay="100">
                 <div class="member-img">
-                  <img src="<?php printf("%s", $data['imglink']);?>" class="img-fluid" alt="">
+                  <img src="<?php printf("%s", $data['imglink']);?>" class="img-fluid" alt="" style="width: 200px; height: 260px;">
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -254,7 +254,7 @@
                   </div>
                 </div>
                 <div class="member-info">
-                  <h4 class="title"><a href="faculty.php?staff_id=<?= $data['staff_id']?>">
+                  <h4 class="title"><a href="nonteaching.php?staff_id=<?= $data['staff_id']?>">
                     <?php 
                     printf("%s", $data["first_name"]);
                     ?>

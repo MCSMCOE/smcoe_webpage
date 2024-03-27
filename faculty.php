@@ -271,16 +271,11 @@ if (mysqli_num_rows($result) > 0) {
         $slno++;
     }
 }
-?>
-             
+?>             
             </tbody>
           </table>
         </div>
   </div>
-  
-  
-  
-  
   <div class="section-title" data-aos="fade-up">
     <h2>Patent</h2>
   <div class="card">
@@ -326,6 +321,65 @@ if (mysqli_num_rows($result) > 0) {
             <th scope="row"><?php echo $slno; ?></th>
             <td class="card-text text-justify" ><?php echo $data["patent_title"]; ?></td>
             <td><?php echo $data["filing_date"]; ?></td>
+            <td><?php echo $data["patent_status"]; ?></td>
+        </tr>
+        <?php
+        $slno++;
+    }
+}
+?>
+           
+          </tbody>
+        </table>
+      </div>
+</div>
+  <div class="section-title" data-aos="fade-up">
+    <h2>Funded Projects</h2>
+  <div class="card">
+    <div class="card-body">
+      <h5 class="card-title text-center"></h5>
+      <!--<p>Add <code>.table-borderless</code> for a table without borders.</p>-->
+      <!-- Active Table -->
+      <table class="table table-striped text-center table-hover">
+        <thead>
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">Title of Project</th>
+            <th scope="col">Investigators</th>
+            <th scope="col">Funding Agency</th>
+            <th scope="col">Status</th>
+            
+          </tr>
+        </thead>
+        <tbody>
+        <?php
+//$dbcon - database connection
+$sql = "SELECT 
+ifnull(pm.patent_title,'') patent_title, 
+ifnull(pm.filing_date,'') filing_date, 
+ifnull(ps.patent_status,'') patent_status
+FROM 
+documentation.patent_master pm 
+INNER JOIN 
+documentation.patent_ss_mapping psm 
+ON psm.staff_id = ".$_GET['staff_id']."
+AND psm.patent_id = pm.patent_id 
+INNER JOIN 
+documentation.patent_status ps 
+ON ps.ps_id = pm.ps_id
+";
+
+$result = mysqli_query($dbcon, $sql);
+
+if (mysqli_num_rows($result) > 0) {
+  $slno = 1;
+    while ($data = mysqli_fetch_assoc($result)) {
+        ?>
+        <tr>
+            <th scope="row"><?php echo $slno; ?></th>
+            <td class="card-text text-justify" ><?php echo $data["patent_title"]; ?></td>
+            <td><?php echo $data["filing_date"]; ?></td>
+            <td><?php echo $data["patent_status"]; ?></td>
             <td><?php echo $data["patent_status"]; ?></td>
         </tr>
         <?php

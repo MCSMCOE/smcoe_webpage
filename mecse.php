@@ -245,7 +245,7 @@ The faculty members impart knowledge through curriculum based formal education a
                   </div>
                 </div>
                 <div class="member-info">
-                  <h4 class="title"><a href="faculty.php?staff_id=<?= $data['staff_id']?>">
+                  <h4 class="title"><a href="nonteaching.php?staff_id=<?= $data['staff_id']?>">
                     <?php 
                     printf("%s", $data["first_name"]);
                     ?>
