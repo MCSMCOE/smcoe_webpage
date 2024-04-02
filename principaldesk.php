@@ -105,7 +105,7 @@ Stella Mary’s College of Engineering is one of the best institutes in Kanyakum
       <div class="container" data-aos="fade-up">
         <div class="row align-items-start">
           <div class="col-lg-3 order-1 order-lg-6" data-aos="fade-right" data-aos-delay="100">
-            <img src="https://webdocs.pages.dev/assets/img/admin/madhumathi.png" class="img-fluid" alt="">
+            <img src="https://webdocs.pages.dev/assets/img/admin/madhu.png" class="img-fluid" alt="">
           </div>
           <div class="col-md-9 pt-4 pt-lg-0 order-2 order-lg-1 justify-content-xl-start">
             <span class="h3 d-inline-block">

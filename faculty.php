@@ -354,20 +354,7 @@ if (mysqli_num_rows($result) > 0) {
         <tbody>
         <?php
 //$dbcon - database connection
-$sql = "SELECT 
-ifnull(pm.patent_title,'') patent_title, 
-ifnull(pm.filing_date,'') filing_date, 
-ifnull(ps.patent_status,'') patent_status
-FROM 
-documentation.patent_master pm 
-INNER JOIN 
-documentation.patent_ss_mapping psm 
-ON psm.staff_id = ".$_GET['staff_id']."
-AND psm.patent_id = pm.patent_id 
-INNER JOIN 
-documentation.patent_status ps 
-ON ps.ps_id = pm.ps_id
-";
+$sql = "SELECT IFNULL(fp.`fp_title`,'') fp_title, IFNULL(fp.`investigators`,'') fp_investigators, fpa.`agency_name`, fps.fp_status FROM documentation.`fp_master` fp INNER JOIN documentation.`fp_agency` fpa ON fpa.`fpa_id`=fp.`fpa_id` INNER JOIN documentation.`fp_status` fps ON fps.`fps_id`=fp.`fps_id` INNER JOIN documentation.`fp_staff_mapping` fsm ON fsm.`fp_id`=fp.`fp_id` AND fsm.`staff_id`=".$_GET['staff_id'];
 
 $result = mysqli_query($dbcon, $sql);
 
@@ -377,10 +364,10 @@ if (mysqli_num_rows($result) > 0) {
         ?>
         <tr>
             <th scope="row"><?php echo $slno; ?></th>
-            <td class="card-text text-justify" ><?php echo $data["patent_title"]; ?></td>
-            <td><?php echo $data["filing_date"]; ?></td>
-            <td><?php echo $data["patent_status"]; ?></td>
-            <td><?php echo $data["patent_status"]; ?></td>
+            <td class="card-text text-justify" ><?php echo $data["fp_title"]; ?></td>
+            <td><?php echo $data["fp_investigators"]; ?></td>
+            <td><?php echo $data["agency_name"]; ?></td>
+            <td><?php echo $data["fp_status"]; ?></td>
         </tr>
         <?php
         $slno++;
