@@ -43,12 +43,12 @@
               <div class="member" data-aos="fade-up" data-aos-delay="100">
                 <div class="member-img">
                   <img src="https://webdocs.pages.dev/assets/img/admin/chairman2.png" class="img-fluid" alt="">
-                  <div class="social">
-                    <a href=""><i class="bi bi-twitter"></i></a>
+                  <!--<div class="social">
+                   <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
                     <a href=""><i class="bi bi-instagram"></i></a>
                     <a href=""><i class="bi bi-linkedin"></i></a>
-                  </div>
+                  </div>-->
                 </div>
                 <div class="member-info">
                   <h4>Dr.Nazerath Charles</h4>
@@ -75,9 +75,9 @@
                 <div class="member-img">
                   <img src="https://webdocs.pages.dev/assets/img/admin/judeson1.png" class="img-fluid" alt="">
                   <div class="social">
-                    <a href=""><i class="bi bi-twitter"></i></a>
+                    <!--<a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
+                    <a href=""><i class="bi bi-instagram"></i></a>-->
                     <a href="https://www.linkedin.com/in/carol-judeson-j-8695a61b/"><i class="bi bi-linkedin"></i></a>
                   </div>
                 </div>
@@ -91,12 +91,12 @@
                 <div class="member" data-aos="fade-up" data-aos-delay="300">
                   <div class="member-img">
                     <img src="https://webdocs.pages.dev/assets/img/admin/VC.png" class="img-fluid" alt="">
-                    <div class="social">
-                      <a href=""><i class="bi bi-twitter"></i></a>
+                     <!--<div class="social">
+                     <a href=""><i class="bi bi-twitter"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
                       <a href=""><i class="bi bi-instagram"></i></a>
                       <a href=""><i class="bi bi-linkedin"></i></a>
-                    </div>
+                    </div>-->
                   </div>
                   <div class="member-info">
                     <h4>Mrs.Sumitha C Judeson</h4>

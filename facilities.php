@@ -28,7 +28,7 @@
             <div class="col-md-6 d-flex align-items-stretch">
               <div class="card">
                 <div class="card-img">
-                  <img src="https://webdocs.pages.dev/assets/img/facilities/ict.jpeg" alt="...">
+                  <img src="https://webdocs.pages.dev/assets/img/facilities/ICT1.jpg" alt="class="img-fluid" alt="" style="width: 1000px; height: 400px;" >
                 </div>
                 <div class="card-body">
                   <h5 class="card-title"><a href="">ICT Class Room</a></h5>
@@ -40,7 +40,7 @@
             <div class="col-md-6 d-flex align-items-stretch">
                 <div class="card">
                   <div class="card-img">
-                    <img src="https://webdocs.pages.dev/assets/img/facilities/bigdata.jpg" alt="...">
+                    <img src="https://webdocs.pages.dev/assets/img/facilities/bigdata.jpg" alt="class="img-fluid" alt="" style="width: 1000px; height: 400px;">
                   </div>
                   <div class="card-body">
                     <h5 class="card-title"><a href="">BigData Laboratory</a></h5>
@@ -52,7 +52,7 @@
             <div class="col-md-6 d-flex align-items-stretch">
                 <div class="card">
                   <div class="card-img">
-                    <img src="https://webdocs.pages.dev/assets/img/facilities/Lib.jpeg" alt="...">
+                    <img src="https://webdocs.pages.dev/assets/img/facilities/Lib.jpeg" alt="class="img-fluid" alt="" style="width: 1000px; height: 400px;">
                   </div>
                   <div class="card-body">
                     <h5 class="card-title"><a href="">Library</a></h5>
@@ -64,7 +64,7 @@
               <div class="col-md-6 d-flex align-items-stretch">
                 <div class="card">
                   <div class="card-img">
-                    <img src="https://webdocs.pages.dev/assets/img/facilities/seminar.jpeg" alt="...">
+                    <img src="https://webdocs.pages.dev/assets/img/facilities/seminar.jpeg" alt="class="img-fluid" alt="" style="width: 1000px; height: 400px;">
                   </div>
                   <div class="card-body">
                     <h5 class="card-title"><a href="">Seminar Hall</a></h5>
@@ -76,7 +76,7 @@
               <div class="col-md-6 d-flex align-items-stretch">
                 <div class="card">
                   <div class="card-img">
-                    <img src="https://webdocs.pages.dev/assets/img/facilities/conference.jpeg" alt="...">
+                    <img src="https://webdocs.pages.dev/assets/img/facilities/conference.jpeg" alt="class="img-fluid" alt="" style="width: 1000px; height: 400px;">
                   </div>
                   <div class="card-body">
                     <h5 class="card-title"><a href="">Conference Hall</a></h5>
@@ -88,7 +88,7 @@
               <div class="col-md-6 d-flex align-items-stretch">
                 <div class="card">
                   <div class="card-img">
-                    <img src="https://webdocs.pages.dev/assets/img/facilities/sports.jpeg" alt="...">
+                    <img src="https://webdocs.pages.dev/assets/img/facilities/sports.jpeg" alt="class="img-fluid" alt="" style="width: 1000px; height: 400px;">
                   </div>
                   <div class="card-body">
                     <h5 class="card-title"><a href="Sports.php">Sports</a></h5>
@@ -102,7 +102,7 @@
               <div class="col-md-6 d-flex align-items-stretch">
                 <div class="card">
                   <div class="card-img">
-                    <img src="https://webdocs.pages.dev/assets/img/facilities/ghostel.jpeg" alt="...">
+                    <img src="https://webdocs.pages.dev/assets/img/facilities/GH2.jpg" alt="class="img-fluid" alt="" style="width: 1000px; height: 400px;">
                   </div>
                   <div class="card-body">
                     <h5 class="card-title"><a href="">Girls Hostel</a></h5>
@@ -114,7 +114,7 @@
               <div class="col-md-6 d-flex align-items-stretch">
                 <div class="card">
                   <div class="card-img">
-                    <img src="https://webdocs.pages.dev/assets/img/facilities/canteen.jpeg" alt="...">
+                    <img src="https://webdocs.pages.dev/assets/img/facilities/canteen.jpeg" alt="class="img-fluid" alt="" style="width: 1000px; height: 400px;">
                   </div>
                   <div class="card-body">
                     <h5 class="card-title"><a href="">Cafeteria</a></h5>
@@ -126,7 +126,7 @@
               <div class="col-md-6 d-flex align-items-stretch">
               <div class="card">
                 <div class="card-img">
-                  <img src="https://webdocs.pages.dev/assets/img/facilities/sz.jpeg" alt="...">
+                  <img src="https://webdocs.pages.dev/assets/img/facilities/sz.jpeg" alt="class="img-fluid" alt="" style="width: 1000px; height: 400px;">
                 </div>
                 <div class="card-body">
                   <h5 class="card-title"><a href="">Student Zone</a></h5>
@@ -138,7 +138,7 @@
             <div class="col-md-6 d-flex align-items-stretch">
                 <div class="card">
                   <div class="card-img">
-                    <img src="https://webdocs.pages.dev/assets/img/facilities/ca.jpg" alt="...">
+                    <img src="https://webdocs.pages.dev/assets/img/facilities/ca.jpg" alt="class="img-fluid" alt="" style="width: 1000px; height: 400px;">
                   </div>
                   <div class="card-body">
                     <h5 class="card-title"><a href="">Campus Activities</a></h5>
@@ -150,7 +150,7 @@
               <div id="" class="col-md-6 d-flex align-items-stretch">
                 <div class="card">
                   <div class="card-img">
-                    <img src="https://webdocs.pages.dev/assets/img/facilities/boysh.jpg" alt="...">
+                    <img src="https://webdocs.pages.dev/assets/img/facilities/BH2.jpg" alt="class="img-fluid" alt="" style="width: 1000px; height: 400px;">
                   </div>
                   <div class="card-body">
                     <h5 class="card-title"><a href="">Boys Hostel</a></h5>
@@ -163,7 +163,7 @@
               <div class="col-md-6 d-flex align-items-stretch">
                 <div class="card">
                   <div class="card-img">
-                    <img src="https://webdocs.pages.dev/assets/img/facilities/bus.jpg" alt="...">
+                    <img src="https://webdocs.pages.dev/assets/img/facilities/bus.jpg" alt="class="img-fluid" alt="" style="width: 1000px; height: 400px;">
                   </div>
                   <div class="card-body">
                     <h5 class="card-title"><a href="">Transport</a></h5>

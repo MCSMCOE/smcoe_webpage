@@ -38,6 +38,29 @@
       </div>
     </div>
   </div>
+  <div class="swiper-slide carousel-item-a intro-item bg-image" style='background-image: url("https://webdocs.pages.dev/assets/img/carousel/AL.jpeg");' >
+    <div class="overlay overlay-a"></div>
+    <div class="intro-content display-table">
+      <div class="table-cell">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8">
+              <div class="intro-body">
+                <p class="intro-title-top">
+                  <br> 
+                </p>
+                <h1 class="intro-title mb-6 "><span class="color-b">Adutha Ilakku</span> </h1>
+                  <h3 class=" "><span class="">"Your Career Compass"</span> </h3>
+                <p class="intro-subtitle intro-price">
+                <a href="https://forms.gle/oexLZrYYvHuJAQTs8"><span class="price-a">For Registration</span></a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
   <div class="swiper-slide carousel-item-a intro-item bg-image" style='background-image: url("https://webdocs.pages.dev/assets/img/carousel/place.jpg");' >
     <div class="overlay overlay-a"></div>
     <div class="intro-content display-table">
