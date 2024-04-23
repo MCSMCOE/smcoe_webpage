@@ -87,7 +87,7 @@
                 <div class="col-lg-3 col-md-4">
                   <div class="icon-box">
                     <i class="ri-file-list-3-line" style="color: #ffbb2c;"></i>
-                    <h3><a href="https://webdocs.pages.dev/assets/docs/r&d/Proposal-Format-SM-SMS.docx">Proposal Format (doc)</a></h3>
+                    <h3><a href="https://webdocs.pages.dev/assets/docs/r&d/Proposal-Format-SM-SMS.docx">Proposal Format (Doc)</a></h3>
                   </div>
                 </div>
                 <div class="col-lg-3 col-md-4 mt-4 mt-md-0 justify-content-center">
@@ -95,7 +95,18 @@
                     <i class="ri-file-list-3-line" style="color: #5578ff;"></i>
                     <h3><a href="https://webdocs.pages.dev/assets/docs/r&d/Proposal-Format-SM-SMS.pdf">Proposal Format (pdf)</a></h3>
                   </div>
-
+      </div>
+      <div class="col-lg-3 col-md-4 mt-4 mt-md-0 justify-content-center">
+                  <div class="icon-box">
+                    <i class="ri-file-list-3-line" style="color: #ffbb2c;"></i>
+                    <h3><a href="https://webdocs.pages.dev/assets/docs/r&d/Seed%20Money%20progress%20report-Final.docx">Final Project Report (Doc)</a></h3>
+                  </div>
+      </div>
+      <div class="col-lg-3 col-md-4 mt-4 mt-md-0 justify-content-center">
+                  <div class="icon-box">
+                    <i class="ri-file-list-3-line" style="color: #5578ff;"></i>
+                    <h3><a href="https://webdocs.pages.dev/assets/docs/r&d/Seed%20Money%20progress%20report-Final.pdf">Final Project Report (pdf)</a></h3>
+                  </div>
       </div>
     </section>
 <!-- End About Section -->

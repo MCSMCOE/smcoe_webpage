@@ -38,29 +38,10 @@
       </div>
     </div>
   </div>
-  <div class="swiper-slide carousel-item-a intro-item bg-image" style='background-image: url("https://webdocs.pages.dev/assets/img/carousel/AL.jpeg");' >
-    <div class="overlay overlay-a"></div>
-    <div class="intro-content display-table">
-      <div class="table-cell">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-8">
-              <div class="intro-body">
-                <p class="intro-title-top">
-                  <br> 
-                </p>
-                <h1 class="intro-title mb-6 "><span class="color-b">Adutha Ilakku</span> </h1>
-                  <h3 class=" "><span class="">"Your Career Compass"</span> </h3>
-                <p class="intro-subtitle intro-price">
-                <a href="https://forms.gle/oexLZrYYvHuJAQTs8"><span class="price-a">For Registration</span></a>
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+  
+  
+
+
   <div class="swiper-slide carousel-item-a intro-item bg-image" style='background-image: url("https://webdocs.pages.dev/assets/img/carousel/place.jpg");' >
     <div class="overlay overlay-a"></div>
     <div class="intro-content display-table">
@@ -360,12 +341,12 @@ pagination: {
 
   <!-- ======= Hero Section ======= -->
   
-  <!--<div id="divContactUsSlider" ><div class="contact-slider d-none d-flex hidden-xs open" style="top: 200px; display: flex!important;">
+  <div id="divContactUsSlider" ><div class="contact-slider d-none d-flex hidden-xs open" style="top: 200px; display: flex!important;">
     <div style="border-bottom:none;margin-left: 2px;" class="slider-icon">
-        <a class="slider-icon-anchor" href="https://camps.stellamaryscoe.edu.in/CAMPS/applications/application_register.jsp"><span class="contactus-slider-HES-Base position-relative py-4 px-3" style="margin-top: 1px;">Online Admission</span></a></div>
+        <a class="slider-icon-anchor" href="https://camps.stellamaryscoe.edu.in"><span class="contactus-slider-HES-Base position-relative py-3 px-3" style="margin-top: 1px;">CAMPS LOGIN</span></a></div>
     
      </div>
-     </div>-->
+     </div>
   <!-- End Hero --> 
   <main id="main">
     
@@ -874,7 +855,7 @@ pagination: {
               </div>
             </div><!-- End testimonial item -->
 
-            <div class="swiper-slide">
+            <!--<div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
                   <img src="" class="testimonial-img" alt="">
@@ -887,7 +868,7 @@ pagination: {
                   </p>
                 </div>
               </div>
-            </div><!-- End testimonial item -->
+            </div>
 
             <div class="swiper-slide">
               <div class="testimonial-wrap">
@@ -902,7 +883,7 @@ pagination: {
                   </p>
                 </div>
               </div>
-            </div><!-- End testimonial item -->
+            </div>--><!-- End testimonial item -->
 
           </div>
           <div class="swiper-pagination"></div>

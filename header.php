@@ -13,7 +13,7 @@
           <li class="dropdown"><a href="#"><span>About Us</span> <i class="bi bi-chevron-right"></i></a>
             <ul>
               <li><a href="Management.php">Management</a></li>
-              <li><a href="principaldesk.php">Admin Desk</a></li>
+              <li><a href="admin_desk.php">Admin Desk</a></li>
               <li><a href="oc.php">Organisation Chart</a></li>
               <li><a href="iqac.php">IQAC</a></li>
               <li><a href="strategicplan.php">Strategic Plan</a></li>
@@ -25,12 +25,12 @@
             <ul>
               <li class="dropdown"><a href="#more-services" href="#"><span>Department - Under Graduate</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
+                  <li><a href="aids.php">Artificial Intelligence and Data Science</a></li>
                   <li><a href="civil.php">Civil Engineering</a></li>
                   <li><a href="cse.php">Computer Science and Engineering</a></li>
                   <li><a href="ece.php">Electronics and Communication Engineering</a></li>
                   <li><a href="eee.php">Electrical and Electronics Engineering</a></li>
                   <li><a href="mech.php">Mechanical Engineering</a></li>
-                  <li><a href="aids.php">Artificial Intelligence and Data Science</a></li>
                   <li><a href="sh.php">Science and Humanities</a></li>
                 </ul>
               <li class="dropdown"><a href="#more-services" href="#"><span>Department - Post Graduate</span> <i class="bi bi-chevron-right"></i></a>
