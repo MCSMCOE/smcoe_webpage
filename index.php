@@ -859,11 +859,11 @@ pagination: {
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
                   <img src="" class="testimonial-img" alt="">
-                  <h3>Matt Brandon</h3>
+                  <h3>Ramesh Daniel</h3>
                   <h4>Freelancer</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                    Stella Mary's College of Engineering is undoubtedly the best engineering college in Kanyakumari, providing top-notch education coupled with remarkable placement opportunities. As a graduate from Stella Mary's, I can attest to their commitment to excellence and their unwavering support in securing lucrative job placements both within India and abroad. It's no surprise that it consistently ranks among the top 10 colleges in Kanyakumari and is recognized as one of the top engineering colleges not only in the region but also in Tamil Nadu. Choosing Stella Mary's was one of the best decisions I made for my future, and I highly recommend it to anyone seeking the best college experience and career prospects in engineering.
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                 </div>
