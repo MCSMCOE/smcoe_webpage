@@ -828,7 +828,7 @@ pagination: {
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="https://webdocs.pages.dev/assets/img/testimonials/dilli.jpeg" class="testimonial-img" alt="">
+                  <img src="https://webdocs.pages.dev/assets/img/testimonials/dilli.jpeg" class="testimonial-img" alt="top engineering college in kanyakumari">
                   <h3>Dr.Dillibabu Vijayakumar</h3>
                   <h4>Scientist @ Defence Research & Development Organisation</h4>
                   <p class ="text-justify">
@@ -843,7 +843,7 @@ pagination: {
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="https://webdocs.pages.dev/assets/img/testimonials/nabil.png" class="testimonial-img" alt="">
+                  <img src="https://webdocs.pages.dev/assets/img/testimonials/nabil.png" class="testimonial-img" alt="top engineering college">
                   <h3>Mr.Nabil Hallak</h3>
                   <h4>Operations Manager @ SHAIL HOLDING - Suhail Metals Factory, QATAR </h4>
                   <p>
