@@ -4,15 +4,20 @@ require 'vendor/autoload.php';
 use Aws\Ses\SesClient;
 use Aws\Exception\AwsException;
 
-// Replace the following with your AWS credentials and information
+// Retrieve AWS credentials from environment variables
+$accessKey = getenv('AWS_ACCESS_KEY_ID');
+$secretKey = getenv('AWS_SECRET_ACCESS_KEY');
 
 $region = 'ap-south-1'; // e.g., us-west-2
+
+// Replace the following with your sender and recipient email addresses
 $senderEmail = 'website@stellamaryscoe.edu.in';
 $recipientEmail = 'mediacell@stellamaryscoe.edu.in';
-//$recipientEmail = ['rvnataraj@gmail.com','ponparthee@gmail.com'];
+
+// Retrieve subject, message, name, and email from POST request
 $subject = $_POST["subject"];
 $bodyText = 'This is the plain text body of the email.';
-$bodyHtml = $_POST["message"].'<br>'.$_POST["name"].'<br>'.$_POST["email"];
+$bodyHtml = $_POST["message"] . '<br>' . $_POST["name"] . '<br>' . $_POST["email"];
 
 // Create an SES client
 $client = new SesClient([
