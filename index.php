@@ -681,54 +681,54 @@ pagination: {
 
           <div class="col-lg-2 col-md-4 col-6">
             <div class="client-logo">
-              <img src="https://webdocs.pages.dev/assets/img/cr/Hexaware.png" class="img-fluid" alt="">
+              <img src="https://webdocs.pages.dev/assets/img/cr/Hexaware.png" class="img-fluid" alt="top 5 colleges in kanyakumari">
             </div>
           </div>
 
           <div class="col-lg-2 col-md-4 col-6">
             <div class="client-logo">
-              <img src="https://webdocs.pages.dev/assets/img/cr/tcs.png" class="img-fluid" alt="">
+              <img src="https://webdocs.pages.dev/assets/img/cr/tcs.png" class="img-fluid" alt="top colleges in kanyakumari">
             </div>
           </div>
 
           <div class="col-lg-2 col-md-4 col-xs-6">
             <div class="client-logo">
-              <img src="https://webdocs.pages.dev/assets/img/cr/yamaha.png" class="img-fluid" alt="">
+              <img src="https://webdocs.pages.dev/assets/img/cr/yamaha.png" class="img-fluid" alt="top engineering colleges in kanyakumari">
             </div>
           </div>
 
           <div class="col-lg-2 col-md-4 col-xs-6">
             <div class="client-logo">
-              <img src="https://webdocs.pages.dev/assets/img/cr/al.png" class="img-fluid" alt="">
+              <img src="https://webdocs.pages.dev/assets/img/cr/al.png" class="img-fluid" alt="top 5 engineering colleges in kanyakumari">
             </div>
           </div>
 
           <div class="col-lg-2 col-md-4 col-xs-6">
             <div class="client-logo">
-              <img src="https://webdocs.pages.dev/assets/img/cr/exbt.png" class="img-fluid" alt="">
+              <img src="https://webdocs.pages.dev/assets/img/cr/exbt.png" class="img-fluid" alt="top 10 colleges in kanyakumari">
             </div>
           </div>
 
           <div class="col-lg-2 col-md-4 col-xs-6">
             <div class="client-logo">
-              <img src="https://webdocs.pages.dev/assets/img/cr/INBOX.png" class="img-fluid" alt="">
+              <img src="https://webdocs.pages.dev/assets/img/cr/INBOX.png" class="img-fluid" alt="top 10 engineering colleges in kanyakumari">
             </div>
           </div>
 
           <div class="col-lg-2 col-md-4 col-xs-6">
             <div class="client-logo">
-              <img src="https://webdocs.pages.dev/assets/img/cr/entelyst.png" class="img-fluid" alt="">
+              <img src="https://webdocs.pages.dev/assets/img/cr/entelyst.png" class="img-fluid" alt="top colleges in tamiulnadu">
             </div>
           </div>
 
           <div class="col-lg-2 col-md-4 col-xs-6">
             <div class="client-logo">
-              <img src="https://webdocs.pages.dev/assets/img/cr/wipro.png" class="img-fluid" alt="">
+              <img src="https://webdocs.pages.dev/assets/img/cr/wipro.png" class="img-fluid" alt="top colleges in nagercoil">
             </div>
           </div>
           <div class="col-lg-2 col-md-4 col-xs-6">
             <div class="client-logo">
-              <img src="https://webdocs.pages.dev/assets/img/cr/lt.png" class="img-fluid" alt="">
+              <img src="https://webdocs.pages.dev/assets/img/cr/lt.png" class="img-fluid" alt="top 10 colleges in tamilnadu">
             </div>
           </div>
           <div class="col-lg-2 col-md-4 col-xs-6">
