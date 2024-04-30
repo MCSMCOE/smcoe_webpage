@@ -49,7 +49,7 @@
             <p><a href="faculty.php?staff_id=1403"
                     <?php 
                     printf("%s", $data["first_name"]);
-                    ?>">Mr.J.T.Pratheesh</a></p>
+                    ?>">Dr.J.T.Pratheesh</a></p>
           </div>
 
           <div class="course-info d-flex justify-content-between align-items-center">

@@ -733,17 +733,17 @@ pagination: {
           </div>
           <div class="col-lg-2 col-md-4 col-xs-6">
             <div class="client-logo">
-              <img src="https://webdocs.pages.dev/assets/img/cr/cts.png" class="img-fluid" alt="">
+              <img src="https://webdocs.pages.dev/assets/img/cr/cts.png" class="img-fluid" alt="best engineering college in kanyakumari">
             </div>
           </div>
           <div class="col-lg-2 col-md-4 col-xs-6">
             <div class="client-logo">
-              <img src="https://webdocs.pages.dev/assets/img/cr/shail.png" class="img-fluid" alt="">
+              <img src="https://webdocs.pages.dev/assets/img/cr/shail.png" class="img-fluid" alt="best engineering colleges in kanyakumari">
             </div>
           </div>
           <div class="col-lg-2 col-md-4 col-xs-6">
             <div class="client-logo">
-              <img src="https://webdocs.pages.dev/assets/img/cr/techm.png" class="img-fluid" alt="">
+              <img src="https://webdocs.pages.dev/assets/img/cr/techm.png" class="img-fluid" alt="best engineering college in kanyakumari district">
             </div>
           </div>
 
@@ -813,7 +813,7 @@ pagination: {
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="https://webdocs.pages.dev/assets/img/testimonials/nambi.jpg" class="testimonial-img" alt="">
+                  <img src="https://webdocs.pages.dev/assets/img/testimonials/nambi.jpg" class="testimonial-img" alt="best engineering college in kanyakumari">
                   <h3>Mr. Nambi Narayanan</h3>
                   <h4>Former scientist @ Indian Space Research Organisation (ISRO)</h4>
                   <p class ="text-justify">
