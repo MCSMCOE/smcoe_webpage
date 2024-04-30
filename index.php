@@ -930,7 +930,7 @@ pagination: {
     
               <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                 <div class="portfolio-wrap">
-                  <img src="https://fddc589a.webdocs.pages.dev/assets/img/gallery/gra1.jpg" class="img-fluid" alt="">
+                  <img src="https://fddc589a.webdocs.pages.dev/assets/img/gallery/gra1.jpg" class="img-fluid" alt="graduation">
                   <div class="portfolio-info">
                     <h4>GRADUATION DAY 2022</h4>
                     <p>4th Graduation Day</p>
