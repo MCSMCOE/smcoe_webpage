@@ -201,6 +201,7 @@
                     <span><?php 
                     printf("%s", $data["desigination"]);
                     ?></span>
+                    <strong><?php printf("%s", $data["major"]); ?></strong>
                               </div>
                             </div>
                           </div>

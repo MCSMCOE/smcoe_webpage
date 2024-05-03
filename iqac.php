@@ -88,11 +88,11 @@
             </li>
           </ul>
         </div>
-        <div class="col-lg-9 mt-4 mt-lg-0">
+        <div class="align-items-stretch col-lg-9 mt-4 mt-lg-0">
           <div class="tab-content">
             <div class="tab-pane active show" id="tab-1">
               <div class="row justify-content-center">
-                <div class="col-md-6 col-lg-12">
+                <div class="align-items-stretch col-md-6 col-lg-12">
                   <!-- ======= Services Section ======= -->
                   <section id="services" class="services">
         <div class="container">

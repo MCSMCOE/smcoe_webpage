@@ -198,6 +198,7 @@ The faculty members are highly motivated and devoted in delivering the high qual
                     <span><?php 
                     printf("%s", $data["desigination"]);
                     ?></span>
+                    <strong><?php printf("%s", $data["major"]); ?></strong>
                               </div>
                             </div>
                           </div>

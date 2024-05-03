@@ -197,6 +197,7 @@ The faculty members impart knowledge through curriculum based formal education a
                     <span><?php 
                     printf("%s", $data["desigination"]);
                     ?></span>
+                    <strong><?php printf("%s", $data["major"]); ?></strong>
                   </div>
                 </div>
               </div>
