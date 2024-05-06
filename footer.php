@@ -46,6 +46,12 @@
                 <li><i class="bx bx-chevron-right"></i> <a href="https://webdocs.pages.dev/assets/docs/r&d/Proposal-Format-SM-SMS.pdf">Stella Mary's Seed Money (Pdf)</a></li>
               </ul>
             </div>
+            <div class="col-lg-3 col-md-6 footer-links">
+              <h4>Video Tour</h4>
+              <ul>
+                <li><i class="bx bx-chevron-right"></i> <a href="https://drive.google.com/file/d/1_twgS8zKhRfq2AXjQ645j2Z7nxqGQI61/view?usp=sharing">Infrastructure</a></li>
+                </ul>
+            </div>
   
       <div class="row d-flex align-items-center">
         <div class="col-lg-6 text-lg-left text-center">
@@ -64,7 +70,7 @@
           <nav class="footer-links text-lg-right text-center pt-2 pt-lg-0">
             <a href="index.php" class="scrollto">Home</a>
             <a href="" class="scrollto">About</a>
-            <a href="#">Privacy Policy</a>
+            <a href="Privacy.php">Privacy Policy</a>
             <a href="">Terms of Use</a>
           </nav>
         </div>
