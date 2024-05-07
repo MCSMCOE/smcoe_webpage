@@ -14,7 +14,7 @@
             <ul>
               <li><a href="Management.php">Management</a></li>
               <li><a href="admin_desk.php">Admin Desk</a></li>
-              <li><a href="oc.php">Organisation Chart</a></li>
+              <li><a href="organisation_chart.php">Organisation Chart</a></li>
               <li><a href="iqac.php">IQAC</a></li>
               <li><a href="strategicplan.php">Strategic Plan</a></li>
               <li><a href="codeofconduct.php">Code of Conduct</a></li>
