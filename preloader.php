@@ -1,5 +1,5 @@
 <div class="preloader">
-    <img src="https://webdocs.pages.dev/assets/img/smce%20Intro.gif" alt="Loading...">
+    <img src="" alt="">
   </div>
 
   <style>
