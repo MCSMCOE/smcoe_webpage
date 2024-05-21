@@ -41,7 +41,7 @@
                       <ul>
                         <li><a href="mba.php">Operations Management</a></li>
                         <li><a href="mba.php">Human Resources Management</a></li>
-                        <li><a href="mba.php">Finncial Management</a></li>
+                        <li><a href="mba.php">Financial Management</a></li>
                         <li><a href="mba.php">Business Analytics Management</a></li>
                         <li><a href="mba.php">Marketing Management</a></li>
                         <li><a href="mba.php">Logistics & Supply Chain Management</a></li>
@@ -82,7 +82,8 @@
                 <li><a href="mediacell.php">Media Cell</a></li>
                 <li><a href="research_codeofethics.php">Research and Development Cell</a></li>
                 <li><a href="nss.php">National Service Scheme</a></li>
-                <li><a href="yrc.php">Youth Red Cross</a></li>  
+                <li><a href="yrc.php">Youth Red Cross</a></li>
+                
                 </ul>
               <!--<li class="dropdown"><a href="#more-services" href="#"><span>Extra Curricular</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
@@ -93,6 +94,7 @@
               <li><a href="https://delnet.in">DELNET</a></li>
               <li><a href="alumni.php">Alumni Association</a></li>
               <li><a href="https://swayam.gov.in">SWAYAM - MOOC</a></li>
+              <li><a href="https://forms.gle/pnodnQCH6yVAKiD19">Career @ SMCE</a></li> 
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="mandatorydisclosure.php">Mandatory Disclosure</a></li>

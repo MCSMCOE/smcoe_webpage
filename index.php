@@ -106,7 +106,7 @@
               <h1 class="intro-title mb-6 ">
                 <span class="color-b">Play Hard, <br>
                 </span>Lead Tomorrow </h1>
-                <h3 class=" "><span class="">(2020-21,2021-22,2022-23 - Anna University Zonal winners)</span></h3>
+                <h3 class=" "><span class="">(2022-23, 2023-24: Anna University Zonal Overall Winners)</span></h3>
                 <h3 class=" "><span class="">"We are team of talented sportsman with diginity"</span></h3>
               <p class="intro-subtitle intro-price">
                 <a href="Sports.php"><span class="price-a">PLAY WITH US</span></a>
@@ -384,7 +384,7 @@ pagination: {
           <div class="col-md-4">
             <div class="item">
               <div class="img">
-              <img src= <?php echo $data["e_img"]; ?>  class="img-fluid" alt="" style="width: 500px; height: 380px;">  
+              <img src= <?php echo $data["e_img"]; ?>  class="img-fluid" alt="latest news" style="width: 500px; height: 380px;">  
               </div>
               <div class="info">
                 <div class="date">

@@ -29,7 +29,7 @@
             <div class="col-lg-3 col-md-6 footer-links">
               <h4>QUICK LINKS 2</h4>
               <ul>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">ONLINE ADMISSION</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="https://forms.gle/pnodnQCH6yVAKiD19">CAREER @ SMCE</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="https://webdocs.pages.dev/assets/docs/iqac/naac/NAAC%20CERTIFICATION%20-%20CYCLE%201.pdf">NAAC CERTIFICATE</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="https://webdocs.pages.dev/assets/docs/iqac/naac/NAAC%20SSR%20REPORT-CYCLE%201.pdf">NAAC SSR</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="https://css.aicte-india.org/login">AICTE Centralised Support System</a></li>

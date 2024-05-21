@@ -5,7 +5,7 @@
  
   <title>Best Engineering College in Kanyakumari | Stella Mary's College of Engineering</title>
   <meta name="description" content="Stella Mary's College of Engineering is the best engineering college in Kanyakumari, offering unparalleled placement opportunities, including placements abroad. Ranked among the top engineering colleges in Tamil Nadu and consistently featuring in the top 5 colleges in Kanyakumari, Stella Mary's is renowned for its commitment to excellence in education and career prospects. Choose Stella Mary's for the best college experience and a promising engineering career.">
-  <meta name="keywords" content="best engineering college, Kanyakumari, abroad placement, top engineering college, Tamil Nadu, college experience, engineering career">
+  <meta name="keywords" content="best engineering college, Kanyakumari, abroad placement, top engineering college, Tamil Nadu, college experience, engineering career, best engineering college in kanyakumari, best engineering college in tamilnadu, top 5 engineering colleges in kanyakumari">
 
 
   <!-- Favicons -->
