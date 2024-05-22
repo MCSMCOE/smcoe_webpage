@@ -5,9 +5,10 @@ use Aws\Ses\SesClient;
 use Aws\Exception\AwsException;
 
 // Retrieve AWS credentials from environment variables
-$accessKey = getenv('AWS_ACCESS_KEY_ID');
-$secretKey = getenv('AWS_SECRET_ACCESS_KEY');
-
+//$accessKey = getenv('AWS_ACCESS_KEY_ID');
+//$secretKey = getenv('AWS_SECRET_ACCESS_KEY');
+$accessKey = 'AKIAXMYLEXS5T2VPBRHZ';
+$secretKey = 'd/rp0F1aVbSvGNsHuwBNwNbE/PXGUL2I4o7bG5R4';
 $region = 'ap-south-1'; // e.g., us-west-2
 
 // Replace the following with your sender and recipient email addresses
@@ -15,7 +16,7 @@ $senderEmail = 'website@stellamaryscoe.edu.in';
 $recipientEmail = 'mediacell@stellamaryscoe.edu.in';
 
 // Retrieve subject, message, name, and email from POST request
-$subject = $_POST["subject"];
+$subject = substr($_POST["subject"],0,10);
 $bodyText = 'This is the plain text body of the email.';
 $bodyHtml = $_POST["message"] . '<br>' . $_POST["name"] . '<br>' . $_POST["email"];
 

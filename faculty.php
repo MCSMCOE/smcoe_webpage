@@ -47,7 +47,7 @@
       
       <div class="row">
       <?php
-            $sql = "SELECT CONCAT('https://webdocs.pages.dev/assets/img/faculty/',staff_master.staff_id,'.png') imglink FROM camps.`staff_photo` sp WHERE sp.staff_id=".$_GET['staff_id'];
+            $sql = "SELECT CONCAT('https://webdocs.pages.dev/assets/img/faculty/',staff_master.staff_id,'.png') imglink FROM camps.`staff_photo` sp WHERE sp.staff_id=".preg_replace('/[^0-9]/', '', $_GET['staff_id']);
             $result = mysqli_query($dbcon, $sql);
             if (mysqli_num_rows($result) > 0) {
                 while($data = mysqli_fetch_assoc($result)) {
@@ -59,7 +59,7 @@
             ?>
 
       <?php
-            $sql="SELECT CONCAT(FLOOR(SUM(mon)/12),' Year(s) ',MOD(SUM(mon),12) ,' Month(s)') yrs FROM (SELECT TIMESTAMPDIFF(MONTH,from_date, IFNULL(to_date,NOW()))mon FROM camps.staff_experience se WHERE se.status>0 AND se.staff_id=".$_GET['staff_id']." AND se.from_date IS NOT NULL AND se.to_date IS NOT NULL UNION SELECT TIMESTAMPDIFF(MONTH,from_date, IFNULL(to_date,NOW()))mon FROM camps.staff_promotion sp WHERE sp.status>0 AND sp.staff_id=".$_GET['staff_id']." AND sp.from_date IS NOT NULL )a";
+            $sql="SELECT CONCAT(FLOOR(SUM(mon)/12),' Year(s) ',MOD(SUM(mon),12) ,' Month(s)') yrs FROM (SELECT TIMESTAMPDIFF(MONTH,from_date, IFNULL(to_date,NOW()))mon FROM camps.staff_experience se WHERE se.status>0 AND se.staff_id=".preg_replace('/[^0-9]/', '', $_GET['staff_id'])." AND se.from_date IS NOT NULL AND se.to_date IS NOT NULL UNION SELECT TIMESTAMPDIFF(MONTH,from_date, IFNULL(to_date,NOW()))mon FROM camps.staff_promotion sp WHERE sp.status>0 AND sp.staff_id=".preg_replace('/[^0-9]/', '', $_GET['staff_id'])." AND sp.from_date IS NOT NULL )a";
             $result = mysqli_query($dbcon, $sql);
             if (mysqli_num_rows($result) > 0) {
                 while($data = mysqli_fetch_assoc($result)) {
@@ -68,14 +68,14 @@
                      echo $data['link'];*/
                 }
             }     
-            $sql = "SELECT md.`desigination`,sm.staff_id,TRIM(CONCAT(sm.`legend`,' ',IFNULL(sm.first_name,''),' ',IFNULL(sm.middle_name,''),' ',IFNULL(sm.last_name,''),' ')) staff_name,TIMESTAMPDIFF(YEAR,sm.dob,NOW()) age,sav.`text_val`,DATE_FORMAT(doj,'%d-%m-%Y') doj,sav2.`text_val`,sm.`institute_email_id`,sm.`mobile_no` FROM camps.`staff_master` sm INNER JOIN camps.`staff_promotion` sp  ON sp.`staff_id`=sm.`staff_id` AND sp.status=2 INNER JOIN camps.`master_desigination` md ON md.`md_id`=sp.`md_id`  LEFT JOIN documentation.`ss_additional_values` sav ON sav.`ss_am_id`=21 AND sav.`ss_id`=sm.staff_id LEFT JOIN documentation.`ss_additional_values` sav2 ON sav2.`ss_am_id`=10 AND sav2.`ss_id`=sm.staff_id WHERE sm.staff_id=".$_GET['staff_id'];
+            $sql = "SELECT md.`desigination`,sm.staff_id,TRIM(CONCAT(sm.`legend`,' ',IFNULL(sm.first_name,''),' ',IFNULL(sm.middle_name,''),' ',IFNULL(sm.last_name,''),' ')) staff_name,TIMESTAMPDIFF(YEAR,sm.dob,NOW()) age,sav.`text_val`,DATE_FORMAT(doj,'%d-%m-%Y') doj,sav2.`text_val`,sm.`institute_email_id`,sm.`mobile_no` FROM camps.`staff_master` sm INNER JOIN camps.`staff_promotion` sp  ON sp.`staff_id`=sm.`staff_id` AND sp.status=2 INNER JOIN camps.`master_desigination` md ON md.`md_id`=sp.`md_id`  LEFT JOIN documentation.`ss_additional_values` sav ON sav.`ss_am_id`=21 AND sav.`ss_id`=sm.staff_id LEFT JOIN documentation.`ss_additional_values` sav2 ON sav2.`ss_am_id`=10 AND sav2.`ss_id`=sm.staff_id WHERE sm.staff_id=".preg_replace('/[^0-9]/', '', $_GET['staff_id']);
             $result = mysqli_query($dbcon, $sql);
             if (mysqli_num_rows($result) > 0) {
                 while($data = mysqli_fetch_assoc($result)) { 
             ?>
     
     <div class="col-lg-2" data-aos="fade-right">
-        <img src="https://webdocs.pages.dev/assets/img/faculty/<?= $_GET['staff_id']?>.png"  class="img-fluid" alt="">
+        <img src="https://webdocs.pages.dev/assets/img/faculty/<?= preg_replace('/[^0-9]/', '', $_GET['staff_id'])?>.png"  class="img-fluid" alt="">
         </div>
         <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
           <h3><?php printf("%s", $data["desigination"]);?></h3>
@@ -199,7 +199,7 @@
 $sql = " SELECT IFNULL (CONCAT(IFNULL(pm.authors,''),', ',IFNULL(pm.paper_title,''),', ',IFNULL(pm.transaction_title,''),',',IFNULL(pt.ptype,''),',',IF(pm.volume IS NOT NULL,'Vol:',''),IFNULL(pm.volume,''),IF(pm.volume IS NOT NULL,', ',''),IF(pm.issue IS NOT NULL,'Issue:',''),IFNULL(pm.issue,''),IF(pm.issue IS NOT NULL,',',''),IFNULL(pm.issn_no,''),IF(pm.issn_no IS NOT NULL,',',''),IFNULL(MONTHNAME(STR_TO_DATE(pm.month,'%m')),''),IF(pm.month IS NOT NULL,',',''),pm.year),'') details , pm.`paper_title` 
 FROM documentation.publication_master pm 
 INNER JOIN documentation.publication_type pt ON pt.pt_id=pm.pt_id AND pm.record_status > 0  
-INNER JOIN documentation.publication_ss_mapping pssm ON pssm.publication_id=pm.publication_id AND pssm.staff_id=".$_GET['staff_id'];
+INNER JOIN documentation.publication_ss_mapping pssm ON pssm.publication_id=pm.publication_id AND pssm.staff_id=".preg_replace('/[^0-9]/', '', $_GET['staff_id']);
 
 $result = mysqli_query($dbcon, $sql);
 
@@ -251,7 +251,7 @@ FROM
 documentation.cws_publication_master cws 
 INNER JOIN 
 documentation.cws_publication_ss_mapping cpssm 
-ON cpssm.staff_id = ".$_GET['staff_id']."
+ON cpssm.staff_id = ".preg_replace('/[^0-9]/', '', $_GET['staff_id'])."
 AND cpssm.cws_publication_id = cws.cws_publication_id 
 INNER JOIN 
 documentation.cws_publication_type cpt 
@@ -304,7 +304,7 @@ FROM
 documentation.patent_master pm 
 INNER JOIN 
 documentation.patent_ss_mapping psm 
-ON psm.staff_id = ".$_GET['staff_id']."
+ON psm.staff_id = ".preg_replace('/[^0-9]/', '', $_GET['staff_id'])."
 AND psm.patent_id = pm.patent_id 
 INNER JOIN 
 documentation.patent_status ps 
@@ -354,7 +354,7 @@ if (mysqli_num_rows($result) > 0) {
         <tbody>
         <?php
 //$dbcon - database connection
-$sql = "SELECT IFNULL(fp.`fp_title`,'') fp_title, IFNULL(fp.`investigators`,'') fp_investigators, fpa.`agency_name`, fps.fp_status FROM documentation.`fp_master` fp INNER JOIN documentation.`fp_agency` fpa ON fpa.`fpa_id`=fp.`fpa_id` INNER JOIN documentation.`fp_status` fps ON fps.`fps_id`=fp.`fps_id` INNER JOIN documentation.`fp_staff_mapping` fsm ON fsm.`fp_id`=fp.`fp_id` AND fsm.`staff_id`=".$_GET['staff_id'];
+$sql = "SELECT IFNULL(fp.`fp_title`,'') fp_title, IFNULL(fp.`investigators`,'') fp_investigators, fpa.`agency_name`, fps.fp_status FROM documentation.`fp_master` fp INNER JOIN documentation.`fp_agency` fpa ON fpa.`fpa_id`=fp.`fpa_id` INNER JOIN documentation.`fp_status` fps ON fps.`fps_id`=fp.`fps_id` INNER JOIN documentation.`fp_staff_mapping` fsm ON fsm.`fp_id`=fp.`fp_id` AND fsm.`staff_id`=".preg_replace('/[^0-9]/', '', $_GET['staff_id']);
 
 $result = mysqli_query($dbcon, $sql);
 
