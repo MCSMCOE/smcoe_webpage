@@ -5,10 +5,9 @@ use Aws\Ses\SesClient;
 use Aws\Exception\AwsException;
 
 // Retrieve AWS credentials from environment variables
-//$accessKey = getenv('AWS_ACCESS_KEY_ID');
-//$secretKey = getenv('AWS_SECRET_ACCESS_KEY');
-$accessKey = 'AKIAXMYLEXS5T2VPBRHZ';
-$secretKey = 'd/rp0F1aVbSvGNsHuwBNwNbE/PXGUL2I4o7bG5R4';
+$accessKey = getenv('AWS_ACCESS_KEY_ID');
+$secretKey = getenv('AWS_SECRET_ACCESS_KEY');
+
 $region = 'ap-south-1'; // e.g., us-west-2
 
 // Replace the following with your sender and recipient email addresses
