@@ -146,7 +146,7 @@
         </div>
       </section><!-- End Services Section --></div>
                 <div class="col-lg-4 text-center order-1 order-lg-2">
-                  <img src="assets/img/course-details-tab-1.png" alt="" class="img-fluid">
+                  <img src="" alt="" class="img-fluid">
                 </div>
               </div>
             </div>
@@ -678,7 +678,7 @@
                 
                 </div>
                 <div class="col-lg-4 text-center order-1 order-lg-2">
-                  <img src="assets/img/course-details-tab-5.png" alt="" class="img-fluid">
+                  <img src="" alt="" class="img-fluid">
                 </div>
               </div>
             </div>

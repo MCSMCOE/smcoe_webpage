@@ -151,7 +151,7 @@ The faculty members are highly motivated and devoted in delivering the high qual
         </div>
       </section><!-- End Services Section --></div>
                 <div class="col-lg-4 text-center order-1 order-lg-2">
-                  <img src="assets/img/course-details-tab-1.png" alt="" class="img-fluid">
+                  <img src="" alt="" class="img-fluid">
                 </div>
               </div>
             </div>
@@ -693,7 +693,7 @@ Database Design, Cyber Security and AI, Computer Vision, and Artificial Intellig
                 
                 </div>
                 <div class="col-lg-4 text-center order-1 order-lg-2">
-                  <img src="assets/img/course-details-tab-5.png" alt="" class="img-fluid">
+                  <img src="" alt="" class="img-fluid">
                 </div>
               </div>
             </div>
