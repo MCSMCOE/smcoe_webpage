@@ -19,7 +19,7 @@
               <li><a href="strategicplan.php">Strategic Plan</a></li>
               <li><a href="codeofconduct.php">Code of Conduct</a></li>
               <li><a href="mandatorydisclosure.php">Mandatory Disclosure</a></li>
-              <li><a href="facilities.php">Features</a></li>
+              <li><a href="facilities.php">facilities</a></li>
             </ul>
           <li class="dropdown"><a href="#"><span>Academics</span> <i class="bi bi-chevron-right"></i></a>
             <ul>

@@ -130,7 +130,7 @@
 <script src="https://webdocs.pages.dev/assets/vendor/php-email-form/validate.js"></script>
 
 <!-- Template Main JS File -->
-<script src=https://webdocs.pages.dev/assets/js/main.js"></script>
+<script src="https://webdocs.pages.dev/assets/js/main.js"></script>
 <script>
 /**
 * Template Name: EstateAgency
