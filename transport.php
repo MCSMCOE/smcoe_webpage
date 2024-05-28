@@ -15,7 +15,7 @@
     <section class="breadcrumbs">
       <div class="container justify-content-center">
 
-            <h2><a href=""></a>Facilities</h2>
+            <h2><a href=""></a>Transport Facilities</h2>
 
       </div>
     </section><!-- End Breadcrumbs Section -->
@@ -28,12 +28,24 @@
             <div class="col-md-6 d-flex align-items-stretch">
               <div class="card">
                 <div class="card-img">
-                  <img src="https://webdocs.pages.dev/assets/img/facilities/ICT1.jpg" alt="class="img-fluid" alt="" style="width: 1000px; height: 400px;" >
+                <iframe src="https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d134920.9839884585!2d77.14357036852913!3d8.212122623011048!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0x3b04ffedb7ed8697%3A0xe5a3c5769b15bd20!2sPuthukkadai%2C%20Tamil%20Nadu!3m2!1d8.2750798!2d77.1812094!4m5!1s0x3b05aa7f50c6c445%3A0x8e0a9301af8427f4!2sNithiravilai%2C%20Tamil%20Nadu!3m2!1d8.2758004!2d77.1413259!4m5!1s0x3b05aa1bcad55f71%3A0xd3335396bf641501!2sKollamkode%2C%20Tamil%20Nadu!3m2!1d8.288039!2d77.11247139999999!4m5!1s0x3b05aaa34b44381d%3A0x4a8dcae31781492b!2sMunchirai%2C%20Tamil%20Nadu!3m2!1d8.2876352!2d77.17583599999999!4m5!1s0x3b04ff0099edf54b%3A0xc790ad0e7499489f!2sKarungal%2C%20Tamil%20Nadu!3m2!1d8.2362079!2d77.2419522!4m5!1s0x3b04fdd774ddf995%3A0xbf33ef47e53ccec4!2sKurumpanai%2C%20Tamil%20Nadu!3m2!1d8.1930144!2d77.2304564!4m5!1s0x3b04fc3236004a3f%3A0xa424cbecf111ebcb!2sKodimunai%2C%20Tamil%20Nadu!3m2!1d8.1764261!2d77.2446693!4m5!1s0x3b04fc34044a9e55%3A0x61b136e281572cf!2sSimon%20Colony%2C%20Tamil%20Nadu!3m2!1d8.1755332!2d77.2452698!4m5!1s0x3b04fc6b1b6296e9%3A0x47ba547e4b6606b2!2sKottilpadu%2C%20Tamil%20Nadu!3m2!1d8.1700348!2d77.2649405!4m5!1s0x3b04fae7b453d579%3A0xf4356d0b26d3dd2a!2sStella%20Mary&#39;s%20College%20Of%20Engineering%2C%20Aruthenganvilai%2C%20Kalluketti%20Junction%2C%20Azhikkal%20Rd%2C%20Tamil%20Nadu%20629202!3m2!1d8.1336248!2d77.342978!5e1!3m2!1sen!2sin!4v1716547564514!5m2!1sen!2sin" width="650" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
                 <div class="card-body">
-                  <h5 class="card-title"><a href="">ICT Class Room</a></h5>
-                  <p class="fst-italic text-center">"Empowering Education Through Innovative ICT Classrooms"</p>
-                  <p class="card-text ">Welcome to our cutting-edge ICT classrooms, where technology meets education. Experience interactive learning environments equipped with state-of-the-art tools and resources. Engage in dynamic lectures, collaborative projects, and hands-on experiments to enhance your academic journey. Step into the future of education with our innovative ICT facilities.</p>
+                  <h5 class="card-title"><a href="">PUTHUKADAI - SMCE</a></h5>
+                  <p class="fst-italic text-center">"Bus No -1"</p>
+                  <p class="card-text ">Puthukkadi	6.40AM,
+Nithiravilai	6.50AM,
+Kollamcode	7.00AM,
+Munchirai	7.10AM,
+Karungal	7.35AM,
+Kurumpanai	8.00AM,
+Kodimunnai	8.10AM,
+Shymon Colony	8.15AM,
+Beach Colony	8.25AM,
+Kottilpadu	8.25AM,
+Mandaikadu	8.30AM,
+Manavalakurichi	8.35AM,
+College	8.45AM</p>
                 </div>
               </div>
             </div>
@@ -43,9 +55,24 @@
                     <img src="https://webdocs.pages.dev/assets/img/facilities/bigdata.jpg" alt="class="img-fluid" alt="" style="width: 1000px; height: 400px;">
                   </div>
                   <div class="card-body">
-                    <h5 class="card-title"><a href="">BigData Laboratory</a></h5>
-                    <p class="fst-italic text-center">"Unraveling Insights, Transforming Data into Decisions."</p>
-                    <p class="card-text">Our cutting-edge facility offers state-of-the-art technology and resources for exploring vast datasets. Dive into the world of big data analytics with hands-on experience and expert guidance. Join us in unlocking the potential of data to drive solutions and discoveries.</p>
+                    <h5 class="card-title"><a href="">MOOLACHEL - SMCE</a></h5>
+                    <p class="fst-italic text-center">"BUS No - 3"</p>
+                    <p class="card-text">Moolacheal	7.15AM,
+Mekkiyamandapam	7.20AM,
+Manali	7.35AM,
+Thuckalay	7.40AM,
+Madathattu vilai	7.50AM,
+Manakkarai	7.55AM,
+Appattuvilai	8.00AM,
+Azhwercovil	8.05AM,
+Muthalakurichi	8.10AM,
+Eraniyal Konam	8.15AM,
+Eraniel	8.20AM,
+Katthadimukku	8.20AM,
+Pannikkodu	8.20AM,
+Thalakkulam	8.25AM,
+Monnkilvilai	8.30AM,
+Athithiya School	8.35AM,</p>
                   </div>
                 </div>
               </div>
