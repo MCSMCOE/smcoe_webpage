@@ -124,13 +124,14 @@
 </div><!-- End Intro Section -->
 
 
-<!-- Vendor JS Files -->
+<!-- Vendor JS Files 
 <script src="https://webdocs.pages.dev/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 <script src="https://webdocs.pages.dev/assets/vendor/swiper/swiper-bundle.min.js"></script>
 <script src="https://webdocs.pages.dev/assets/vendor/php-email-form/validate.js"></script>
 
-<!-- Template Main JS File -->
+ Template Main JS File -->
 
+ <script src="https://webdocs.pages.dev/assets/vendor/swiper/swiper-bundle.min.js"></script>
 <script>
 /**
 * Template Name: EstateAgency

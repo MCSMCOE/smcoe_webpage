@@ -16,10 +16,10 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Manadatory Disclosure</h2>
+          <h2>VIDEO TOUR</h2>
           <ol>
             <li><a href="index.html">Home</a></li>
-            <li>Mandatory Disclosure</li>
+            <li>VIDEO TOUR</li>
           </ol>
         </div>
 
@@ -36,7 +36,7 @@
         <div class="col-lg-3">
           <ul class="nav nav-tabs flex-column">
             <li class="nav-item">
-              <a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">Vision & MISSION</a>
+              <a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">VISION & MISSION</a>
             </li>
             <!--<li class="nav-item">
               <a class="nav-link" data-bs-toggle="tab" href="#tab-2">Faculty</a>
