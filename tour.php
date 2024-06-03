@@ -58,9 +58,9 @@
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-8">Calender</a>
             </li>-->
             <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-9">Anna University Approval</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-9">Department Videos</a>
             </li>
-            <li class="nav-item">
+            <!--<li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-10">AICTE Approval</a>
             </li>
             <li class="nav-item">
@@ -74,7 +74,7 @@
             </li>
             <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-14">Policy Doccument</a>
-            </li>
+            </li>-->
 
           </ul>
         </div>
@@ -427,54 +427,54 @@
                         <div class="container">
                   
                           <div class="section-title" data-aos="fade-up">
-                            <h2>Anna University Approval</h2>
+                            <h2>Department Videos</h2>
                             <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
                           </div>
                   
                           <div class="row" data-aos="fade-up" data-aos-delay="300">
                             <div class="col-lg-3 col-md-4">
                               <div class="icon-box">
-                                <i class="ri-calendar-todo-line" style="color: #ffbb2c;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2023-24.pdf">Affiliarion Order 2023-24</a></h3>
+                                <i class="bi bi-camera-reels" style="color: #ffbb2c;"></i>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUniv2024/AIDS.mp4">Dept of Artificiacl Intelligence and Data Science</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                               <div class="icon-box">
-                                <i class="ri-calendar-todo-line" style="color: #5578ff;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2022-23.pdf">Affiliarion Order 2022-23</a></h3>
+                                <i class="bi bi-camera-reels" style="color: #5578ff;"></i>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUniv2024/CIVIL.mp4">Dept of Civil Engineering</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                               <div class="icon-box">
-                                <i class="ri-calendar-todo-line" style="color: #e80368;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2021-22.pdf">Affiliarion Order 2021-22</a></h3>
+                                <i class="bi bi-camera-reels" style="color: #e80368;"></i>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUniv2024/CSE.mp4">Dept of Computer Science and Engineering</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
                               <div class="icon-box">
-                                <i class="ri-calendar-todo-line" style="color: #e361ff;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2020-21.pdf">Affiliarion Order 2020-21</a></h3>
+                                <i class="bi bi-camera-reels" style="color: #e361ff;"></i>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUniv2024/ECE.mp4">Dept of Electronics and Communication Engineering</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
-                                <i class="ri-calendar-todo-line" style="color: #47aeff;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2019-20.pdf">Affiliarion Order 2019-20</a></h3>
+                                <i class="bi bi-camera-reels" style="color: #47aeff;"></i>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUniv2024/EEE.mp4">Dept of Electrical and Electronics Engineering</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
-                                <i class="ri-calendar-todo-line" style="color: #ffa76e;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2018-19.pdf">Affiliarion Order 2018-19</a></h3>
+                                <i class="bi bi-camera-reels" style="color: #ffa76e;"></i>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUniv2024/Mech.mp4">Dept of Mechanical Engineering</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
-                                <i class="ri-calendar-todo-line" style="color: #11dbcf;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2017-18.pdf">Affiliarion Order 2017-18</a></h3>
+                                <i class="bi bi-camera-reels" style="color: #11dbcf;"></i>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUniv2024/SH.mp4">Dept of Science and Humanities</a></h3>
                               </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 mt-4">
+                            <!--<div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #4233ff;"></i>
                                 <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2016-17.pdf">Affiliarion Order 2016-17</a></h3>
@@ -504,7 +504,7 @@
                                 <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2012-13.pdf">Affiliarion Order 2012-13</a></h3>
                               </div>
                             </div>
-                          </div>
+                          </div>-->
                   
                         </div>
                       </section><!-- End Features Section -->

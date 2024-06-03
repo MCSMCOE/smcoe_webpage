@@ -688,13 +688,13 @@ pagination: {
 
           <div class="col-lg-2 col-md-4 col-6">
             <div class="client-logo">
-              <img src="https://webdocs.pages.dev/assets/img/cr/tcs.png" class="img-fluid" alt="top colleges in kanyakumari">
+              <img src="https://webdocs.pages.dev/assets/img/cr/tcs.png" class="img-fluid" alt="artificial intelligence course in kanyakumari district">
             </div>
           </div>
 
           <div class="col-lg-2 col-md-4 col-xs-6">
             <div class="client-logo">
-              <img src="https://webdocs.pages.dev/assets/img/cr/yamaha.png" class="img-fluid" alt="top engineering colleges in kanyakumari">
+              <img src="https://webdocs.pages.dev/assets/img/cr/yamaha.png" class="img-fluid" alt="AIDS in kanyakumari district">
             </div>
           </div>
 
@@ -706,7 +706,7 @@ pagination: {
 
           <div class="col-lg-2 col-md-4 col-xs-6">
             <div class="client-logo">
-              <img src="https://webdocs.pages.dev/assets/img/cr/exbt.png" class="img-fluid" alt="top 10 colleges in kanyakumari">
+              <img src="https://webdocs.pages.dev/assets/img/cr/exbt.png" class="img-fluid" alt="artificial intelligences course in kanyakumari">
             </div>
           </div>
 
@@ -724,7 +724,7 @@ pagination: {
 
           <div class="col-lg-2 col-md-4 col-xs-6">
             <div class="client-logo">
-              <img src="https://webdocs.pages.dev/assets/img/cr/wipro.png" class="img-fluid" alt="top colleges in nagercoil">
+              <img src="https://webdocs.pages.dev/assets/img/cr/wipro.png" class="img-fluid" alt="best engineering colleges in kanyakumari">
             </div>
           </div>
           <div class="col-lg-2 col-md-4 col-xs-6">
