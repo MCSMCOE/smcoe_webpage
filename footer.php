@@ -44,7 +44,8 @@
                 <li><i class="bx bx-chevron-right"></i> <a href="https://webdocs.pages.dev/assets/docs/cgptc/PlacementUndertaking.pdf" target="_blank" >Placement Undertaking form</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="https://webdocs.pages.dev/assets/docs/r&d/Proposal-Format-SM-SMS.docx"target="_blank" >Stella Mary's Seed Money (Doc)</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="https://webdocs.pages.dev/assets/docs/r&d/Proposal-Format-SM-SMS.pdf" target="_blank" >Stella Mary's Seed Money (Pdf)</a></li>
-              </ul>
+                <li><i class="bx bx-chevron-right"></i> <a href="" target="_blank" >Circular</a></li>
+                </ul>
             </div>
             <div class="col-lg-3 col-md-6 footer-links">
               <h4>Video Tour</h4>
