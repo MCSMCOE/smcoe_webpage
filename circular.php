@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php include ("head.php"); ?>
+
 <body>
   <!-- Preloader -->
   <!-- ======= Header ======= --> 
@@ -12,11 +13,11 @@
   <main id="main">
 
     <!-- ======= Breadcrumbs Section ======= -->
-    <section class="breadcrumbs">
-      <div class="container">
+   <li></li>
+    <section id="faq" class="faq">
+          <div class="container">
+    
 
-        <div class="d-flex justify-content-between align-items-center">
-          
           <div class="section-title" data-aos="fade-up">
             <h2>CIRCULAR</h2>
           <div class="card">
@@ -34,11 +35,8 @@
                   <tbody>
                   <?php
 //$dbcon - database connection
-$sql = " SELECT IFNULL (CONCAT(IFNULL(pm.authors,''),', ',IFNULL(pm.paper_title,''),', ',IFNULL(pm.transaction_title,''),',',IFNULL(pt.ptype,''),',',IF(pm.volume IS NOT NULL,'Vol:',''),IFNULL(pm.volume,''),IF(pm.volume IS NOT NULL,', ',''),IF(pm.issue IS NOT NULL,'Issue:',''),IFNULL(pm.issue,''),IF(pm.issue IS NOT NULL,',',''),IFNULL(pm.issn_no,''),IF(pm.issn_no IS NOT NULL,',',''),IFNULL(MONTHNAME(STR_TO_DATE(pm.month,'%m')),''),IF(pm.month IS NOT NULL,',',''),pm.year),'') details , pm.`paper_title` 
-FROM documentation.publication_master pm 
-INNER JOIN documentation.publication_type pt ON pt.pt_id=pm.pt_id AND pm.record_status > 0  
-INNER JOIN documentation.publication_ss_mapping pssm ON pssm.publication_id=pm.publication_id AND pssm.staff_id=".preg_replace('/[^0-9]/', '', 'staff_id = 1026');
-
+$sql = " SELECT display_text,dem.`dt_id` , display_new FROM documentation.`nb_circular_master` nbm INNER JOIN s3aws.`document_entity_mapping` dem ON dem.`dgtm_id`=69 AND dem.`erp_id`=nbm.`nbcm_id` AND dem.record_status >0 AND nbm.record_status>0 WHERE nbm.`web_show`=1 order by nbm.order_no ";
+//$sql = "SELECT 'hello' display_text";
 $result = mysqli_query($dbcon, $sql);
 
 if (mysqli_num_rows($result) > 0) {
@@ -47,7 +45,7 @@ if (mysqli_num_rows($result) > 0) {
         ?>
         <tr>
             <th scope="row"><?php echo $slno; ?></th>
-            <td class="card-text text-justify"><?php echo $data["details"]; ?></td>
+            <td class="card-text text-justify"><?php echo "<a href = 'https://camps.stellamaryscoe.edu.in/CAMPS/viewdoc.php?dt_id=".$data["dt_id"]."' target ='_blank'>". $data["display_text"]."</a>".((strcmp($data["display_new"],"1")==0)?"<img src = 'https://webdocs.pages.dev/assets/img/news/new_flash.gif'>":"").""; ?></td>
         </tr>
         <?php
         $slno++;
