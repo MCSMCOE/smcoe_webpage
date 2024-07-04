@@ -885,7 +885,7 @@
                         <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                           <div class="icon-box">
                             <i class="ri-file-list-3-line" style="color: #5578ff;"></i>
-                            <h3><a href="">NAAC AQAR 2022</a></h3>
+                            <h3><a href="https://webdocs.pages.dev/assets/docs/iqac/naac/2022-23/AQAR%202022-23.pdf">AQAR 2022-23</a></h3>
                           </div>
                         </div>
                         <!--<div class="col-lg-3 col-md-4 mt-4 mt-md-0">
