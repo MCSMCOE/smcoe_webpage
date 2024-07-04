@@ -62,9 +62,7 @@
             <li class="nav-item">
               <a class="nav-link" data-bs-toggle="tab" href="#tab-3">Quality Policy</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" data-bs-toggle="tab" href="#tab-13">Gallery</a>
-            </li>
+            
             <li class="nav-item">
               <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Functions & Benefits</a>
             </li>
@@ -88,6 +86,9 @@
             </li>
             <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-12">Members</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" data-bs-toggle="tab" href="#tab-13">Gallery</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-14">Contact</a>
@@ -731,7 +732,7 @@
 
     <div class="row">
       <div class="col-lg-12" data-aos="fade-up" data-aos-delay="100">
-        <h3 class="resume-title">Meeting</h3>
+        <h3 class="resume-title"></h3>
         <div class="resume-item">
           <h4></h4>
           <h5>Stella Mary's College of Engineering, committed to imparting technical education, creating technocrats strives to achieve the institution's goal by:</h5>
