@@ -86,6 +86,12 @@
             <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-11">Institutional Distinctiveness</a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-12">Members</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-13">Contact</a>
+            </li>
           </ul>
         </div>
         <div class="align-items-stretch col-lg-9 mt-4 mt-lg-0">
@@ -131,14 +137,14 @@
                 </div>
               </div>
             </div>
-            <div class="tab-pane" id="tab-">
+            <div class="tab-pane" id="tab-12">
               <div class="row ">
                 <!-- ======= Team Section ======= -->
     <section id="team" class="team section-bg">
         <div class="container">
   
           <div class="section-title" data-aos="fade-up">
-            <h2>People</h2>
+            <h2>Members</h2>
             <p></p>
           </div>
   
@@ -504,14 +510,14 @@
       </section><!-- End Team Section -->
               </div>
             </div>
-            <div class="tab-pane" id="tab-">
+            <div class="tab-pane" id="tab-13">
               <div class="row">
                 <!-- ======= Team Section ======= -->
     <section id="team" class="team section-bg">
         <div class="container">
   
           <div class="section-title" data-aos="fade-up">
-            <h2>Contact us</h2>
+            <h2>Contact</h2>
             
           </div>
   
