@@ -63,7 +63,7 @@
               <a class="nav-link" data-bs-toggle="tab" href="#tab-3">Quality Policy</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" data-bs-toggle="tab" href="#tab-4">Gallery</a>
+              <a class="nav-link" data-bs-toggle="tab" href="#tab-13">Gallery</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Functions & Benefits</a>
@@ -90,7 +90,7 @@
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-12">Members</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-13">Contact</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-14">Contact</a>
             </li>
           </ul>
         </div>
@@ -506,7 +506,7 @@
       </section><!-- End Team Section -->
               </div>
             </div>
-            <div class="tab-pane" id="tab-13">
+            <div class="tab-pane" id="tab-14">
               <div class="row">
                 <!-- ======= Team Section ======= -->
     <section id="team" class="team section-bg">
@@ -540,7 +540,7 @@
       </section><!-- End Team Section -->
               </div>
             </div>
-            <div class="tab-pane" id="tab-4">
+            <div class="tab-pane" id="tab-13">
               <div class="col-md-10">
   
                 <!--slider start here-->
