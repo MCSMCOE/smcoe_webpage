@@ -607,16 +607,16 @@
           <h5>The functions of the IQAC are,</h5>
           
           <ul>
-            <li> Developing and applying quality benchmarks/parameters for various academic and administrative activities of the institution.</li>
-            <li> Making possible the creation of a learner-centric environment favourable for quality education and also the very much needed faculty maturation to take up the required knowledge and technology for participatory teaching and learning process. </li>
-            <li> Making arrangements for feedback responses from students and parents on quality-related institutional processes.</li>
-            <li> Disseminating the information on various quality parameters of higher education.</li>
-            <li> Organizing inter and intra-institutional workshops and seminars that are focussed on quality-based themes and the promotion of quality circles.</li>
-         <li>Documenting the different programmes/activities that lead to quality improvement.</li>
-         <li>Acting as a nodal agency of the Institution that coordinates quality-related activities.</li>
-         <li>Developing and maintaining the institutional database through MIS for the purpose of keeping up /enhancing the quality of the institution.</li>
-         <li>Developing Quality Culture in the institution.</li>
-         <li>Preparing the Annual Quality Assurance Report (AQAR) as per NAAC guidelines and submit to NAAC.</li>
+            <li>Developing and applying quality benchmarks/parameters for various academic and administrative activities of the institution.</li>
+            <li>Making possible the creation of a learner-centric environment favourable for quality education and also the very much needed faculty maturation to take up the required knowledge and technology for participatory teaching and learning process. </li>
+            <li>Making arrangements for feedback responses from students and parents on quality-related institutional processes.</li>
+            <li>Disseminating the information on various quality parameters of higher education.</li>
+            <li>Organizing inter and intra-institutional workshops and seminars that are focussed on quality-based themes and the promotion of quality circles.</li>
+            <li>Documenting the different programmes/activities that lead to quality improvement.</li>
+            <li>Acting as a nodal agency of the Institution that coordinates quality-related activities.</li>
+            <li>Developing and maintaining the institutional database through MIS for the purpose of keeping up /enhancing the quality of the institution.</li>
+            <li>Developing Quality Culture in the institution.</li>
+            <li>Preparing the Annual Quality Assurance Report (AQAR) as per NAAC guidelines and submit to NAAC.</li>
           </ul>
         </div>
         <div class="resume-item">
