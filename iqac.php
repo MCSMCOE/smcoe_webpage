@@ -964,7 +964,31 @@
                           <h3><a href="">2022-23 Even</a></h3>
                         </div>
                       </div>-->
-
+                      <ol></ol>
+                      <div class="section-title" data-aos="fade-up">
+                      <h2>ISO Certification</h2>
+                      <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
+                    </div>
+            
+                    <div class="row d-flex justify-content-center" data-aos="fade-up" data-aos-delay="300">
+                      <div class="col-lg-3 col-md-4">
+                        <div class="icon-box">
+                          <i class="ri-file-list-3-line" style="color: #ffbb2c;"></i>
+                          <h3><a href="https://webdocs.pages.dev/assets/docs/iqac/iso/QMS.pdf" target="_blank" >ISO 9001:2015</a></h3>
+                        </div>
+                      </div>
+                      <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                        <div class="icon-box">
+                          <i class="ri-file-list-3-line" style="color: #5578ff;"></i>
+                          <h3><a href="https://webdocs.pages.dev/assets/docs/iqac/iso/ENMS.pdf" target="_blank" >ISO 14001:2015</a></h3>
+                        </div>
+                      </div>
+                      <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                        <div class="icon-box">
+                          <i class="ri-file-list-3-line" style="color: #5578ff;"></i>
+                          <h3><a href="https://webdocs.pages.dev/assets/docs/iqac/iso/EMS.pdf" target="_blank" >ISO 15001:2018</a></h3>
+                        </div>
+                      </div>
                     </div>
             
                   </div>
