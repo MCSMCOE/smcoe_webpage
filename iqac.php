@@ -985,7 +985,7 @@
                       </div>
                       <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                         <div class="icon-box">
-                          <i class="ri-file-list-3-line" style="color: #5578ff;"></i>
+                          <i class="ri-file-list-3-line" style="color: #bf78ff;"></i>
                           <h3><a href="https://webdocs.pages.dev/assets/docs/iqac/iso/EMS.pdf" target="_blank" >ISO 15001:2018</a></h3>
                         </div>
                       </div>
