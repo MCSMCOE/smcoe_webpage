@@ -18,7 +18,7 @@
             <div class="col-lg-3 col-md-6 footer-links">
               <h4>QUICK LINKS 1</h4>
               <ul>
-                <li><i class="bx bx-chevron-right"></i> <a href="https://webdocs.pages.dev/assets/docs/iqac/nirf/SMCE2024.pdf">NIRF</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="https://webdocs.pages.dev/assets/docs/iqac/nirf/SMCE2024.pdf" target="_blank" >NIRF</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="#">ANTI RAGGING COMMITTEE</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="#">GRIEVANCE REDRESSAL CELL</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="icc.php">INTERNAL COMPLIANCE COMMITTEE</a></li>
@@ -29,9 +29,9 @@
             <div class="col-lg-3 col-md-6 footer-links">
               <h4>QUICK LINKS 2</h4>
               <ul>
-                <li><i class="bx bx-chevron-right"></i> <a href="https://forms.gle/pnodnQCH6yVAKiD19">CAREER @ SMCE</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="https://webdocs.pages.dev/assets/docs/iqac/naac/NAAC%20CERTIFICATION%20-%20CYCLE%201.pdf">NAAC CERTIFICATE</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="https://webdocs.pages.dev/assets/docs/iqac/naac/NAAC%20SSR%20REPORT-CYCLE%201.pdf">NAAC SSR</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="https://forms.gle/pnodnQCH6yVAKiD19" target="_blank" >CAREER @ SMCE</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="https://webdocs.pages.dev/assets/docs/iqac/naac/NAAC%20CERTIFICATION%20-%20CYCLE%201.pdf" target="_blank" >NAAC CERTIFICATE</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="https://webdocs.pages.dev/assets/docs/iqac/naac/NAAC%20SSR%20REPORT-CYCLE%201.pdf" target="_blank" >NAAC SSR</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="https://css.aicte-india.org/login">AICTE Centralised Support System</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="OnlinePaymentPrivacyPolicy.php">Online Payment - Privacy Policy</a></li>
               </ul>
@@ -40,17 +40,19 @@
             <div class="col-lg-3 col-md-6 footer-links">
               <h4>Downloads</h4>
               <ul>
-                <li><i class="bx bx-chevron-right"></i> <a href="https://webdocs.pages.dev/assets/docs/footer/Student%20undertaking.pdf">Student Undertaking form</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="https://webdocs.pages.dev/assets/docs/cgptc/PlacementUndertaking.pdf">Placement Undertaking form</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="https://webdocs.pages.dev/assets/docs/r&d/Proposal-Format-SM-SMS.docx">Stella Mary's Seed Money (Doc)</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="https://webdocs.pages.dev/assets/docs/r&d/Proposal-Format-SM-SMS.pdf">Stella Mary's Seed Money (Pdf)</a></li>
-              </ul>
+                <li><i class="bx bx-chevron-right"></i> <a href="https://webdocs.pages.dev/assets/docs/footer/Student%20undertaking.pdf" target="_blank" >Student Undertaking form</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="https://webdocs.pages.dev/assets/docs/cgptc/PlacementUndertaking.pdf" target="_blank" >Placement Undertaking form</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="https://webdocs.pages.dev/assets/docs/r&d/Proposal-Format-SM-SMS.docx"target="_blank" >Stella Mary's Seed Money (Doc)</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="https://webdocs.pages.dev/assets/docs/r&d/Proposal-Format-SM-SMS.pdf" target="_blank" >Stella Mary's Seed Money (Pdf)</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="circular.php" >Circular</a></li>
+                </ul>
             </div>
             <div class="col-lg-3 col-md-6 footer-links">
               <h4>Video Tour</h4>
               <ul>
                 <li><i class="bx bx-chevron-right"></i> <a href="https://drive.google.com/file/d/1_twgS8zKhRfq2AXjQ645j2Z7nxqGQI61/view?usp=sharing">Infrastructure</a></li>
-                </ul>
+                <li><i class="bx bx-chevron-right"></i> <a href="tour.php">Department Videos</a></li>  
+              </ul>
             </div>
   
       <div class="row d-flex align-items-center">

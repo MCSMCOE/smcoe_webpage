@@ -30,11 +30,30 @@
       <div class="container">
         
 
-        <div class="section-title" data-aos="fade-up">
-          <h2>National & International Journals</h2>
-        <div class="card">
+
+
+
+
+
+
+
+      <div class="tab-pane" id="tab-4">
+              <div class="row">
+                <div class="col-lg-12 details order-2 order-lg-1">
+                  <h3></h3>
+                  
+                 <!-- Default Accordion -->
+              <div class="accordion" id="accordionExample">
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="headingOne">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                    <strong>NATIONAL & INTERNATIONAL JOURNALS : FACULTY</strong>
+                    </button>
+                  </h2>
+                  <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                  <div class="card">
             <div class="card-body">
-              <h5 class="card-title text-center">Staff Publications</h5>
+              <h5 class="card-title text-center">Faculty Publications</h5>
               <!--<p>Add <code>.table-borderless</code> for a table without borders.</p>-->
               <!-- Active Table -->
               <table class="table table-striped text-center table-hover">
@@ -73,38 +92,18 @@ if (mysqli_num_rows($result) > 0) {
                 </table>
               </div> 
       </div>
-      <div class="card">
-        <div class="card-body">
-          <h5 class="card-title text-center">Student Publications</h5>
-          <!--<p>Add <code>.table-borderless</code> for a table without borders.</p>-->
-          <!-- Active Table -->
-          <table class="table table-striped text-center table-hover">
-            <thead>
-            <tr>
-                    <th scope="col">#</th>
-                    <th scope="col">Details</th>
-                   
-                  </tr>
-            </thead>
-            <tbody>
-                <tr>
-                  <th scope="row">1</th>
-                  <td></td>
-                  
-                </tr>
-                
-               
-              </tbody>
-            </table>
-          </div>     
-  </div>
-
-
-  <div class="section-title" data-aos="fade-up">
-    <h2>Conference Publications</h2>
-  <div class="card">
+                  </div>
+                </div>
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="headingTwo">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    <strong>CONFERENCE PUBLICATIONS: FACULTY</strong>
+                    </button>
+                  </h2>
+                  <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                  <div class="card">
     <div class="card-body">
-      <h5 class="card-title text-center">Staff Publications</h5>
+      <h5 class="card-title text-center">Faculty Publications</h5>
       <!--<p>Add <code>.table-borderless</code> for a table without borders.</p>-->
       <!-- Active Table -->
       <table class="table table-striped text-center table-hover">
@@ -156,36 +155,18 @@ if (mysqli_num_rows($result) > 0) {
         </table>
       </div>
 </div>
-<div class="card">
+                  </div>
+                </div>
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="headingThree">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    <strong>PATENT: FACULTY</strong>
+                    </button>
+                  </h2>
+                  <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                  <div class="card">
   <div class="card-body">
-    <h5 class="card-title text-center">Student Publications</h5>
-    <!--<p>Add <code>.table-borderless</code> for a table without borders.</p>-->
-    <!-- Active Table -->
-    <table class="table table-striped text-center table-hover">
-      <thead>
-      <tr>
-            <th scope="col">#</th>
-            <th scope="col">Details</th>
-          </tr>
-      </thead>
-      <tbody>
-          <tr>
-            <th scope="row"></th>
-            <td></td>
-          </tr>
-          
-        </tbody>
-      </table>
-    </div>
-</div>
-
-
-
-<div class="section-title" data-aos="fade-up">
-  <h2>Patent</h2>
-<div class="card">
-  <div class="card-body">
-    <h5 class="card-title text-center">Staff Publications</h5>
+    <h5 class="card-title text-center">Faculty Publications</h5>
     <!--<p>Add <code>.table-borderless</code> for a table without borders.</p>-->
     <!-- Active Table -->
     <table class="table table-striped text-center table-hover">
@@ -236,32 +217,178 @@ if (mysqli_num_rows($result) > 0) {
       </table>
     </div>
 </div>
-<div class="card">
-<div class="card-body">
-  <h5 class="card-title text-center">Student Publications</h5>
-  <!--<p>Add <code>.table-borderless</code> for a table without borders.</p>-->
-  <!-- Active Table -->
-  <table class="table table-striped text-center table-hover">
+                  </div>
+                </div>
+
+
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="headingFour">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                    <strong>NATIONAL & INTERNATIONAL JOURNALS: STUDENT</strong>
+                    </button>
+                  </h2>
+                  <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                  <div class="card">
+            <div class="card-body">
+              <h5 class="card-title text-center">Student Publications</h5>
+              <!--<p>Add <code>.table-borderless</code> for a table without borders.</p>-->
+              <!-- Active Table -->
+              <table class="table table-striped text-center table-hover">
+                <thead>
+                  <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Details</th>
+                   
+                  </tr>
+                </thead>
+                <tbody>
+                  <?php
+//$dbcon - database connection
+$sql = "";
+
+$result = mysqli_query($dbcon, $sql);
+
+if (mysqli_num_rows($result) > 0) {
+  $slno = 1;
+    while ($data = mysqli_fetch_assoc($result)) {
+        ?>
+        <tr>
+            <th scope="row"><?php echo $slno; ?></th>
+            <td class="card-text text-justify"><?php echo $data["details"]; ?></td>
+        </tr>
+        <?php
+        $slno++;
+    }
+}
+?>
+
+                    </tbody>
+                </table>
+              </div> 
+      </div>
+                  </div>
+                </div>
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="headingFive">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                    <strong>CONFERENCE PUBLICATIONS: STUDENT</strong>
+                    </button>
+                  </h2>
+                  <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                  <div class="card">
+    <div class="card-body">
+      <h5 class="card-title text-center">Student Publications</h5>
+      <!--<p>Add <code>.table-borderless</code> for a table without borders.</p>-->
+      <!-- Active Table -->
+      <table class="table table-striped text-center table-hover">
+        <thead>
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">Details</th>
+          </tr>
+        </thead>
+        <tbody>
+        <?php
+//$dbcon - database connection
+$sql = "" ;
+
+
+$result = mysqli_query($dbcon, $sql);
+
+if (mysqli_num_rows($result) > 0) {
+  $slno = 1;
+    while ($data = mysqli_fetch_assoc($result)) {
+        ?>
+        <tr>
+            <th scope="row"><?php echo $slno; ?></th>
+            <td class="card-text text-justify"><?php echo $data["details"]; ?></td>
+        </tr>
+        <?php
+        $slno++;
+    }
+}
+?>
+             
+            </tbody>
+        </table>
+      </div>
+</div>
+                  </div>
+                </div>
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="headingSix">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                    <strong>PATENT: STUDENT</strong>
+                    </button>
+                  </h2>
+                  <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
+                  <div class="card">
+  <div class="card-body">
+    <h5 class="card-title text-center">Student Publications</h5>
+    <!--<p>Add <code>.table-borderless</code> for a table without borders.</p>-->
+    <!-- Active Table -->
+    <table class="table table-striped text-center table-hover">
     <thead>
-    <tr>
+          <tr>
             <th scope="col">#</th>
             <th scope="col">Title of patent</th>
             <th class="card-text text-justify"scope="col">File Date</th>
             <th class="card-text text-justify"scope="col">Patent Status</th>
             
           </tr>
-    <tbody>
-        <tr>
-          <th scope="row">1</th>
-          <td></td>
-          
-        </tr>
-        
-      </tbody>
-    </table>
-  </div>
-</div>
+        </thead>
+        <tbody>
+        <?php
+//$dbcon - database connection
+$sql = "";
 
+$result = mysqli_query($dbcon, $sql);
+
+if (mysqli_num_rows($result) > 0) {
+  $slno = 1;
+    while ($data = mysqli_fetch_assoc($result)) {
+        ?>
+        <tr>
+            <th scope="row"><?php echo $slno; ?></th>
+            <td class="card-text text-justify"><?php echo $data["patent_title"]; ?></td>
+            <td class="card-text text-justify"><?php echo $data["filing_date"]; ?></td>
+            <td class="card-text text-justify"><?php echo $data["patent_status"]; ?></td>
+        </tr>
+        <?php
+        $slno++;
+    }
+}
+?>
+           
+          </tbody>
+      </table>
+    </div>
+</div>
+                  </div>
+                </div>
+                </div>
+
+
+                </div>
+                  </div>
+                </div>
+                </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
 
 <!--<div class="section-title" data-aos="fade-up">
   <h2>Funded Projects</h2>

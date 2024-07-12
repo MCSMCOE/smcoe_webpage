@@ -57,14 +57,12 @@
               <a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">VISION & MISSION</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" data-bs-toggle="tab" href="#tab-2">People</a>
+              <a class="nav-link" data-bs-toggle="tab" href="#tab-2">Strategic Plan</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" data-bs-toggle="tab" href="#tab-3">Contact us</a>
+              <a class="nav-link" data-bs-toggle="tab" href="#tab-3">Quality Policy</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" data-bs-toggle="tab" href="#tab-4">Gallery</a>
-            </li>
+            
             <li class="nav-item">
               <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Functions & Benefits</a>
             </li>
@@ -85,6 +83,15 @@
             </li>
             <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-11">Institutional Distinctiveness</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-12">Members</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" data-bs-toggle="tab" href="#tab-13">Gallery</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-14">Contact</a>
             </li>
           </ul>
         </div>
@@ -131,14 +138,14 @@
                 </div>
               </div>
             </div>
-            <div class="tab-pane" id="tab-2">
+            <div class="tab-pane" id="tab-12">
               <div class="row ">
                 <!-- ======= Team Section ======= -->
     <section id="team" class="team section-bg">
         <div class="container">
   
           <div class="section-title" data-aos="fade-up">
-            <h2>People</h2>
+            <h2>Members</h2>
             <p></p>
           </div>
   
@@ -495,23 +502,19 @@
                   </div>
                 </div>
               </div>
-
-
-
-
           </div>
         </div>
       </section><!-- End Team Section -->
               </div>
             </div>
-            <div class="tab-pane" id="tab-3">
+            <div class="tab-pane" id="tab-14">
               <div class="row">
                 <!-- ======= Team Section ======= -->
     <section id="team" class="team section-bg">
         <div class="container">
   
           <div class="section-title" data-aos="fade-up">
-            <h2>Contact us</h2>
+            <h2>Contact</h2>
             
           </div>
   
@@ -538,7 +541,7 @@
       </section><!-- End Team Section -->
               </div>
             </div>
-            <div class="tab-pane" id="tab-4">
+            <div class="tab-pane" id="tab-13">
               <div class="col-md-10">
   
                 <!--slider start here-->
@@ -588,7 +591,7 @@
             </div>
             <div class="tab-pane" id="tab-5">
               <div class="row">
-                <div class="col-lg-8 details order-2 order-lg-1">
+                <div class="col-lg-12 details order-2 order-lg-1">
                   
 <!-- ======= Resume Section ======= -->
 <section id="resume" class="resume">
@@ -604,16 +607,16 @@
           <h5>The functions of the IQAC are,</h5>
           
           <ul>
-            <li> Developing and applying quality benchmarks/parameters for various academic and administrative activities of the institution.</li>
-            <li> Making possible the creation of a learner-centric environment favourable for quality education and also the very much needed faculty maturation to take up the required knowledge and technology for participatory teaching and learning process. </li>
-            <li> Making arrangements for feedback responses from students and parents on quality-related institutional processes.</li>
-            <li> Disseminating the information on various quality parameters of higher education.</li>
-            <li> Organizing inter and intra-institutional workshops and seminars that are focussed on quality-based themes and the promotion of quality circles.</li>
-         <li>Documenting the different programmes/activities that lead to quality improvement.</li>
-         <li>Acting as a nodal agency of the Institution that coordinates quality-related activities.</li>
-         <li>Developing and maintaining the institutional database through MIS for the purpose of keeping up /enhancing the quality of the institution.</li>
-         <li>Developing Quality Culture in the institution.</li>
-         <li>Preparing the Annual Quality Assurance Report (AQAR) as per NAAC guidelines and submit to NAAC.</li>
+            <li>Developing and applying quality benchmarks/parameters for various academic and administrative activities of the institution.</li>
+            <li>Making possible the creation of a learner-centric environment favourable for quality education and also the very much needed faculty maturation to take up the required knowledge and technology for participatory teaching and learning process. </li>
+            <li>Making arrangements for feedback responses from students and parents on quality-related institutional processes.</li>
+            <li>Disseminating the information on various quality parameters of higher education.</li>
+            <li>Organizing inter and intra-institutional workshops and seminars that are focussed on quality-based themes and the promotion of quality circles.</li>
+            <li>Documenting the different programmes/activities that lead to quality improvement.</li>
+            <li>Acting as a nodal agency of the Institution that coordinates quality-related activities.</li>
+            <li>Developing and maintaining the institutional database through MIS for the purpose of keeping up /enhancing the quality of the institution.</li>
+            <li>Developing Quality Culture in the institution.</li>
+            <li>Preparing the Annual Quality Assurance Report (AQAR) as per NAAC guidelines and submit to NAAC.</li>
           </ul>
         </div>
         <div class="resume-item">
@@ -630,6 +633,118 @@
         </div>
         
       
+      </div>
+    </div>
+
+  </div>
+</section><!-- End Resume Section -->
+
+
+            </div>
+              </div>
+            </div>
+            <div class="tab-pane" id="tab-2">
+              <div class="row">
+                <div class="col-lg-12 details order-2 order-lg-1">
+                  
+<!-- ======= Resume Section ======= -->
+<section id="resume" class="resume">
+  <div class="container">
+
+
+
+    <div class="row">
+      <div class="col-lg-12" data-aos="fade-up" data-aos-delay="100">
+        <h5>The Internal Quality Assurance Cell (IQAC) of SMCE plays a pivotal role in ensuring continuous improvement in the institution's academic processes, governance practices, and overall quality of education. This 5-year strategic plan (2020-2026) outlines the IQAC's vision for fostering a culture of quality within SMCE and achieving the institute's strategic goals.
+        </h5>
+        <div class="resume-item">
+          <h4></h4>
+          <h5>1.Educational Processes</h5>
+          
+          <ul>
+            <li>Implement support programs like tutoring, mentoring, and academic advising to help students complete their degrees on time.</li>
+            <li>Develop targeted outreach and scholarship programs to attract high-achieving students.</li>
+            <li>Invest in professional development for faculty to adopt innovative and effective teaching practices.</li>
+            <li>Work towards improving standards and processes to achieve accreditation with better grades</li>
+            <li>Focus on key performance indicators that influence rankings, such as research output, faculty qualifications, and student success.</li>
+            <li>Promote and support student participation in clubs, sports, and other extracurricular activities to develop well-rounded graduates.</li>
+          </ul>
+        </div>
+        <div class="resume-item">
+        
+          <h5>2.⁠Physical Resources</h5>
+          
+          <ul>
+            <li>Prioritize the development of state-of-the-art facilities to accommodate new B.Tech programs in Artificial Intelligence, Data Science, and Business Management Studies.</li>
+            <li>Upgrade classrooms, labs, and libraries to create conducive learning environments.</li>
+            </ul>
+        </div>
+        <div class="resume-item">
+        
+          <h5>3.Governance</h5>
+          
+          <ul>
+            <li>Implement and optimize Enterprise Resource Planning (ERP) systems to streamline administrative processes.</li>
+            <li>Ensure the efficient use of financial resources and maintain infrastructure to support institutional goals.</li>
+            <li>Engage students, faculty, staff, alumni, and industry partners in decision-making processes to foster a collaborative governance culture.</li>
+            </ul>
+        </div>
+        <div class="resume-item">
+        
+          <h5>4.⁠Research and Development</h5>
+          
+          <ul>
+            <li>Encourage faculty and students to publish research in high-impact journals and secure grants and patents</li>
+            <li>Promote innovation and support entrepreneurial ventures among students and faculty</li>
+            <li>Build strong partnerships with industry to enhance research relevance and application.</li>
+            <li>Foster interdisciplinary research initiatives to address complex global challenges.</li>
+            </ul>
+        </div>
+        <div class="resume-item">
+        
+          <h5>5.⁠⁠Placements</h5>
+          
+          <ul>
+            <li>Develop strong ties with industry partners to ensure all graduates secure employment.</li>
+            <li>Focus on enhancing the employability of students through skill development programs to achieve better salary packages.</li>
+            </ul>
+        </div>
+      
+      </div>
+    </div>
+
+  </div>
+</section><!-- End Resume Section -->
+
+
+            </div>
+              </div>
+            </div>
+            <div class="tab-pane" id="tab-3">
+              <div class="row">
+                <div class="col-lg-12 details order-2 order-lg-1">
+                  
+<!-- ======= Resume Section ======= -->
+<section id="resume" class="resume">
+  <div class="container">
+
+
+
+    <div class="row">
+      <div class="col-lg-12" data-aos="fade-up" data-aos-delay="100">
+        <h3 class="resume-title"></h3>
+        <div class="resume-item">
+          <h4></h4>
+          <h5>Stella Mary's College of Engineering, committed to imparting technical education, creating technocrats strives to achieve the institution's goal by:</h5>
+          <ul>
+            <li>Focusing on the overall development of the students in strengthening their leadership skills.</li>
+            <li>Building an environment that is conducive for effective teaching, learning and research.</li>
+            <li>Improving the job prospects of students incorporating value-added programmes to the curriculum.</li>
+            <li>Periodically assessing the effectiveness of the programmes offered at the institute and responding positively to the needs of the industry.</li>
+            <li>Contributing effectively to the growth of the nation, by exposing the students to demonstrate their entrepreneurship skills.</li>
+            <li>Adopting the best practices for quality improvement that continuously benchmarks the institution against premier institutions.</li>
+          </ul>
+        </div>
       </div>
     </div>
 
@@ -849,7 +964,31 @@
                           <h3><a href="">2022-23 Even</a></h3>
                         </div>
                       </div>-->
-
+                      <ol></ol>
+                      <div class="section-title" data-aos="fade-up">
+                      <h2>ISO Certification</h2>
+                      <!--<p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>-->
+                    </div>
+            
+                    <div class="row d-flex justify-content-center" data-aos="fade-up" data-aos-delay="300">
+                      <div class="col-lg-3 col-md-4">
+                        <div class="icon-box">
+                          <i class="ri-file-list-3-line" style="color: #ffbb2c;"></i>
+                          <h3><a href="https://webdocs.pages.dev/assets/docs/iqac/iso/QMS.pdf" target="_blank" >ISO 9001:2015</a></h3>
+                        </div>
+                      </div>
+                      <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                        <div class="icon-box">
+                          <i class="ri-file-list-3-line" style="color: #5578ff;"></i>
+                          <h3><a href="https://webdocs.pages.dev/assets/docs/iqac/iso/ENMS.pdf" target="_blank" >ISO 14001:2015</a></h3>
+                        </div>
+                      </div>
+                      <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+                        <div class="icon-box">
+                          <i class="ri-file-list-3-line" style="color: #bf78ff;"></i>
+                          <h3><a href="https://webdocs.pages.dev/assets/docs/iqac/iso/EMS.pdf" target="_blank" >ISO 15001:2018</a></h3>
+                        </div>
+                      </div>
                     </div>
             
                   </div>
@@ -885,7 +1024,7 @@
                         <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                           <div class="icon-box">
                             <i class="ri-file-list-3-line" style="color: #5578ff;"></i>
-                            <h3><a href="">NAAC AQAR 2022</a></h3>
+                            <h3><a href="https://webdocs.pages.dev/assets/docs/iqac/naac/2022-23/AQAR%202022-23.pdf">AQAR 2022-23</a></h3>
                           </div>
                         </div>
                         <!--<div class="col-lg-3 col-md-4 mt-4 mt-md-0">
@@ -1222,22 +1361,7 @@
 
     <div class="row">
       <div class="col-lg-12" data-aos="fade-up">
-        <!--<div class="resume-item pb-1">
-          <h4>Vision</h4>
-          <ul>
-            <li>To emerge as a premiere institution, acknowledged as a center for excellence imparting technical education, creating technocrats who can address the needs of the society through exploration and experimentation and uplift mankind.</li>
-          </ul>
-          <br>
-        </div>
-
-        <div class="resume-item pb-1">
-          <h4>Mission</h4>
-          <ul>
-            <li>To provide an education that transforms students, through rigorous course-work and by providing an understanding of the needs of the society and the industry.</li>
-          </ul>
-          <p><em>Stella Mary’s college of Engineering provides abroad job opportunities to the candidates who deserve the offer. The management is very much keen in imparting an internationally graded technical education to the students. Our institution is located in a rural area. Many of our students are from villages. Many students belong to first graduate category. Taking this into account, our college gives more importance to enhance the skills of the students to face the global challenges. With regard to this, the institution provides</em></p>
-                
-        </div>-->
+     
         <div class="resume-item pb-2">
           
           <ul>

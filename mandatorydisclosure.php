@@ -294,7 +294,7 @@
               <div class="col-md-7 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-journal-richtext"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/office/AdminManual/admin-manual.pdf">Admin Manual</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/office/AdminManual/admin-manual.pdf" target="_blank" >Admin Manual</a></h4>
                   </div>
             </div>
           </div>
@@ -311,7 +311,7 @@
               <div class="col-md-7 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-journal-richtext"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/office/CollegeProfile/college-profile.pdf">College Profile</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/office/CollegeProfile/college-profile.pdf" target="_blank" >College Profile</a></h4>
                   </div>
               </div>
             </div>
@@ -329,7 +329,7 @@
               <div class="col-md-7 col-lg-5 d-flex align-items-center mb-5 mb-lg-0">
                 <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon"><i class="bx bi-journal-richtext"></i></div>
-                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/office/PolicyDoc/POLICY-DOCUMENT-SMCE.pdf">Policy Doccument</a></h4>
+                  <h4 class="title"><a href="https://webdocs.pages.dev/assets/docs/office/PolicyDoc/POLICY-DOCUMENT-SMCE.pdf" target="_blank" >Policy Doccument</a></h4>
                   </div>
               </div>
             </div>
@@ -435,73 +435,73 @@
                             <div class="col-lg-3 col-md-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #ffbb2c;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2023-24.pdf">Affiliarion Order 2023-24</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2023-24.pdf" target="_blank" >Affiliarion Order 2023-24</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #5578ff;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2022-23.pdf">Affiliarion Order 2022-23</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2022-23.pdf" target="_blank" >Affiliarion Order 2022-23</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #e80368;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2021-22.pdf">Affiliarion Order 2021-22</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2021-22.pdf" target="_blank" >Affiliarion Order 2021-22</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #e361ff;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2020-21.pdf">Affiliarion Order 2020-21</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2020-21.pdf" target="_blank" >Affiliarion Order 2020-21</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #47aeff;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2019-20.pdf">Affiliarion Order 2019-20</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2019-20.pdf" target="_blank" >Affiliarion Order 2019-20</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #ffa76e;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2018-19.pdf">Affiliarion Order 2018-19</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2018-19.pdf" target="_blank" >Affiliarion Order 2018-19</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #11dbcf;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2017-18.pdf">Affiliarion Order 2017-18</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2017-18.pdf" target="_blank" >Affiliarion Order 2017-18</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #4233ff;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2016-17.pdf">Affiliarion Order 2016-17</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2016-17.pdf" target="_blank" >Affiliarion Order 2016-17</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #b2904f;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2015-16.pdf">Affiliarion Order 2015-16</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2015-16.pdf" target="_blank" >Affiliarion Order 2015-16</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #b20969;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2014-15.pdf">Affiliarion Order 2014-15</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2014-15.pdf" target="_blank" >Affiliarion Order 2014-15</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #ff5828;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2013-14.pdf">Affiliarion Order 2013-14</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2013-14.pdf" target="_blank" >Affiliarion Order 2013-14</a></h3>
                               </div>
                             </div>
                             <div class="col-lg-3 col-md-4 mt-4">
                               <div class="icon-box">
                                 <i class="ri-calendar-todo-line" style="color: #29cc61;"></i>
-                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2012-13.pdf">Affiliarion Order 2012-13</a></h3>
+                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AnnaUnivApproval/2012-13.pdf" target="_blank" >Affiliarion Order 2012-13</a></h3>
                               </div>
                             </div>
                           </div>
@@ -524,50 +524,50 @@
                                     <div class="col-lg-3 col-md-4">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #ffbb2c;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2023-24.PDF">AICTE Approval Order 2023-24</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2023-24.PDF" target="_blank" >AICTE Approval Order 2023-24</a></h3>
                                       </div>
                                     </div>
                                     
                                     <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #5578ff;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2022-23.PDF">AICTE Approval Order 2022-23</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2022-23.PDF" target="_blank" >AICTE Approval Order 2022-23</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #e80368;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2021-22.PDF">AICTE Approval Order 2021-22</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2021-22.PDF" target="_blank" >AICTE Approval Order 2021-22</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #e361ff;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2020-21.PDF">AICTE Approval Order 2020-21</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2020-21.PDF" target="_blank" >AICTE Approval Order 2020-21</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #47aeff;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2019-20.pdf">AICTE Approval Order 2019-20</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2019-20.pdf" target="_blank" >AICTE Approval Order 2019-20</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #ffa76e;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2018-19.pdf">AICTE Approval Order 2018-19</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2018-19.pdf" target="_blank" >AICTE Approval Order 2018-19</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #11dbcf;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2017-18.pdf">AICTE Approval Order 2017-18</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2017-18.pdf" target="_blank" >AICTE Approval Order 2017-18</a></h3>
                                       </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 mt-4">
                                       <div class="icon-box">
                                         <i class="ri-file-list-3-line" style="color: #4233ff;"></i>
-                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2016-17.pdf">AICTE Approval Order 2016-17</a></h3>
+                                        <h3><a href="https://webdocs.pages.dev/assets/docs/office/AICTEApproval/2016-17.pdf" target="_blank" >AICTE Approval Order 2016-17</a></h3>
                                       </div>
                                     </div>
                                   </div>
@@ -589,37 +589,37 @@
                                             <div class="col-lg-3 col-md-4">
                                               <div class="icon-box">
                                                 <i class="ri-calendar-todo-line" style="color: #ffbb2c;"></i>
-                                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AuditReport/19-20.pdf">Audit Report 2019-20</a></h3>
+                                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AuditReport/19-20.pdf" target="_blank" >Audit Report 2019-20</a></h3>
                                               </div>
                                             </div>
                                             <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                                               <div class="icon-box">
                                                 <i class="ri-calendar-todo-line" style="color: #5578ff;"></i>
-                                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AuditReport/18-19.pdf">Audit Report 2018-19</a></h3>
+                                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AuditReport/18-19.pdf" target="_blank" >Audit Report 2018-19</a></h3>
                                               </div>
                                             </div>
                                             <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
                                               <div class="icon-box">
                                                 <i class="ri-calendar-todo-line" style="color: #e80368;"></i>
-                                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AuditReport/17-18.pdf">Audit Report 2017-18</a></h3>
+                                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AuditReport/17-18.pdf" target="_blank" >Audit Report 2017-18</a></h3>
                                               </div>
                                             </div>
                                             <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
                                               <div class="icon-box">
                                                 <i class="ri-calendar-todo-line" style="color: #e361ff;"></i>
-                                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AuditReport/16-17.pdf">Audit Report 2016-17</a></h3>
+                                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AuditReport/16-17.pdf" target="_blank" >Audit Report 2016-17</a></h3>
                                               </div>
                                             </div>
                                             <div class="col-lg-3 col-md-4 mt-4">
                                               <div class="icon-box">
                                                 <i class="ri-calendar-todo-line" style="color: #47aeff;"></i>
-                                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AuditReport/15-16.pdf">Audit Report 2015-16</a></h3>
+                                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AuditReport/15-16.pdf" target="_blank" >Audit Report 2015-16</a></h3>
                                               </div>
                                             </div>
                                             <div class="col-lg-3 col-md-4 mt-4">
                                               <div class="icon-box">
                                                 <i class="ri-calendar-todo-line" style="color: #ffa76e;"></i>
-                                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AuditReport/14-15.pdf">Audit Report 2014-15</a></h3>
+                                                <h3><a href="https://webdocs.pages.dev/assets/docs/office/AuditReport/14-15.pdf" target="_blank" >Audit Report 2014-15</a></h3>
                                               </div>
                                             </div>                                 
                                         </div>

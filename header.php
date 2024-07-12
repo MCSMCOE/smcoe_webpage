@@ -9,7 +9,7 @@
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
+          <li><a href="index.php">Home</a></li>
           <li class="dropdown"><a href="#"><span>About Us</span> <i class="bi bi-chevron-right"></i></a>
             <ul>
               <li><a href="Management.php">Management</a></li>
@@ -97,7 +97,7 @@
               <li><a href="https://forms.gle/pnodnQCH6yVAKiD19">Career @ SMCE</a></li> 
             </ul>
           </li>
-          <li><a class="nav-link scrollto" href="mandatorydisclosure.php">Mandatory Disclosure</a></li>
+          <li><a class="nav-link scrollto active" href="mandatorydisclosure.php">Mandatory Disclosure</a></li>
           <li><a class="getstarted scrollto" href="https://camps.stellamaryscoe.edu.in/CAMPS/applications/application_register.jsp">Admission</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
