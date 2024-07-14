@@ -39,14 +39,14 @@
               </li>
               <!--<li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-3">Student Members</a>
-              </li>
+              </li>-->
               <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-4">YUKTI</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-5">FINE ARTS</a>
               </li>
-              <li class="nav-item">
+              <!--<li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-6">Syllabus</a>
               </li>
               <li class="nav-item">
