@@ -101,7 +101,8 @@
                 <h4 class="title"><a href="">MISSION</a></h4>
                 <li class="text-justify">To Cultivate a vibrant learning environment where students delve into the frontiers of technical knowledge, hone their problem-solving skills, and embrace innovation to transform ideas into solutions that address global challenges.</li>
               <li class="text-justify">To bridge the gap between technical brilliance and real-world impact by forging strong industry partnerships, fostering cutting-edge research, and nurturing entrepreneurial drive in our students, empowering them to build a better future through technology.</li>
-              <li class="text-justify">To ignite the spark of intellectual curiosity within every student, equip them with the tools and knowledge to become pioneers in their chosen fields, and guide them towards ethical and responsible use of technology for the betterment of humanity.</li>
+              <li class="text-justify">To ignite the spark of intellectual curiosity within every student, equip them with the tools and knowledge.</li>
+            <li class="text-justify">To become pioneers in their chosen fields, and guide them towards ethical and responsible use of technology for the betterment of humanity.</li>
             </div>
             </div>
   
