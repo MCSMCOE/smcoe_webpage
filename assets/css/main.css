@@ -997,7 +997,7 @@
   .contact .php-email-form .error-message {
     display: none;
     color: #fff;
-    background: #df1529;
+    background: #02fd63;
     text-align: left;
     padding: 15px;
     font-weight: 600;
@@ -1010,7 +1010,7 @@
   .contact .php-email-form .sent-message {
     display: none;
     color: #fff;
-    background: var(--color-primary);
+    background: #02fd63;
     text-align: center;
     padding: 15px;
     font-weight: 600;
@@ -1064,7 +1064,7 @@
   }
   
   .contact .php-email-form button[type=submit]:hover {
-    background: rgba(39, 167, 118, 0.8);
+    background: rgba(4, 255, 104, 0.8);
   }
   
   @keyframes animate-loading {
